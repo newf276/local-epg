@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv><channel id="63da370e2e477400081cf8b6">
+<tv><channel id="6536725167bd1a00084481bc">
+    <display-name>CBC News</display-name>
+    <icon src="https://images.pluto.tv/channels/6536725167bd1a00084481bc/colorLogoPNG_1731835269288.png" />
+  </channel>
+  <channel id="63da370e2e477400081cf8b6">
     <display-name>The Weather Network</display-name>
     <icon src="https://images.pluto.tv/channels/63da370e2e477400081cf8b6/colorLogoPNG.png" />
   </channel>
@@ -1404,6 +1408,210 @@
     <icon src="https://images.pluto.tv/series/666181aac0b6d50014e45c22/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">666181aac0b6d50014e45c22</series-id>
+    <category>News</category>
+    <category>News &amp; Information</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6536725167bd1a00084481bc" start="20250404163000 +0000" stop="20250404200000 +0000">
+    <title>Today's Top Stories</title>
+    <live />
+    <episode-num system="original-air-date">20250404163000 +0000</episode-num>
+    <desc>What's happening across Canada and around the world.</desc>
+    <icon src="https://images.pluto.tv/series/67213f9d61f27a00137db248/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">67213f9d61f27a00137db248</series-id>
+    <category>News</category>
+    <category>News &amp; Information</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6536725167bd1a00084481bc" start="20250404200000 +0000" stop="20250404203000 +0000">
+    <title>About That</title>
+    <live />
+    <episode-num system="original-air-date">20250404200000 +0000</episode-num>
+    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
+    <icon src="https://images.pluto.tv/series/670550257dcabd0013116e26/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">670550257dcabd0013116e26</series-id>
+    <category>News</category>
+    <category>News &amp; Information</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6536725167bd1a00084481bc" start="20250404203000 +0000" stop="20250404230000 +0000">
+    <title>Today's Top Stories</title>
+    <live />
+    <episode-num system="original-air-date">20250404203000 +0000</episode-num>
+    <desc>What's happening across Canada and around the world.</desc>
+    <icon src="https://images.pluto.tv/series/67213f9d61f27a00137db248/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">67213f9d61f27a00137db248</series-id>
+    <category>News</category>
+    <category>News &amp; Information</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6536725167bd1a00084481bc" start="20250404230000 +0000" stop="20250404233000 +0000">
+    <title>About That</title>
+    <live />
+    <episode-num system="original-air-date">20250404230000 +0000</episode-num>
+    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
+    <icon src="https://images.pluto.tv/series/670550257dcabd0013116e26/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">670550257dcabd0013116e26</series-id>
+    <category>News</category>
+    <category>News &amp; Information</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6536725167bd1a00084481bc" start="20250404233000 +0000" stop="20250405000000 +0000">
+    <title>Today's Top Stories</title>
+    <live />
+    <episode-num system="original-air-date">20250404233000 +0000</episode-num>
+    <desc>What's happening across Canada and around the world.</desc>
+    <icon src="https://images.pluto.tv/series/67213f9d61f27a00137db248/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">67213f9d61f27a00137db248</series-id>
+    <category>News</category>
+    <category>News &amp; Information</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6536725167bd1a00084481bc" start="20250405000000 +0000" stop="20250405010000 +0000">
+    <title>Today's Top Stories</title>
+    <live />
+    <episode-num system="original-air-date">20250405000000 +0000</episode-num>
+    <desc>What's happening across Canada and around the world.</desc>
+    <icon src="https://images.pluto.tv/series/67213f9d61f27a00137db248/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">67213f9d61f27a00137db248</series-id>
+    <category>News</category>
+    <category>News &amp; Information</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6536725167bd1a00084481bc" start="20250405010000 +0000" stop="20250405020000 +0000">
+    <title>The National</title>
+    <live />
+    <episode-num system="original-air-date">20250405010000 +0000</episode-num>
+    <desc>CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.</desc>
+    <icon src="https://images.pluto.tv/series/670550257dcabd0013116dd2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">670550257dcabd0013116dd2</series-id>
+    <category>News</category>
+    <category>News &amp; Information</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6536725167bd1a00084481bc" start="20250405020000 +0000" stop="20250405030000 +0000">
+    <title>The National</title>
+    <live />
+    <episode-num system="original-air-date">20250405020000 +0000</episode-num>
+    <desc>CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.</desc>
+    <icon src="https://images.pluto.tv/series/670550257dcabd0013116dd2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">670550257dcabd0013116dd2</series-id>
+    <category>News</category>
+    <category>News &amp; Information</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6536725167bd1a00084481bc" start="20250405030000 +0000" stop="20250405040000 +0000">
+    <title>The National</title>
+    <live />
+    <episode-num system="original-air-date">20250405030000 +0000</episode-num>
+    <desc>CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.</desc>
+    <icon src="https://images.pluto.tv/series/670550257dcabd0013116dd2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">670550257dcabd0013116dd2</series-id>
+    <category>News</category>
+    <category>News &amp; Information</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6536725167bd1a00084481bc" start="20250405040000 +0000" stop="20250405050000 +0000">
+    <title>The National</title>
+    <live />
+    <episode-num system="original-air-date">20250405040000 +0000</episode-num>
+    <desc>CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.</desc>
+    <icon src="https://images.pluto.tv/series/670550257dcabd0013116dd2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">670550257dcabd0013116dd2</series-id>
+    <category>News</category>
+    <category>News &amp; Information</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6536725167bd1a00084481bc" start="20250405050000 +0000" stop="20250405060000 +0000">
+    <title>The National</title>
+    <live />
+    <episode-num system="original-air-date">20250405050000 +0000</episode-num>
+    <desc>CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.</desc>
+    <icon src="https://images.pluto.tv/series/670550257dcabd0013116dd2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">670550257dcabd0013116dd2</series-id>
+    <category>News</category>
+    <category>News &amp; Information</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6536725167bd1a00084481bc" start="20250405060000 +0000" stop="20250405070000 +0000">
+    <title>The National</title>
+    <live />
+    <episode-num system="original-air-date">20250405060000 +0000</episode-num>
+    <desc>CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.</desc>
+    <icon src="https://images.pluto.tv/series/670550257dcabd0013116dd2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">670550257dcabd0013116dd2</series-id>
+    <category>News</category>
+    <category>News &amp; Information</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6536725167bd1a00084481bc" start="20250405070000 +0000" stop="20250405080000 +0000">
+    <title>The National</title>
+    <live />
+    <episode-num system="original-air-date">20250405070000 +0000</episode-num>
+    <desc>CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.</desc>
+    <icon src="https://images.pluto.tv/series/670550257dcabd0013116dd2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">670550257dcabd0013116dd2</series-id>
+    <category>News</category>
+    <category>News &amp; Information</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6536725167bd1a00084481bc" start="20250405080000 +0000" stop="20250405090000 +0000">
+    <title>The National</title>
+    <live />
+    <episode-num system="original-air-date">20250405080000 +0000</episode-num>
+    <desc>CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.</desc>
+    <icon src="https://images.pluto.tv/series/670550257dcabd0013116dd2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">670550257dcabd0013116dd2</series-id>
+    <category>News</category>
+    <category>News &amp; Information</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6536725167bd1a00084481bc" start="20250405090000 +0000" stop="20250405100000 +0000">
+    <title>The National</title>
+    <live />
+    <episode-num system="original-air-date">20250405090000 +0000</episode-num>
+    <desc>CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.</desc>
+    <icon src="https://images.pluto.tv/series/670550257dcabd0013116dd2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">670550257dcabd0013116dd2</series-id>
+    <category>News</category>
+    <category>News &amp; Information</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6536725167bd1a00084481bc" start="20250405100000 +0000" stop="20250405110000 +0000">
+    <title>The National</title>
+    <live />
+    <episode-num system="original-air-date">20250405100000 +0000</episode-num>
+    <desc>CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.</desc>
+    <icon src="https://images.pluto.tv/series/670550257dcabd0013116dd2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">670550257dcabd0013116dd2</series-id>
+    <category>News</category>
+    <category>News &amp; Information</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6536725167bd1a00084481bc" start="20250405110000 +0000" stop="20250405120000 +0000">
+    <title>The National</title>
+    <live />
+    <episode-num system="original-air-date">20250405110000 +0000</episode-num>
+    <desc>CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.</desc>
+    <icon src="https://images.pluto.tv/series/670550257dcabd0013116dd2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">670550257dcabd0013116dd2</series-id>
     <category>News</category>
     <category>News &amp; Information</category>
     <category>Series</category>
@@ -3518,11 +3726,6 @@
     <display-name>CBC News Ottawa</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA46000149D_20250401T004729SQUARE.png" />
   </channel>
-  <programme channel="CABC2300009KD" start="20250404233000 +0000" stop="20250405000000 +0000">
-    <title>Today's Top Stories</title>
-    <desc>What's happening across Canada and around the world.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_549952184_0_20241029T142625607Z_36_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg" />
-  </programme>
   <programme channel="CABC2300009KD" start="20250405000000 +0000" stop="20250405010000 +0000">
     <title>Today's Top Stories</title>
     <desc>What's happening across Canada and around the world.</desc>
@@ -3553,15 +3756,10 @@
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
-  <programme channel="CA15000018F" start="20250404230000 +0000" stop="20250405000000 +0000">
-    <title>On The Coast</title>
-    <desc>The news of the day, in-depth analysis, a showcase of the arts, and ideas about what to do in Metro Vancouver.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542759660_0_20240603T112704845Z_54.jpeg" />
-  </programme>
-  <programme channel="CA15000018F" start="20250405000000 +0000" stop="20250405003000 +0000">
-    <title>About That</title>
-    <desc>Andrew Chang expands our understanding of the stories everybody's talking about.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515038_0_20240529T053048695Z_102.jpeg" />
+  <programme channel="CABC2300009KD" start="20250405060000 +0000" stop="20250405070000 +0000">
+    <title>The National</title>
+    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
   <programme channel="CA15000018F" start="20250405003000 +0000" stop="20250405010000 +0000">
     <title>The Breakdown</title>
@@ -3593,15 +3791,10 @@
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
-  <programme channel="CA4600008AI" start="20250404233000 +0000" stop="20250405000000 +0000">
-    <title>The Breakdown</title>
-    <desc>Make sense of your world with original reporting that breaks down the world's biggest news stories.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542759671_0_20240603T112659311Z_21.jpeg" />
-  </programme>
-  <programme channel="CA4600008AI" start="20250405000000 +0000" stop="20250405003000 +0000">
-    <title>CBC Edmonton News</title>
-    <desc>The stories and newsmakers that matter most to you.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925922_0_20241213T120007872Z_18_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
+  <programme channel="CA15000018F" start="20250405060000 +0000" stop="20250405063000 +0000">
+    <title>CBC Vancouver News</title>
+    <desc>Local, national and international news, weather and investigative reports.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542759669_0_20240603T112700837Z_44.jpeg" />
   </programme>
   <programme channel="CA4600008AI" start="20250405003000 +0000" stop="20250405010000 +0000">
     <title>CBC Edmonton News</title>
@@ -3648,15 +3841,15 @@
     <desc>The stories and newsmakers that matter most to you.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925922_0_20241213T120007872Z_18_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
   </programme>
-  <programme channel="CA4600006DO" start="20250404233000 +0000" stop="20250405000000 +0000">
-    <title>CBC New Brunswick News</title>
-    <desc>The news, weather and stories that matter to New Brunswickers.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554405889_0_20241217T114622203Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
+  <programme channel="CA4600008AI" start="20250405053000 +0000" stop="20250405060000 +0000">
+    <title>CBC Edmonton News</title>
+    <desc>The stories and newsmakers that matter most to you.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925922_0_20241213T120007872Z_18_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
   </programme>
-  <programme channel="CA4600006DO" start="20250405000000 +0000" stop="20250405003000 +0000">
-    <title>CBC New Brunswick News</title>
-    <desc>The news, weather and stories that matter to New Brunswickers.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554405889_0_20241217T114622203Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
+  <programme channel="CA4600008AI" start="20250405060000 +0000" stop="20250405070000 +0000">
+    <title>The National</title>
+    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
   <programme channel="CA4600006DO" start="20250405003000 +0000" stop="20250405010000 +0000">
     <title>CBC New Brunswick News</title>
@@ -3698,10 +3891,10 @@
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
-  <programme channel="CA4600003GV" start="20250404233000 +0000" stop="20250405003000 +0000">
-    <title>CBC News Here and Now</title>
-    <desc>Carolyn Stokes and Ashley Brauweiler deliver a complete package of local news and weather.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186123_0_20241217T103439666Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
+  <programme channel="CA4600006DO" start="20250405060000 +0000" stop="20250405063000 +0000">
+    <title>CBC News New Brunswick</title>
+    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_571187584_0_20241220T212226055Z_105_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg" />
   </programme>
   <programme channel="CA4600003GV" start="20250405003000 +0000" stop="20250405010000 +0000">
     <title>About That</title>
@@ -3743,10 +3936,10 @@
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
-  <programme channel="CA4600007UE" start="20250404230000 +0000" stop="20250405000000 +0000">
-    <title>CBC Nova Scotia News</title>
-    <desc>Tom Murphy and Amy Smith bring Nova Scotians news and weather every weeknight.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_558093600_0_20241218T055251911Z_34_imageprocessorclient-tvplus-linear-5dc4fd45f6-ftks4.jpeg" />
+  <programme channel="CA4600003GV" start="20250405060000 +0000" stop="20250405063000 +0000">
+    <title>CBC News NL</title>
+    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
   <programme channel="CA4600007UE" start="20250405000000 +0000" stop="20250405010000 +0000">
     <title>CBC Nova Scotia News</title>
@@ -3788,10 +3981,10 @@
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
-  <programme channel="CA46000149D" start="20250404230000 +0000" stop="20250405000000 +0000">
-    <title>CBC Ottawa News</title>
-    <desc>Coverage of the day's top local news and developing stories that matter to Canadians.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186128_0_20241217T103439264Z_121_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
+  <programme channel="CA4600007UE" start="20250405060000 +0000" stop="20250405063000 +0000">
+    <title>CBC News Nova Scotia</title>
+    <desc>Late night news show with top stories of the day</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_558093601_0_20241218T055251911Z_90_imageprocessorclient-tvplus-linear-5dc4fd45f6-ftks4.jpeg" />
   </programme>
   <programme channel="CA46000149D" start="20250405000000 +0000" stop="20250405010000 +0000">
     <title>CBC Ottawa News</title>
@@ -3827,5 +4020,10 @@
     <title>The National</title>
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
+  </programme>
+  <programme channel="CA46000149D" start="20250405060000 +0000" stop="20250405063000 +0000">
+    <title>CBC Ottawa News</title>
+    <desc>Coverage of the day's top local news and developing stories that matter to Canadians.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186128_0_20241217T103439264Z_121_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
   </tv>
