@@ -14,6 +14,6 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           repository: ${{ github.repository }}
-          retain_days: 7
-          keep_minimum_runs: 7
+          retain_days: 2
+          keep_minimum_runs: 3
           delete_run_by_conclusion: success
