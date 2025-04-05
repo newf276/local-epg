@@ -23,29 +23,6 @@
     <display-name>Global News Halifax</display-name>
     <icon src="https://images.pluto.tv/channels/62cbf398b8e02600071deda5/colorLogoPNG.png" />
   </channel>
-  <programme channel="66df8a29b25d2b0008fc5fe0" start="20250405062100 +0000" stop="20250405072800 +0000">
-    <title>Qatar - Pearls in the Sand</title>
-    <live />
-    <episode-num system="original-air-date">20250405062100 +0000</episode-num>
-    <desc>Exploring Qatar's untamed wilderness, unique wildlife and human innovations.</desc>
-    <icon src="https://images.pluto.tv/series/67401e68a7fde500137fd38e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">67401e68a7fde500137fd38e</series-id>
-    <category>Documentary</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="66df8a29b25d2b0008fc5fe0" start="20250405072800 +0000" stop="20250405082800 +0000">
-    <title>Hotspots</title>
-    <live />
-    <episode-num system="original-air-date">20250405072800 +0000</episode-num>
-    <desc>Climbing up into the cloud forest and peeking inside a waypoint for migrating birds.</desc>
-    <icon src="https://images.pluto.tv/series/673be3844ad85600135fe03c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">673be3844ad85600135fe03c</series-id>
-    <sub-title>Costa Rica</sub-title>
-    <category>Documentary</category>
-    <category>Series</category>
-  </programme>
   <programme channel="66df8a29b25d2b0008fc5fe0" start="20250405082800 +0000" stop="20250405093000 +0000">
     <title>Alien Abyss</title>
     <live />
@@ -55,8 +32,8 @@
     <date>19700101</date>
     <series-id system="pluto">673be37d4ad85600135fda35</series-id>
     <sub-title>Allies and Adversaries</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme channel="66df8a29b25d2b0008fc5fe0" start="20250405093000 +0000" stop="20250405100000 +0000">
     <title>Wild Wild East</title>
@@ -67,8 +44,8 @@
     <date>19700101</date>
     <series-id system="pluto">673be39a4ad85600135ff8a6</series-id>
     <sub-title>Foxes</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme channel="66df8a29b25d2b0008fc5fe0" start="20250405100000 +0000" stop="20250405105900 +0000">
     <title>Volcanic Odysseys</title>
@@ -79,8 +56,8 @@
     <date>19700101</date>
     <series-id system="pluto">67e1a547fdba35b58325e058</series-id>
     <sub-title>In the Path of a Volcano</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme channel="66df8a29b25d2b0008fc5fe0" start="20250405105900 +0000" stop="20250405120100 +0000">
     <title>Wild Korea</title>
@@ -91,8 +68,8 @@
     <date>19700101</date>
     <series-id system="pluto">673be37f4ad85600135fdbbc</series-id>
     <sub-title>Beyond Borders</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme channel="66df8a29b25d2b0008fc5fe0" start="20250405120100 +0000" stop="20250405130400 +0000">
     <title>High Life at Low Temperatures</title>
@@ -102,8 +79,8 @@
     <icon src="https://images.pluto.tv/series/674412c071cc440013ae77eb/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">674412c071cc440013ae77eb</series-id>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme channel="66df8a29b25d2b0008fc5fe0" start="20250405130400 +0000" stop="20250405140400 +0000">
     <title>Wildlife Icons</title>
@@ -114,8 +91,8 @@
     <date>19700101</date>
     <series-id system="pluto">673be3804ad85600135fdc56</series-id>
     <sub-title>Fantastic Frogs</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme channel="66df8a29b25d2b0008fc5fe0" start="20250405140400 +0000" stop="20250405150600 +0000">
     <title>Shadowlands</title>
@@ -126,8 +103,8 @@
     <date>19700101</date>
     <series-id system="pluto">673be37e4ad85600135fda8e</series-id>
     <sub-title>Life in Dark Water</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme channel="66df8a29b25d2b0008fc5fe0" start="20250405150600 +0000" stop="20250405160600 +0000">
     <title>Volcanic Odysseys</title>
@@ -138,8 +115,8 @@
     <date>19700101</date>
     <series-id system="pluto">67e1a547fdba35b58325e058</series-id>
     <sub-title>Restless Giants</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme channel="66df8a29b25d2b0008fc5fe0" start="20250405160600 +0000" stop="20250405170800 +0000">
     <title>Wild Korea</title>
@@ -150,8 +127,8 @@
     <date>19700101</date>
     <series-id system="pluto">673be37f4ad85600135fdbbc</series-id>
     <sub-title>Voice of Nature</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme channel="66df8a29b25d2b0008fc5fe0" start="20250405170800 +0000" stop="20250405180600 +0000">
     <title>Land of Gremlins</title>
@@ -162,8 +139,8 @@
     <date>19700101</date>
     <series-id system="pluto">673be3804ad85600135fdbe9</series-id>
     <sub-title>Lemur Spirit</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme channel="66df8a29b25d2b0008fc5fe0" start="20250405180600 +0000" stop="20250405190400 +0000">
     <title>Land of Gremlins</title>
@@ -174,8 +151,8 @@
     <date>19700101</date>
     <series-id system="pluto">673be3804ad85600135fdbe9</series-id>
     <sub-title>Castaway Island</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme channel="66df8a29b25d2b0008fc5fe0" start="20250405190400 +0000" stop="20250405200800 +0000">
     <title>Webs &amp; Wings: Nature's Tiny Ballet</title>
@@ -186,8 +163,8 @@
     <date>19700101</date>
     <series-id system="pluto">67e6576ee680c6d5f658e3c8</series-id>
     <sub-title>A Spider's Tale</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme channel="66df8a29b25d2b0008fc5fe0" start="20250405200800 +0000" stop="20250405211100 +0000">
     <title>Wild Austria: Created by Water</title>
@@ -198,8 +175,8 @@
     <date>19700101</date>
     <series-id system="pluto">673be37f4ad85600135fdb62</series-id>
     <sub-title>The Flow of Time</sub-title>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme channel="66df8a29b25d2b0008fc5fe0" start="20250405211100 +0000" stop="20250405221300 +0000">
     <title>Going Nuts: Tales From the Squirrel World</title>
@@ -209,8 +186,8 @@
     <icon src="https://images.pluto.tv/series/67e6576ee680c6d5f658e41f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">67e6576ee680c6d5f658e41f</series-id>
-    <category>Documentary</category>
     <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme channel="66df8a29b25d2b0008fc5fe0" start="20250405221300 +0000" stop="20250405231500 +0000">
     <title>Alien Abyss</title>
@@ -221,52 +198,32 @@
     <date>19700101</date>
     <series-id system="pluto">673be37d4ad85600135fda35</series-id>
     <sub-title>The Next Generation</sub-title>
+    <category>Series</category>
     <category>Documentary</category>
-    <category>Series</category>
   </programme>
-  <programme channel="62cbf063257170000724590c" start="20250405070000 +0000" stop="20250405073000 +0000">
-    <title>Global News BC</title>
+  <programme channel="66df8a29b25d2b0008fc5fe0" start="20250405231500 +0000" stop="20250406001700 +0000">
+    <title>The Canary Islands</title>
     <live />
-    <episode-num system="original-air-date">20250405070000 +0000</episode-num>
-    <desc>British Colombia’s local news and weather along with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250405231500 +0000</episode-num>
+    <desc>Discovering the wildlife and flora that call the Canary Islands home; how life on these remote landmasses have led to some unique evolutionary traits.</desc>
+    <icon src="https://images.pluto.tv/series/67401e66a7fde500137fd23f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
+    <series-id system="pluto">67401e66a7fde500137fd23f</series-id>
+    <sub-title>Life at the Limit</sub-title>
     <category>Series</category>
-    <category>News &amp; Information</category>
+    <category>Documentary</category>
   </programme>
-  <programme channel="62cbf063257170000724590c" start="20250405073000 +0000" stop="20250405080000 +0000">
-    <title>Global News BC</title>
+  <programme channel="66df8a29b25d2b0008fc5fe0" start="20250406001700 +0000" stop="20250406011900 +0000">
+    <title>New Kids in the Wild</title>
     <live />
-    <episode-num system="original-air-date">20250405073000 +0000</episode-num>
-    <desc>British Colombia’s local news and weather along with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250406001700 +0000</episode-num>
+    <desc>Enter Brazil's Serra da Capivara at the beginning of the dry season as a troop of capuchin monkeys welcomes its newest member; explore the forest alongside the curious baby, who faces threats from predators, food shortages, and even the wild climate.</desc>
+    <icon src="https://images.pluto.tv/series/673be38a4ad85600135fe661/tile_1731978761317.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
+    <series-id system="pluto">673be38a4ad85600135fe661</series-id>
+    <sub-title>Chico the Baby Capuchin</sub-title>
     <category>Series</category>
-    <category>News &amp; Information</category>
-  </programme>
-  <programme channel="62cbf063257170000724590c" start="20250405080000 +0000" stop="20250405083000 +0000">
-    <title>Global News BC</title>
-    <live />
-    <episode-num system="original-air-date">20250405080000 +0000</episode-num>
-    <desc>British Colombia’s local news and weather along with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
-    <category>Series</category>
-    <category>News &amp; Information</category>
-  </programme>
-  <programme channel="62cbf063257170000724590c" start="20250405083000 +0000" stop="20250405090000 +0000">
-    <title>Global News BC</title>
-    <live />
-    <episode-num system="original-air-date">20250405083000 +0000</episode-num>
-    <desc>British Colombia’s local news and weather along with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
-    <category>Series</category>
-    <category>News &amp; Information</category>
+    <category>Documentary</category>
   </programme>
   <programme channel="62cbf063257170000724590c" start="20250405090000 +0000" stop="20250405093000 +0000">
     <title>Global News BC</title>
@@ -276,8 +233,8 @@
     <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf063257170000724590c" start="20250405093000 +0000" stop="20250405100000 +0000">
     <title>Global News BC</title>
@@ -287,8 +244,8 @@
     <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf063257170000724590c" start="20250405100000 +0000" stop="20250405103000 +0000">
     <title>Global News BC</title>
@@ -298,8 +255,8 @@
     <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf063257170000724590c" start="20250405103000 +0000" stop="20250405110000 +0000">
     <title>Global News BC</title>
@@ -309,8 +266,8 @@
     <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf063257170000724590c" start="20250405110000 +0000" stop="20250405113000 +0000">
     <title>Global News BC</title>
@@ -320,8 +277,8 @@
     <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf063257170000724590c" start="20250405113000 +0000" stop="20250405120000 +0000">
     <title>Global News BC</title>
@@ -331,8 +288,8 @@
     <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf063257170000724590c" start="20250405120000 +0000" stop="20250405123000 +0000">
     <title>Global News BC</title>
@@ -342,8 +299,8 @@
     <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf063257170000724590c" start="20250405123000 +0000" stop="20250405130000 +0000">
     <title>Global News BC</title>
@@ -353,8 +310,8 @@
     <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf063257170000724590c" start="20250405130000 +0000" stop="20250405133000 +0000">
     <title>Global News BC</title>
@@ -364,8 +321,8 @@
     <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf063257170000724590c" start="20250405133000 +0000" stop="20250405140000 +0000">
     <title>Global News BC</title>
@@ -375,8 +332,8 @@
     <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf063257170000724590c" start="20250405140000 +0000" stop="20250405143000 +0000">
     <title>Global News BC</title>
@@ -386,8 +343,8 @@
     <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf063257170000724590c" start="20250405143000 +0000" stop="20250405150000 +0000">
     <title>Global News BC</title>
@@ -397,8 +354,8 @@
     <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf063257170000724590c" start="20250405150000 +0000" stop="20250405153000 +0000">
     <title>Global News BC</title>
@@ -408,8 +365,8 @@
     <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf063257170000724590c" start="20250405153000 +0000" stop="20250405160000 +0000">
     <title>Global News BC</title>
@@ -419,8 +376,8 @@
     <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf063257170000724590c" start="20250405160000 +0000" stop="20250405163000 +0000">
     <title>Global News BC</title>
@@ -430,8 +387,8 @@
     <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf063257170000724590c" start="20250405163000 +0000" stop="20250405170000 +0000">
     <title>Global News BC</title>
@@ -441,8 +398,8 @@
     <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf063257170000724590c" start="20250405170000 +0000" stop="20250405173000 +0000">
     <title>Global News BC</title>
@@ -452,8 +409,8 @@
     <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf063257170000724590c" start="20250405173000 +0000" stop="20250405180000 +0000">
     <title>Global News BC</title>
@@ -463,8 +420,8 @@
     <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf063257170000724590c" start="20250405180000 +0000" stop="20250405183000 +0000">
     <title>Global News BC</title>
@@ -474,8 +431,8 @@
     <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf063257170000724590c" start="20250405183000 +0000" stop="20250405190000 +0000">
     <title>Global News BC</title>
@@ -485,8 +442,8 @@
     <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf063257170000724590c" start="20250405190000 +0000" stop="20250405193000 +0000">
     <title>Global News BC</title>
@@ -496,8 +453,8 @@
     <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf063257170000724590c" start="20250405193000 +0000" stop="20250405200000 +0000">
     <title>Global News BC</title>
@@ -507,8 +464,8 @@
     <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf063257170000724590c" start="20250405200000 +0000" stop="20250405203000 +0000">
     <title>Global News BC</title>
@@ -518,8 +475,8 @@
     <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf063257170000724590c" start="20250405203000 +0000" stop="20250405210000 +0000">
     <title>Global News BC</title>
@@ -529,8 +486,8 @@
     <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf063257170000724590c" start="20250405210000 +0000" stop="20250405213000 +0000">
     <title>Global News BC</title>
@@ -540,8 +497,8 @@
     <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf063257170000724590c" start="20250405213000 +0000" stop="20250405220000 +0000">
     <title>Global News BC</title>
@@ -551,8 +508,8 @@
     <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf063257170000724590c" start="20250405220000 +0000" stop="20250405223000 +0000">
     <title>Global News BC</title>
@@ -562,8 +519,8 @@
     <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf063257170000724590c" start="20250405223000 +0000" stop="20250405230000 +0000">
     <title>Global News BC</title>
@@ -573,8 +530,8 @@
     <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf063257170000724590c" start="20250405230000 +0000" stop="20250405233000 +0000">
     <title>Global News BC</title>
@@ -584,52 +541,52 @@
     <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
-  <programme channel="62cbf398b8e02600071deda5" start="20250405070000 +0000" stop="20250405073000 +0000">
-    <title>Global News Halifax</title>
+  <programme channel="62cbf063257170000724590c" start="20250405233000 +0000" stop="20250406000000 +0000">
+    <title>Global News BC</title>
     <live />
-    <episode-num system="original-air-date">20250405070000 +0000</episode-num>
-    <desc>Halifax’s daily local news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250405233000 +0000</episode-num>
+    <desc>British Colombia’s local news and weather along with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
-    <category>Series</category>
+    <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
-  <programme channel="62cbf398b8e02600071deda5" start="20250405073000 +0000" stop="20250405080000 +0000">
-    <title>Global News Halifax</title>
+  <programme channel="62cbf063257170000724590c" start="20250406000000 +0000" stop="20250406003000 +0000">
+    <title>Global News BC</title>
     <live />
-    <episode-num system="original-air-date">20250405073000 +0000</episode-num>
-    <desc>Halifax’s daily local news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250406000000 +0000</episode-num>
+    <desc>British Colombia’s local news and weather along with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
-    <category>Series</category>
+    <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
-  <programme channel="62cbf398b8e02600071deda5" start="20250405080000 +0000" stop="20250405083000 +0000">
-    <title>Global News Halifax</title>
+  <programme channel="62cbf063257170000724590c" start="20250406003000 +0000" stop="20250406010000 +0000">
+    <title>Global News BC</title>
     <live />
-    <episode-num system="original-air-date">20250405080000 +0000</episode-num>
-    <desc>Halifax’s daily local news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250406003000 +0000</episode-num>
+    <desc>British Colombia’s local news and weather along with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
-    <category>Series</category>
+    <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
-  <programme channel="62cbf398b8e02600071deda5" start="20250405083000 +0000" stop="20250405090000 +0000">
-    <title>Global News Halifax</title>
+  <programme channel="62cbf063257170000724590c" start="20250406010000 +0000" stop="20250406013000 +0000">
+    <title>Global News BC</title>
     <live />
-    <episode-num system="original-air-date">20250405083000 +0000</episode-num>
-    <desc>Halifax’s daily local news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250406010000 +0000</episode-num>
+    <desc>British Colombia’s local news and weather along with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
-    <category>Series</category>
+    <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf398b8e02600071deda5" start="20250405090000 +0000" stop="20250405093000 +0000">
     <title>Global News Halifax</title>
@@ -639,8 +596,8 @@
     <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf398b8e02600071deda5" start="20250405093000 +0000" stop="20250405100000 +0000">
     <title>Global News Halifax</title>
@@ -650,8 +607,8 @@
     <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf398b8e02600071deda5" start="20250405100000 +0000" stop="20250405103000 +0000">
     <title>Global News Halifax</title>
@@ -661,8 +618,8 @@
     <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf398b8e02600071deda5" start="20250405103000 +0000" stop="20250405110000 +0000">
     <title>Global News Halifax</title>
@@ -672,8 +629,8 @@
     <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf398b8e02600071deda5" start="20250405110000 +0000" stop="20250405113000 +0000">
     <title>Global News Halifax</title>
@@ -683,8 +640,8 @@
     <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf398b8e02600071deda5" start="20250405113000 +0000" stop="20250405120000 +0000">
     <title>Global News Halifax</title>
@@ -694,8 +651,8 @@
     <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf398b8e02600071deda5" start="20250405120000 +0000" stop="20250405123000 +0000">
     <title>Global News Halifax</title>
@@ -705,8 +662,8 @@
     <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf398b8e02600071deda5" start="20250405123000 +0000" stop="20250405130000 +0000">
     <title>Global News Halifax</title>
@@ -716,8 +673,8 @@
     <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf398b8e02600071deda5" start="20250405130000 +0000" stop="20250405133000 +0000">
     <title>Global News Halifax</title>
@@ -727,8 +684,8 @@
     <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf398b8e02600071deda5" start="20250405133000 +0000" stop="20250405140000 +0000">
     <title>Global News Halifax</title>
@@ -738,8 +695,8 @@
     <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf398b8e02600071deda5" start="20250405140000 +0000" stop="20250405143000 +0000">
     <title>Global News Halifax</title>
@@ -749,8 +706,8 @@
     <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf398b8e02600071deda5" start="20250405143000 +0000" stop="20250405150000 +0000">
     <title>Global News Halifax</title>
@@ -760,8 +717,8 @@
     <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf398b8e02600071deda5" start="20250405150000 +0000" stop="20250405153000 +0000">
     <title>Global News Halifax</title>
@@ -771,8 +728,8 @@
     <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf398b8e02600071deda5" start="20250405153000 +0000" stop="20250405160000 +0000">
     <title>Global News Halifax</title>
@@ -782,8 +739,8 @@
     <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf398b8e02600071deda5" start="20250405160000 +0000" stop="20250405163000 +0000">
     <title>Global News Halifax</title>
@@ -793,8 +750,8 @@
     <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf398b8e02600071deda5" start="20250405163000 +0000" stop="20250405170000 +0000">
     <title>Global News Halifax</title>
@@ -804,8 +761,8 @@
     <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf398b8e02600071deda5" start="20250405170000 +0000" stop="20250405173000 +0000">
     <title>Global News Halifax</title>
@@ -815,8 +772,8 @@
     <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf398b8e02600071deda5" start="20250405173000 +0000" stop="20250405180000 +0000">
     <title>Global News Halifax</title>
@@ -826,8 +783,8 @@
     <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf398b8e02600071deda5" start="20250405180000 +0000" stop="20250405183000 +0000">
     <title>Global News Halifax</title>
@@ -837,8 +794,8 @@
     <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf398b8e02600071deda5" start="20250405183000 +0000" stop="20250405190000 +0000">
     <title>Global News Halifax</title>
@@ -848,8 +805,8 @@
     <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf398b8e02600071deda5" start="20250405190000 +0000" stop="20250405193000 +0000">
     <title>Global News Halifax</title>
@@ -859,8 +816,8 @@
     <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf398b8e02600071deda5" start="20250405193000 +0000" stop="20250405200000 +0000">
     <title>Global News Halifax</title>
@@ -870,8 +827,8 @@
     <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf398b8e02600071deda5" start="20250405200000 +0000" stop="20250405203000 +0000">
     <title>Global News Halifax</title>
@@ -881,8 +838,8 @@
     <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf398b8e02600071deda5" start="20250405203000 +0000" stop="20250405210000 +0000">
     <title>Global News Halifax</title>
@@ -892,8 +849,8 @@
     <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf398b8e02600071deda5" start="20250405210000 +0000" stop="20250405213000 +0000">
     <title>Global News Halifax</title>
@@ -903,8 +860,8 @@
     <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf398b8e02600071deda5" start="20250405213000 +0000" stop="20250405220000 +0000">
     <title>Global News Halifax</title>
@@ -914,8 +871,8 @@
     <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf398b8e02600071deda5" start="20250405220000 +0000" stop="20250405223000 +0000">
     <title>Global News Halifax</title>
@@ -925,8 +882,8 @@
     <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf398b8e02600071deda5" start="20250405223000 +0000" stop="20250405230000 +0000">
     <title>Global News Halifax</title>
@@ -936,8 +893,8 @@
     <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cbf398b8e02600071deda5" start="20250405230000 +0000" stop="20250405233000 +0000">
     <title>Global News Halifax</title>
@@ -947,52 +904,52 @@
     <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
-  <programme channel="62cc00b3b821cf00070f82c3" start="20250405070000 +0000" stop="20250405073000 +0000">
-    <title>Global News Toronto</title>
+  <programme channel="62cbf398b8e02600071deda5" start="20250405233000 +0000" stop="20250406000000 +0000">
+    <title>Global News Halifax</title>
     <live />
-    <episode-num system="original-air-date">20250405070000 +0000</episode-num>
-    <desc>Toronto’s daily news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250405233000 +0000</episode-num>
+    <desc>Halifax’s daily local news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
-    <category>Series</category>
+    <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
-  <programme channel="62cc00b3b821cf00070f82c3" start="20250405073000 +0000" stop="20250405080000 +0000">
-    <title>Global News Toronto</title>
+  <programme channel="62cbf398b8e02600071deda5" start="20250406000000 +0000" stop="20250406003000 +0000">
+    <title>Global News Halifax</title>
     <live />
-    <episode-num system="original-air-date">20250405073000 +0000</episode-num>
-    <desc>Toronto’s daily news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250406000000 +0000</episode-num>
+    <desc>Halifax’s daily local news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
-    <category>Series</category>
+    <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
-  <programme channel="62cc00b3b821cf00070f82c3" start="20250405080000 +0000" stop="20250405083000 +0000">
-    <title>Global News Toronto</title>
+  <programme channel="62cbf398b8e02600071deda5" start="20250406003000 +0000" stop="20250406010000 +0000">
+    <title>Global News Halifax</title>
     <live />
-    <episode-num system="original-air-date">20250405080000 +0000</episode-num>
-    <desc>Toronto’s daily news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250406003000 +0000</episode-num>
+    <desc>Halifax’s daily local news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
-    <category>Series</category>
+    <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
-  <programme channel="62cc00b3b821cf00070f82c3" start="20250405083000 +0000" stop="20250405090000 +0000">
-    <title>Global News Toronto</title>
+  <programme channel="62cbf398b8e02600071deda5" start="20250406010000 +0000" stop="20250406013000 +0000">
+    <title>Global News Halifax</title>
     <live />
-    <episode-num system="original-air-date">20250405083000 +0000</episode-num>
-    <desc>Toronto’s daily news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250406010000 +0000</episode-num>
+    <desc>Halifax’s daily local news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
-    <category>Series</category>
+    <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cc00b3b821cf00070f82c3" start="20250405090000 +0000" stop="20250405093000 +0000">
     <title>Global News Toronto</title>
@@ -1002,8 +959,8 @@
     <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cc00b3b821cf00070f82c3" start="20250405093000 +0000" stop="20250405100000 +0000">
     <title>Global News Toronto</title>
@@ -1013,8 +970,8 @@
     <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cc00b3b821cf00070f82c3" start="20250405100000 +0000" stop="20250405103000 +0000">
     <title>Global News Toronto</title>
@@ -1024,8 +981,8 @@
     <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cc00b3b821cf00070f82c3" start="20250405103000 +0000" stop="20250405110000 +0000">
     <title>Global News Toronto</title>
@@ -1035,8 +992,8 @@
     <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cc00b3b821cf00070f82c3" start="20250405110000 +0000" stop="20250405113000 +0000">
     <title>Global News Toronto</title>
@@ -1046,8 +1003,8 @@
     <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cc00b3b821cf00070f82c3" start="20250405113000 +0000" stop="20250405120000 +0000">
     <title>Global News Toronto</title>
@@ -1057,8 +1014,8 @@
     <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cc00b3b821cf00070f82c3" start="20250405120000 +0000" stop="20250405123000 +0000">
     <title>Global News Toronto</title>
@@ -1068,8 +1025,8 @@
     <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cc00b3b821cf00070f82c3" start="20250405123000 +0000" stop="20250405130000 +0000">
     <title>Global News Toronto</title>
@@ -1079,8 +1036,8 @@
     <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cc00b3b821cf00070f82c3" start="20250405130000 +0000" stop="20250405133000 +0000">
     <title>Global News Toronto</title>
@@ -1090,8 +1047,8 @@
     <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cc00b3b821cf00070f82c3" start="20250405133000 +0000" stop="20250405140000 +0000">
     <title>Global News Toronto</title>
@@ -1101,8 +1058,8 @@
     <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cc00b3b821cf00070f82c3" start="20250405140000 +0000" stop="20250405143000 +0000">
     <title>Global News Toronto</title>
@@ -1112,8 +1069,8 @@
     <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cc00b3b821cf00070f82c3" start="20250405143000 +0000" stop="20250405150000 +0000">
     <title>Global News Toronto</title>
@@ -1123,8 +1080,8 @@
     <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cc00b3b821cf00070f82c3" start="20250405150000 +0000" stop="20250405153000 +0000">
     <title>Global News Toronto</title>
@@ -1134,8 +1091,8 @@
     <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cc00b3b821cf00070f82c3" start="20250405153000 +0000" stop="20250405160000 +0000">
     <title>Global News Toronto</title>
@@ -1145,8 +1102,8 @@
     <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cc00b3b821cf00070f82c3" start="20250405160000 +0000" stop="20250405163000 +0000">
     <title>Global News Toronto</title>
@@ -1156,8 +1113,8 @@
     <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cc00b3b821cf00070f82c3" start="20250405163000 +0000" stop="20250405170000 +0000">
     <title>Global News Toronto</title>
@@ -1167,8 +1124,8 @@
     <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cc00b3b821cf00070f82c3" start="20250405170000 +0000" stop="20250405173000 +0000">
     <title>Global News Toronto</title>
@@ -1178,8 +1135,8 @@
     <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cc00b3b821cf00070f82c3" start="20250405173000 +0000" stop="20250405180000 +0000">
     <title>Global News Toronto</title>
@@ -1189,8 +1146,8 @@
     <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cc00b3b821cf00070f82c3" start="20250405180000 +0000" stop="20250405183000 +0000">
     <title>Global News Toronto</title>
@@ -1200,8 +1157,8 @@
     <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cc00b3b821cf00070f82c3" start="20250405183000 +0000" stop="20250405190000 +0000">
     <title>Global News Toronto</title>
@@ -1211,8 +1168,8 @@
     <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cc00b3b821cf00070f82c3" start="20250405190000 +0000" stop="20250405193000 +0000">
     <title>Global News Toronto</title>
@@ -1222,8 +1179,8 @@
     <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cc00b3b821cf00070f82c3" start="20250405193000 +0000" stop="20250405200000 +0000">
     <title>Global News Toronto</title>
@@ -1233,8 +1190,8 @@
     <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cc00b3b821cf00070f82c3" start="20250405200000 +0000" stop="20250405203000 +0000">
     <title>Global News Toronto</title>
@@ -1244,8 +1201,8 @@
     <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cc00b3b821cf00070f82c3" start="20250405203000 +0000" stop="20250405210000 +0000">
     <title>Global News Toronto</title>
@@ -1255,8 +1212,8 @@
     <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cc00b3b821cf00070f82c3" start="20250405210000 +0000" stop="20250405213000 +0000">
     <title>Global News Toronto</title>
@@ -1266,8 +1223,8 @@
     <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cc00b3b821cf00070f82c3" start="20250405213000 +0000" stop="20250405220000 +0000">
     <title>Global News Toronto</title>
@@ -1277,8 +1234,8 @@
     <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cc00b3b821cf00070f82c3" start="20250405220000 +0000" stop="20250405223000 +0000">
     <title>Global News Toronto</title>
@@ -1288,8 +1245,8 @@
     <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cc00b3b821cf00070f82c3" start="20250405223000 +0000" stop="20250405230000 +0000">
     <title>Global News Toronto</title>
@@ -1299,8 +1256,8 @@
     <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="62cc00b3b821cf00070f82c3" start="20250405230000 +0000" stop="20250405233000 +0000">
     <title>Global News Toronto</title>
@@ -1310,56 +1267,52 @@
     <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
-  <programme channel="63da370e2e477400081cf8b6" start="20250405070000 +0000" stop="20250405073000 +0000">
-    <title>Dream in Colour</title>
+  <programme channel="62cc00b3b821cf00070f82c3" start="20250405233000 +0000" stop="20250406000000 +0000">
+    <title>Global News Toronto</title>
     <live />
-    <episode-num system="original-air-date">20250405070000 +0000</episode-num>
-    <desc>Soothing music and visuals for a tranquil night's journey into vibrant dreams.</desc>
-    <icon src="https://images.pluto.tv/series/6666cf3ac3f49b00136c0cfe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250405233000 +0000</episode-num>
+    <desc>Toronto’s daily news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">6666cf3ac3f49b00136c0cfe</series-id>
-    <category>Series</category>
-    <category>News</category>
+    <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
-  <programme channel="63da370e2e477400081cf8b6" start="20250405073000 +0000" stop="20250405080000 +0000">
-    <title>Dream in Colour</title>
+  <programme channel="62cc00b3b821cf00070f82c3" start="20250406000000 +0000" stop="20250406003000 +0000">
+    <title>Global News Toronto</title>
     <live />
-    <episode-num system="original-air-date">20250405073000 +0000</episode-num>
-    <desc>Soothing music and visuals for a tranquil night's journey into vibrant dreams.</desc>
-    <icon src="https://images.pluto.tv/series/6666cf3ac3f49b00136c0cfe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250406000000 +0000</episode-num>
+    <desc>Toronto’s daily news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">6666cf3ac3f49b00136c0cfe</series-id>
-    <category>Series</category>
-    <category>News</category>
+    <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
-  <programme channel="63da370e2e477400081cf8b6" start="20250405080000 +0000" stop="20250405083000 +0000">
-    <title>Dream in Colour</title>
+  <programme channel="62cc00b3b821cf00070f82c3" start="20250406003000 +0000" stop="20250406010000 +0000">
+    <title>Global News Toronto</title>
     <live />
-    <episode-num system="original-air-date">20250405080000 +0000</episode-num>
-    <desc>Soothing music and visuals for a tranquil night's journey into vibrant dreams.</desc>
-    <icon src="https://images.pluto.tv/series/6666cf3ac3f49b00136c0cfe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250406003000 +0000</episode-num>
+    <desc>Toronto’s daily news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">6666cf3ac3f49b00136c0cfe</series-id>
-    <category>Series</category>
-    <category>News</category>
+    <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
-  <programme channel="63da370e2e477400081cf8b6" start="20250405083000 +0000" stop="20250405090000 +0000">
-    <title>Dream in Colour</title>
+  <programme channel="62cc00b3b821cf00070f82c3" start="20250406010000 +0000" stop="20250406013000 +0000">
+    <title>Global News Toronto</title>
     <live />
-    <episode-num system="original-air-date">20250405083000 +0000</episode-num>
-    <desc>Soothing music and visuals for a tranquil night's journey into vibrant dreams.</desc>
-    <icon src="https://images.pluto.tv/series/6666cf3ac3f49b00136c0cfe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250406010000 +0000</episode-num>
+    <desc>Toronto’s daily news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">6666cf3ac3f49b00136c0cfe</series-id>
-    <category>Series</category>
-    <category>News</category>
+    <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250405090000 +0000" stop="20250405093000 +0000">
     <title>Dream in Colour</title>
@@ -1369,9 +1322,9 @@
     <icon src="https://images.pluto.tv/series/6666cf3ac3f49b00136c0cfe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6666cf3ac3f49b00136c0cfe</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250405093000 +0000" stop="20250405100000 +0000">
     <title>Dream in Colour</title>
@@ -1381,9 +1334,9 @@
     <icon src="https://images.pluto.tv/series/6666cf3ac3f49b00136c0cfe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6666cf3ac3f49b00136c0cfe</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250405100000 +0000" stop="20250405103000 +0000">
     <title>Weather AM</title>
@@ -1393,9 +1346,9 @@
     <icon src="https://images.pluto.tv/series/666181aac0b6d50014e45c22/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">666181aac0b6d50014e45c22</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250405103000 +0000" stop="20250405110000 +0000">
     <title>Force of Nature</title>
@@ -1405,9 +1358,9 @@
     <icon src="https://images.pluto.tv/series/6666cf3ac3f49b00136c0d68/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6666cf3ac3f49b00136c0d68</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250405110000 +0000" stop="20250405113000 +0000">
     <title>Weather AM</title>
@@ -1417,9 +1370,9 @@
     <icon src="https://images.pluto.tv/series/666181aac0b6d50014e45c22/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">666181aac0b6d50014e45c22</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250405113000 +0000" stop="20250405120000 +0000">
     <title>Force of Nature</title>
@@ -1429,9 +1382,9 @@
     <icon src="https://images.pluto.tv/series/6666cf3ac3f49b00136c0d68/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6666cf3ac3f49b00136c0d68</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250405120000 +0000" stop="20250405123000 +0000">
     <title>Weather AM</title>
@@ -1441,9 +1394,9 @@
     <icon src="https://images.pluto.tv/series/666181aac0b6d50014e45c22/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">666181aac0b6d50014e45c22</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250405123000 +0000" stop="20250405130000 +0000">
     <title>Force of Nature</title>
@@ -1453,9 +1406,9 @@
     <icon src="https://images.pluto.tv/series/6666cf3ac3f49b00136c0d68/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6666cf3ac3f49b00136c0d68</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250405130000 +0000" stop="20250405133000 +0000">
     <title>Weather AM</title>
@@ -1465,9 +1418,9 @@
     <icon src="https://images.pluto.tv/series/666181aac0b6d50014e45c22/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">666181aac0b6d50014e45c22</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250405133000 +0000" stop="20250405140000 +0000">
     <title>Force of Nature</title>
@@ -1477,9 +1430,9 @@
     <icon src="https://images.pluto.tv/series/6666cf3ac3f49b00136c0d68/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6666cf3ac3f49b00136c0d68</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250405140000 +0000" stop="20250405143000 +0000">
     <title>Weather AM</title>
@@ -1489,9 +1442,9 @@
     <icon src="https://images.pluto.tv/series/666181aac0b6d50014e45c22/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">666181aac0b6d50014e45c22</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250405143000 +0000" stop="20250405150000 +0000">
     <title>Force of Nature</title>
@@ -1501,9 +1454,9 @@
     <icon src="https://images.pluto.tv/series/6666cf3ac3f49b00136c0d68/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6666cf3ac3f49b00136c0d68</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250405150000 +0000" stop="20250405153000 +0000">
     <title>Weather AM</title>
@@ -1513,9 +1466,9 @@
     <icon src="https://images.pluto.tv/series/666181aac0b6d50014e45c22/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">666181aac0b6d50014e45c22</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250405153000 +0000" stop="20250405160000 +0000">
     <title>Force of Nature</title>
@@ -1525,9 +1478,9 @@
     <icon src="https://images.pluto.tv/series/6666cf3ac3f49b00136c0d68/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6666cf3ac3f49b00136c0d68</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250405160000 +0000" stop="20250405170000 +0000">
     <title>Survivorman: Beyond Survival</title>
@@ -1538,9 +1491,9 @@
     <date>19700101</date>
     <series-id system="pluto">667defad1e15340013cceeee</series-id>
     <sub-title>Zulu</sub-title>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250405170000 +0000" stop="20250405180000 +0000">
     <title>Survivorman: Beyond Survival</title>
@@ -1551,9 +1504,9 @@
     <date>19700101</date>
     <series-id system="pluto">667defad1e15340013cceeee</series-id>
     <sub-title>San Bushmen</sub-title>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250405180000 +0000" stop="20250405183000 +0000">
     <title>Force of Nature</title>
@@ -1563,9 +1516,9 @@
     <icon src="https://images.pluto.tv/series/6666cf3ac3f49b00136c0d68/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6666cf3ac3f49b00136c0d68</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250405183000 +0000" stop="20250405190000 +0000">
     <title>Force of Nature</title>
@@ -1575,9 +1528,9 @@
     <icon src="https://images.pluto.tv/series/6666cf3ac3f49b00136c0d68/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6666cf3ac3f49b00136c0d68</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250405190000 +0000" stop="20250405193000 +0000">
     <title>Force of Nature</title>
@@ -1587,9 +1540,9 @@
     <icon src="https://images.pluto.tv/series/6666cf3ac3f49b00136c0d68/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6666cf3ac3f49b00136c0d68</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250405193000 +0000" stop="20250405200000 +0000">
     <title>Force of Nature</title>
@@ -1599,9 +1552,9 @@
     <icon src="https://images.pluto.tv/series/6666cf3ac3f49b00136c0d68/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6666cf3ac3f49b00136c0d68</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250405200000 +0000" stop="20250405210000 +0000">
     <title>What If</title>
@@ -1611,9 +1564,9 @@
     <icon src="https://images.pluto.tv/series/6666cf3cc3f49b00136c0f73/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6666cf3cc3f49b00136c0f73</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250405210000 +0000" stop="20250405213000 +0000">
     <title>Crazy Creatures</title>
@@ -1623,9 +1576,9 @@
     <icon src="https://images.pluto.tv/series/6666cf3dc3f49b00136c10ae/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6666cf3dc3f49b00136c10ae</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250405213000 +0000" stop="20250405220000 +0000">
     <title>Les Stroud's Wild Harvest</title>
@@ -1636,9 +1589,9 @@
     <date>19700101</date>
     <series-id system="pluto">6666cf48c3f49b00136c1fd4</series-id>
     <sub-title>Horseradish &amp; Tumbleweed Mustard</sub-title>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250405220000 +0000" stop="20250405230000 +0000">
     <title>Survivorman: Bigfoot</title>
@@ -1649,9 +1602,9 @@
     <date>19700101</date>
     <series-id system="pluto">667d6a621c02820013ede119</series-id>
     <sub-title>Giants of the Forest</sub-title>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250405230000 +0000" stop="20250405233000 +0000">
     <title>Force of Nature</title>
@@ -1661,33 +1614,58 @@
     <icon src="https://images.pluto.tv/series/6666cf3ac3f49b00136c0d68/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6666cf3ac3f49b00136c0d68</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
-  <programme channel="6536725167bd1a00084481bc" start="20250405070000 +0000" stop="20250405080000 +0000">
-    <title>The National</title>
+  <programme channel="63da370e2e477400081cf8b6" start="20250405233000 +0000" stop="20250406000000 +0000">
+    <title>Force of Nature</title>
     <live />
-    <episode-num system="original-air-date">20250405070000 +0000</episode-num>
-    <desc>CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.</desc>
-    <icon src="https://images.pluto.tv/series/670550257dcabd0013116dd2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250405233000 +0000</episode-num>
+    <desc>Wild and viral weather footage from across Canada and around the world.</desc>
+    <icon src="https://images.pluto.tv/series/6666cf3ac3f49b00136c0d68/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">670550257dcabd0013116dd2</series-id>
-    <category>Series</category>
+    <series-id system="pluto">6666cf3ac3f49b00136c0d68</series-id>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
-  <programme channel="6536725167bd1a00084481bc" start="20250405080000 +0000" stop="20250405090000 +0000">
-    <title>The National</title>
+  <programme channel="63da370e2e477400081cf8b6" start="20250406000000 +0000" stop="20250406003000 +0000">
+    <title>Force of Nature</title>
     <live />
-    <episode-num system="original-air-date">20250405080000 +0000</episode-num>
-    <desc>CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.</desc>
-    <icon src="https://images.pluto.tv/series/670550257dcabd0013116dd2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250406000000 +0000</episode-num>
+    <desc>Wild and viral weather footage from across Canada and around the world.</desc>
+    <icon src="https://images.pluto.tv/series/6666cf3ac3f49b00136c0d68/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">670550257dcabd0013116dd2</series-id>
-    <category>Series</category>
+    <series-id system="pluto">6666cf3ac3f49b00136c0d68</series-id>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="63da370e2e477400081cf8b6" start="20250406003000 +0000" stop="20250406010000 +0000">
+    <title>Force of Nature</title>
+    <live />
+    <episode-num system="original-air-date">20250406003000 +0000</episode-num>
+    <desc>Wild and viral weather footage from across Canada and around the world.</desc>
+    <icon src="https://images.pluto.tv/series/6666cf3ac3f49b00136c0d68/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">6666cf3ac3f49b00136c0d68</series-id>
+    <category>News</category>
+    <category>News &amp; Information</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="63da370e2e477400081cf8b6" start="20250406010000 +0000" stop="20250406020000 +0000">
+    <title>Survivorman: Beyond Survival</title>
+    <live />
+    <episode-num system="original-air-date">20250406010000 +0000</episode-num>
+    <desc>Les Stroud journeys to South Africa to join the Zulu tribe.</desc>
+    <icon src="https://images.pluto.tv/series/667defad1e15340013cceeee/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">667defad1e15340013cceeee</series-id>
+    <sub-title>Zulu</sub-title>
+    <category>News</category>
+    <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250405090000 +0000" stop="20250405100000 +0000">
     <title>The National</title>
@@ -1697,9 +1675,9 @@
     <icon src="https://images.pluto.tv/series/670550257dcabd0013116dd2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">670550257dcabd0013116dd2</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250405100000 +0000" stop="20250405110000 +0000">
     <title>The National</title>
@@ -1709,9 +1687,9 @@
     <icon src="https://images.pluto.tv/series/670550257dcabd0013116dd2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">670550257dcabd0013116dd2</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250405110000 +0000" stop="20250405120000 +0000">
     <title>The National</title>
@@ -1721,9 +1699,9 @@
     <icon src="https://images.pluto.tv/series/670550257dcabd0013116dd2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">670550257dcabd0013116dd2</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250405120000 +0000" stop="20250405130000 +0000">
     <title>The National</title>
@@ -1733,9 +1711,9 @@
     <icon src="https://images.pluto.tv/series/670550257dcabd0013116dd2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">670550257dcabd0013116dd2</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250405130000 +0000" stop="20250405140000 +0000">
     <title>The National</title>
@@ -1745,9 +1723,9 @@
     <icon src="https://images.pluto.tv/series/670550257dcabd0013116dd2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">670550257dcabd0013116dd2</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250405140000 +0000" stop="20250405150000 +0000">
     <title>The National</title>
@@ -1757,9 +1735,9 @@
     <icon src="https://images.pluto.tv/series/670550257dcabd0013116dd2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">670550257dcabd0013116dd2</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250405150000 +0000" stop="20250405153000 +0000">
     <title>About That</title>
@@ -1769,9 +1747,9 @@
     <icon src="https://images.pluto.tv/series/670550257dcabd0013116e26/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">670550257dcabd0013116e26</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250405153000 +0000" stop="20250405160000 +0000">
     <title>About That</title>
@@ -1781,9 +1759,9 @@
     <icon src="https://images.pluto.tv/series/670550257dcabd0013116e26/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">670550257dcabd0013116e26</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250405160000 +0000" stop="20250405190000 +0000">
     <title>This Week's Top Stories</title>
@@ -1793,9 +1771,9 @@
     <icon src="https://images.pluto.tv/series/6721afc43b8ac6001375ab6d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6721afc43b8ac6001375ab6d</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250405190000 +0000" stop="20250405193000 +0000">
     <title>About That</title>
@@ -1805,9 +1783,9 @@
     <icon src="https://images.pluto.tv/series/670550257dcabd0013116e26/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">670550257dcabd0013116e26</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250405193000 +0000" stop="20250405200000 +0000">
     <title>About That</title>
@@ -1817,9 +1795,9 @@
     <icon src="https://images.pluto.tv/series/670550257dcabd0013116e26/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">670550257dcabd0013116e26</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250405200000 +0000" stop="20250405210000 +0000">
     <title>The Fifth Estate</title>
@@ -1829,9 +1807,9 @@
     <icon src="https://images.pluto.tv/series/670550257dcabd0013116d9b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">670550257dcabd0013116d9b</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250405210000 +0000" stop="20250405230000 +0000">
     <title>This Week's Top Stories</title>
@@ -1841,9 +1819,9 @@
     <icon src="https://images.pluto.tv/series/6721afc43b8ac6001375ab6d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6721afc43b8ac6001375ab6d</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250405230000 +0000" stop="20250405233000 +0000">
     <title>Marketplace</title>
@@ -1853,9 +1831,45 @@
     <icon src="https://images.pluto.tv/series/670550277dcabd0013116f9d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">670550277dcabd0013116f9d</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6536725167bd1a00084481bc" start="20250405233000 +0000" stop="20250406000000 +0000">
+    <title>Marketplace</title>
+    <live />
+    <episode-num system="original-air-date">20250405233000 +0000</episode-num>
+    <desc>Uncovering wrongdoings in the marketplace; with the help of hidden cameras, correspondents dish out the dirt on not so "clean" business practices.</desc>
+    <icon src="https://images.pluto.tv/series/670550277dcabd0013116f9d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">670550277dcabd0013116f9d</series-id>
+    <category>News</category>
+    <category>News &amp; Information</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6536725167bd1a00084481bc" start="20250406000000 +0000" stop="20250406010000 +0000">
+    <title>This Week's Top Stories</title>
+    <live />
+    <episode-num system="original-air-date">20250406000000 +0000</episode-num>
+    <desc>Making sense of the big stories that made news across Canada and around the world from this past week.</desc>
+    <icon src="https://images.pluto.tv/series/6721afc43b8ac6001375ab6d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">6721afc43b8ac6001375ab6d</series-id>
+    <category>News</category>
+    <category>News &amp; Information</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6536725167bd1a00084481bc" start="20250406010000 +0000" stop="20250406013000 +0000">
+    <title>About That</title>
+    <live />
+    <episode-num system="original-air-date">20250406010000 +0000</episode-num>
+    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
+    <icon src="https://images.pluto.tv/series/670550257dcabd0013116e26/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">670550257dcabd0013116e26</series-id>
+    <category>News</category>
+    <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <channel id="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d">
     <display-name>CTV News</display-name>
