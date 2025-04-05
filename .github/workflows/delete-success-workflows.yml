@@ -1,0 +1,18 @@
+name: Delete Successful Workflows
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Delete Successful Workflows
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          repository: ${{ github.repository }}
+          retain_days: 7
+          keep_minimum_runs: 7
+          delete_run_by_conclusion: success
