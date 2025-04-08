@@ -3889,11 +3889,6 @@
     <display-name>Love Nature 4K</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3400003IP_20250204T234403SQUARE.png" />
   </channel>
-  <programme channel="CABC2300009KD" start="20250408130000 +0000" stop="20250408140000 +0000">
-    <title>The National</title>
-    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
-  </programme>
   <programme channel="CABC2300009KD" start="20250408140000 +0000" stop="20250408150000 +0000">
     <title>CBC News</title>
     <sub-title>Morning</sub-title>
@@ -3919,6 +3914,11 @@
     <title>Today's Top Stories</title>
     <desc>What's happening across Canada and around the world.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_549952184_0_20241029T142625607Z_36_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg" />
+  </programme>
+  <programme channel="CABC2300009KD" start="20250408200000 +0000" stop="20250408203000 +0000">
+    <title>About That</title>
+    <desc>Andrew Chang expands our understanding of the stories everybody's talking about.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515038_0_20240529T053048695Z_102.jpeg" />
   </programme>
   <programme channel="CA15000018F" start="20250408130000 +0000" stop="20250408153000 +0000">
     <title>The Early Edition</title>
@@ -3965,10 +3965,10 @@
     <desc>Hosted by Michelle Eliot, the show where British Columbians connect on issues facing their lives &amp; community.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542759705_0_20240603T112702843Z_68.jpeg" />
   </programme>
-  <programme channel="CA4600008AI" start="20250408130000 +0000" stop="20250408140000 +0000">
-    <title>The National</title>
-    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
+  <programme channel="CA15000018F" start="20250408200000 +0000" stop="20250408210000 +0000">
+    <title>BC Now</title>
+    <desc>News, investigations and community stories in Vancouver and beyond.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542759689_0_20240603T112702842Z_73.jpeg" />
   </programme>
   <programme channel="CA4600008AI" start="20250408140000 +0000" stop="20250408143000 +0000">
     <title>CBC Edmonton News</title>
@@ -4020,15 +4020,15 @@
     <desc>News, investigations and community stories in Edmonton and beyond.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925931_0_20241213T120008264Z_69_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
   </programme>
-  <programme channel="CA4600006DO" start="20250408130000 +0000" stop="20250408133000 +0000">
-    <title>New Brunswick Now</title>
-    <desc>News, investigations and community stories in New Brunswick and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554405895_0_20241217T114622203Z_110_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
+  <programme channel="CA4600008AI" start="20250408193000 +0000" stop="20250408200000 +0000">
+    <title>Edmonton Now</title>
+    <desc>News, investigations and community stories in Edmonton and beyond.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925931_0_20241213T120008264Z_69_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
   </programme>
-  <programme channel="CA4600006DO" start="20250408133000 +0000" stop="20250408140000 +0000">
-    <title>New Brunswick Now</title>
-    <desc>News, investigations and community stories in New Brunswick and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554405895_0_20241217T114622203Z_110_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
+  <programme channel="CA4600008AI" start="20250408200000 +0000" stop="20250408203000 +0000">
+    <title>Edmonton Now</title>
+    <desc>News, investigations and community stories in Edmonton and beyond.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925931_0_20241213T120008264Z_69_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
   </programme>
   <programme channel="CA4600006DO" start="20250408140000 +0000" stop="20250408143000 +0000">
     <title>New Brunswick Now</title>
@@ -4085,15 +4085,15 @@
     <desc>News, investigations and community stories in New Brunswick and beyond.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554405895_0_20241217T114622203Z_110_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
   </programme>
-  <programme channel="CA4600003GV" start="20250408130000 +0000" stop="20250408133000 +0000">
-    <title>Newfoundland &amp; Labrador Now</title>
-    <desc>News, investigations and community stories in NL and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
+  <programme channel="CA4600006DO" start="20250408193000 +0000" stop="20250408200000 +0000">
+    <title>New Brunswick Now</title>
+    <desc>News, investigations and community stories in New Brunswick and beyond.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554405895_0_20241217T114622203Z_110_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
   </programme>
-  <programme channel="CA4600003GV" start="20250408133000 +0000" stop="20250408140000 +0000">
-    <title>Newfoundland &amp; Labrador Now</title>
-    <desc>News, investigations and community stories in NL and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
+  <programme channel="CA4600006DO" start="20250408200000 +0000" stop="20250408203000 +0000">
+    <title>About That</title>
+    <desc>Andrew Chang expands our understanding of the stories everybody's talking about.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515038_0_20240529T053048695Z_102.jpeg" />
   </programme>
   <programme channel="CA4600003GV" start="20250408140000 +0000" stop="20250408143000 +0000">
     <title>Newfoundland &amp; Labrador Now</title>
@@ -4150,15 +4150,15 @@
     <desc>News, investigations and community stories in NL and beyond.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CA4600007UE" start="20250408130000 +0000" stop="20250408133000 +0000">
-    <title>Nova Scotia Now</title>
-    <desc>News, investigations and community stories in Nova Scotia and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_558093603_0_20241218T055251911Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-ftks4.jpeg" />
+  <programme channel="CA4600003GV" start="20250408193000 +0000" stop="20250408200000 +0000">
+    <title>About That</title>
+    <desc>Andrew Chang expands our understanding of the stories everybody's talking about.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515038_0_20240529T053048695Z_102.jpeg" />
   </programme>
-  <programme channel="CA4600007UE" start="20250408133000 +0000" stop="20250408140000 +0000">
-    <title>Nova Scotia Now</title>
-    <desc>News, investigations and community stories in Nova Scotia and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_558093603_0_20241218T055251911Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-ftks4.jpeg" />
+  <programme channel="CA4600003GV" start="20250408200000 +0000" stop="20250408203000 +0000">
+    <title>The Breakdown</title>
+    <desc>Make sense of your world with original reporting that breaks down the world's biggest news stories.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542759671_0_20240603T112659311Z_21.jpeg" />
   </programme>
   <programme channel="CA4600007UE" start="20250408140000 +0000" stop="20250408143000 +0000">
     <title>Nova Scotia Now</title>
@@ -4215,10 +4215,15 @@
     <desc>News, investigations and community stories in Nova Scotia and beyond.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_558093603_0_20241218T055251911Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-ftks4.jpeg" />
   </programme>
-  <programme channel="CA46000149D" start="20250408130000 +0000" stop="20250408140000 +0000">
-    <title>The National</title>
-    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
+  <programme channel="CA4600007UE" start="20250408193000 +0000" stop="20250408200000 +0000">
+    <title>Nova Scotia Now</title>
+    <desc>News, investigations and community stories in Nova Scotia and beyond.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_558093603_0_20241218T055251911Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-ftks4.jpeg" />
+  </programme>
+  <programme channel="CA4600007UE" start="20250408200000 +0000" stop="20250408203000 +0000">
+    <title>About That</title>
+    <desc>Andrew Chang expands our understanding of the stories everybody's talking about.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515038_0_20240529T053048695Z_102.jpeg" />
   </programme>
   <programme channel="CA46000149D" start="20250408140000 +0000" stop="20250408143000 +0000">
     <title>Ottawa Now</title>
@@ -4275,22 +4280,15 @@
     <desc>News, investigations and community stories in Ottawa and beyond.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186131_0_20241217T103439442Z_32_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250408130000 +0000" stop="20250408133000 +0000">
-    <title>Weather AM</title>
-    <desc>Get your local forecast and weather headlines from right here in Canada, and around the globe.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_539709218_0_20240321T153330644Z_1.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA46000149D" start="20250408193000 +0000" stop="20250408200000 +0000">
+    <title>Ottawa Now</title>
+    <desc>News, investigations and community stories in Ottawa and beyond.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186131_0_20241217T103439442Z_32_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250408133000 +0000" stop="20250408140000 +0000">
-    <title>Experiencing Canada</title>
-    <sub-title>Newfoundland and Labrador</sub-title>
-    <desc>Journey to Newfoundland's easternmost point with Nathan to see whales, icebergs, puffins, and cocktails.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534079374_0_20231018T132748962Z_1.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA46000149D" start="20250408200000 +0000" stop="20250408203000 +0000">
+    <title>Ottawa Now</title>
+    <desc>News, investigations and community stories in Ottawa and beyond.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186131_0_20241217T103439442Z_32_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250408140000 +0000" stop="20250408143000 +0000">
     <title>Weather AM</title>
@@ -4365,10 +4363,21 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250408122701 +0000" stop="20250408132155 +0000">
-    <title>Rainforest Home</title>
-    <desc>Rainforest, teeming with millions of dramatic plants and animals, home to some of the most astonishing animal families you're likely to find.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_485262485_0_20231015T063327339Z_90.jpeg" />
+  <programme channel="CABC23000223U" start="20250408193000 +0000" stop="20250408200000 +0000">
+    <title>Your Body On</title>
+    <desc>Putting the human body to the “What if” test.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124532_0_20231019T012926060Z_69.jpeg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="CABC23000223U" start="20250408200000 +0000" stop="20250408203000 +0000">
+    <title>Weather Today</title>
+    <desc>National and local forecast details for across the country</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_1109216430_0_20250404T222943514Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-njxgs.jpeg" />
+    <rating>
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250408132155 +0000" stop="20250408141650 +0000">
     <title>Polar Bear Family</title>
@@ -4420,17 +4429,14 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="GBBA220000751" start="20250408123607 +0000" stop="20250408131055 +0000">
-    <title>Shamwari</title>
-    <sub-title>Episode 5</sub-title>
-    <desc>It's a race against time to bring in the world's biggest animal - the elephant. It's gone down in a bad position and has stopped breathing. There's a baby boom out on the reserve - we are lucky enough to watch the birth of a giraffe.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_668962236_1_20250225T161659010Z_46_imageprocessorclient-tvplus-linear-6fb5b47f79-xv2bl.jpeg" />
-  </programme>
-  <programme channel="GBBA220000751" start="20250408131055 +0000" stop="20250408134543 +0000">
-    <title>Shamwari</title>
-    <sub-title>Episode 6</sub-title>
-    <desc>An adult leopard has been caught in a trap on a nearby farm and it's a very dangerous rescue. It's playtime at the Animal Hospital when Themba gets a new toy, and the work experience student almost ends up squashed by nearly a ton of antelope.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_668951185_2_20250225T161701643Z_70_imageprocessorclient-tvplus-linear-6fb5b47f79-hnnz9.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250408195147 +0000" stop="20250408204919 +0000">
+    <title>Wild and Alive</title>
+    <sub-title>S01 E04</sub-title>
+    <desc>On the savannah of southern Africa, rains have turned the land green and lush. It's the time of plenty and for the cast of wild characters here, cashing in is priority number one.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_492670777_1_20240516T144521013Z_133.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
   </programme>
   <programme channel="GBBA220000751" start="20250408134543 +0000" stop="20250408144926 +0000">
     <title>Animals In Superstition</title>
@@ -4478,23 +4484,10 @@
     <desc>Shark Dive TV dives with Bull Sharks in Cancun, Mexico and analyzes sharks electrosensory systems.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_668950573_0_20250225T161652943Z_79_imageprocessorclient-tvplus-linear-6fb5b47f79-9tw54.jpeg" />
   </programme>
-  <programme channel="USBA3000043LH" start="20250408130603 +0000" stop="20250408133010 +0000">
-    <title>Ready, Set, Pet</title>
-    <sub-title>A Playful Pup</sub-title>
-    <desc>Newlyweds Tiffani and Carl are adopting their first dog as a couple. While they both want a puppy to fit into their active lifestyle, it all comes down to the breed!</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550735385_9_20241112T072512171Z_88_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme channel="USBA3000043LH" start="20250408133010 +0000" stop="20250408135418 +0000">
-    <title>Ready, Set, Pet</title>
-    <sub-title>Shepherd vs. Newfoundland</sub-title>
-    <desc>Rich and his son Grayden recently lost their German Shepherd and while it's been a hard adjustment, it's finally time for them to bring a new dog into their home.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550735634_9_20241112T072512175Z_31_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
-    <rating>
-      <value>TV-G</value>
-    </rating>
+  <programme channel="GBBA220000751" start="20250408191547 +0000" stop="20250408202208 +0000">
+    <title>Chameleons Of The World</title>
+    <desc>An array of high-tech tools show the life of chameleons as they've never been seen before. It's a journey into the forests of Madagascar, the savannahs of east and southern Africa and the Namib desert.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_668951636_1_20250225T161659010Z_54_imageprocessorclient-tvplus-linear-6fb5b47f79-xv2bl.png" />
   </programme>
   <programme channel="USBA3000043LH" start="20250408135418 +0000" stop="20250408141825 +0000">
     <title>Ready, Set, Pet</title>
@@ -4577,13 +4570,22 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme channel="USBA3400003IP" start="20250408130333 +0000" stop="20250408140854 +0000">
-    <title>Wild Family Ties</title>
-    <sub-title>Falling in Love</sub-title>
-    <desc>Examine the role love plays in animal alliances and learn how creatures flirt.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_535772924_0_20231202T055401594Z_66.jpeg" />
+  <programme channel="USBA3000043LH" start="20250408193127 +0000" stop="20250408195556 +0000">
+    <title>Dr. Chris Pet Vet</title>
+    <sub-title>Bright Lights, Little Kitty</sub-title>
+    <desc>Chris heads to a movie set to treat a canine star for a sudden and mysterious illness. Then, Doctors Lisa Chimes and Andrew Marchevsky take on the case of a tiny kitten that's fallen from a great height. Can they patch up her leg and get Luna reunited with her family?</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_551217507_0_20241120T043628615Z_84_imageprocessorclient-tvplus-linear-5dc4fd45f6-tqcql.jpeg" />
     <rating>
-      <value>PG</value>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="USBA3000043LH" start="20250408195556 +0000" stop="20250408202026 +0000">
+    <title>Dr. Chris Pet Vet</title>
+    <sub-title>Cats and Koalas</sub-title>
+    <desc>When young koala Jack is spotted with unusual growths all over his face, Tim Faulkner calls in Dr. Chris for reinforcements. Then, the SASH team treats a box full of newborn orphaned kittens. And, Chris heads to a local zoo to give some feisty meerkats their annual examination.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_551217486_0_20241120T043617791Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-tqcql.jpeg" />
+    <rating>
+      <value>TV-G</value>
     </rating>
   </programme>
   <programme channel="USBA3400003IP" start="20250408140854 +0000" stop="20250408151230 +0000">
@@ -4625,6 +4627,15 @@
     <title>Webs &amp; Wings: Nature's Tiny Ballet</title>
     <sub-title>A Spider's Tale</sub-title>
     <desc>Unlock the vital role these feared hunters and spinners play in Earth's ecology.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533927514_1_20231014T022305196Z_92.jpeg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="USBA3400003IP" start="20250408192730 +0000" stop="20250408202956 +0000">
+    <title>Wild Korea</title>
+    <sub-title>Voices of Nature</sub-title>
+    <desc>Spot goshawks, raccoon-dogs, and dolphins that live in harmony with humankind.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533927514_1_20231014T022305196Z_92.jpeg" />
     <rating>
       <value>PG</value>
