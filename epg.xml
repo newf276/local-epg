@@ -23,42 +23,6 @@
     <display-name>Global News Halifax</display-name>
     <icon src="https://images.pluto.tv/channels/62cbf398b8e02600071deda5/colorLogoPNG.png" />
   </channel>
-  <programme channel="66df8a29b25d2b0008fc5fe0" start="20250411170000 +0000" stop="20250411180000 +0000">
-    <title>Secret Life of the Kangaroo</title>
-    <live />
-    <episode-num system="original-air-date">20250411170000 +0000</episode-num>
-    <desc>The kangaroos that populate the woodlands, pastures and forests of Australia cluster together in groups known as mobs.</desc>
-    <icon src="https://images.pluto.tv/series/67491299e07f2800139a6044/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">67491299e07f2800139a6044</series-id>
-    <sub-title>Mob Rules</sub-title>
-    <category>Series</category>
-    <category>Documentary</category>
-  </programme>
-  <programme channel="66df8a29b25d2b0008fc5fe0" start="20250411180000 +0000" stop="20250411190000 +0000">
-    <title>Hotspots</title>
-    <live />
-    <episode-num system="original-air-date">20250411180000 +0000</episode-num>
-    <desc>Borneo, the third-largest island in the world, houses hundreds of species of mammals, amphibians, and fish.</desc>
-    <icon src="https://images.pluto.tv/series/673be3844ad85600135fe03c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">673be3844ad85600135fe03c</series-id>
-    <sub-title>Borneo</sub-title>
-    <category>Series</category>
-    <category>Documentary</category>
-  </programme>
-  <programme channel="66df8a29b25d2b0008fc5fe0" start="20250411190000 +0000" stop="20250411195900 +0000">
-    <title>Land of Gremlins</title>
-    <live />
-    <episode-num system="original-air-date">20250411190000 +0000</episode-num>
-    <desc>A family of lemurs in the rainforest of Mantadia National Park.</desc>
-    <icon src="https://images.pluto.tv/series/673be3804ad85600135fdbe9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">673be3804ad85600135fdbe9</series-id>
-    <sub-title>Lemur Spirit</sub-title>
-    <category>Series</category>
-    <category>Documentary</category>
-  </programme>
   <programme channel="66df8a29b25d2b0008fc5fe0" start="20250411195900 +0000" stop="20250411210100 +0000">
     <title>Tree Kangaroos: Ghosts Of The Forest</title>
     <live />
@@ -213,71 +177,52 @@
     <category>Series</category>
     <category>Documentary</category>
   </programme>
-  <programme channel="62cbf063257170000724590c" start="20250411170000 +0000" stop="20250411173000 +0000">
-    <title>Global News BC</title>
+  <programme channel="66df8a29b25d2b0008fc5fe0" start="20250412090100 +0000" stop="20250412092800 +0000">
+    <title>Hotspots</title>
     <live />
-    <episode-num system="original-air-date">20250411170000 +0000</episode-num>
-    <desc>British Colombia’s local news and weather along with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250412090100 +0000</episode-num>
+    <desc>Borneo, the third-largest island in the world, houses hundreds of species of mammals, amphibians, and fish.</desc>
+    <icon src="https://images.pluto.tv/series/673be3844ad85600135fe03c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
+    <series-id system="pluto">673be3844ad85600135fe03c</series-id>
+    <sub-title>Borneo</sub-title>
     <category>Series</category>
-    <category>News &amp; Information</category>
+    <category>Documentary</category>
   </programme>
-  <programme channel="62cbf063257170000724590c" start="20250411173000 +0000" stop="20250411180000 +0000">
-    <title>Global News BC</title>
+  <programme channel="66df8a29b25d2b0008fc5fe0" start="20250412092800 +0000" stop="20250412100000 +0000">
+    <title>Wild Wild East</title>
     <live />
-    <episode-num system="original-air-date">20250411173000 +0000</episode-num>
-    <desc>British Colombia’s local news and weather along with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250412092800 +0000</episode-num>
+    <desc>A look at two very different insect species showcasing their expert pollination skills at Nova Scotia's Annapolis Valley; honey bees and monarch butterflies.</desc>
+    <icon src="https://images.pluto.tv/series/673be39a4ad85600135ff8a6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
+    <series-id system="pluto">673be39a4ad85600135ff8a6</series-id>
+    <sub-title>Pollinators</sub-title>
     <category>Series</category>
-    <category>News &amp; Information</category>
+    <category>Documentary</category>
   </programme>
-  <programme channel="62cbf063257170000724590c" start="20250411180000 +0000" stop="20250411183000 +0000">
-    <title>Global News BC</title>
+  <programme channel="66df8a29b25d2b0008fc5fe0" start="20250412100000 +0000" stop="20250412105900 +0000">
+    <title>Secret Life of the Koala</title>
     <live />
-    <episode-num system="original-air-date">20250411180000 +0000</episode-num>
-    <desc>British Colombia’s local news and weather along with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250412100000 +0000</episode-num>
+    <desc>Koalas live in isolated forests in east and southeast Australia.</desc>
+    <icon src="https://images.pluto.tv/series/678861b66b387f0013f7a678/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
+    <series-id system="pluto">678861b66b387f0013f7a678</series-id>
+    <sub-title>Koala Country</sub-title>
     <category>Series</category>
-    <category>News &amp; Information</category>
+    <category>Documentary</category>
   </programme>
-  <programme channel="62cbf063257170000724590c" start="20250411183000 +0000" stop="20250411190000 +0000">
-    <title>Global News BC</title>
+  <programme channel="66df8a29b25d2b0008fc5fe0" start="20250412105900 +0000" stop="20250412120100 +0000">
+    <title>Tree Kangaroos: Ghosts Of The Forest</title>
     <live />
-    <episode-num system="original-air-date">20250411183000 +0000</episode-num>
-    <desc>British Colombia’s local news and weather along with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250412105900 +0000</episode-num>
+    <desc>This film follows the intimate lives of Lumholtz tree kangaroos in the wilderness of the Atherton Tableland.</desc>
+    <icon src="https://images.pluto.tv/series/673be39b4ad85600135ff9c5/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
+    <series-id system="pluto">673be39b4ad85600135ff9c5</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
-  </programme>
-  <programme channel="62cbf063257170000724590c" start="20250411190000 +0000" stop="20250411193000 +0000">
-    <title>Global News BC</title>
-    <live />
-    <episode-num system="original-air-date">20250411190000 +0000</episode-num>
-    <desc>British Colombia’s local news and weather along with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
-    <category>Series</category>
-    <category>News &amp; Information</category>
-  </programme>
-  <programme channel="62cbf063257170000724590c" start="20250411193000 +0000" stop="20250411200000 +0000">
-    <title>Global News BC</title>
-    <live />
-    <episode-num system="original-air-date">20250411193000 +0000</episode-num>
-    <desc>British Colombia’s local news and weather along with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
-    <category>Series</category>
-    <category>News &amp; Information</category>
+    <category>Documentary</category>
   </programme>
   <programme channel="62cbf063257170000724590c" start="20250411200000 +0000" stop="20250411203000 +0000">
     <title>Global News BC</title>
@@ -576,69 +521,69 @@
     <category>Series</category>
     <category>News &amp; Information</category>
   </programme>
-  <programme channel="62cbf398b8e02600071deda5" start="20250411170000 +0000" stop="20250411173000 +0000">
-    <title>Global News Halifax</title>
+  <programme channel="62cbf063257170000724590c" start="20250412093000 +0000" stop="20250412100000 +0000">
+    <title>Global News BC</title>
     <live />
-    <episode-num system="original-air-date">20250411170000 +0000</episode-num>
-    <desc>Halifax’s daily local news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250412093000 +0000</episode-num>
+    <desc>British Colombia’s local news and weather along with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
+    <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
     <category>Series</category>
     <category>News &amp; Information</category>
   </programme>
-  <programme channel="62cbf398b8e02600071deda5" start="20250411173000 +0000" stop="20250411180000 +0000">
-    <title>Global News Halifax</title>
+  <programme channel="62cbf063257170000724590c" start="20250412100000 +0000" stop="20250412103000 +0000">
+    <title>Global News BC</title>
     <live />
-    <episode-num system="original-air-date">20250411173000 +0000</episode-num>
-    <desc>Halifax’s daily local news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250412100000 +0000</episode-num>
+    <desc>British Colombia’s local news and weather along with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
+    <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
     <category>Series</category>
     <category>News &amp; Information</category>
   </programme>
-  <programme channel="62cbf398b8e02600071deda5" start="20250411180000 +0000" stop="20250411183000 +0000">
-    <title>Global News Halifax</title>
+  <programme channel="62cbf063257170000724590c" start="20250412103000 +0000" stop="20250412110000 +0000">
+    <title>Global News BC</title>
     <live />
-    <episode-num system="original-air-date">20250411180000 +0000</episode-num>
-    <desc>Halifax’s daily local news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250412103000 +0000</episode-num>
+    <desc>British Colombia’s local news and weather along with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
+    <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
     <category>Series</category>
     <category>News &amp; Information</category>
   </programme>
-  <programme channel="62cbf398b8e02600071deda5" start="20250411183000 +0000" stop="20250411190000 +0000">
-    <title>Global News Halifax</title>
+  <programme channel="62cbf063257170000724590c" start="20250412110000 +0000" stop="20250412113000 +0000">
+    <title>Global News BC</title>
     <live />
-    <episode-num system="original-air-date">20250411183000 +0000</episode-num>
-    <desc>Halifax’s daily local news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250412110000 +0000</episode-num>
+    <desc>British Colombia’s local news and weather along with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
+    <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
     <category>Series</category>
     <category>News &amp; Information</category>
   </programme>
-  <programme channel="62cbf398b8e02600071deda5" start="20250411190000 +0000" stop="20250411193000 +0000">
-    <title>Global News Halifax</title>
+  <programme channel="62cbf063257170000724590c" start="20250412113000 +0000" stop="20250412120000 +0000">
+    <title>Global News BC</title>
     <live />
-    <episode-num system="original-air-date">20250411190000 +0000</episode-num>
-    <desc>Halifax’s daily local news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250412113000 +0000</episode-num>
+    <desc>British Colombia’s local news and weather along with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
+    <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
     <category>Series</category>
     <category>News &amp; Information</category>
   </programme>
-  <programme channel="62cbf398b8e02600071deda5" start="20250411193000 +0000" stop="20250411200000 +0000">
-    <title>Global News Halifax</title>
+  <programme channel="62cbf063257170000724590c" start="20250412120000 +0000" stop="20250412123000 +0000">
+    <title>Global News BC</title>
     <live />
-    <episode-num system="original-air-date">20250411193000 +0000</episode-num>
-    <desc>Halifax’s daily local news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250412120000 +0000</episode-num>
+    <desc>British Colombia’s local news and weather along with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
+    <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
     <category>Series</category>
     <category>News &amp; Information</category>
   </programme>
@@ -939,69 +884,69 @@
     <category>Series</category>
     <category>News &amp; Information</category>
   </programme>
-  <programme channel="62cc00b3b821cf00070f82c3" start="20250411170000 +0000" stop="20250411173000 +0000">
-    <title>Global News Toronto</title>
+  <programme channel="62cbf398b8e02600071deda5" start="20250412093000 +0000" stop="20250412100000 +0000">
+    <title>Global News Halifax</title>
     <live />
-    <episode-num system="original-air-date">20250411170000 +0000</episode-num>
-    <desc>Toronto’s daily news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250412093000 +0000</episode-num>
+    <desc>Halifax’s daily local news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
+    <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
     <category>Series</category>
     <category>News &amp; Information</category>
   </programme>
-  <programme channel="62cc00b3b821cf00070f82c3" start="20250411173000 +0000" stop="20250411180000 +0000">
-    <title>Global News Toronto</title>
+  <programme channel="62cbf398b8e02600071deda5" start="20250412100000 +0000" stop="20250412103000 +0000">
+    <title>Global News Halifax</title>
     <live />
-    <episode-num system="original-air-date">20250411173000 +0000</episode-num>
-    <desc>Toronto’s daily news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250412100000 +0000</episode-num>
+    <desc>Halifax’s daily local news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
+    <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
     <category>Series</category>
     <category>News &amp; Information</category>
   </programme>
-  <programme channel="62cc00b3b821cf00070f82c3" start="20250411180000 +0000" stop="20250411183000 +0000">
-    <title>Global News Toronto</title>
+  <programme channel="62cbf398b8e02600071deda5" start="20250412103000 +0000" stop="20250412110000 +0000">
+    <title>Global News Halifax</title>
     <live />
-    <episode-num system="original-air-date">20250411180000 +0000</episode-num>
-    <desc>Toronto’s daily news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250412103000 +0000</episode-num>
+    <desc>Halifax’s daily local news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
+    <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
     <category>Series</category>
     <category>News &amp; Information</category>
   </programme>
-  <programme channel="62cc00b3b821cf00070f82c3" start="20250411183000 +0000" stop="20250411190000 +0000">
-    <title>Global News Toronto</title>
+  <programme channel="62cbf398b8e02600071deda5" start="20250412110000 +0000" stop="20250412113000 +0000">
+    <title>Global News Halifax</title>
     <live />
-    <episode-num system="original-air-date">20250411183000 +0000</episode-num>
-    <desc>Toronto’s daily news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250412110000 +0000</episode-num>
+    <desc>Halifax’s daily local news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
+    <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
     <category>Series</category>
     <category>News &amp; Information</category>
   </programme>
-  <programme channel="62cc00b3b821cf00070f82c3" start="20250411190000 +0000" stop="20250411193000 +0000">
-    <title>Global News Toronto</title>
+  <programme channel="62cbf398b8e02600071deda5" start="20250412113000 +0000" stop="20250412120000 +0000">
+    <title>Global News Halifax</title>
     <live />
-    <episode-num system="original-air-date">20250411190000 +0000</episode-num>
-    <desc>Toronto’s daily news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250412113000 +0000</episode-num>
+    <desc>Halifax’s daily local news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
+    <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
     <category>Series</category>
     <category>News &amp; Information</category>
   </programme>
-  <programme channel="62cc00b3b821cf00070f82c3" start="20250411193000 +0000" stop="20250411200000 +0000">
-    <title>Global News Toronto</title>
+  <programme channel="62cbf398b8e02600071deda5" start="20250412120000 +0000" stop="20250412123000 +0000">
+    <title>Global News Halifax</title>
     <live />
-    <episode-num system="original-air-date">20250411193000 +0000</episode-num>
-    <desc>Toronto’s daily news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250412120000 +0000</episode-num>
+    <desc>Halifax’s daily local news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
+    <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
     <category>Series</category>
     <category>News &amp; Information</category>
   </programme>
@@ -1302,67 +1247,70 @@
     <category>Series</category>
     <category>News &amp; Information</category>
   </programme>
-  <programme channel="63da370e2e477400081cf8b6" start="20250411170000 +0000" stop="20250411173000 +0000">
-    <title>Power to the People</title>
+  <programme channel="62cc00b3b821cf00070f82c3" start="20250412093000 +0000" stop="20250412100000 +0000">
+    <title>Global News Toronto</title>
     <live />
-    <episode-num system="original-air-date">20250411170000 +0000</episode-num>
-    <desc>The Nuxalk Nation looked inward for solutions to their housing problems and now become a homegrown model for construction capacity.</desc>
-    <icon src="https://images.pluto.tv/series/6666cf53c3f49b00136c31c3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250412093000 +0000</episode-num>
+    <desc>Toronto’s daily news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">6666cf53c3f49b00136c31c3</series-id>
-    <sub-title>Bella Coola</sub-title>
+    <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
     <category>Series</category>
-    <category>News</category>
     <category>News &amp; Information</category>
   </programme>
-  <programme channel="63da370e2e477400081cf8b6" start="20250411173000 +0000" stop="20250411180000 +0000">
-    <title>Candid Closeup</title>
+  <programme channel="62cc00b3b821cf00070f82c3" start="20250412100000 +0000" stop="20250412103000 +0000">
+    <title>Global News Toronto</title>
     <live />
-    <episode-num system="original-air-date">20250411173000 +0000</episode-num>
-    <desc>Kim MacDonald hears unique stories from viewers all across Canada.</desc>
-    <icon src="https://images.pluto.tv/series/666181afc0b6d50014e46288/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250412100000 +0000</episode-num>
+    <desc>Toronto’s daily news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">666181afc0b6d50014e46288</series-id>
-    <sub-title>B.C., Nova Scotia, Ontario, Saskatchewan</sub-title>
+    <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
     <category>Series</category>
-    <category>News</category>
     <category>News &amp; Information</category>
   </programme>
-  <programme channel="63da370e2e477400081cf8b6" start="20250411180000 +0000" stop="20250411183000 +0000">
-    <title>Force of Nature</title>
+  <programme channel="62cc00b3b821cf00070f82c3" start="20250412103000 +0000" stop="20250412110000 +0000">
+    <title>Global News Toronto</title>
     <live />
-    <episode-num system="original-air-date">20250411180000 +0000</episode-num>
-    <desc>Wild and viral weather footage from across Canada and around the world.</desc>
-    <icon src="https://images.pluto.tv/series/6666cf3ac3f49b00136c0d68/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250412103000 +0000</episode-num>
+    <desc>Toronto’s daily news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">6666cf3ac3f49b00136c0d68</series-id>
+    <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
     <category>Series</category>
-    <category>News</category>
     <category>News &amp; Information</category>
   </programme>
-  <programme channel="63da370e2e477400081cf8b6" start="20250411183000 +0000" stop="20250411190000 +0000">
-    <title>Force of Nature</title>
+  <programme channel="62cc00b3b821cf00070f82c3" start="20250412110000 +0000" stop="20250412113000 +0000">
+    <title>Global News Toronto</title>
     <live />
-    <episode-num system="original-air-date">20250411183000 +0000</episode-num>
-    <desc>Wild and viral weather footage from across Canada and around the world.</desc>
-    <icon src="https://images.pluto.tv/series/6666cf3ac3f49b00136c0d68/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250412110000 +0000</episode-num>
+    <desc>Toronto’s daily news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">6666cf3ac3f49b00136c0d68</series-id>
+    <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
     <category>Series</category>
-    <category>News</category>
     <category>News &amp; Information</category>
   </programme>
-  <programme channel="63da370e2e477400081cf8b6" start="20250411190000 +0000" stop="20250411200000 +0000">
-    <title>Survivorman: Bigfoot</title>
+  <programme channel="62cc00b3b821cf00070f82c3" start="20250412113000 +0000" stop="20250412120000 +0000">
+    <title>Global News Toronto</title>
     <live />
-    <episode-num system="original-air-date">20250411190000 +0000</episode-num>
-    <desc>Les and crew climb to 16,000 ft up dangerous Mt. Sinkara to join 80,000 indigenous Andeans as they make their yearly pilgrimage to the holy site of Qollorit'i.</desc>
-    <icon src="https://images.pluto.tv/series/667d6a621c02820013ede119/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250412113000 +0000</episode-num>
+    <desc>Toronto’s daily news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">667d6a621c02820013ede119</series-id>
-    <sub-title>Incan O'ero High Priests</sub-title>
+    <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
     <category>Series</category>
-    <category>News</category>
+    <category>News &amp; Information</category>
+  </programme>
+  <programme channel="62cc00b3b821cf00070f82c3" start="20250412120000 +0000" stop="20250412123000 +0000">
+    <title>Global News Toronto</title>
+    <live />
+    <episode-num system="original-air-date">20250412120000 +0000</episode-num>
+    <desc>Toronto’s daily news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
+    <category>Series</category>
     <category>News &amp; Information</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250411200000 +0000" stop="20250411210000 +0000">
@@ -1373,9 +1321,9 @@
     <icon src="https://images.pluto.tv/series/6666cf3cc3f49b00136c0f73/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6666cf3cc3f49b00136c0f73</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250411210000 +0000" stop="20250411220000 +0000">
     <title>How to Survive</title>
@@ -1385,9 +1333,9 @@
     <icon src="https://images.pluto.tv/series/6666cf45c3f49b00136c1ba6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6666cf45c3f49b00136c1ba6</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250411220000 +0000" stop="20250411230000 +0000">
     <title>Survivorman: Bigfoot</title>
@@ -1398,9 +1346,9 @@
     <date>19700101</date>
     <series-id system="pluto">667d6a621c02820013ede119</series-id>
     <sub-title>Smoky Mountain Sasquatch</sub-title>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250411230000 +0000" stop="20250411233000 +0000">
     <title>Storm Hunters</title>
@@ -1411,9 +1359,9 @@
     <date>19700101</date>
     <series-id system="pluto">6666cf3ac3f49b00136c0db6</series-id>
     <sub-title>Lake of Fire</sub-title>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250411233000 +0000" stop="20250412000000 +0000">
     <title>Force of Nature</title>
@@ -1423,9 +1371,9 @@
     <icon src="https://images.pluto.tv/series/6666cf3ac3f49b00136c0d68/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6666cf3ac3f49b00136c0d68</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250412000000 +0000" stop="20250412003000 +0000">
     <title>Power to the People</title>
@@ -1436,9 +1384,9 @@
     <date>19700101</date>
     <series-id system="pluto">6666cf53c3f49b00136c31c3</series-id>
     <sub-title>Bella Coola</sub-title>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250412003000 +0000" stop="20250412010000 +0000">
     <title>Candid Closeup</title>
@@ -1449,9 +1397,9 @@
     <date>19700101</date>
     <series-id system="pluto">666181afc0b6d50014e46288</series-id>
     <sub-title>B.C., Nova Scotia, Ontario, Saskatchewan</sub-title>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250412010000 +0000" stop="20250412013000 +0000">
     <title>Force of Nature</title>
@@ -1461,9 +1409,9 @@
     <icon src="https://images.pluto.tv/series/6666cf3ac3f49b00136c0d68/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6666cf3ac3f49b00136c0d68</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250412013000 +0000" stop="20250412020000 +0000">
     <title>Force of Nature</title>
@@ -1473,9 +1421,9 @@
     <icon src="https://images.pluto.tv/series/6666cf3ac3f49b00136c0d68/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6666cf3ac3f49b00136c0d68</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250412020000 +0000" stop="20250412030000 +0000">
     <title>Survivorman: Bigfoot</title>
@@ -1486,9 +1434,9 @@
     <date>19700101</date>
     <series-id system="pluto">667d6a621c02820013ede119</series-id>
     <sub-title>Incan O'ero High Priests</sub-title>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250412030000 +0000" stop="20250412040000 +0000">
     <title>What If</title>
@@ -1498,9 +1446,9 @@
     <icon src="https://images.pluto.tv/series/6666cf3cc3f49b00136c0f73/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6666cf3cc3f49b00136c0f73</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250412040000 +0000" stop="20250412050000 +0000">
     <title>How to Survive</title>
@@ -1510,9 +1458,9 @@
     <icon src="https://images.pluto.tv/series/6666cf45c3f49b00136c1ba6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6666cf45c3f49b00136c1ba6</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250412050000 +0000" stop="20250412060000 +0000">
     <title>Survivorman: Bigfoot</title>
@@ -1523,9 +1471,9 @@
     <date>19700101</date>
     <series-id system="pluto">667d6a621c02820013ede119</series-id>
     <sub-title>Smoky Mountain Sasquatch</sub-title>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250412060000 +0000" stop="20250412063000 +0000">
     <title>Dream in Colour</title>
@@ -1535,9 +1483,9 @@
     <icon src="https://images.pluto.tv/series/6666cf3ac3f49b00136c0cfe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6666cf3ac3f49b00136c0cfe</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250412063000 +0000" stop="20250412070000 +0000">
     <title>Dream in Colour</title>
@@ -1547,9 +1495,9 @@
     <icon src="https://images.pluto.tv/series/6666cf3ac3f49b00136c0cfe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6666cf3ac3f49b00136c0cfe</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250412070000 +0000" stop="20250412073000 +0000">
     <title>Dream in Colour</title>
@@ -1559,9 +1507,9 @@
     <icon src="https://images.pluto.tv/series/6666cf3ac3f49b00136c0cfe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6666cf3ac3f49b00136c0cfe</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250412073000 +0000" stop="20250412080000 +0000">
     <title>Dream in Colour</title>
@@ -1571,9 +1519,9 @@
     <icon src="https://images.pluto.tv/series/6666cf3ac3f49b00136c0cfe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6666cf3ac3f49b00136c0cfe</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250412080000 +0000" stop="20250412083000 +0000">
     <title>Dream in Colour</title>
@@ -1583,9 +1531,9 @@
     <icon src="https://images.pluto.tv/series/6666cf3ac3f49b00136c0cfe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6666cf3ac3f49b00136c0cfe</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250412083000 +0000" stop="20250412090000 +0000">
     <title>Dream in Colour</title>
@@ -1595,9 +1543,9 @@
     <icon src="https://images.pluto.tv/series/6666cf3ac3f49b00136c0cfe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6666cf3ac3f49b00136c0cfe</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250412090000 +0000" stop="20250412093000 +0000">
     <title>Dream in Colour</title>
@@ -1607,21 +1555,81 @@
     <icon src="https://images.pluto.tv/series/6666cf3ac3f49b00136c0cfe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6666cf3ac3f49b00136c0cfe</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
-  <programme channel="6536725167bd1a00084481bc" start="20250411163000 +0000" stop="20250411200000 +0000">
-    <title>Today's Top Stories</title>
+  <programme channel="63da370e2e477400081cf8b6" start="20250412093000 +0000" stop="20250412100000 +0000">
+    <title>Dream in Colour</title>
     <live />
-    <episode-num system="original-air-date">20250411163000 +0000</episode-num>
-    <desc>What's happening across Canada and around the world.</desc>
-    <icon src="https://images.pluto.tv/series/67213f9d61f27a00137db248/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250412093000 +0000</episode-num>
+    <desc>Soothing music and visuals for a tranquil night's journey into vibrant dreams.</desc>
+    <icon src="https://images.pluto.tv/series/6666cf3ac3f49b00136c0cfe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">67213f9d61f27a00137db248</series-id>
-    <category>Series</category>
+    <series-id system="pluto">6666cf3ac3f49b00136c0cfe</series-id>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="63da370e2e477400081cf8b6" start="20250412100000 +0000" stop="20250412103000 +0000">
+    <title>Weather AM</title>
+    <live />
+    <episode-num system="original-air-date">20250412100000 +0000</episode-num>
+    <desc>Forecasts for all of Canada with relevant weather stories to start the day.</desc>
+    <icon src="https://images.pluto.tv/series/666181aac0b6d50014e45c22/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">666181aac0b6d50014e45c22</series-id>
+    <category>News</category>
+    <category>News &amp; Information</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="63da370e2e477400081cf8b6" start="20250412103000 +0000" stop="20250412110000 +0000">
+    <title>Force of Nature</title>
+    <live />
+    <episode-num system="original-air-date">20250412103000 +0000</episode-num>
+    <desc>Wild and viral weather footage from across Canada and around the world.</desc>
+    <icon src="https://images.pluto.tv/series/6666cf3ac3f49b00136c0d68/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">6666cf3ac3f49b00136c0d68</series-id>
+    <category>News</category>
+    <category>News &amp; Information</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="63da370e2e477400081cf8b6" start="20250412110000 +0000" stop="20250412113000 +0000">
+    <title>Weather AM</title>
+    <live />
+    <episode-num system="original-air-date">20250412110000 +0000</episode-num>
+    <desc>Forecasts for all of Canada with relevant weather stories to start the day.</desc>
+    <icon src="https://images.pluto.tv/series/666181aac0b6d50014e45c22/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">666181aac0b6d50014e45c22</series-id>
+    <category>News</category>
+    <category>News &amp; Information</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="63da370e2e477400081cf8b6" start="20250412113000 +0000" stop="20250412120000 +0000">
+    <title>Force of Nature</title>
+    <live />
+    <episode-num system="original-air-date">20250412113000 +0000</episode-num>
+    <desc>Wild and viral weather footage from across Canada and around the world.</desc>
+    <icon src="https://images.pluto.tv/series/6666cf3ac3f49b00136c0d68/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">6666cf3ac3f49b00136c0d68</series-id>
+    <category>News</category>
+    <category>News &amp; Information</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="63da370e2e477400081cf8b6" start="20250412120000 +0000" stop="20250412123000 +0000">
+    <title>Weather AM</title>
+    <live />
+    <episode-num system="original-air-date">20250412120000 +0000</episode-num>
+    <desc>Forecasts for all of Canada with relevant weather stories to start the day.</desc>
+    <icon src="https://images.pluto.tv/series/666181aac0b6d50014e45c22/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">666181aac0b6d50014e45c22</series-id>
+    <category>News</category>
+    <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250411200000 +0000" stop="20250411203000 +0000">
     <title>About That</title>
@@ -1631,9 +1639,9 @@
     <icon src="https://images.pluto.tv/series/670550257dcabd0013116e26/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">670550257dcabd0013116e26</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250411203000 +0000" stop="20250411230000 +0000">
     <title>Today's Top Stories</title>
@@ -1643,9 +1651,9 @@
     <icon src="https://images.pluto.tv/series/67213f9d61f27a00137db248/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">67213f9d61f27a00137db248</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250411230000 +0000" stop="20250411233000 +0000">
     <title>About That</title>
@@ -1655,9 +1663,9 @@
     <icon src="https://images.pluto.tv/series/670550257dcabd0013116e26/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">670550257dcabd0013116e26</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250411233000 +0000" stop="20250412000000 +0000">
     <title>Today's Top Stories</title>
@@ -1667,9 +1675,9 @@
     <icon src="https://images.pluto.tv/series/67213f9d61f27a00137db248/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">67213f9d61f27a00137db248</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250412000000 +0000" stop="20250412010000 +0000">
     <title>Today's Top Stories</title>
@@ -1679,9 +1687,9 @@
     <icon src="https://images.pluto.tv/series/67213f9d61f27a00137db248/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">67213f9d61f27a00137db248</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250412010000 +0000" stop="20250412020000 +0000">
     <title>The National</title>
@@ -1691,9 +1699,9 @@
     <icon src="https://images.pluto.tv/series/670550257dcabd0013116dd2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">670550257dcabd0013116dd2</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250412020000 +0000" stop="20250412030000 +0000">
     <title>The National</title>
@@ -1703,9 +1711,9 @@
     <icon src="https://images.pluto.tv/series/670550257dcabd0013116dd2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">670550257dcabd0013116dd2</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250412030000 +0000" stop="20250412040000 +0000">
     <title>The National</title>
@@ -1715,9 +1723,9 @@
     <icon src="https://images.pluto.tv/series/670550257dcabd0013116dd2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">670550257dcabd0013116dd2</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250412040000 +0000" stop="20250412050000 +0000">
     <title>The National</title>
@@ -1727,9 +1735,9 @@
     <icon src="https://images.pluto.tv/series/670550257dcabd0013116dd2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">670550257dcabd0013116dd2</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250412050000 +0000" stop="20250412060000 +0000">
     <title>The National</title>
@@ -1739,9 +1747,9 @@
     <icon src="https://images.pluto.tv/series/670550257dcabd0013116dd2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">670550257dcabd0013116dd2</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250412060000 +0000" stop="20250412070000 +0000">
     <title>The National</title>
@@ -1751,9 +1759,9 @@
     <icon src="https://images.pluto.tv/series/670550257dcabd0013116dd2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">670550257dcabd0013116dd2</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250412070000 +0000" stop="20250412080000 +0000">
     <title>The National</title>
@@ -1763,9 +1771,9 @@
     <icon src="https://images.pluto.tv/series/670550257dcabd0013116dd2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">670550257dcabd0013116dd2</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250412080000 +0000" stop="20250412090000 +0000">
     <title>The National</title>
@@ -1775,9 +1783,9 @@
     <icon src="https://images.pluto.tv/series/670550257dcabd0013116dd2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">670550257dcabd0013116dd2</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250412090000 +0000" stop="20250412100000 +0000">
     <title>The National</title>
@@ -1787,9 +1795,45 @@
     <icon src="https://images.pluto.tv/series/670550257dcabd0013116dd2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">670550257dcabd0013116dd2</series-id>
-    <category>Series</category>
     <category>News</category>
     <category>News &amp; Information</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6536725167bd1a00084481bc" start="20250412100000 +0000" stop="20250412110000 +0000">
+    <title>The National</title>
+    <live />
+    <episode-num system="original-air-date">20250412100000 +0000</episode-num>
+    <desc>CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.</desc>
+    <icon src="https://images.pluto.tv/series/670550257dcabd0013116dd2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">670550257dcabd0013116dd2</series-id>
+    <category>News</category>
+    <category>News &amp; Information</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6536725167bd1a00084481bc" start="20250412110000 +0000" stop="20250412120000 +0000">
+    <title>The National</title>
+    <live />
+    <episode-num system="original-air-date">20250412110000 +0000</episode-num>
+    <desc>CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.</desc>
+    <icon src="https://images.pluto.tv/series/670550257dcabd0013116dd2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">670550257dcabd0013116dd2</series-id>
+    <category>News</category>
+    <category>News &amp; Information</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6536725167bd1a00084481bc" start="20250412120000 +0000" stop="20250412130000 +0000">
+    <title>The National</title>
+    <live />
+    <episode-num system="original-air-date">20250412120000 +0000</episode-num>
+    <desc>CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.</desc>
+    <icon src="https://images.pluto.tv/series/670550257dcabd0013116dd2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">670550257dcabd0013116dd2</series-id>
+    <category>News</category>
+    <category>News &amp; Information</category>
+    <category>Series</category>
   </programme>
   <channel id="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770">
     <display-name>CBC News</display-name>
@@ -1827,12 +1871,6 @@
     <display-name>The Pet Collective</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/29129b53-2f46-425d-ac3f-3a76dc2d147f/TPC_PLEX_CHANNEL-LOGOS_WHITE.png" />
   </channel>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250411163000 +0000" stop="20250411200000 +0000">
-    <title>Today's Top Stories</title>
-    <sub-title>Today's Top Stories</sub-title>
-    <desc>What's happening across Canada and around the world.</desc>
-    <date>20250411</date>
-  </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250411200000 +0000" stop="20250411203000 +0000">
     <title>About That</title>
     <sub-title>About That</sub-title>
@@ -1965,37 +2003,23 @@
     <desc>Making sense of the big stories that made news across Canada and around the world from this past week.</desc>
     <date>20250412</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250411170000 +0000" stop="20250411180000 +0000">
-    <title>Power Play with Vassy Kapelos</title>
-    <sub-title>Power Play for Thursday, April 10, 2025</sub-title>
-    <episode-num system="onscreen">S2025E146</episode-num>
-    <desc>CTV News Channel's daily marquee political program, Power Play.</desc>
-    <date>20250411</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29798_2024_2_22_42dbc6b2-bee6-4555-bcc6-aa46ecdb9674_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250412190000 +0000" stop="20250412193000 +0000">
+    <title>About That</title>
+    <sub-title>About That</sub-title>
+    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
+    <date>20250412</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250411180000 +0000" stop="20250411183000 +0000">
-    <title>CTV National News with Omar Sachedina</title>
-    <sub-title>CTV National News for Thursday, April 10, 2025</sub-title>
-    <episode-num system="onscreen">S2025E58</episode-num>
-    <desc>CTV National News with Omar Sachedina is Canada's #1 national newscast</desc>
-    <date>20250411</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29593_2024_2_22_a0b77432-b521-4b92-8fd6-df17c3828c96_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250412193000 +0000" stop="20250412200000 +0000">
+    <title>About That</title>
+    <sub-title>About That</sub-title>
+    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
+    <date>20250412</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250411183000 +0000" stop="20250411190000 +0000">
-    <title>CTV News: Across Canada</title>
-    <sub-title>for Wednesday, April 9, 2025</sub-title>
-    <episode-num system="onscreen">S2025E79</episode-num>
-    <desc>Top stories from coast-to-coast as reported by CTV News local journalists across Canada.</desc>
-    <date>20250409</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55945_2024_8_9_9f6270cc-d7b3-48b4-a0cc-902adc5a6152_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250411190000 +0000" stop="20250411200000 +0000">
-    <title>W5</title>
-    <sub-title>The Baby in the Snow</sub-title>
-    <episode-num system="onscreen">S53E22</episode-num>
-    <desc>W5 investigates a three-decades-old cold case - the unsolved murder of a young boy.</desc>
-    <date>20241111</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29794_2024_2_22_01ca6461-2f07-403f-8834-295a51103928_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250412200000 +0000" stop="20250412210000 +0000">
+    <title>The Fifth Estate</title>
+    <sub-title>The Fifth Estate</sub-title>
+    <desc>The top-notch team of hosts Bob McKeown, Gillian Findlay, Mark Kelley and Habiba Nosheen provides unique and engaging documentaries from Canada and beyond. "The Fifth Estate" is a reference to the term Fourth Estate, and was chosen to highlight the program's determination to go beyond everyday news into original journalism. The series has won numerous awards for its reporting, including Gemini Awards, International Emmys, the Michener Award, and even an Academy Award for a 1981 episode that was released in theaters the following year. Since September 1975, Canadians have tuned in to experience interesting stories that are always well-crafted and thought-provoking.</desc>
+    <date>20250412</date>
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250411200000 +0000" stop="20250411203000 +0000">
     <title>CTV National News with Omar Sachedina</title>
@@ -2240,61 +2264,30 @@
     <desc>Power Play</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250411170136 +0000" stop="20250411172742 +0000">
-    <title>Watts on the Grill</title>
-    <sub-title>Delicious Grilled Shellfish</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Spencer grills up four easy shellfish dishes.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m43082_2024_2_28_201c3d22-6fcb-475c-aae2-78e264a3f645_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250412180000 +0000" stop="20250412183000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250411172742 +0000" stop="20250411175349 +0000">
-    <title>Watts on the Grill</title>
-    <sub-title>Barbeque Sauces</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Spencer prepares barbeque sauce recipes.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m43082_2024_2_28_201c3d22-6fcb-475c-aae2-78e264a3f645_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250412183000 +0000" stop="20250412190000 +0000">
+    <title>CTV News: Across Canada</title>
+    <category>Movie</category>
+    <desc>CTV News: Across Canada</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250411175349 +0000" stop="20250411181955 +0000">
-    <title>Watts on the Grill</title>
-    <sub-title>Bananas for Barbeque</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>Spencer offers tips and tricks for preparing barbeque treats.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m43082_2024_2_28_201c3d22-6fcb-475c-aae2-78e264a3f645_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250412190000 +0000" stop="20250412200000 +0000">
+    <title>CTV News Special: I’m Sandie Rinaldo</title>
+    <category>Movie</category>
+    <desc>Celebrating 50 years with CTV News, Sandie Rinaldo marks this historic milestone in Canadian broadcasting by revealing her family history.</desc>
+    <date>20241011</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250411181955 +0000" stop="20250411184603 +0000">
-    <title>Watts on the Grill</title>
-    <sub-title>Pork was Made for Barbeques</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>Spencer shares four of his favourite pork recipes.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m43082_2024_2_28_201c3d22-6fcb-475c-aae2-78e264a3f645_JPG_1920x1080.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250411184603 +0000" stop="20250411191209 +0000">
-    <title>Watts on the Grill</title>
-    <sub-title>Fish on the Grill</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>Chef Spencer Watts shares delightful fish dishes.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m43082_2024_2_28_201c3d22-6fcb-475c-aae2-78e264a3f645_JPG_1920x1080.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250411191209 +0000" stop="20250411193815 +0000">
-    <title>Watts on the Grill</title>
-    <sub-title>Beef-a-palooza</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>Spencer hosts a beef-a-palooza with four beef cuts, including smoked brisket and beef tenderloin.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m43082_2024_2_28_201c3d22-6fcb-475c-aae2-78e264a3f645_JPG_1920x1080.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250411193815 +0000" stop="20250411200421 +0000">
-    <title>Watts on the Grill</title>
-    <sub-title>Foul Play</sub-title>
-    <episode-num system="onscreen">S01E13</episode-num>
-    <desc>Spencer demonstrates the best ways to grill duck, turkey, capon, and quail.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m43082_2024_2_28_201c3d22-6fcb-475c-aae2-78e264a3f645_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250412200000 +0000" stop="20250412203000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250411200421 +0000" stop="20250411203029 +0000">
     <title>Watts on the Grill</title>
@@ -2688,24 +2681,61 @@
     <date>20250228</date>
     <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m43082_2024_2_28_201c3d22-6fcb-475c-aae2-78e264a3f645_JPG_1920x1080.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250411161829 +0000" stop="20250411172516 +0000">
-    <title>Moon Shots</title>
-    <category>Movie</category>
-    <desc>With rare archive footage, this stunning one-hour special brings scientific history to life.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRMHLGKAVBYPC8GZ_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250412172348 +0000" stop="20250412174953 +0000">
+    <title>Fish The Dish</title>
+    <sub-title>Vinegar</sub-title>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <desc>How vinegar can bring out the flavors of walleye, lobster and crawfish.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m38712_2024_2_28_62ffcb3b-6f13-4421-961e-f38adb31d81b_JPG_1920x1080.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250411172516 +0000" stop="20250411183229 +0000">
-    <title>Zero Gravity: Life on the International Space Station</title>
-    <category>Movie</category>
-    <desc>ESA and NASA astronauts document six months exploring outer space at the International Space Station.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171B3MW29OUOL_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250412174953 +0000" stop="20250412181559 +0000">
+    <title>Fish The Dish</title>
+    <sub-title>Cocktails</sub-title>
+    <episode-num system="onscreen">S02E02</episode-num>
+    <desc>Cocktails can be inspiration for cooking great seafood.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m38712_2024_2_28_62ffcb3b-6f13-4421-961e-f38adb31d81b_JPG_1920x1080.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250411183229 +0000" stop="20250411193739 +0000">
-    <title>Voyage of Darwin's Beagle: On The Future of Species</title>
-    <sub-title>The Final Countdown</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>After crossing the Strait of Magellan, Sarah Darwin retraces her ancestor’s journey into the Andes Mountains.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRGJ131569J_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250412181559 +0000" stop="20250412184206 +0000">
+    <title>Fish The Dish</title>
+    <sub-title>Cold</sub-title>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <desc>How to prepare cold dishes with arctic char and shrimp.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m38712_2024_2_28_62ffcb3b-6f13-4421-961e-f38adb31d81b_JPG_1920x1080.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250412184206 +0000" stop="20250412190812 +0000">
+    <title>Fish The Dish</title>
+    <sub-title>Wrapped</sub-title>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <desc>Have fun wrapping seafood to create delicious dishes with swordfish and shrimp.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m38712_2024_2_28_62ffcb3b-6f13-4421-961e-f38adb31d81b_JPG_1920x1080.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250412190812 +0000" stop="20250412193418 +0000">
+    <title>Fish The Dish</title>
+    <sub-title>Garlic</sub-title>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <desc>Spencer Watts cooks up tasty haddock and escargot treats using garlic.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m38712_2024_2_28_62ffcb3b-6f13-4421-961e-f38adb31d81b_JPG_1920x1080.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250412193418 +0000" stop="20250412200025 +0000">
+    <title>Fish The Dish</title>
+    <sub-title>Seeds</sub-title>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <desc>Chef Spencer Watts shows how much flavor seeds can add to sole and squid.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m38712_2024_2_28_62ffcb3b-6f13-4421-961e-f38adb31d81b_JPG_1920x1080.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250412200025 +0000" stop="20250412202631 +0000">
+    <title>Fish The Dish</title>
+    <sub-title>Peppers</sub-title>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <desc>Spencer spices things up as he makes pepper-inspired dishes with catfish and clams.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m38712_2024_2_28_62ffcb3b-6f13-4421-961e-f38adb31d81b_JPG_1920x1080.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250411193739 +0000" stop="20250411204201 +0000">
     <title>Voyage of Darwin's Beagle: On The Future of Species</title>
@@ -2856,24 +2886,25 @@
     <desc>Sarah Darwin visits the remaining members of a native tribe wiped out following contact with European disease.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRGJ131569J_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250411163239 +0000" stop="20250411173522 +0000">
-    <title>Mega Disaster</title>
-    <sub-title>Earthquake</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Earthquakes baffle experts as they try to gather the information necessary to predict the next big one.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/5N1HJZ69IH6XNUB0QKJMTG_16_9.jpeg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250412173939 +0000" stop="20250412184435 +0000">
+    <title>Disaster Diaries</title>
+    <sub-title>Rising Temperatures, Rising Seas (2015)</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>2015 was marked by many exceptional natural disasters. Is this the result of global warming?</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRN2P7PIHRQH9LZJ_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250411173522 +0000" stop="20250411183344 +0000">
-    <title>Earth in 1000 years</title>
-    <category>Movie</category>
-    <desc>Earth's stores of ice on Greenland and Antarctica are melting, and sea levels rising. Where is Earth headed?</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRMHLGKBR8G610GS_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250412184435 +0000" stop="20250412194857 +0000">
+    <title>Disaster Diaries</title>
+    <sub-title>A Year of Floods and Fire (2016)</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>2016 marked the end of one of the strongest events ever recorded.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRN2P7PIHRQH9LZJ_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250411183344 +0000" stop="20250411193736 +0000">
-    <title>Antarctica</title>
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250412194857 +0000" stop="20250412204236 +0000">
+    <title>China's Long March Into Space</title>
     <category>Movie</category>
-    <desc>Explore Antarctica, one of the world's most beautiful, yet inhospitable, landscapes.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171ACXZPIENJB_2_3.jpeg" />
+    <desc>Three men sit atop 500 tons of liquid fuel in China's Shenzhou 7 ship, ready to blast 185 miles into space.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/5N1HJZ69IH6XN9X9KXRYDV_2_3.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250411193736 +0000" stop="20250411203746 +0000">
     <title>Facing Forces of Nature</title>
@@ -3027,23 +3058,54 @@
     <desc>The ibex, marmot, and European adder have all developed strategies to survive the harsh alpine winter.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171AFHVCCICM7_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250411170000 +0000" stop="20250411180000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250412181603 +0000" stop="20250412183405 +0000">
+    <title>Fascinating Places</title>
+    <sub-title>The Wild West Coast</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>The West Coast of Madagascar is remote and inhospitable but home to an astonishing array of animals.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171AE5DNAME14_16_9.jpeg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250411180000 +0000" stop="20250411190000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250412183405 +0000" stop="20250412185300 +0000">
+    <title>Fascinating Places</title>
+    <sub-title>The Forest of the Northeast</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>The Northeast of Madagascar is a major trading center and one of the most species-rich regions in the world.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171AE5DNAME14_16_9.jpeg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250411190000 +0000" stop="20250411200000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250412185300 +0000" stop="20250412191122 +0000">
+    <title>Fascinating Places</title>
+    <sub-title>The Multifaceted Inland</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Madagascar is an island paradise in the Indian Ocean, home to fun-loving folk and a unique natural landscape.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171AE5DNAME14_16_9.jpeg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250412191122 +0000" stop="20250412193002 +0000">
+    <title>Fascinating Places</title>
+    <sub-title>Black Forest</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>The Black Forest captivates all who visit and has a reputation for its unique landscape and inhabitants.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171AE5DNAME14_16_9.jpeg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250412193002 +0000" stop="20250412194831 +0000">
+    <title>Fascinating Places</title>
+    <sub-title>Wilderness In the Heart of Europe</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>The Vosges are home to countless species, encompassing mountains, valleys, forests, and fields.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171AE5DNAME14_16_9.jpeg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250412194831 +0000" stop="20250412200731 +0000">
+    <title>Fascinating Places</title>
+    <sub-title>In the Valley of the Storks</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>The emblem of The Vosges is the stork. Once gone almost entirely, there are now 400 resident breeding pairs.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171AE5DNAME14_16_9.jpeg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250412200731 +0000" stop="20250412202617 +0000">
+    <title>Fascinating Places</title>
+    <sub-title>On Safari in Kenya’s Nature Paradise</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>The Maasai Mara is one of the most breathtaking animal habitats in the world.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171AE5DNAME14_16_9.jpeg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250411200000 +0000" stop="20250411210000 +0000">
     <title>Evolution Earth</title>
@@ -3177,53 +3239,23 @@
     <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250411165222 +0000" stop="20250411172312 +0000">
-    <title>Wildlife Nannies</title>
-    <sub-title>Wildlife Nannies: Rhino Baby</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Rhino Baby Layla: Rhinoceros baby Layla is a small sensation – she is the first artificially inseminated rhino baby ever. Dr. Victor Molnár lovingly looks after his precious baby patient day and night – but will he be able to reunite her with her parents? Mountain Rescue Dog: In the Tirolian Mountains, 6 month old puppy Janis starts her training to become a mountain rescue dog. Her trainer Alois Haselwanter is putting her through the paces for working in the wilderness. Will she meet the challenges of dog training school and become a member of the Tirolian mountain rescue dog team? Genet Leonard: In South Africa, genet foundling Leonard makes his first excursion into the wild. Will he make new friends outside the sheltered home of his nanny Alison Horn?</desc>
-    <date>20141003</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/WildlifeNannies_S01_E04.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250412180000 +0000" stop="20250412190000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250411172312 +0000" stop="20250411175407 +0000">
-    <title>Wildlife Nannies</title>
-    <sub-title>Wildlife Nannies: Wildlife Hospital Healesville</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Wildlife-Hospital Healesville: A thrilling day at the Australian Wildlife Health Centre for veterinarian Kelly O’Sulivan and her assistant Guni Hudson: An Australian Hedgehog was hit by a car and is badly injured. Kelly fights for the life of an Opossum. And Anya, a baby wallaby, makes her first exciting public appearance at the centre. Elephant Malaika: We spend the day with handler Joseph and the 4-yr. old Elephant Malaika. Jospeh has known Malaika since she was a few weeks old. How will she do with the children on her first visit to a public school?</desc>
-    <date>20141003</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/WildlifeNannies_S01_E06.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250412190000 +0000" stop="20250412200000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250411175407 +0000" stop="20250411182448 +0000">
-    <title>Wildlife Nannies</title>
-    <sub-title>Wildlife Nannies: Dolphin Joan</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Dolphin Joan: Dolphin Joan is the darling of visitors to the “Loro Parque” and will face the challenge of his first live show in front of an audience. His trainer Miguel Luis Sosa is going through the final training lessons with him. Will this quick learner be able to perform with the help of his mother and grandmother? Vervet Monkey Alfie: Silke von Eynern is runs the “Bambelela Farm” in South Africa, where she has taken care of vervet monkeys for many years. Her newest arrival is Alfie, a vervet monkey that has been kept as a pet and been treated all wrong. Silke is on a mission to teach 10 weeks old Alfie how to be a proper monkey. Wildlife Foundlings: It’s high season at the wild animal station Sachsenhagen. Mareen Möller takes care of all sorts of foundlings and injured orphans -- she has her hands full all day. Especially a baby fox named Didi and a wild boar baby named Armin require all her attention as they are growing tall and bold.</desc>
-    <date>20141010</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/WildlifeNannies_S01_E07.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250411182448 +0000" stop="20250411185543 +0000">
-    <title>Wildlife Nannies</title>
-    <sub-title>Wildlife Nannies: Tree-Kangaroo Dorothy</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Tree-Kangaroo Dorothy: Margit Cianelli is a trained animal carer who lives at the Lumholtz Lodge in the Australian tablelands and is currently taking care of small tree kangaroo named Dorothy. Dorothy is old and strong enough to go into the forest by herself now. Margit gets nervous, when Dorothy does not return before dusk. Luckily she is wearing a tracking device… Warthog Baby: Nelly is a 5 week old Warthog that lives in the Kragga Kamma Game Park in South Africa. Her nanny Heike Zitzer is trying to wean Nelly from her care, but the little warthog just loves being by her side. When Heike leaves her alone, Nelly meets grumpy fellows as she searches for Heike throughout the park. Will Nelly make new friends in the end?</desc>
-    <date>20141010</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/WildlifeNannies_S01_E08.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250411185543 +0000" stop="20250411192638 +0000">
-    <title>Wildlife Nannies</title>
-    <sub-title>Wildlife Nannies: Arctic Wolves</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>Arctic Wolves: A pack of 5 week old wolf cubs get ready to go to school with famous film animal trainer Joe Bodemann. But before that, the little cubs have to be weaned off their bottles and get used to their new outdoor enclosure. Wildlife Warriors: These special nannies are always ready to jump into action to save animals of every kind. Over 100 patients are being treated by this Australian wildlife hospital every day: tortoises, kookaburras, wild boars, possums, hedgehogs - and even poisonous snakes! Lion Amir: In South Africa, 11 month old lion Amir was brought to his nanny Katja Peters half starved. Now he’s maturing into a beautiful lion and is looking for company. Will he find true love with a very special lioness?</desc>
-    <date>20141017</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/WildlifeNannies_S01_E09.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250411192638 +0000" stop="20250411195739 +0000">
-    <title>Wildlife Nannies</title>
-    <sub-title>Wildlife Nannies: Raccoon Zorro</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>Raccoon Zorro: 8 week old racoon Zorro is a real handful for Nanny Julia Wiertz. No stone is left unturned on his mischievous adventures. Will Zorro be able to learn how to climb and scavage for food with Julia as a teacher? Storks: Dr. Michael Kaatz has two motherless baby storks at his stork sanctuary. In order to find a new home for Max and Moritz, he is trying to trick a stork family into adopting the orphaned storks. But will the recovered foundlings ever be able to fly in the wild? Zebra Baby et al.: Wildlife keeper Jaco Nell teaches his new assistant Anna de la Roca how to take care of cheetahs, rhinos and zebras on his South African gaming reserve “Kapama”.</desc>
-    <date>20220826</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/WildlifeNannies_S01_E10.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250412200000 +0000" stop="20250412210000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250411195739 +0000" stop="20250411202829 +0000">
     <title>Wildlife Nannies</title>
@@ -3447,28 +3479,29 @@
     <date>20180628</date>
     <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/ASIA%2520SECRET%2520LIVES%2520-%2520HIDDEN%2520PLACES%2520II%2520EPISODE%25203_Landscape_V1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250411170106 +0000" stop="20250411175828 +0000">
-    <title>Bear Whisperer</title>
-    <sub-title>You Bad Bear</sub-title>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <desc>In this episode, three young bears show up in the town of Mammoth Lakes without their mothers.</desc>
-    <date>20100101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/CFXBWHS002EP002.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250412174855 +0000" stop="20250412183900 +0000">
+    <title>Asia - Secret Lives Hidden Places II</title>
+    <sub-title>Asia - Secret Lives Hidden Places II: Gaoligongshan Park: China – Himalaya’s Gold</sub-title>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <desc>The Great Gobi National Park in southwestern Mongolia shelters one of the last populations of wild Bactrian camels, amid its ancient and mysterious desert landscape. With around 800 critically endangered animals, the Gobi remains one of the world's most sparsely inhabited and inhospitable regions, yet its allure is undeniable, offering a captivating backdrop for encounters with wild camels and stories of people deeply connected to nature.</desc>
+    <date>20180628</date>
+    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/ASIA%2520SECRET%2520LIVES%2520-%2520HIDDEN%2520PLACES%2520II%2520EPISODE%25205_Landscape_V1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250411175828 +0000" stop="20250411185552 +0000">
-    <title>Bear Whisperer</title>
-    <sub-title>Breaking and Entering</sub-title>
-    <episode-num system="onscreen">S02E03</episode-num>
-    <desc>The Bear Whisperer uses aversion therapy to teach the bears that bad behavior results in punishment.</desc>
-    <date>20100101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/CFXBWHS002EP003.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250412183900 +0000" stop="20250412192906 +0000">
+    <title>Asia - Secret Lives Hidden Places II</title>
+    <sub-title>Asia - Secret Lives Hidden Places II: Great Gobi National Park: Mongolia – Following the Wild Camels</sub-title>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <desc>The jungle in northern Vietnam is nearly impenetrable, with some areas never touched by humans. The remote rainforests of Pu Mat National Park serve as a refuge for endangered wildlife such as black bears, monkeys, and pangolins. Tuan, a biologist and bear specialist, embarks on an expedition to these untouched regions of the park in search of bears. The most hunted animal here is the pangolin, sought after for its scales believed to have medicinal properties and its meat considered a delicacy. A small Vietnamese conservation organization fights for the survival of this species.</desc>
+    <date>20180628</date>
+    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/ASIA%2520SECRET%2520LIVES%2520-%2520HIDDEN%2520PLACES%2520II%2520EPISODE%25204_Landscape_V1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250411185552 +0000" stop="20250411195706 +0000">
-    <title>Face To Face With A Polar Bear</title>
-    <category>Movie</category>
-    <desc>Jerome Bouvier's film follows polar bear family's journey in Spitzberg, highlighting their education &amp; traits.</desc>
-    <date>20050101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250412192906 +0000" stop="20250412202300 +0000">
+    <title>Chiemgau, A Changing Landscape</title>
+    <sub-title>Chiemgau, A Changing Landscape: Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>A few thousand years ago, there were bare moraine ridges and barren meltwater valleys here. A landscape born in the last ice age, characterized by the edge of the Alps, gentle hills, moors, and lakes. And by cultural richness, not only on the islands in Lake Chiemsee, with their famous monasteries and castles. Long before King Ludwig II, the first people settled in the Chiemgau region. Finds of hunting weapons from the Neanderthal era prove that the land was inhabited even during the ice age, probably because there was plenty of game to hunt. During the Bronze Age, one of the most important trade routes from the mountains to the Alpine foothills passed through here. Then came the Celts and the Romans.</desc>
+    <date>20190131</date>
+    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/CHIEMGAU%252C%2520A%2520CHANGING%2520LANDSCAPE%2520EPISODE%25201_Landscape_V1.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250411195706 +0000" stop="20250411212801 +0000">
     <title>In The Land Of The Moose</title>
@@ -3642,45 +3675,26 @@
     <date>20130101</date>
     <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-5f170d61b898490041b49369" start="20250411170923 +0000" stop="20250411174023 +0000">
-    <title>TPC That's My Pet</title>
-    <sub-title>TPC That's My Pet | Muscle Mutts</sub-title>
-    <episode-num system="onscreen">S04E11</episode-num>
-    <desc>Did you know that Dalmatians' spots appear about ten days after birth?</desc>
-    <date>20230912</date>
-    <icon src="https://images.frequency.com/video/9fh4utezrazt1byzeyyycq93m/original/9fh4utezrazt1byzeyyycq93m.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250412181332 +0000" stop="20250412191424 +0000">
+    <title>Giants Of Fortune - The Whale Sharks Of Oslob</title>
+    <category>Movie</category>
+    <desc>Typhoons and overfishing in Oslob, a Filipino village, have severely affected fishermen</desc>
+    <date>20140101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-5f170d61b898490041b49369" start="20250411174023 +0000" stop="20250411181123 +0000">
-    <title>TPC Theatre</title>
-    <sub-title>TPC Theatre | That’s Not a Yacht, That’s a Schooner</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>There are jokes in today's episode. Mr. Sniffles only laughs at one of them.</desc>
-    <date>20220822</date>
-    <icon src="https://images.frequency.com/video/1p6jxatpmmo2m1uisl2gbe84l/w1920_h1080/1p6jxatpmmo2m1uisl2gbe84l.jpg?width=1280&amp;height=720" />
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250412191424 +0000" stop="20250412201321 +0000">
+    <title>Trees Of Life</title>
+    <category>Movie</category>
+    <desc>A TREE OF LIFE shares stories of Tree of Life Synagogue survivors, victims, and families amid rising hate.</desc>
+    <date>20110101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-5f170d61b898490041b49369" start="20250411181123 +0000" stop="20250411184223 +0000">
-    <title>TPC Theatre</title>
-    <sub-title>TPC Theatre | Amazing Pet Athletes</sub-title>
-    <episode-num system="onscreen">S02E10</episode-num>
-    <desc>From the great outdoors, to the farm, to the field of play, our pets are always showing us what they can do.</desc>
-    <date>20230609</date>
-    <icon src="https://images.frequency.com/video/1p5r3fdydh61v10lljaysrvxb/original/1p5r3fdydh61v10lljaysrvxb.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-5f170d61b898490041b49369" start="20250411184223 +0000" stop="20250411191323 +0000">
-    <title>The Pet Collective Presents: Best In Show</title>
-    <sub-title>The Pet Collective Presents: Best In Show | Race to the Top: Day 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Athletic feats, daring escapes, sneaky snacking and MORE as animals battle it out in the ULTIMATE SHOWDOWN!</desc>
-    <date>20250305</date>
-    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=1280&amp;height=720&amp;url=https://images.frequency.com/video/7303119236968215792/solid/rectangle/w1920_h1080/w19gizltsj5d1030m044cgx24.jpeg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-5f170d61b898490041b49369" start="20250411191323 +0000" stop="20250411194423 +0000">
-    <title>The Pet Collective Presents: Best In Show</title>
-    <sub-title>The Pet Collective Presents: Best In Show | Skill Showdown: Day 2</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Mischief, glamorous grooming, aw-dropping manners, and MORE as animals battle it out in the ULTIMATE SHOWDOWN!</desc>
-    <date>20250207</date>
-    <icon src="https://images.frequency.com/video/7293516872223652056/solid/rectangle/w1920_h1080/b2y3fh9b5xmg11oaoi6wigpra.jpeg?width=1280&amp;height=720" />
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250412201321 +0000" stop="20250412215353 +0000">
+    <title>The Real Lost World</title>
+    <category>Movie</category>
+    <desc>Follow a team of adventurers on an epic journey to the plateau of Roraima, Venezuela, to The Real Lost World.</desc>
+    <date>20060101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-5f170d61b898490041b49369" start="20250411194423 +0000" stop="20250411201623 +0000">
     <title>Animals Unscripted</title>
@@ -4018,6 +4032,54 @@
     <date>20240328</date>
     <icon src="https://images.frequency.com/video/144zdfk6u8eq91rozjzg49kpr/original/144zdfk6u8eq91rozjzg49kpr.jpg" />
   </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-5f170d61b898490041b49369" start="20250412173423 +0000" stop="20250412180523 +0000">
+    <title>Dr. Phur</title>
+    <sub-title>Dr. Phur | For the Love of Tennis Balls!</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>What to do when your furry friends are too attached, scare off delivery drivers, and hate the holiday season.</desc>
+    <date>20231103</date>
+    <icon src="https://images.frequency.com/video/1v6zz9qbyu1ui16o2v415ok61/original/1v6zz9qbyu1ui16o2v415ok61.png" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-5f170d61b898490041b49369" start="20250412180523 +0000" stop="20250412183623 +0000">
+    <title>Dr. Phur</title>
+    <sub-title>Dr. Phur | Rebellious Rascals</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>What to do when your pet is defying orders and refuses bath time!</desc>
+    <date>20240109</date>
+    <icon src="https://images.frequency.com/video/jngvb2zsqehs18zlwffxucjd8/original/jngvb2zsqehs18zlwffxucjd8.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-5f170d61b898490041b49369" start="20250412183623 +0000" stop="20250412190723 +0000">
+    <title>Dr. Phur</title>
+    <sub-title>Dr. Phur | We're Just Too Cute</sub-title>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <desc>How to handle the realization that you will never be as cute as us!</desc>
+    <date>20240304</date>
+    <icon src="https://images.frequency.com/video/lsiggtmj3zfk1evr41e8xpmiv/original/lsiggtmj3zfk1evr41e8xpmiv.jpg?width=1280&amp;height=720" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-5f170d61b898490041b49369" start="20250412190723 +0000" stop="20250412193823 +0000">
+    <title>Dr. Phur</title>
+    <sub-title>Dr. Phur | Escape Artists</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>How to handle toy attachments, thieving pets, and your furry friend becoming an escape artist.</desc>
+    <date>20231117</date>
+    <icon src="https://images.frequency.com/video/ekola8alc7321v0w3p3yakpq3/original/ekola8alc7321v0w3p3yakpq3.png" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-5f170d61b898490041b49369" start="20250412193823 +0000" stop="20250412200923 +0000">
+    <title>Dr. Phur</title>
+    <sub-title>Dr. Phur | Co-existing Animals</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>How to handle your pet interacting with their wildlife friends.</desc>
+    <date>20240125</date>
+    <icon src="https://images.frequency.com/video/1l1vif2ctryyh10l9lnzhmjlc/original/1l1vif2ctryyh10l9lnzhmjlc.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-5f170d61b898490041b49369" start="20250412200923 +0000" stop="20250412204023 +0000">
+    <title>Dr. Phur</title>
+    <sub-title>Dr. Phur | Why Are You Looking at Me?</sub-title>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <desc>What to do when your pet won't make eye contact with you or is just too spoiled for their own good?</desc>
+    <date>20240315</date>
+    <icon src="https://images.frequency.com/video/1te1gbmyi1gr61ty3w16cbf3n/original/1te1gbmyi1gr61ty3w16cbf3n.jpg" />
+  </programme>
   <channel id="CABC2300009KD">
     <display-name>CBC News</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300009KD_20250121T094932SQUARE.png" />
@@ -4066,16 +4128,6 @@
     <display-name>Love Nature 4K</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3400003IP_20250204T234403SQUARE.png" />
   </channel>
-  <programme channel="CABC2300009KD" start="20250411163000 +0000" stop="20250411200000 +0000">
-    <title>Today's Top Stories</title>
-    <desc>What's happening across Canada and around the world.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_549952184_0_20241029T142625607Z_36_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg" />
-  </programme>
-  <programme channel="CABC2300009KD" start="20250411200000 +0000" stop="20250411203000 +0000">
-    <title>About That</title>
-    <desc>Andrew Chang expands our understanding of the stories everybody's talking about.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515038_0_20240529T053048695Z_102.jpeg" />
-  </programme>
   <programme channel="CABC2300009KD" start="20250411203000 +0000" stop="20250411230000 +0000">
     <title>Today's Top Stories</title>
     <desc>What's happening across Canada and around the world.</desc>
@@ -4101,15 +4153,15 @@
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
-  <programme channel="CA15000018F" start="20250411190000 +0000" stop="20250411200000 +0000">
-    <title>BC Today</title>
-    <desc>Hosted by Michelle Eliot, the show where British Columbians connect on issues facing their lives &amp; community.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542759705_0_20240603T112702843Z_68.jpeg" />
+  <programme channel="CABC2300009KD" start="20250412020000 +0000" stop="20250412030000 +0000">
+    <title>The National</title>
+    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
-  <programme channel="CA15000018F" start="20250411200000 +0000" stop="20250411210000 +0000">
-    <title>BC Now</title>
-    <desc>News, investigations and community stories in Vancouver and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542759689_0_20240603T112702842Z_73.jpeg" />
+  <programme channel="CABC2300009KD" start="20250412030000 +0000" stop="20250412040000 +0000">
+    <title>The National</title>
+    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
   <programme channel="CA15000018F" start="20250411210000 +0000" stop="20250411220000 +0000">
     <title>BC Now</title>
@@ -4141,25 +4193,15 @@
     <desc>Local, national and international news, weather and investigative reports.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542759669_0_20240603T112700837Z_44.jpeg" />
   </programme>
-  <programme channel="CA4600008AI" start="20250411190000 +0000" stop="20250411193000 +0000">
-    <title>Edmonton Now</title>
-    <desc>News, investigations and community stories in Edmonton and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925931_0_20241213T120008264Z_69_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
+  <programme channel="CA15000018F" start="20250412020000 +0000" stop="20250412030000 +0000">
+    <title>CBC Vancouver News</title>
+    <desc>Local, national and international news, weather and investigative reports.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542759669_0_20240603T112700837Z_44.jpeg" />
   </programme>
-  <programme channel="CA4600008AI" start="20250411193000 +0000" stop="20250411200000 +0000">
-    <title>Edmonton Now</title>
-    <desc>News, investigations and community stories in Edmonton and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925931_0_20241213T120008264Z_69_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
-  </programme>
-  <programme channel="CA4600008AI" start="20250411200000 +0000" stop="20250411203000 +0000">
-    <title>Edmonton Now</title>
-    <desc>News, investigations and community stories in Edmonton and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925931_0_20241213T120008264Z_69_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
-  </programme>
-  <programme channel="CA4600008AI" start="20250411203000 +0000" stop="20250411210000 +0000">
-    <title>Edmonton Now</title>
-    <desc>News, investigations and community stories in Edmonton and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925931_0_20241213T120008264Z_69_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
+  <programme channel="CA15000018F" start="20250412030000 +0000" stop="20250412040000 +0000">
+    <title>CBC Vancouver News</title>
+    <desc>Local, national and international news, weather and investigative reports.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542759669_0_20240603T112700837Z_44.jpeg" />
   </programme>
   <programme channel="CA4600008AI" start="20250411210000 +0000" stop="20250411213000 +0000">
     <title>Edmonton Now</title>
@@ -4206,25 +4248,25 @@
     <desc>The stories and newsmakers that matter most to you.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925922_0_20241213T120007872Z_18_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
   </programme>
-  <programme channel="CA4600006DO" start="20250411190000 +0000" stop="20250411193000 +0000">
-    <title>New Brunswick Now</title>
-    <desc>News, investigations and community stories in New Brunswick and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554405895_0_20241217T114622203Z_110_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
+  <programme channel="CA4600008AI" start="20250412013000 +0000" stop="20250412020000 +0000">
+    <title>CBC Edmonton News</title>
+    <desc>The stories and newsmakers that matter most to you.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925922_0_20241213T120007872Z_18_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
   </programme>
-  <programme channel="CA4600006DO" start="20250411193000 +0000" stop="20250411200000 +0000">
-    <title>New Brunswick Now</title>
-    <desc>News, investigations and community stories in New Brunswick and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554405895_0_20241217T114622203Z_110_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
+  <programme channel="CA4600008AI" start="20250412020000 +0000" stop="20250412023000 +0000">
+    <title>CBC Edmonton News</title>
+    <desc>The stories and newsmakers that matter most to you.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925922_0_20241213T120007872Z_18_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
   </programme>
-  <programme channel="CA4600006DO" start="20250411200000 +0000" stop="20250411203000 +0000">
-    <title>About That</title>
-    <desc>Andrew Chang expands our understanding of the stories everybody's talking about.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515038_0_20240529T053048695Z_102.jpeg" />
+  <programme channel="CA4600008AI" start="20250412023000 +0000" stop="20250412030000 +0000">
+    <title>CBC Edmonton News</title>
+    <desc>The stories and newsmakers that matter most to you.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925922_0_20241213T120007872Z_18_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
   </programme>
-  <programme channel="CA4600006DO" start="20250411203000 +0000" stop="20250411210000 +0000">
-    <title>The Breakdown</title>
-    <desc>Make sense of your world with original reporting that breaks down the world's biggest news stories.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542759671_0_20240603T112659311Z_21.jpeg" />
+  <programme channel="CA4600008AI" start="20250412030000 +0000" stop="20250412033000 +0000">
+    <title>CBC Edmonton News</title>
+    <desc>The stories and newsmakers that matter most to you.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925922_0_20241213T120007872Z_18_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
   </programme>
   <programme channel="CA4600006DO" start="20250411210000 +0000" stop="20250411213000 +0000">
     <title>CBC New Brunswick News</title>
@@ -4271,20 +4313,20 @@
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
-  <programme channel="CA4600003GV" start="20250411190000 +0000" stop="20250411193000 +0000">
-    <title>Newfoundland &amp; Labrador Now</title>
-    <desc>News, investigations and community stories in NL and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
+  <programme channel="CA4600006DO" start="20250412020000 +0000" stop="20250412023000 +0000">
+    <title>CBC News New Brunswick</title>
+    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_571187584_0_20241220T212226055Z_105_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg" />
   </programme>
-  <programme channel="CA4600003GV" start="20250411193000 +0000" stop="20250411200000 +0000">
-    <title>About That</title>
-    <desc>Andrew Chang expands our understanding of the stories everybody's talking about.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515038_0_20240529T053048695Z_102.jpeg" />
+  <programme channel="CA4600006DO" start="20250412023000 +0000" stop="20250412030000 +0000">
+    <title>CBC News New Brunswick</title>
+    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_571187584_0_20241220T212226055Z_105_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg" />
   </programme>
-  <programme channel="CA4600003GV" start="20250411200000 +0000" stop="20250411203000 +0000">
-    <title>The Breakdown</title>
-    <desc>Make sense of your world with original reporting that breaks down the world's biggest news stories.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542759671_0_20240603T112659311Z_21.jpeg" />
+  <programme channel="CA4600006DO" start="20250412030000 +0000" stop="20250412040000 +0000">
+    <title>The National</title>
+    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
   <programme channel="CA4600003GV" start="20250411203000 +0000" stop="20250411213000 +0000">
     <title>CBC News Here and Now</title>
@@ -4316,25 +4358,20 @@
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
-  <programme channel="CA4600007UE" start="20250411190000 +0000" stop="20250411193000 +0000">
-    <title>Nova Scotia Now</title>
-    <desc>News, investigations and community stories in Nova Scotia and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_558093603_0_20241218T055251911Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-ftks4.jpeg" />
+  <programme channel="CA4600003GV" start="20250412020000 +0000" stop="20250412023000 +0000">
+    <title>CBC News NL</title>
+    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CA4600007UE" start="20250411193000 +0000" stop="20250411200000 +0000">
-    <title>Nova Scotia Now</title>
-    <desc>News, investigations and community stories in Nova Scotia and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_558093603_0_20241218T055251911Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-ftks4.jpeg" />
+  <programme channel="CA4600003GV" start="20250412023000 +0000" stop="20250412030000 +0000">
+    <title>CBC News NL</title>
+    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CA4600007UE" start="20250411200000 +0000" stop="20250411203000 +0000">
-    <title>About That</title>
-    <desc>Andrew Chang expands our understanding of the stories everybody's talking about.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515038_0_20240529T053048695Z_102.jpeg" />
-  </programme>
-  <programme channel="CA4600007UE" start="20250411203000 +0000" stop="20250411210000 +0000">
-    <title>The Breakdown</title>
-    <desc>Make sense of your world with original reporting that breaks down the world's biggest news stories.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542759671_0_20240603T112659311Z_21.jpeg" />
+  <programme channel="CA4600003GV" start="20250412030000 +0000" stop="20250412040000 +0000">
+    <title>The National</title>
+    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
   <programme channel="CA4600007UE" start="20250411210000 +0000" stop="20250411220000 +0000">
     <title>CBC Nova Scotia News</title>
@@ -4361,25 +4398,20 @@
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
-  <programme channel="CA46000149D" start="20250411190000 +0000" stop="20250411193000 +0000">
-    <title>Ottawa Now</title>
-    <desc>News, investigations and community stories in Ottawa and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186131_0_20241217T103439442Z_32_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
+  <programme channel="CA4600007UE" start="20250412020000 +0000" stop="20250412023000 +0000">
+    <title>CBC News Nova Scotia</title>
+    <desc>Late night news show with top stories of the day</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_558093601_0_20241218T055251911Z_90_imageprocessorclient-tvplus-linear-5dc4fd45f6-ftks4.jpeg" />
   </programme>
-  <programme channel="CA46000149D" start="20250411193000 +0000" stop="20250411200000 +0000">
-    <title>Ottawa Now</title>
-    <desc>News, investigations and community stories in Ottawa and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186131_0_20241217T103439442Z_32_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
+  <programme channel="CA4600007UE" start="20250412023000 +0000" stop="20250412030000 +0000">
+    <title>CBC News Nova Scotia</title>
+    <desc>Late night news show with top stories of the day</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_558093601_0_20241218T055251911Z_90_imageprocessorclient-tvplus-linear-5dc4fd45f6-ftks4.jpeg" />
   </programme>
-  <programme channel="CA46000149D" start="20250411200000 +0000" stop="20250411203000 +0000">
-    <title>Ottawa Now</title>
-    <desc>News, investigations and community stories in Ottawa and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186131_0_20241217T103439442Z_32_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
-  <programme channel="CA46000149D" start="20250411203000 +0000" stop="20250411210000 +0000">
-    <title>Ottawa Now</title>
-    <desc>News, investigations and community stories in Ottawa and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186131_0_20241217T103439442Z_32_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
+  <programme channel="CA4600007UE" start="20250412030000 +0000" stop="20250412040000 +0000">
+    <title>The National</title>
+    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
   <programme channel="CA46000149D" start="20250411210000 +0000" stop="20250411213000 +0000">
     <title>About That</title>
@@ -4411,22 +4443,15 @@
     <desc>Coverage of the day's top local news and developing stories that matter to Canadians.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186128_0_20241217T103439264Z_121_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250411190000 +0000" stop="20250411200000 +0000">
-    <title>Survivorman</title>
-    <sub-title>Incan Q'ero High Priests</sub-title>
-    <desc>Les climbs up dangerous Mt. Sinkara to join indigenous Andeans as they make their pilgrimage to Qollorit'i.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534285350_0_20231024T163742475Z_50.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA46000149D" start="20250412020000 +0000" stop="20250412030000 +0000">
+    <title>The National</title>
+    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250411200000 +0000" stop="20250411210000 +0000">
-    <title>What If</title>
-    <desc>Take an epic journey through hypothetical worlds and possibilities.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124161_0_20231019T012929504Z_108.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA46000149D" start="20250412030000 +0000" stop="20250412033000 +0000">
+    <title>CBC Ottawa News</title>
+    <desc>Coverage of the day's top local news and developing stories that matter to Canadians.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186128_0_20241217T103439264Z_121_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250411210000 +0000" stop="20250411220000 +0000">
     <title>How To Survive</title>
@@ -4488,20 +4513,29 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250411184205 +0000" stop="20250411193637 +0000">
-    <title>Seasons Of The Otter</title>
-    <desc>Most of the life of an otter goes unseen  following a young otter family we'll reveal the secrets of the otter's world.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_490066058_1_20240406T160351384Z_28.jpeg" />
+  <programme channel="CABC23000223U" start="20250412013000 +0000" stop="20250412020000 +0000">
+    <title>Force of Nature Rewind</title>
+    <desc>Wild and viral weather footage from across Canada and around the world</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250411193637 +0000" stop="20250411203140 +0000">
-    <title>Nuts about Squirrels</title>
-    <desc>Squirrels have conquered tundra, deserts, forests and more, developing ingenious life skills along the way, from stashing nuts to fighting snakes.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489395991_2_20240315T170238208Z_159.jpeg" />
+  <programme channel="CABC23000223U" start="20250412020000 +0000" stop="20250412030000 +0000">
+    <title>Survivorman</title>
+    <sub-title>Incan Q'ero High Priests</sub-title>
+    <desc>Les climbs up dangerous Mt. Sinkara to join indigenous Andeans as they make their pilgrimage to Qollorit'i.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534285350_0_20231024T163742475Z_50.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="CABC23000223U" start="20250412030000 +0000" stop="20250412040000 +0000">
+    <title>What If</title>
+    <desc>Take an epic journey through hypothetical worlds and possibilities.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124161_0_20231019T012929504Z_108.jpeg" />
+    <rating>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250411203140 +0000" stop="20250411212812 +0000">
@@ -4554,17 +4588,21 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="GBBA220000751" start="20250411182542 +0000" stop="20250411192248 +0000">
-    <title>Roaring With Pride</title>
-    <sub-title>Predators' Progress</sub-title>
-    <desc>The lions attempt to dig a warthog out of his hole, while an influx of volunteers have arrived and Nathan instructs them with an induction talk on how to treat, walk and cope with lions.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_668963410_0_20250225T161652943Z_90_imageprocessorclient-tvplus-linear-6fb5b47f79-9tw54.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250412020214 +0000" stop="20250412025715 +0000">
+    <title>Fight for Territory</title>
+    <desc>Biological instinct is driven by three things: the desire to stay alive, to find food and to breed. But to do all these things, animals first need a home. Out in the wilderness a safe place to call home can be the difference between life and death. A place to secure meals, raise their families and hide from danger. Ideal spots are in short supply and well worth fighting for! From lion scraps to insect warfare, these conflicts can provide us with the most remarkable spectacles in the animal kingdom.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_753751411_0_20250328T091949359Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-wzgbv.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
   </programme>
-  <programme channel="GBBA220000751" start="20250411192248 +0000" stop="20250411201957 +0000">
-    <title>Roaring With Pride</title>
-    <sub-title>Strike Force!</sub-title>
-    <desc>We get a first peek at the adorable additions in the denning enclosure. Lewa and Laili take their hunting skills to a new level and tackle a kudu. Also, Kwali takes a nasty bite to the cheek. Can she hang onto her prize?</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_668955422_1_20250225T161659010Z_47_imageprocessorclient-tvplus-linear-6fb5b47f79-xv2bl.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250412025715 +0000" stop="20250412035009 +0000">
+    <title>Colours of Nature</title>
+    <desc>From subtle to shocking, colour enhances the beauty of the natural world. Colour is a language to most living things, whether as a warning, camouflage or a come on. But there's more to colour than just pigment. Colours define how many animals behave, how they mate and how they inter-act with one another. For us the beautiful and varied shades of the animal kingdom form a spec-tacular kaleidoscope of colours. With all the diversity in the world, sit back and enjoy all the col-ours of the animal kingdom.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_737543054_0_20250322T141840467Z_92_imageprocessorclient-tvplus-linear-6fb5b47f79-bbtvn.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
   </programme>
   <programme channel="GBBA220000751" start="20250411201957 +0000" stop="20250411211707 +0000">
     <title>Roaring With Pride</title>
@@ -4614,50 +4652,17 @@
     <desc>Cheetahs race towards endangerment.Leopards thrive as opportunistic hunters.Lions reign atop the food chain. Snow leopards navigate treacherous terrain.Tigers persevere. Each big cat surviving maturity claims victory in life's relentless race.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_668950614_1_20250225T161653253Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-xv2bl.jpeg" />
   </programme>
-  <programme channel="USBA3000043LH" start="20250411185428 +0000" stop="20250411191903 +0000">
-    <title>Oh Baby!</title>
-    <sub-title>Curious Characters</sub-title>
-    <desc>Janai Norman takes us into the wild to visit with the weirdest and most unique creatures that stand out in any environment.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_552888984_0_20241213T032815909Z_50_imageprocessorclient-tvplus-linear-5dc4fd45f6-5r449.jpeg" />
-    <rating>
-      <value>TV-G</value>
-    </rating>
+  <programme channel="GBBA220000751" start="20250412013130 +0000" stop="20250412022746 +0000">
+    <title>Wild Animal Rescue</title>
+    <sub-title>Felida Tigers and Lionsrock</sub-title>
+    <desc>A drama packed mission flying six tigers from the Netherlands to South Africa is hardly off the ground before there's a medical emergency  and the challenges of treating lions with medical problems.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_668952615_2_20250225T161653306Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-hnnz9.jpeg" />
   </programme>
-  <programme channel="USBA3000043LH" start="20250411191903 +0000" stop="20250411194339 +0000">
-    <title>Oh Baby!</title>
-    <sub-title>Bold in the Cold</sub-title>
-    <desc>Janai Norman is putting on her snowshoes for a trek through Earth's coldest climates</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_552888984_0_20241213T032815909Z_50_imageprocessorclient-tvplus-linear-5dc4fd45f6-5r449.jpeg" />
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme channel="USBA3000043LH" start="20250411194339 +0000" stop="20250411200815 +0000">
-    <title>Oh Baby!</title>
-    <sub-title>Sun Bathing Babies</sub-title>
-    <desc>Janai Norman is catching some rays on a journey through Earth's sun soaked landscapes to see the animals that thrive in the warm weather.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_552888984_0_20241213T032815909Z_50_imageprocessorclient-tvplus-linear-5dc4fd45f6-5r449.jpeg" />
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme channel="USBA3000043LH" start="20250411200815 +0000" stop="20250411203251 +0000">
-    <title>Oh Baby!</title>
-    <sub-title>Learning to Walk on the Wild Side</sub-title>
-    <desc>Grizzly bear cubs go fishing with mom but catching those slippery salmon is trickier than it looks. Find out how these cubs along with the other forest babies learn how to survive in these woodland territories across the world.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_552888984_0_20241213T032815909Z_50_imageprocessorclient-tvplus-linear-5dc4fd45f6-5r449.jpeg" />
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme channel="USBA3000043LH" start="20250411203251 +0000" stop="20250411210304 +0000">
-    <title>KITTY 911</title>
-    <sub-title>Episode 10</sub-title>
-    <desc>Karen deals with a situation she's never seen before, while Maria visits some old stomping grounds and later all of Vokra gathers to celebrate their volunteers.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_767017556_0_20250129T052102696Z_120_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
+  <programme channel="GBBA220000751" start="20250412022746 +0000" stop="20250412032446 +0000">
+    <title>Wild Animal Rescue</title>
+    <sub-title>Gaza Lion Cubs Rescue</sub-title>
+    <desc>International animal rescue organisation FOUR PAWS goes on a dangerous mission into the Gaza Strip to rescue two lion cubs. But tricky negotiations with the lions' owner, red tape and suspicions create chaos for the team.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_668952615_2_20250225T161653306Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-hnnz9.jpeg" />
   </programme>
   <programme channel="USBA3000043LH" start="20250411210304 +0000" stop="20250411215558 +0000">
     <title>Dog's Best Friend: Cutest Canine Companions</title>
@@ -4677,21 +4682,31 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme channel="USBA3400003IP" start="20250411190036 +0000" stop="20250411195919 +0000">
-    <title>Land Of Gremlins</title>
-    <sub-title>Lemur Spirit</sub-title>
-    <desc>Trail endangered indris on their daily search for enough food to survive.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533927514_1_20231014T022305196Z_92.jpeg" />
+  <programme channel="USBA3000043LH" start="20250412014757 +0000" stop="20250412021549 +0000">
+    <title>A Dog For Life</title>
+    <sub-title>Glens and Jay</sub-title>
+    <desc>Glens and her husband of 52 years are at war. Over a dog. Glens has macular degeneration, and is steadily going blind. It is her goal to find a clever companion dog, a well-mannered and lovely tempered dog that will suffer the grandchildren and with great hope, be her guide. Jay struggles with anxiety, but when she met Tank, she knew that owning a dog would demand presence, and ultimately decided that a dog would be a far better match than the human kind.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_552888987_0_20241213T032812892Z_42_imageprocessorclient-tvplus-linear-5dc4fd45f6-5r449.jpeg" />
     <rating>
-      <value>PG</value>
+      <value>TV-PG</value>
     </rating>
   </programme>
-  <programme channel="USBA3400003IP" start="20250411195919 +0000" stop="20250411210131 +0000">
-    <title>Tree Kangaroos: Ghosts of the Forest</title>
-    <desc>Track a Lumholtz's tree kangaroo joey as she learns how to survive in the wild.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533927514_1_20231014T022305196Z_92.jpeg" />
+  <programme channel="USBA3000043LH" start="20250412021549 +0000" stop="20250412024615 +0000">
+    <title>A Dog For Life</title>
+    <sub-title>Lucy and Kat</sub-title>
+    <desc>Lucy is a specialist service medic-alert dog trainer. She is on the hunt to adopt a dog that needs to meet her specific criteria for training, and the dog will live with her and her family until it is trained for a person in need. Kat is an introvert and hates shopping for anything so she does it all online, including finding her fur baby. She is a writer looking for a dog that will fit in with her lifestyle she loves her sleep and is reluctant to have anyone or anything disturb it.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_552888987_0_20241213T032812892Z_42_imageprocessorclient-tvplus-linear-5dc4fd45f6-5r449.jpeg" />
     <rating>
-      <value>PG</value>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="USBA3000043LH" start="20250412024615 +0000" stop="20250412031251 +0000">
+    <title>A Dog For Life</title>
+    <sub-title>Sue and The Nicholas'</sub-title>
+    <desc>David and Beryl are childhood sweethearts. In their late 60's now, they've been married for many enviably happy years. David has Multiple Sclerosis and they both felt it was time to bring a dog in the mix to be of assistance. Sue is a Cape Town local, with an illustrious record of international commercials behind her. She raises awareness that animals are sentient beings, deserving of as much love as much as every human and finds herself adopting a dog, even though it wasn't part of the plan.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_552888987_0_20241213T032812892Z_42_imageprocessorclient-tvplus-linear-5dc4fd45f6-5r449.jpeg" />
+    <rating>
+      <value>TV-PG</value>
     </rating>
   </programme>
   <programme channel="USBA3400003IP" start="20250411210131 +0000" stop="20250411220126 +0000">
@@ -4735,6 +4750,23 @@
     <sub-title>Castaway Island</sub-title>
     <desc>See how Madagascar's diverse landscapes influence plant and animal evolution.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533927514_1_20231014T022305196Z_92.jpeg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="USBA3400003IP" start="20250412020058 +0000" stop="20250412030240 +0000">
+    <title>Tree Kangaroos: Ghosts of the Forest</title>
+    <desc>Track a Lumholtz's tree kangaroo joey as she learns how to survive in the wild.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533927514_1_20231014T022305196Z_92.jpeg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="USBA3400003IP" start="20250412030240 +0000" stop="20250412040232 +0000">
+    <title>Hotspots</title>
+    <sub-title>Borneo</sub-title>
+    <desc>Spot one-of-a-kind monkeys, plants, and more on Earth's third largest island.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_537210089_0_20240114T012516393Z_39.jpeg" />
     <rating>
       <value>PG</value>
     </rating>
