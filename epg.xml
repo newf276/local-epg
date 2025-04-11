@@ -4372,16 +4372,6 @@
     <display-name>Love Nature 4K</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3400003IP_20250204T234403SQUARE.png" />
   </channel>
-  <programme channel="CABC2300009KD" start="20250411000000 +0000" stop="20250411010000 +0000">
-    <title>Today's Top Stories</title>
-    <desc>What's happening across Canada and around the world.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_549952184_0_20241029T142625607Z_36_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg" />
-  </programme>
-  <programme channel="CABC2300009KD" start="20250411010000 +0000" stop="20250411020000 +0000">
-    <title>The National</title>
-    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
-  </programme>
   <programme channel="CABC2300009KD" start="20250411020000 +0000" stop="20250411030000 +0000">
     <title>The National</title>
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
@@ -4402,20 +4392,15 @@
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
-  <programme channel="CA15000018F" start="20250411000000 +0000" stop="20250411003000 +0000">
-    <title>About That</title>
-    <desc>Andrew Chang expands our understanding of the stories everybody's talking about.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515038_0_20240529T053048695Z_102.jpeg" />
+  <programme channel="CABC2300009KD" start="20250411060000 +0000" stop="20250411070000 +0000">
+    <title>The National</title>
+    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
-  <programme channel="CA15000018F" start="20250411003000 +0000" stop="20250411010000 +0000">
-    <title>The Breakdown</title>
-    <desc>Make sense of your world with original reporting that breaks down the world's biggest news stories.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542759671_0_20240603T112659311Z_21.jpeg" />
-  </programme>
-  <programme channel="CA15000018F" start="20250411010000 +0000" stop="20250411020000 +0000">
-    <title>CBC Vancouver News</title>
-    <desc>Local, national and international news, weather and investigative reports.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542759669_0_20240603T112700837Z_44.jpeg" />
+  <programme channel="CABC2300009KD" start="20250411070000 +0000" stop="20250411080000 +0000">
+    <title>The National</title>
+    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
   <programme channel="CA15000018F" start="20250411020000 +0000" stop="20250411030000 +0000">
     <title>CBC Vancouver News</title>
@@ -4437,25 +4422,20 @@
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
-  <programme channel="CA4600008AI" start="20250411000000 +0000" stop="20250411003000 +0000">
-    <title>CBC Edmonton News</title>
-    <desc>The stories and newsmakers that matter most to you.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925922_0_20241213T120007872Z_18_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
+  <programme channel="CA15000018F" start="20250411060000 +0000" stop="20250411063000 +0000">
+    <title>CBC Vancouver News</title>
+    <desc>Local, national and international news, weather and investigative reports.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542759669_0_20240603T112700837Z_44.jpeg" />
   </programme>
-  <programme channel="CA4600008AI" start="20250411003000 +0000" stop="20250411010000 +0000">
-    <title>CBC Edmonton News</title>
-    <desc>The stories and newsmakers that matter most to you.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925922_0_20241213T120007872Z_18_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
+  <programme channel="CA15000018F" start="20250411063000 +0000" stop="20250411070000 +0000">
+    <title>CBC Vancouver News</title>
+    <desc>Local, national and international news, weather and investigative reports.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542759669_0_20240603T112700837Z_44.jpeg" />
   </programme>
-  <programme channel="CA4600008AI" start="20250411010000 +0000" stop="20250411013000 +0000">
-    <title>CBC Edmonton News</title>
-    <desc>The stories and newsmakers that matter most to you.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925922_0_20241213T120007872Z_18_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
-  </programme>
-  <programme channel="CA4600008AI" start="20250411013000 +0000" stop="20250411020000 +0000">
-    <title>CBC Edmonton News</title>
-    <desc>The stories and newsmakers that matter most to you.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925922_0_20241213T120007872Z_18_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
+  <programme channel="CA15000018F" start="20250411070000 +0000" stop="20250411080000 +0000">
+    <title>The National</title>
+    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
   <programme channel="CA4600008AI" start="20250411020000 +0000" stop="20250411023000 +0000">
     <title>CBC Edmonton News</title>
@@ -4492,17 +4472,12 @@
     <desc>The stories and newsmakers that matter most to you.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925922_0_20241213T120007872Z_18_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
   </programme>
-  <programme channel="CA4600006DO" start="20250411000000 +0000" stop="20250411003000 +0000">
-    <title>CBC New Brunswick News</title>
-    <desc>The news, weather and stories that matter to New Brunswickers.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554405889_0_20241217T114622203Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
+  <programme channel="CA4600008AI" start="20250411060000 +0000" stop="20250411070000 +0000">
+    <title>The National</title>
+    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
-  <programme channel="CA4600006DO" start="20250411003000 +0000" stop="20250411010000 +0000">
-    <title>CBC New Brunswick News</title>
-    <desc>The news, weather and stories that matter to New Brunswickers.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554405889_0_20241217T114622203Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
-  </programme>
-  <programme channel="CA4600006DO" start="20250411010000 +0000" stop="20250411020000 +0000">
+  <programme channel="CA4600008AI" start="20250411070000 +0000" stop="20250411080000 +0000">
     <title>The National</title>
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
@@ -4537,20 +4512,25 @@
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
-  <programme channel="CA4600003GV" start="20250410233000 +0000" stop="20250411003000 +0000">
-    <title>CBC News Here and Now</title>
-    <desc>Carolyn Stokes and Ashley Brauweiler deliver a complete package of local news and weather.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186123_0_20241217T103439666Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
+  <programme channel="CA4600006DO" start="20250411060000 +0000" stop="20250411063000 +0000">
+    <title>CBC News New Brunswick</title>
+    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_571187584_0_20241220T212226055Z_105_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg" />
   </programme>
-  <programme channel="CA4600003GV" start="20250411003000 +0000" stop="20250411010000 +0000">
-    <title>About That</title>
-    <desc>Andrew Chang expands our understanding of the stories everybody's talking about.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515038_0_20240529T053048695Z_102.jpeg" />
+  <programme channel="CA4600006DO" start="20250411063000 +0000" stop="20250411070000 +0000">
+    <title>CBC News New Brunswick</title>
+    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_571187584_0_20241220T212226055Z_105_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg" />
   </programme>
-  <programme channel="CA4600003GV" start="20250411010000 +0000" stop="20250411020000 +0000">
-    <title>The National</title>
-    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
+  <programme channel="CA4600006DO" start="20250411070000 +0000" stop="20250411073000 +0000">
+    <title>CBC News New Brunswick</title>
+    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_571187584_0_20241220T212226055Z_105_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg" />
+  </programme>
+  <programme channel="CA4600006DO" start="20250411073000 +0000" stop="20250411080000 +0000">
+    <title>CBC News New Brunswick</title>
+    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_571187584_0_20241220T212226055Z_105_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg" />
   </programme>
   <programme channel="CA4600003GV" start="20250411020000 +0000" stop="20250411023000 +0000">
     <title>CBC News NL</title>
@@ -4582,12 +4562,22 @@
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
-  <programme channel="CA4600007UE" start="20250411000000 +0000" stop="20250411010000 +0000">
-    <title>CBC Nova Scotia News</title>
-    <desc>Tom Murphy and Amy Smith bring Nova Scotians news and weather every weeknight.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_558093600_0_20241218T055251911Z_34_imageprocessorclient-tvplus-linear-5dc4fd45f6-ftks4.jpeg" />
+  <programme channel="CA4600003GV" start="20250411060000 +0000" stop="20250411063000 +0000">
+    <title>CBC News NL</title>
+    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CA4600007UE" start="20250411010000 +0000" stop="20250411020000 +0000">
+  <programme channel="CA4600003GV" start="20250411063000 +0000" stop="20250411070000 +0000">
+    <title>CBC News NL</title>
+    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
+  </programme>
+  <programme channel="CA4600003GV" start="20250411070000 +0000" stop="20250411073000 +0000">
+    <title>CBC News NL</title>
+    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
+  </programme>
+  <programme channel="CA4600003GV" start="20250411073000 +0000" stop="20250411083000 +0000">
     <title>The National</title>
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
@@ -4622,15 +4612,25 @@
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
-  <programme channel="CA46000149D" start="20250411000000 +0000" stop="20250411010000 +0000">
-    <title>CBC Ottawa News</title>
-    <desc>Coverage of the day's top local news and developing stories that matter to Canadians.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186128_0_20241217T103439264Z_121_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
+  <programme channel="CA4600007UE" start="20250411060000 +0000" stop="20250411063000 +0000">
+    <title>CBC News Nova Scotia</title>
+    <desc>Late night news show with top stories of the day</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_558093601_0_20241218T055251911Z_90_imageprocessorclient-tvplus-linear-5dc4fd45f6-ftks4.jpeg" />
   </programme>
-  <programme channel="CA46000149D" start="20250411010000 +0000" stop="20250411020000 +0000">
-    <title>CBC Ottawa News</title>
-    <desc>Coverage of the day's top local news and developing stories that matter to Canadians.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186128_0_20241217T103439264Z_121_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
+  <programme channel="CA4600007UE" start="20250411063000 +0000" stop="20250411070000 +0000">
+    <title>CBC News Nova Scotia</title>
+    <desc>Late night news show with top stories of the day</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_558093601_0_20241218T055251911Z_90_imageprocessorclient-tvplus-linear-5dc4fd45f6-ftks4.jpeg" />
+  </programme>
+  <programme channel="CA4600007UE" start="20250411070000 +0000" stop="20250411073000 +0000">
+    <title>CBC News Nova Scotia</title>
+    <desc>Late night news show with top stories of the day</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_558093601_0_20241218T055251911Z_90_imageprocessorclient-tvplus-linear-5dc4fd45f6-ftks4.jpeg" />
+  </programme>
+  <programme channel="CA4600007UE" start="20250411073000 +0000" stop="20250411080000 +0000">
+    <title>CBC News Nova Scotia</title>
+    <desc>Late night news show with top stories of the day</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_558093601_0_20241218T055251911Z_90_imageprocessorclient-tvplus-linear-5dc4fd45f6-ftks4.jpeg" />
   </programme>
   <programme channel="CA46000149D" start="20250411020000 +0000" stop="20250411030000 +0000">
     <title>The National</title>
@@ -4657,39 +4657,20 @@
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250411000000 +0000" stop="20250411003000 +0000">
-    <title>Power To The People</title>
-    <sub-title>Kanaka Bar</sub-title>
-    <desc>After a deadly heat wave and devastating fire, food security and renewable energy is more important than ever</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124211_0_20231019T012926115Z_59.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA46000149D" start="20250411060000 +0000" stop="20250411063000 +0000">
+    <title>CBC Ottawa News</title>
+    <desc>Coverage of the day's top local news and developing stories that matter to Canadians.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186128_0_20241217T103439264Z_121_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250411003000 +0000" stop="20250411010000 +0000">
-    <title>Heading Out</title>
-    <sub-title>Bears</sub-title>
-    <desc>From ice bears of the Yukon, to garbage hunters, we need to share the outdoors with these grizzly creatures.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124312_0_20231019T012926063Z_160.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA46000149D" start="20250411063000 +0000" stop="20250411070000 +0000">
+    <title>CBC Ottawa News</title>
+    <desc>Coverage of the day's top local news and developing stories that matter to Canadians.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186128_0_20241217T103439264Z_121_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250411010000 +0000" stop="20250411013000 +0000">
-    <title>Force of Nature Rewind</title>
-    <desc>Wild and viral weather footage from across Canada and around the world</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="CABC23000223U" start="20250411013000 +0000" stop="20250411020000 +0000">
-    <title>Force of Nature Rewind</title>
-    <desc>Wild and viral weather footage from across Canada and around the world</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA46000149D" start="20250411070000 +0000" stop="20250411080000 +0000">
+    <title>The National</title>
+    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250411020000 +0000" stop="20250411030000 +0000">
     <title>Survivorman</title>
@@ -4725,20 +4706,36 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250410235838 +0000" stop="20250411005510 +0000">
-    <title>Wild Summer School</title>
-    <desc>It is early summer and wild places across the world, whether beaches, jungles, mountains or grassy plains are preparing for summer school to begin.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489950270_0_20240403T151514034Z_1.jpeg" />
+  <programme channel="CABC23000223U" start="20250411060000 +0000" stop="20250411063000 +0000">
+    <title>Dream In Colour</title>
+    <desc>Get lost in the breathtaking beauty of Canadian and international landscapes</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124152_0_20231019T012929571Z_80.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250411005510 +0000" stop="20250411014942 +0000">
-    <title>Defending the Family</title>
-    <desc>In the animal kingdom the desire to breed and defend young sits above all else, and every creature deploys its own unique strategies to get the job done. Some fight for their own with lethal jaws, whilst others get in help, making use of neighbourhood bodyguards for hire. Some rely on close friends to help them out and others choose to isolate themselves in a fortress instead. Whatever their plan for a safe home, one thing's for sure - animals will stop at nothing to defend their families.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_737566257_0_20250322T141840467Z_45_imageprocessorclient-tvplus-linear-6fb5b47f79-bbtvn.jpeg" />
+  <programme channel="CABC23000223U" start="20250411063000 +0000" stop="20250411070000 +0000">
+    <title>Dream In Colour</title>
+    <desc>Get lost in the breathtaking beauty of Canadian and international landscapes</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124152_0_20231019T012929571Z_80.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="CABC23000223U" start="20250411070000 +0000" stop="20250411073000 +0000">
+    <title>Dream In Colour</title>
+    <desc>Get lost in the breathtaking beauty of Canadian and international landscapes</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124152_0_20231019T012929571Z_80.jpeg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="CABC23000223U" start="20250411073000 +0000" stop="20250411080000 +0000">
+    <title>Dream In Colour</title>
+    <desc>Get lost in the breathtaking beauty of Canadian and international landscapes</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124152_0_20231019T012929571Z_80.jpeg" />
+    <rating>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250411014942 +0000" stop="20250411024329 +0000">
@@ -4782,28 +4779,22 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="GBBA220000751" start="20250410230026 +0000" stop="20250411001103 +0000">
-    <title>Gorillas: A Journey For Survival</title>
-    <desc>In 2001, from the rainforests of Cameroon, four helpless baby western lowlands gorillas were snatched from their mothers who had been killed by poachers. This film chronicles the steps of returning the 'Taiping Four' to their home in Cameroon.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_768920718_0_20250402T184731160Z_76_imageprocessorclient-tvplus-linear-6fb5b47f79-jdf69.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250411064935 +0000" stop="20250411074607 +0000">
+    <title>Mountains</title>
+    <sub-title>Gateways to Heaven</sub-title>
+    <desc>Mountains define some of our most spectacular landscapes, creating a mosaic of dramatic habitats, teaming with incredible wildlife. Mountains are found on every continent on Earth, covering 22% of the planet's surface. They're a vital part of our ecosystem  a quarter of terrestrial animal and plant species live in mountains and they house an incredible 85% of all amphibians, mammals and birds. It's no wonder that so many cultures consider mountains sacred places: gateways to the heavens.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_753709978_0_20250328T091949359Z_42_imageprocessorclient-tvplus-linear-6fb5b47f79-wzgbv.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
   </programme>
-  <programme channel="GBBA220000751" start="20250411001103 +0000" stop="20250411004555 +0000">
-    <title>Super Senses</title>
-    <sub-title>Touch</sub-title>
-    <desc>On this episode of Animal Super Senses, we get in touch with the feelings of wild animals. Really in touch. Because animals, just like humans, rely heavily on their sense of touch, every day in every way.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_668950160_1_20250225T161659015Z_56_imageprocessorclient-tvplus-linear-6fb5b47f79-xv2bl.jpeg" />
-  </programme>
-  <programme channel="GBBA220000751" start="20250411004555 +0000" stop="20250411012021 +0000">
-    <title>Super Senses</title>
-    <sub-title>Taste and Smell</sub-title>
-    <desc>On this episode of Animal Super Senses, we examine how things taste, and how vital scent is from the animal perspective. But their sense of smell will also detect the scent of odorants carried through the air.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_668950160_1_20250225T161659015Z_56_imageprocessorclient-tvplus-linear-6fb5b47f79-xv2bl.jpeg" />
-  </programme>
-  <programme channel="GBBA220000751" start="20250411012021 +0000" stop="20250411015059 +0000">
-    <title>City Zoo</title>
-    <sub-title>The Birds</sub-title>
-    <desc>In this episode Cape Vultures are given a new lease on life. The zoo crew monitors the success of their Cape Vulture breeding program, so that this rare species endures.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_744402773_0_20250325T001739280Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-cmgv8.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250411074607 +0000" stop="20250411084108 +0000">
+    <title>Fight for Territory</title>
+    <desc>Biological instinct is driven by three things: the desire to stay alive, to find food and to breed. But to do all these things, animals first need a home. Out in the wilderness a safe place to call home can be the difference between life and death. A place to secure meals, raise their families and hide from danger. Ideal spots are in short supply and well worth fighting for! From lion scraps to insect warfare, these conflicts can provide us with the most remarkable spectacles in the animal kingdom.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_753751411_0_20250328T091949359Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-wzgbv.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
   </programme>
   <programme channel="GBBA220000751" start="20250411015059 +0000" stop="20250411022137 +0000">
     <title>City Zoo</title>
@@ -4847,14 +4838,29 @@
     <desc>Sharks are BIG business in adrenaline eco-tourism. And some thrill seekers deliberately pursue close encounters with deadly sharks without the protection of a cage. The bigger and more dangerous the shark, the better.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_668955216_0_20250225T161659737Z_55_imageprocessorclient-tvplus-linear-6fb5b47f79-9tw54.jpeg" />
   </programme>
-  <programme channel="USBA3000043LH" start="20250410214459 +0000" stop="20250411013630 +0000">
-    <title>Dog's Best Friend: Cutest Canine Companions</title>
-    <sub-title>Titan &amp; Indie</sub-title>
-    <desc>A guard dog who protects an 80 acre horse farm, becomes best friend and guardian to a frail quarter horse.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_552888985_0_20241213T032810072Z_106_imageprocessorclient-tvplus-linear-5dc4fd45f6-5r449.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
+  <programme channel="GBBA220000751" start="20250411060000 +0000" stop="20250411063347 +0000">
+    <title>Echo And The Elephants Of Amboseli</title>
+    <sub-title>Surviving the Drought</sub-title>
+    <desc>In Amboseli, the harsh drought is tightening its grip. Echo and all the elephant families go to sleep and wake up hungry. Rain is falling, but in dangerous areas, drawing elephants into increasing conflict with farmers.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_668952015_0_20250225T161652901Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-9tw54.jpeg" />
+  </programme>
+  <programme channel="GBBA220000751" start="20250411063347 +0000" stop="20250411070735 +0000">
+    <title>Echo And The Elephants Of Amboseli</title>
+    <sub-title>Saved by the Rains</sub-title>
+    <desc>On the plains of Amboseli, the rains are two months late. Echo brings the family to the palms to eat the last leaves. The wise matriarch resists the temptation to take them to inhabited areas where fresh crops are springing up and conflict waits.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_668952015_0_20250225T161652901Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-9tw54.jpeg" />
+  </programme>
+  <programme channel="GBBA220000751" start="20250411070735 +0000" stop="20250411074123 +0000">
+    <title>Echo And The Elephants Of Amboseli</title>
+    <sub-title>Playtime</sub-title>
+    <desc>In the relentless drought, the youngest calves are starving. Hunger is driving elephants to forage on surrounding farms. Echo's keeps her family to the swamp. Rains arrive, but after five days, the much-needed downpours dwindle to sparse showers.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_668952015_0_20250225T161652901Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-9tw54.jpeg" />
+  </programme>
+  <programme channel="GBBA220000751" start="20250411074123 +0000" stop="20250411084908 +0000">
+    <title>The Rhino Orphanage</title>
+    <sub-title>Pemba &amp; Dwayne</sub-title>
+    <desc>Too small to mix with others, Pemba needs a rhino friend his age, enter orphaned 34 day old, Dwayne. Under-staffed and over-worked, Karen is eager to get the two little guys living together, it should be easy - but little rhinos don't always comply.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_668959057_0_20250225T161653304Z_64_imageprocessorclient-tvplus-linear-6fb5b47f79-9tw54.jpeg" />
   </programme>
   <programme channel="USBA3000043LH" start="20250411013630 +0000" stop="20250411020037 +0000">
     <title>Ready, Set, Pet</title>
@@ -4955,21 +4961,40 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme channel="USBA3400003IP" start="20250410225957 +0000" stop="20250411000210 +0000">
-    <title>Tree Kangaroos: Ghosts of the Forest</title>
-    <desc>Track a Lumholtz's tree kangaroo joey as she learns how to survive in the wild.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533927514_1_20231014T022305196Z_92.jpeg" />
+  <programme channel="USBA3000043LH" start="20250411060807 +0000" stop="20250411063125 +0000">
+    <title>Wild Child</title>
+    <sub-title>Wild Wild West</sub-title>
+    <desc>Sheinelle Jones is jumping from the U.K. to South America and back to the US to shine a spotlight on the cutest creatures of the Western Hemisphere.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_552888990_0_20241213T032810051Z_67_imageprocessorclient-tvplus-linear-5dc4fd45f6-5r449.jpeg" />
     <rating>
-      <value>PG</value>
+      <value>TV-G</value>
     </rating>
   </programme>
-  <programme channel="USBA3400003IP" start="20250411000210 +0000" stop="20250411010205 +0000">
-    <title>Secret Life Of The Koala</title>
-    <sub-title>Koala Country</sub-title>
-    <desc>Learn how the lives of koalas vary in different parts of Australia.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533927514_1_20231014T022305196Z_92.jpeg" />
+  <programme channel="USBA3000043LH" start="20250411063125 +0000" stop="20250411065514 +0000">
+    <title>Wild Child</title>
+    <sub-title>Coldest Kids</sub-title>
+    <desc>Sheinelle Jones takes us to the coldest places on Earth to spend a day with the animal families that love to chill out.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_552888990_0_20241213T032810051Z_67_imageprocessorclient-tvplus-linear-5dc4fd45f6-5r449.jpeg" />
     <rating>
-      <value>PG</value>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="USBA3000043LH" start="20250411065514 +0000" stop="20250411071902 +0000">
+    <title>Wild Child</title>
+    <sub-title>Summer Session</sub-title>
+    <desc>Sheinelle Jones takes us on a journey around the world to find the animal families who love summer.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_552888990_0_20241213T032810051Z_67_imageprocessorclient-tvplus-linear-5dc4fd45f6-5r449.jpeg" />
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="USBA3000043LH" start="20250411071902 +0000" stop="20250411094059 +0000">
+    <title>Wild Child</title>
+    <sub-title>Autumn Lovin'</sub-title>
+    <desc>Sheinelle Jones takes us all over the planet to spend the day with the animal families that love autumn.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_552888990_0_20241213T032810051Z_67_imageprocessorclient-tvplus-linear-5dc4fd45f6-5r449.jpeg" />
+    <rating>
+      <value>TV-G</value>
     </rating>
   </programme>
   <programme channel="USBA3400003IP" start="20250411010205 +0000" stop="20250411020228 +0000">
@@ -5017,4 +5042,31 @@
       <value>PG</value>
     </rating>
   </programme>
-  <channel id="700418"><display-name>Love Nature</display-name><icon src="https://canvas-lb.tubitv.com/opts/D4ERSaTklUCICw==/1c502e7b-e295-4f49-a248-cbe59b17d0f1/CHgQeDoFMS4xLjZAAQ==" /></channel><channel id="702892"><display-name>Xplore</display-name><icon src="https://canvas-lb.tubitv.com/opts/Dr1uV5c7P9sd0A==/075f8826-fdc1-4007-aed3-abe290b90ff7/CHgQeDoFMS4xLjZAAQ==" /></channel><channel id="400000063"><display-name>BBC Earth</display-name><icon src="https://canvas-lb.tubitv.com/opts/TGE1ln0I_gLSwg==/630f09e9-a354-4d28-a952-2f5c75e09815/CHgQeDoFMS4xLjZAAQ==" /></channel><programme channel="700418" start="20250410195851 +0000" stop="20250410205732 +0000"><title>Land Of Gremlins</title><desc>See how Madagascar’s diverse landscapes influence plant and animal evolution.</desc></programme><programme channel="700418" start="20250410205732 +0000" stop="20250410215955 +0000"><title>The Canary Islands</title><desc>Get a crash course in survival amidst the islands’ unforgiving landscapes.</desc></programme><programme channel="700418" start="20250410215955 +0000" stop="20250410230001 +0000"><title>Secret Life Of The Wombat</title><desc>Near Australia’s Snowy Mountains are a hundred burrows known as Wombat Wood.</desc></programme><programme channel="700418" start="20250410230001 +0000" stop="20250411000214 +0000"><title>Tree Kangaroos: Ghosts of the Forest</title><desc>Track a Lumholtz’s tree kangaroo joey as she learns how to survive in the wild.</desc></programme><programme channel="700418" start="20250411000214 +0000" stop="20250411010211 +0000"><title>Secret Life Of The Koala</title><desc>Learn how the lives of koalas vary in different parts of Australia.</desc></programme><programme channel="700418" start="20250411010211 +0000" stop="20250411020233 +0000"><title>Hotspots</title><desc>Spot one-of-a-kind monkeys, plants, and more on Earth’s third largest island.</desc></programme><programme channel="700418" start="20250411020233 +0000" stop="20250411030226 +0000"><title>Secret Life Of The Kangaroo</title><desc>A sociable species, the Eastern Grey kangaroos form social networks called mobs.</desc></programme><programme channel="700418" start="20250411030226 +0000" stop="20250411040418 +0000"><title>The Canary Islands</title><desc>Get a crash course in survival amidst the islands’ unforgiving landscapes.</desc></programme><programme channel="700418" start="20250411040418 +0000" stop="20250411050231 +0000"><title>Land Of Gremlins</title><desc>Trail endangered indris on their daily search for enough food to survive.</desc></programme><programme channel="700418" start="20250411050231 +0000" stop="20250411060157 +0000"><title>Secret Life Of The Koala</title><desc>Learn how the lives of koalas vary in different parts of Australia.</desc></programme><programme channel="700418" start="20250411060157 +0000" stop="20250411070150 +0000"><title>Hotspots</title><desc>Spot one-of-a-kind monkeys, plants, and more on Earth’s third largest island.</desc></programme><programme channel="700418" start="20250411070150 +0000" stop="20250411080000 +0000"><title>Land Of Gremlins</title><desc>See how Madagascar’s diverse landscapes influence plant and animal evolution.</desc></programme><programme channel="700418" start="20250411080000 +0000" stop="20250411085937 +0000"><title>Secret Life Of The Wombat</title><desc>Near Australia’s Snowy Mountains are a hundred burrows known as Wombat Wood.</desc></programme><programme channel="700418" start="20250411085937 +0000" stop="20250411100000 +0000"><title>Tree Kangaroos: Ghosts of the Forest</title><desc>Track a Lumholtz’s tree kangaroo joey as she learns how to survive in the wild.</desc></programme><programme channel="700418" start="20250411100000 +0000" stop="20250411110152 +0000"><title>The Canary Islands</title><desc>Get a crash course in survival amidst the islands’ unforgiving landscapes.</desc></programme><programme channel="700418" start="20250411110152 +0000" stop="20250411120145 +0000"><title>Hotspots</title><desc>Spot one-of-a-kind monkeys, plants, and more on Earth’s third largest island.</desc></programme><programme channel="700418" start="20250411120145 +0000" stop="20250411125957 +0000"><title>Land Of Gremlins</title><desc>Trail endangered indris on their daily search for enough food to survive.</desc></programme><programme channel="700418" start="20250411125957 +0000" stop="20250411140140 +0000"><title>Tree Kangaroos: Ghosts of the Forest</title><desc>Track a Lumholtz’s tree kangaroo joey as she learns how to survive in the wild.</desc></programme><programme channel="700418" start="20250411140140 +0000" stop="20250411150146 +0000"><title>Secret Life Of The Wombat</title><desc>Near Australia’s Snowy Mountains are a hundred burrows known as Wombat Wood.</desc></programme><programme channel="700418" start="20250411150146 +0000" stop="20250411160143 +0000"><title>Secret Life Of The Koala</title><desc>Learn how the lives of koalas vary in different parts of Australia.</desc></programme><programme channel="700418" start="20250411160143 +0000" stop="20250411170024 +0000"><title>Land Of Gremlins</title><desc>See how Madagascar’s diverse landscapes influence plant and animal evolution.</desc></programme><programme channel="700418" start="20250411170024 +0000" stop="20250411180016 +0000"><title>Secret Life Of The Kangaroo</title><desc>A sociable species, the Eastern Grey kangaroos form social networks called mobs.</desc></programme><programme channel="700418" start="20250411180016 +0000" stop="20250411190039 +0000"><title>Hotspots</title><desc>Spot one-of-a-kind monkeys, plants, and more on Earth’s third largest island.</desc></programme><programme channel="700418" start="20250411190039 +0000" stop="20250411195921 +0000"><title>Land Of Gremlins</title><desc>Trail endangered indris on their daily search for enough food to survive.</desc></programme><programme channel="700418" start="20250411195921 +0000" stop="20250411210134 +0000"><title>Tree Kangaroos: Ghosts of the Forest</title><desc>Track a Lumholtz’s tree kangaroo joey as she learns how to survive in the wild.</desc></programme><programme channel="700418" start="20250411210134 +0000" stop="20250411220131 +0000"><title>Secret Life Of The Koala</title><desc>Learn how the lives of koalas vary in different parts of Australia.</desc></programme><programme channel="700418" start="20250411220131 +0000" stop="20250411230137 +0000"><title>Secret Life Of The Wombat</title><desc>Near Australia’s Snowy Mountains are a hundred burrows known as Wombat Wood.</desc></programme><programme channel="700418" start="20250411230137 +0000" stop="20250412000330 +0000"><title>The Canary Islands</title><desc>Get a crash course in survival amidst the islands’ unforgiving landscapes.</desc></programme><programme channel="702892" start="20250410202055 +0000" stop="20250410204516 +0000"><title>Rock The Park</title><desc>Colton and Jack visit the parks of New York Harbor to learn about immigration and their own family history.</desc></programme><programme channel="702892" start="20250410204516 +0000" stop="20250410210946 +0000"><title>Rock The Park</title><desc>Jack and Colton are in Okinawa, Japan immersing themselves in nature and parks.</desc></programme><programme channel="702892" start="20250410210946 +0000" stop="20250410213351 +0000"><title>Rock The Park</title><desc>Jack and Colton are in Washington’s Olympic National Park to hike the pristine Pacific coastline!</desc></programme><programme channel="702892" start="20250410213351 +0000" stop="20250410215742 +0000"><title>Rock The Park</title><desc>From rainforest to rocky coast to magnificent mountains, the guys discover why Olympic is three parks in one.</desc></programme><programme channel="702892" start="20250410215742 +0000" stop="20250410222157 +0000"><title>Rock The Park</title><desc>Colton and Jack hit the beach for a raucous wind surfing race.</desc></programme><programme channel="702892" start="20250410222157 +0000" stop="20250410224518 +0000"><title>The Voyager with Josh Garcia</title><desc>Ketchikan, Alaska. Josh’s adventure begins by exploring the legendary Tongass National Forest.</desc></programme><programme channel="702892" start="20250410224518 +0000" stop="20250410230838 +0000"><title>The Voyager with Josh Garcia</title><desc>Bangkok, Thailand. Josh explores the magical floating market that offers an array of exotic produce.</desc></programme><programme channel="702892" start="20250410230838 +0000" stop="20250410233158 +0000"><title>The Voyager with Josh Garcia</title><desc>Josh makes his first voyage to Barbados, which celebrates its diverse Caribbean culture.</desc></programme><programme channel="702892" start="20250410233158 +0000" stop="20250410235518 +0000"><title>The Voyager with Josh Garcia</title><desc>St. Thomas, U.S. Virgin Islands. Josh discovers the art of moko jumbie stilt walking and more.</desc></programme><programme channel="702892" start="20250410235518 +0000" stop="20250411001838 +0000"><title>The Voyager with Josh Garcia</title><desc>Josh is reminded of the many geological wonders that have surprised and astounded him on his travels.</desc></programme><programme channel="702892" start="20250411001838 +0000" stop="20250411004158 +0000"><title>The Voyager with Josh Garcia</title><desc>Josh voyages to Corfu in the beautiful Ionian Sea.</desc></programme><programme channel="702892" start="20250411004158 +0000" stop="20250411010518 +0000"><title>The Voyager with Josh Garcia</title><desc>Josh is remined how different fruits and vegetables are grown, harvested, and cooked into delectable dishes.</desc></programme><programme channel="702892" start="20250411010518 +0000" stop="20250411012838 +0000"><title>The Voyager with Josh Garcia</title><desc>San Juan, Puerto Rico. Josh visits a vejigante mask maker and stops by the kitchen of Chef José Santaella.</desc></programme><programme channel="702892" start="20250411012838 +0000" stop="20250411015158 +0000"><title>The Voyager with Josh Garcia</title><desc>Josh's culinary adventures allow him to learn about different cultures by sampling a country’s cuisine.</desc></programme><programme channel="702892" start="20250411015158 +0000" stop="20250411021518 +0000"><title>The Voyager with Josh Garcia</title><desc>Josh rereads some of his favorite journal entries from Italy.</desc></programme><programme channel="702892" start="20250411021518 +0000" stop="20250411023837 +0000"><title>The Voyager with Josh Garcia</title><desc>Ocho Rios, Jamaica. Josh rafts down the picturesque Martha Brae River.</desc></programme><programme channel="702892" start="20250411023837 +0000" stop="20250411030313 +0000"><title>Rock The Park</title><desc>Jack and Colton travel the “The Loneliest Road in America” and discovering the natural history of Nevada.</desc></programme><programme channel="702892" start="20250411030313 +0000" stop="20250411032728 +0000"><title>Rock The Park</title><desc>This trip includes a walk through White Sands and checking out the country’s largest solar observatory.</desc></programme><programme channel="702892" start="20250411032728 +0000" stop="20250411035204 +0000"><title>Rock The Park</title><desc>Jack and Colton explore one of the oldest rivers in N. America and one of the biggest bridges in the country.</desc></programme><programme channel="702892" start="20250411035204 +0000" stop="20250411041539 +0000"><title>Rock The Park</title><desc>The guys are pushed to the limit and forced to overcome fears in a quest to make the climb of their lives.</desc></programme><programme channel="702892" start="20250411041539 +0000" stop="20250411044014 +0000"><title>Rock The Park</title><desc>Colton and Jack explore Northern California.</desc></programme><programme channel="702892" start="20250411044014 +0000" stop="20250411050435 +0000"><title>Rock The Park</title><desc>Colton and Jack visit the parks of New York Harbor to learn about immigration and their own family history.</desc></programme><programme channel="702892" start="20250411050435 +0000" stop="20250411052905 +0000"><title>Rock The Park</title><desc>Jack and Colton are in Okinawa, Japan immersing themselves in nature and parks.</desc></programme><programme channel="702892" start="20250411052905 +0000" stop="20250411055310 +0000"><title>Rock The Park</title><desc>Jack and Colton are in Washington’s Olympic National Park to hike the pristine Pacific coastline!</desc></programme><programme channel="702892" start="20250411055310 +0000" stop="20250411061701 +0000"><title>Rock The Park</title><desc>From rainforest to rocky coast to magnificent mountains, the guys discover why Olympic is three parks in one.</desc></programme><programme channel="702892" start="20250411061701 +0000" stop="20250411064116 +0000"><title>Rock The Park</title><desc>Colton and Jack hit the beach for a raucous wind surfing race.</desc></programme><programme channel="702892" start="20250411064116 +0000" stop="20250411070437 +0000"><title>The Voyager with Josh Garcia</title><desc>Ketchikan, Alaska. Josh’s adventure begins by exploring the legendary Tongass National Forest.</desc></programme><programme channel="702892" start="20250411070437 +0000" stop="20250411072757 +0000"><title>The Voyager with Josh Garcia</title><desc>Bangkok, Thailand. Josh explores the magical floating market that offers an array of exotic produce.</desc></programme><programme channel="702892" start="20250411072757 +0000" stop="20250411075117 +0000"><title>The Voyager with Josh Garcia</title><desc>Josh makes his first voyage to Barbados, which celebrates its diverse Caribbean culture.</desc></programme><programme channel="702892" start="20250411075117 +0000" stop="20250411081438 +0000"><title>The Voyager with Josh Garcia</title><desc>St. Thomas, U.S. Virgin Islands. Josh discovers the art of moko jumbie stilt walking and more.</desc></programme><programme channel="702892" start="20250411081438 +0000" stop="20250411083757 +0000"><title>The Voyager with Josh Garcia</title><desc>Josh is reminded of the many geological wonders that have surprised and astounded him on his travels.</desc></programme><programme channel="702892" start="20250411083757 +0000" stop="20250411090117 +0000"><title>The Voyager with Josh Garcia</title><desc>Josh voyages to Corfu in the beautiful Ionian Sea.</desc></programme><programme channel="702892" start="20250411090117 +0000" stop="20250411092437 +0000"><title>The Voyager with Josh Garcia</title><desc>Josh is remined how different fruits and vegetables are grown, harvested, and cooked into delectable dishes.</desc></programme><programme channel="702892" start="20250411092437 +0000" stop="20250411094757 +0000"><title>The Voyager with Josh Garcia</title><desc>San Juan, Puerto Rico. Josh visits a vejigante mask maker and stops by the kitchen of Chef José Santaella.</desc></programme><programme channel="702892" start="20250411094757 +0000" stop="20250411100000 +0000"><title>The Voyager with Josh Garcia</title><desc>Josh's culinary adventures allow him to learn about different cultures by sampling a country’s cuisine.</desc></programme><programme channel="702892" start="20250411100000 +0000" stop="20250411102319 +0000"><title>The Voyager with Josh Garcia</title><desc>Josh sails to St. Petersburg, Russia, and immerses himself in the local culture.</desc></programme><programme channel="702892" start="20250411102319 +0000" stop="20250411104639 +0000"><title>The Voyager with Josh Garcia</title><desc>Rio de Janeiro, Brazil. Josh discovers Brazil’s vast array of exotic fruit.</desc></programme><programme channel="702892" start="20250411104639 +0000" stop="20250411110959 +0000"><title>The Voyager with Josh Garcia</title><desc>Hong Kong. Josh visits the port of Hong Kong where a local foodie takes him on an unforgettable tour.</desc></programme><programme channel="702892" start="20250411110959 +0000" stop="20250411113319 +0000"><title>The Voyager with Josh Garcia</title><desc>Sydney, Australia. Josh surveys the coastal landscape and learns that “shrimp on the barbie” is a real thing.</desc></programme><programme channel="702892" start="20250411113319 +0000" stop="20250411115638 +0000"><title>The Voyager with Josh Garcia</title><desc>Merida, Mexico. Josh sees a Mayan chocolate ceremony, learns about henequen production, and more.</desc></programme><programme channel="702892" start="20250411115638 +0000" stop="20250411121958 +0000"><title>The Voyager with Josh Garcia</title><desc>Singapore. At a floating restaurant, Josh takes on a spicy national dish called Chili Crab.</desc></programme><programme channel="702892" start="20250411121958 +0000" stop="20250411124318 +0000"><title>The Voyager with Josh Garcia</title><desc>Josh sets off to explore Malaysia’s capital, the bustling city of Kuala Lumpur.</desc></programme><programme channel="702892" start="20250411124318 +0000" stop="20250411130501 +0000"><title>The Voyager with Josh Garcia</title><desc>Valladolid, Mexico. Josh learns the Jarana, tastes the ultimate local dish of cochinitap, and more.</desc></programme><programme channel="702892" start="20250411130501 +0000" stop="20250411132820 +0000"><title>The Voyager with Josh Garcia</title><desc>Dubrovnik, Croatia. Josh ventures into the turquoise waters of the Adriatic.</desc></programme><programme channel="702892" start="20250411132820 +0000" stop="20250411135140 +0000"><title>The Voyager with Josh Garcia</title><desc>Josh voyages to the island country of Malta, where his ship docks in the beautiful capital of Valletta.</desc></programme><programme channel="702892" start="20250411135140 +0000" stop="20250411141500 +0000"><title>The Voyager with Josh Garcia</title><desc>Josh sails to Tallinn, Estonia, one of Europe’s best-preserved cities, and steps back into medieval times.</desc></programme><programme channel="702892" start="20250411141500 +0000" stop="20250411143752 +0000"><title>TV-G</title><desc>Dr. Rae and Peter track rare U.S. species, aiding red wolf pups, and seeking the Devil's Hole pupfish.</desc></programme><programme channel="702892" start="20250411143752 +0000" stop="20250411150042 +0000"><title>TV-G</title><desc>Peter and Dr. Rae witness cloning efforts for endangered species, seeing sea otters thriving in the wild.</desc></programme><programme channel="702892" start="20250411150042 +0000" stop="20250411152334 +0000"><title>TV-G</title><desc>Dr. Rae and Peter explore ocean mysteries, encountering a shark and kelp issues, kayaking near sea otters.</desc></programme><programme channel="702892" start="20250411152334 +0000" stop="20250411154624 +0000"><title>TV-G</title><desc>Peter and Dr. Rae release black bear cubs and 18 ferrets, while relocating beavers in Washington.</desc></programme><programme channel="702892" start="20250411154624 +0000" stop="20250411160915 +0000"><title>TV-G</title><desc>Peter and Rae aid in saving the Mojave Desert Tortoise, tackling raven threats, help balance the ecosystem.</desc></programme><programme channel="702892" start="20250411160915 +0000" stop="20250411163206 +0000"><title>Mutual of Omaha's Wild Kingdom Protecting the Wild</title><desc>Peter and Dr Rae visit Puffins in Maine, and conservationists tryng to save them.</desc></programme><programme channel="702892" start="20250411163206 +0000" stop="20250411165457 +0000"><title>TV-G</title><desc>Peter and David rescue sea turtles and manatees in Florida, see rehabilitations and releases to the wild.</desc></programme><programme channel="702892" start="20250411165457 +0000" stop="20250411171748 +0000"><title>TV-G</title><desc>Peter and Rae assist in bat rescue, vaccination, and release 20 million bats in Austin, Texas.</desc></programme><programme channel="702892" start="20250411171748 +0000" stop="20250411174039 +0000"><title>TV-G</title><desc>Peter and Rae work with conservationists, and release captive-bred salamanders into the wild.</desc></programme><programme channel="702892" start="20250411174039 +0000" stop="20250411180330 +0000"><title>TV-G</title><desc>Peter and Rae explore the foxes' history, challenges, and interactions with bald eagles alongside biologists.</desc></programme><programme channel="702892" start="20250411180330 +0000" stop="20250411182621 +0000"><title>TV-G</title><desc>Peter and Rae help restore salmon habitats by relocating beavers and building dams.</desc></programme><programme channel="702892" start="20250411182621 +0000" stop="20250411184940 +0000"><title>The Voyager with Josh Garcia</title><desc>Josh sails to St. Petersburg, Russia, and immerses himself in the local culture.</desc></programme><programme channel="702892" start="20250411184940 +0000" stop="20250411191300 +0000"><title>The Voyager with Josh Garcia</title><desc>Rio de Janeiro, Brazil. Josh discovers Brazil’s vast array of exotic fruit.</desc></programme><programme channel="702892" start="20250411191300 +0000" stop="20250411193620 +0000"><title>The Voyager with Josh Garcia</title><desc>Hong Kong. Josh visits the port of Hong Kong where a local foodie takes him on an unforgettable tour.</desc></programme><programme channel="702892" start="20250411193620 +0000" stop="20250411195940 +0000"><title>The Voyager with Josh Garcia</title><desc>Sydney, Australia. Josh surveys the coastal landscape and learns that “shrimp on the barbie” is a real thing.</desc></programme><programme channel="702892" start="20250411195940 +0000" stop="20250411202300 +0000"><title>The Voyager with Josh Garcia</title><desc>Merida, Mexico. Josh sees a Mayan chocolate ceremony, learns about henequen production, and more.</desc></programme><programme channel="702892" start="20250411202300 +0000" stop="20250411204620 +0000"><title>The Voyager with Josh Garcia</title><desc>Singapore. At a floating restaurant, Josh takes on a spicy national dish called Chili Crab.</desc></programme><programme channel="702892" start="20250411204620 +0000" stop="20250411210939 +0000"><title>The Voyager with Josh Garcia</title><desc>Josh sets off to explore Malaysia’s capital, the bustling city of Kuala Lumpur.</desc></programme><programme channel="702892" start="20250411210939 +0000" stop="20250411213122 +0000"><title>The Voyager with Josh Garcia</title><desc>Valladolid, Mexico. Josh learns the Jarana, tastes the ultimate local dish of cochinitap, and more.</desc></programme><programme channel="702892" start="20250411213122 +0000" stop="20250411215442 +0000"><title>The Voyager with Josh Garcia</title><desc>Dubrovnik, Croatia. Josh ventures into the turquoise waters of the Adriatic.</desc></programme><programme channel="702892" start="20250411215442 +0000" stop="20250411221802 +0000"><title>The Voyager with Josh Garcia</title><desc>Josh voyages to the island country of Malta, where his ship docks in the beautiful capital of Valletta.</desc></programme><programme channel="702892" start="20250411221802 +0000" stop="20250411224121 +0000"><title>The Voyager with Josh Garcia</title><desc>Josh sails to Tallinn, Estonia, one of Europe’s best-preserved cities, and steps back into medieval times.</desc></programme><programme channel="702892" start="20250411224121 +0000" stop="20250411230413 +0000"><title>TV-G</title><desc>Dr. Rae and Peter track rare U.S. species, aiding red wolf pups, and seeking the Devil's Hole pupfish.</desc></programme><programme channel="702892" start="20250411230413 +0000" stop="20250411232703 +0000"><title>TV-G</title><desc>Peter and Dr. Rae witness cloning efforts for endangered species, seeing sea otters thriving in the wild.</desc></programme><programme channel="702892" start="20250411232703 +0000" stop="20250411234955 +0000"><title>TV-G</title><desc>Dr. Rae and Peter explore ocean mysteries, encountering a shark and kelp issues, kayaking near sea otters.</desc></programme><programme channel="702892" start="20250411234955 +0000" stop="20250412001245 +0000"><title>TV-G</title><desc>Peter and Dr. Rae release black bear cubs and 18 ferrets, while relocating beavers in Washington.</desc></programme><programme channel="400000063" start="20250410195605 +0000" stop="20250410205649 +0000"><title>Natural World: Jaguars - Born Free</title><desc>Three tiny orphaned jaguar cubs are trained to be wild again.</desc></programme><programme channel="400000063" start="20250410205649 +0000" stop="20250410215910 +0000"><title>Natural World: Puerto Rico - Island of Enchantment</title><desc>David Attenborough meets the people fighting to protect the native animals of Puerto Rico.</desc></programme><programme channel="400000063" start="20250410215910 +0000" stop="20250410230135 +0000"><title>Natural World: Sudan: The Last of the Rhinos</title><desc>The remarkable story of 43-year-old Sudan, the last male northern white rhino in the world.</desc></programme><programme channel="400000063" start="20250410230135 +0000" stop="20250411000404 +0000"><title>Natural World: Snow Animals</title><desc>Gordon Buchanan meets the animals who live in nature's winter wonderlands.</desc></programme><programme channel="400000063" start="20250411000404 +0000" stop="20250411010630 +0000"><title>Natural World: Super Squirrels</title><desc>The squirrel family is one of the most widespread - what is the secret to their success?</desc></programme><programme channel="400000063" start="20250411010630 +0000" stop="20250411021515 +0000"><title>Natural World: The Octopus In My House</title><desc>A professor invites an octopus into his home to learn about its amazing intelligence.</desc></programme><programme channel="400000063" start="20250411021515 +0000" stop="20250411031736 +0000"><title>Natural World: Animal Weapons</title><desc>Professor Doug Emlen discovers the secrets of nature's arms races.</desc></programme><programme channel="400000063" start="20250411031736 +0000" stop="20250411042012 +0000"><title>Natural World: H Is for Hawk - A New Chapter</title><desc>Helen Macdonald trains a goshawk and follows a wild goshawk family at the nest.</desc></programme><programme channel="400000063" start="20250411042012 +0000" stop="20250411052922 +0000"><title>Natural World: Humpback Whales -A Detective Story</title><desc>A documentary about our relationship with whales and their future alongside us.</desc></programme><programme channel="400000063" start="20250411052922 +0000" stop="20250411063006 +0000"><title>Natural World: Jaguars - Born Free</title><desc>Three tiny orphaned jaguar cubs are trained to be wild again.</desc></programme><programme channel="400000063" start="20250411063006 +0000" stop="20250411073227 +0000"><title>Natural World: Puerto Rico - Island of Enchantment</title><desc>David Attenborough meets the people fighting to protect the native animals of Puerto Rico.</desc></programme><programme channel="400000063" start="20250411073227 +0000" stop="20250411083452 +0000"><title>Natural World: Sudan: The Last of the Rhinos</title><desc>The remarkable story of 43-year-old Sudan, the last male northern white rhino in the world.</desc></programme><programme channel="400000063" start="20250411083452 +0000" stop="20250411093721 +0000"><title>Natural World: Snow Animals</title><desc>Gordon Buchanan meets the animals who live in nature's winter wonderlands.</desc></programme><programme channel="400000063" start="20250411093721 +0000" stop="20250411103948 +0000"><title>Natural World: Super Squirrels</title><desc>The squirrel family is one of the most widespread - what is the secret to their success?</desc></programme><programme channel="400000063" start="20250411103948 +0000" stop="20250411114833 +0000"><title>Natural World: The Octopus In My House</title><desc>A professor invites an octopus into his home to learn about its amazing intelligence.</desc></programme><programme channel="400000063" start="20250411114833 +0000" stop="20250411125620 +0000"><title>Animal Babies</title><desc>Many water animals have their babies on land which presents a number of challenges.</desc></programme><programme channel="400000063" start="20250411125620 +0000" stop="20250411140426 +0000"><title>Animal Babies</title><desc>Mountain babies must battle extreme weather and hungry predators.</desc></programme><programme channel="400000063" start="20250411140426 +0000" stop="20250411151324 +0000"><title>Elephant Family and Me</title><desc>Gordon Buchanan tries to gain the trust of an elephant and her baby in the Kenyan wild.</desc></programme><programme channel="400000063" start="20250411151324 +0000" stop="20250411162225 +0000"><title>Elephant Family and Me</title><desc>Gordon follows baby elephant Wiva and her family in the height of the dry season.</desc></programme><programme channel="400000063" start="20250411162225 +0000" stop="20250411173055 +0000"><title>Forces of Nature</title><desc>Professor Brian Cox explains how the most irregular shapes in nature emerge.</desc></programme><programme channel="400000063" start="20250411173055 +0000" stop="20250411183931 +0000"><title>Forces of Nature</title><desc>Professor Brian Cox follows the Earth's epic journey through space.</desc></programme><programme channel="400000063" start="20250411183931 +0000" stop="20250411194754 +0000"><title>Forces of Nature</title><desc>Professor Brian Cox investigates some of the chemical elements found on planet earth.</desc></programme><programme channel="400000063" start="20250411194754 +0000" stop="20250411205630 +0000"><title>Forces of Nature</title><desc>Professor Brian Cox explains the science behind the colors of the planet.</desc></programme><programme channel="400000063" start="20250411205630 +0000" stop="20250411215345 +0000"><title>Frozen Planet</title><desc>David Attenborough investigates the effects of rising temperatures in the polar regions.</desc></programme><programme channel="400000063" start="20250411215345 +0000" stop="20250411230133 +0000"><title>Animal Babies</title><desc>Many water animals have their babies on land which presents a number of challenges.</desc></programme><programme channel="400000063" start="20250411230133 +0000" stop="20250412000939 +0000"><title>Animal Babies</title><desc>Mountain babies must battle extreme weather and hungry predators.</desc></programme></tv>
+  <programme channel="USBA3400003IP" start="20250411060150 +0000" stop="20250411070143 +0000">
+    <title>Hotspots</title>
+    <sub-title>Borneo</sub-title>
+    <desc>Spot one-of-a-kind monkeys, plants, and more on Earth's third largest island.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_537210089_0_20240114T012516393Z_39.jpeg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="USBA3400003IP" start="20250411070143 +0000" stop="20250411075953 +0000">
+    <title>Land Of Gremlins</title>
+    <sub-title>Castaway Island</sub-title>
+    <desc>See how Madagascar's diverse landscapes influence plant and animal evolution.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533927514_1_20231014T022305196Z_92.jpeg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="USBA3400003IP" start="20250411075953 +0000" stop="20250411085930 +0000">
+    <title>Secret Life Of The Wombat</title>
+    <sub-title>Wombat Wood</sub-title>
+    <desc>Near Australia's Snowy Mountains are a hundred burrows known as Wombat Wood.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533927514_1_20231014T022305196Z_92.jpeg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <channel id="400000063"><display-name>BBC Earth</display-name><icon src="https://canvas-lb.tubitv.com/opts/TGE1ln0I_gLSwg==/630f09e9-a354-4d28-a952-2f5c75e09815/CHgQeDoFMS4xLjZAAQ==" /></channel><programme channel="400000063" start="20250411010630 +0000" stop="20250411021515 +0000"><title>Natural World: The Octopus In My House</title><desc>A professor invites an octopus into his home to learn about its amazing intelligence.</desc></programme><programme channel="400000063" start="20250411021515 +0000" stop="20250411031736 +0000"><title>Natural World: Animal Weapons</title><desc>Professor Doug Emlen discovers the secrets of nature's arms races.</desc></programme><programme channel="400000063" start="20250411031736 +0000" stop="20250411042012 +0000"><title>Natural World: H Is for Hawk - A New Chapter</title><desc>Helen Macdonald trains a goshawk and follows a wild goshawk family at the nest.</desc></programme><programme channel="400000063" start="20250411042012 +0000" stop="20250411052922 +0000"><title>Natural World: Humpback Whales -A Detective Story</title><desc>A documentary about our relationship with whales and their future alongside us.</desc></programme><programme channel="400000063" start="20250411052922 +0000" stop="20250411063006 +0000"><title>Natural World: Jaguars - Born Free</title><desc>Three tiny orphaned jaguar cubs are trained to be wild again.</desc></programme><programme channel="400000063" start="20250411063006 +0000" stop="20250411073227 +0000"><title>Natural World: Puerto Rico - Island of Enchantment</title><desc>David Attenborough meets the people fighting to protect the native animals of Puerto Rico.</desc></programme><programme channel="400000063" start="20250411073227 +0000" stop="20250411083452 +0000"><title>Natural World: Sudan: The Last of the Rhinos</title><desc>The remarkable story of 43-year-old Sudan, the last male northern white rhino in the world.</desc></programme><programme channel="400000063" start="20250411083452 +0000" stop="20250411093721 +0000"><title>Natural World: Snow Animals</title><desc>Gordon Buchanan meets the animals who live in nature's winter wonderlands.</desc></programme><programme channel="400000063" start="20250411093721 +0000" stop="20250411103948 +0000"><title>Natural World: Super Squirrels</title><desc>The squirrel family is one of the most widespread - what is the secret to their success?</desc></programme><programme channel="400000063" start="20250411103948 +0000" stop="20250411114833 +0000"><title>Natural World: The Octopus In My House</title><desc>A professor invites an octopus into his home to learn about its amazing intelligence.</desc></programme><programme channel="400000063" start="20250411114833 +0000" stop="20250411125620 +0000"><title>Animal Babies</title><desc>Many water animals have their babies on land which presents a number of challenges.</desc></programme><programme channel="400000063" start="20250411125620 +0000" stop="20250411140426 +0000"><title>Animal Babies</title><desc>Mountain babies must battle extreme weather and hungry predators.</desc></programme><programme channel="400000063" start="20250411140426 +0000" stop="20250411151324 +0000"><title>Elephant Family and Me</title><desc>Gordon Buchanan tries to gain the trust of an elephant and her baby in the Kenyan wild.</desc></programme><programme channel="400000063" start="20250411151324 +0000" stop="20250411162225 +0000"><title>Elephant Family and Me</title><desc>Gordon follows baby elephant Wiva and her family in the height of the dry season.</desc></programme><programme channel="400000063" start="20250411162225 +0000" stop="20250411173055 +0000"><title>Forces of Nature</title><desc>Professor Brian Cox explains how the most irregular shapes in nature emerge.</desc></programme><programme channel="400000063" start="20250411173055 +0000" stop="20250411183931 +0000"><title>Forces of Nature</title><desc>Professor Brian Cox follows the Earth's epic journey through space.</desc></programme><programme channel="400000063" start="20250411183931 +0000" stop="20250411194754 +0000"><title>Forces of Nature</title><desc>Professor Brian Cox investigates some of the chemical elements found on planet earth.</desc></programme><programme channel="400000063" start="20250411194754 +0000" stop="20250411205630 +0000"><title>Forces of Nature</title><desc>Professor Brian Cox explains the science behind the colors of the planet.</desc></programme><programme channel="400000063" start="20250411205630 +0000" stop="20250411215345 +0000"><title>Frozen Planet</title><desc>David Attenborough investigates the effects of rising temperatures in the polar regions.</desc></programme><programme channel="400000063" start="20250411215345 +0000" stop="20250411230133 +0000"><title>Animal Babies</title><desc>Many water animals have their babies on land which presents a number of challenges.</desc></programme><programme channel="400000063" start="20250411230133 +0000" stop="20250412000939 +0000"><title>Animal Babies</title><desc>Mountain babies must battle extreme weather and hungry predators.</desc></programme><programme channel="400000063" start="20250412000939 +0000" stop="20250412011836 +0000"><title>Elephant Family and Me</title><desc>Gordon Buchanan tries to gain the trust of an elephant and her baby in the Kenyan wild.</desc></programme><programme channel="400000063" start="20250412011836 +0000" stop="20250412022738 +0000"><title>Elephant Family and Me</title><desc>Gordon follows baby elephant Wiva and her family in the height of the dry season.</desc></programme><programme channel="400000063" start="20250412022738 +0000" stop="20250412033607 +0000"><title>Forces of Nature</title><desc>Professor Brian Cox explains how the most irregular shapes in nature emerge.</desc></programme><programme channel="400000063" start="20250412033607 +0000" stop="20250412044444 +0000"><title>Forces of Nature</title><desc>Professor Brian Cox follows the Earth's epic journey through space.</desc></programme><programme channel="400000063" start="20250412044444 +0000" stop="20250412055307 +0000"><title>Forces of Nature</title><desc>Professor Brian Cox investigates some of the chemical elements found on planet earth.</desc></programme><programme channel="400000063" start="20250412055307 +0000" stop="20250412070143 +0000"><title>Forces of Nature</title><desc>Professor Brian Cox explains the science behind the colors of the planet.</desc></programme><programme channel="400000063" start="20250412070143 +0000" stop="20250412075858 +0000"><title>Frozen Planet</title><desc>David Attenborough investigates the effects of rising temperatures in the polar regions.</desc></programme><programme channel="400000063" start="20250412075858 +0000" stop="20250412090645 +0000"><title>Animal Babies</title><desc>Many water animals have their babies on land which presents a number of challenges.</desc></programme><programme channel="400000063" start="20250412090645 +0000" stop="20250412101452 +0000"><title>Animal Babies</title><desc>Mountain babies must battle extreme weather and hungry predators.</desc></programme><programme channel="400000063" start="20250412101452 +0000" stop="20250412112349 +0000"><title>Elephant Family and Me</title><desc>Gordon Buchanan tries to gain the trust of an elephant and her baby in the Kenyan wild.</desc></programme><programme channel="400000063" start="20250412112349 +0000" stop="20250412123250 +0000"><title>Elephant Family and Me</title><desc>Gordon follows baby elephant Wiva and her family in the height of the dry season.</desc></programme><programme channel="400000063" start="20250412123250 +0000" stop="20250412134139 +0000"><title>Gorilla Family and Me</title><desc>Gordon Buchanan meets the fearsome leader of his gorilla family and two baby gorillas.</desc></programme><programme channel="400000063" start="20250412134139 +0000" stop="20250412145037 +0000"><title>Gorilla Family and Me</title><desc>The gorilla family faces a new threat - poachers in the forest.</desc></programme><programme channel="400000063" start="20250412145037 +0000" stop="20250412155045 +0000"><title>Hidden India</title><desc>Liz Bonnin, Freida Pinto and Jon Gupta reveal the hidden wonders of India's natural world.</desc></programme><programme channel="400000063" start="20250412155045 +0000" stop="20250412164912 +0000"><title>Hidden India</title><desc>Experience a village of birds, masks that come alive and a great mountain range.</desc></programme><programme channel="400000063" start="20250412164912 +0000" stop="20250412174911 +0000"><title>Hidden India</title><desc>This episode looks at the Ganges, from its holy source deep within the Himalayas.</desc></programme><programme channel="400000063" start="20250412174911 +0000" stop="20250412182320 +0000"><title>Mindful Earth</title><desc>Why breathing is so important to being in the moment.</desc></programme><programme channel="400000063" start="20250412182320 +0000" stop="20250412185728 +0000"><title>Mindful Earth</title><desc>What can we learn from animals' abilities to adapt to change?</desc></programme><programme channel="400000063" start="20250412185728 +0000" stop="20250412193137 +0000"><title>Mindful Earth</title><desc>How scenes from nature can help us to feel more positive.</desc></programme><programme channel="400000063" start="20250412193137 +0000" stop="20250412200545 +0000"><title>Mindful Earth</title><desc>Mindfulness expert Andy Puddicombe shows how we can experience more being and less doing.</desc></programme><programme channel="400000063" start="20250412200545 +0000" stop="20250412210444 +0000"><title>Wild New Zealand</title><desc>Isolated since the Jurassic era, New Zealand's wildlife has been left to its own devices.</desc></programme><programme channel="400000063" start="20250412210444 +0000" stop="20250412220525 +0000"><title>Wild New Zealand</title><desc>The most extreme and wild parts of New Zealand are located in the South Island.</desc></programme><programme channel="400000063" start="20250412220525 +0000" stop="20250412230526 +0000"><title>Wild New Zealand</title><desc>New Zealand was one of the last land-masses to be found and settled by people.</desc></programme><programme channel="400000063" start="20250412230526 +0000" stop="20250413001414 +0000"><title>Gorilla Family and Me</title><desc>Gordon Buchanan meets the fearsome leader of his gorilla family and two baby gorillas.</desc></programme></tv>
