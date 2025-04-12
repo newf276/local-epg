@@ -4138,11 +4138,6 @@
     <display-name>Love Nature 4K</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3400003IP_20250204T234403SQUARE.png" />
   </channel>
-  <programme channel="CABC2300009KD" start="20250412050000 +0000" stop="20250412060000 +0000">
-    <title>The National</title>
-    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
-  </programme>
   <programme channel="CABC2300009KD" start="20250412060000 +0000" stop="20250412070000 +0000">
     <title>The National</title>
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
@@ -4173,7 +4168,7 @@
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
-  <programme channel="CA15000018F" start="20250412050000 +0000" stop="20250412060000 +0000">
+  <programme channel="CABC2300009KD" start="20250412120000 +0000" stop="20250412130000 +0000">
     <title>The National</title>
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
@@ -4218,15 +4213,15 @@
     <desc>Local, national and international news, weather and investigative reports.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542759669_0_20240603T112700837Z_44.jpeg" />
   </programme>
-  <programme channel="CA4600008AI" start="20250412050000 +0000" stop="20250412053000 +0000">
-    <title>CBC Edmonton News</title>
-    <desc>The stories and newsmakers that matter most to you.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925922_0_20241213T120007872Z_18_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
+  <programme channel="CA15000018F" start="20250412113000 +0000" stop="20250412120000 +0000">
+    <title>CBC Vancouver News</title>
+    <desc>Local, national and international news, weather and investigative reports.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542759669_0_20240603T112700837Z_44.jpeg" />
   </programme>
-  <programme channel="CA4600008AI" start="20250412053000 +0000" stop="20250412060000 +0000">
-    <title>CBC Edmonton News</title>
-    <desc>The stories and newsmakers that matter most to you.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925922_0_20241213T120007872Z_18_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
+  <programme channel="CA15000018F" start="20250412120000 +0000" stop="20250412130000 +0000">
+    <title>The National</title>
+    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
   <programme channel="CA4600008AI" start="20250412060000 +0000" stop="20250412070000 +0000">
     <title>The National</title>
@@ -4268,10 +4263,10 @@
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
-  <programme channel="CA4600006DO" start="20250412050000 +0000" stop="20250412060000 +0000">
-    <title>The National</title>
-    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
+  <programme channel="CA4600008AI" start="20250412120000 +0000" stop="20250412123000 +0000">
+    <title>CBC Edmonton News</title>
+    <desc>The stories and newsmakers that matter most to you.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925922_0_20241213T120007872Z_18_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
   </programme>
   <programme channel="CA4600006DO" start="20250412060000 +0000" stop="20250412063000 +0000">
     <title>CBC News New Brunswick</title>
@@ -4318,7 +4313,12 @@
     <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_571187584_0_20241220T212226055Z_105_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg" />
   </programme>
-  <programme channel="CA4600003GV" start="20250412050000 +0000" stop="20250412060000 +0000">
+  <programme channel="CA4600006DO" start="20250412113000 +0000" stop="20250412120000 +0000">
+    <title>CBC News New Brunswick</title>
+    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_571187584_0_20241220T212226055Z_105_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg" />
+  </programme>
+  <programme channel="CA4600006DO" start="20250412120000 +0000" stop="20250412130000 +0000">
     <title>The National</title>
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
@@ -4368,7 +4368,7 @@
     <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CA4600007UE" start="20250412050000 +0000" stop="20250412060000 +0000">
+  <programme channel="CA4600003GV" start="20250412113000 +0000" stop="20250412123000 +0000">
     <title>The National</title>
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
@@ -4418,7 +4418,12 @@
     <desc>Late night news show with top stories of the day</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_558093601_0_20241218T055251911Z_90_imageprocessorclient-tvplus-linear-5dc4fd45f6-ftks4.jpeg" />
   </programme>
-  <programme channel="CA46000149D" start="20250412050000 +0000" stop="20250412060000 +0000">
+  <programme channel="CA4600007UE" start="20250412113000 +0000" stop="20250412120000 +0000">
+    <title>CBC News Nova Scotia</title>
+    <desc>Late night news show with top stories of the day</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_558093601_0_20241218T055251911Z_90_imageprocessorclient-tvplus-linear-5dc4fd45f6-ftks4.jpeg" />
+  </programme>
+  <programme channel="CA4600007UE" start="20250412120000 +0000" stop="20250412130000 +0000">
     <title>The National</title>
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
@@ -4468,14 +4473,10 @@
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250412050000 +0000" stop="20250412060000 +0000">
-    <title>Survivorman: Bigfoot</title>
-    <sub-title>Tennessee</sub-title>
-    <desc>Things get weird when Les tracks Bigfoot in the smoky mountains of Tennessee.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534285350_0_20231024T163742475Z_50.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA46000149D" start="20250412120000 +0000" stop="20250412123000 +0000">
+    <title>CBC Ottawa News</title>
+    <desc>Coverage of the day's top local news and developing stories that matter to Canadians.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186128_0_20241217T103439264Z_121_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250412060000 +0000" stop="20250412063000 +0000">
     <title>Dream In Colour</title>
@@ -4565,13 +4566,20 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250412050000 +0000" stop="20250412054859 +0000">
-    <title>Destination Wild: Wild Chile</title>
-    <sub-title>Episode 1</sub-title>
-    <desc>This is the story of an awe-inspiring land of extremes. From the cold and fearsome waters of Tierra Del Fuego and the Antarctic Peninsula to the frozen Patagonian steppe, we follow the animals living on the very edge of existence, having to survive is some of the most extreme environments on earth. King Penguins court on the windswept coast leopard seals hunt amongst the ice floes and young pumas take their first steps toward independence is this South American final Frontier.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_485221451_0_20231013T023057605Z_1.jpeg" />
+  <programme channel="CABC23000223U" start="20250412113000 +0000" stop="20250412120000 +0000">
+    <title>Force of Nature Rewind</title>
+    <desc>Wild and viral weather footage from across Canada and around the world</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
     <rating>
-      <value>NA</value>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="CABC23000223U" start="20250412120000 +0000" stop="20250412123000 +0000">
+    <title>Weather AM</title>
+    <desc>Get your local forecast and weather headlines from right here in Canada, and around the globe.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_539709218_0_20240321T153330644Z_1.jpeg" />
+    <rating>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250412054859 +0000" stop="20250412063750 +0000">
@@ -4633,17 +4641,13 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="GBBA220000751" start="20250412050123 +0000" stop="20250412052901 +0000">
-    <title>City Zoo</title>
-    <sub-title>Reptiles and Amphibians</sub-title>
-    <desc>In this episode we meet some of the zoo's most cold-blooded residents, the reptiles and amphibians and discover why they still inspire fear in some of the world's toughest creatures.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_750048781_0_20250327T001607840Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-rwhtp.jpeg" />
-  </programme>
-  <programme channel="GBBA220000751" start="20250412052901 +0000" stop="20250412060000 +0000">
-    <title>City Zoo</title>
-    <sub-title>Mokopane Biodiversity and Conservation Centre</sub-title>
-    <desc>In this episode we explore the zoo's satellite breeding facility, the Mokopane Biodiversity and Conservation Centre. We meet Johannes, part of the zoo crew and see why he has such a special relationship with the animals he cares for.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_750048703_0_20250327T001607841Z_62_imageprocessorclient-tvplus-linear-6fb5b47f79-rwhtp.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250412115626 +0000" stop="20250412125020 +0000">
+    <title>Fight for Life</title>
+    <desc>Nature is red in tooth and claw – animals face daily battles to protect themselves and secure the resources they need to survive. For predators to find food, lower links in the food chain have a fight on their hands escaping the jaws of death. Their only options are to die, run or turn and fight. Winning these battles will make the difference between life and death, and with the stakes so high don't be surprised if the biggest animals don't have everything their own way. Welcome to nature's fight club.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_757553914_0_20250329T162039085Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-zlxtx.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
   </programme>
   <programme channel="GBBA220000751" start="20250412060000 +0000" stop="20250412063054 +0000">
     <title>Blue World</title>
@@ -4705,23 +4709,17 @@
     <desc>The Born Free lions are about to be taught a very important lesson that could save their lives. It's all hands-on deck as the team struggle to push a rhino into a travelling crate and world's deadliest cargo takes to the skies.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_668959113_0_20250225T161700757Z_106_imageprocessorclient-tvplus-linear-6fb5b47f79-9tw54.jpeg" />
   </programme>
-  <programme channel="USBA3000043LH" start="20250412050607 +0000" stop="20250412053043 +0000">
-    <title>Oh Baby!</title>
-    <sub-title>Growing up in a Winter Wonderland</sub-title>
-    <desc>After a long winter"s sleep in their cozy den, it"s time for the polar bear cubs to navigate a winter wonderland. We head to the freezing cold regions of the planet to waddle away the day with baby penguins, and go hot tubbing with snow monkey babies in japan.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_552888984_0_20241213T032815909Z_50_imageprocessorclient-tvplus-linear-5dc4fd45f6-5r449.jpeg" />
-    <rating>
-      <value>TV-G</value>
-    </rating>
+  <programme channel="GBBA220000751" start="20250412113420 +0000" stop="20250412120908 +0000">
+    <title>Shamwari</title>
+    <sub-title>Episode 11</sub-title>
+    <desc>Capturing a large bull elephant almost ends in disaster when it falls in an awkward position and stops breathing. We welcome some very rare and special new arrivals. White lion cubs have just been born at Shamwari's sister reserve Sanbona.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_669809917_0_20250226T001706174Z_74_imageprocessorclient-tvplus-linear-6fb5b47f79-mxkkf.jpeg" />
   </programme>
-  <programme channel="USBA3000043LH" start="20250412053043 +0000" stop="20250412055519 +0000">
-    <title>Oh Baby!</title>
-    <sub-title>Baby Elephant Walk</sub-title>
-    <desc>A safari on the african savannah reveals the abundant and diverse wildlife thriving on the open plains. From the baby elephants just learning to control their trunks, to the littlest zebras earning their stripes, watch as this vibrant world comes alive.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_552888984_0_20241213T032815909Z_50_imageprocessorclient-tvplus-linear-5dc4fd45f6-5r449.jpeg" />
-    <rating>
-      <value>TV-G</value>
-    </rating>
+  <programme channel="GBBA220000751" start="20250412120908 +0000" stop="20250412124256 +0000">
+    <title>Echo And The Elephants Of Amboseli</title>
+    <sub-title>Clash of the Titans</sub-title>
+    <desc>The rains bring new life. Lush new grass is saving the 58 elephant families from hunger. An extraordinary annual reunion brings hundreds of elephants together in scenes of celebration, play and romance.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_668952015_0_20250225T161652901Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-9tw54.jpeg" />
   </programme>
   <programme channel="USBA3000043LH" start="20250412055519 +0000" stop="20250412061955 +0000">
     <title>Oh Baby!</title>
@@ -4795,13 +4793,31 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme channel="USBA3400003IP" start="20250412050425 +0000" stop="20250412060401 +0000">
-    <title>Secret Life Of The Wombat</title>
-    <sub-title>Wombat Wood</sub-title>
-    <desc>Near Australia's Snowy Mountains are a hundred burrows known as Wombat Wood.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533927514_1_20231014T022305196Z_92.jpeg" />
+  <programme channel="USBA3000043LH" start="20250412111347 +0000" stop="20250412113706 +0000">
+    <title>Wild Child</title>
+    <sub-title>Talk of the Town</sub-title>
+    <desc>Sheinelle Jones looks back at the remarkable creatures we see in the city.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_552888990_0_20241213T032810051Z_67_imageprocessorclient-tvplus-linear-5dc4fd45f6-5r449.jpeg" />
     <rating>
-      <value>PG</value>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="USBA3000043LH" start="20250412113706 +0000" stop="20250412120024 +0000">
+    <title>Wild Child</title>
+    <sub-title>Stars of the Southern Hemisphere</sub-title>
+    <desc>Sheinelle Jones travels back to Australia, Argentina and Southeast Asia to revisit the most incredible animals.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_552888990_0_20241213T032810051Z_67_imageprocessorclient-tvplus-linear-5dc4fd45f6-5r449.jpeg" />
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="USBA3000043LH" start="20250412120024 +0000" stop="20250412122343 +0000">
+    <title>Wild Child</title>
+    <sub-title>Primate Pals</sub-title>
+    <desc>A look at the amazing apes and magnificent monkeys that have made a memorable mark this season.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_552888990_0_20241213T032810051Z_67_imageprocessorclient-tvplus-linear-5dc4fd45f6-5r449.jpeg" />
+    <rating>
+      <value>TV-G</value>
     </rating>
   </programme>
   <programme channel="USBA3400003IP" start="20250412060401 +0000" stop="20250412070327 +0000">
@@ -4853,6 +4869,15 @@
     <title>The Canary Islands</title>
     <sub-title>The World of the Fire Mountains</sub-title>
     <desc>Get a crash course in survival amidst the islands' unforgiving landscapes.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533927514_1_20231014T022305196Z_92.jpeg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="USBA3400003IP" start="20250412114951 +0000" stop="20250412124546 +0000">
+    <title>Becoming Orangutan</title>
+    <sub-title>A Wild Education</sub-title>
+    <desc>Greet baby Topan and see 16-year-old Kasper prepare for his wild graduation.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533927514_1_20231014T022305196Z_92.jpeg" />
     <rating>
       <value>PG</value>
