@@ -35,24 +35,6 @@
     <display-name>The Pet Collective</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/29129b53-2f46-425d-ac3f-3a76dc2d147f/TPC_PLEX_CHANNEL-LOGOS_WHITE.png" />
   </channel>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250413130000 +0000" stop="20250413140000 +0000">
-    <title>At Issue</title>
-    <sub-title>At Issue</sub-title>
-    <desc>CBC News Chief Political Correspondent Rosemary Barton and leading journalists tackle the week's stories.</desc>
-    <date>20250413</date>
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250413140000 +0000" stop="20250413150000 +0000">
-    <title>The Fifth Estate</title>
-    <sub-title>The Fifth Estate</sub-title>
-    <desc>The top-notch team of hosts Bob McKeown, Gillian Findlay, Mark Kelley and Habiba Nosheen provides unique and engaging documentaries from Canada and beyond. "The Fifth Estate" is a reference to the term Fourth Estate, and was chosen to highlight the program's determination to go beyond everyday news into original journalism. The series has won numerous awards for its reporting, including Gemini Awards, International Emmys, the Michener Award, and even an Academy Award for a 1981 episode that was released in theaters the following year. Since September 1975, Canadians have tuned in to experience interesting stories that are always well-crafted and thought-provoking.</desc>
-    <date>20250413</date>
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250413150000 +0000" stop="20250413160000 +0000">
-    <title>Rosemary Barton Live</title>
-    <sub-title>Rosemary Barton Live</sub-title>
-    <desc>Rosemary Barton delivers a weekly dose of compelling conversations and need-to-know political news and issues affecting Canadians.</desc>
-    <date>20250413</date>
-  </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250413160000 +0000" stop="20250413180000 +0000">
     <title>This Week's Top Stories</title>
     <sub-title>This Week's Top Stories</sub-title>
@@ -173,36 +155,29 @@
     <desc>CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.</desc>
     <date>20250414</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250413130000 +0000" stop="20250413140000 +0000">
-    <title>W5: Avery Haines Investigates</title>
-    <sub-title>Narco Jungle: The Death Train</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Avery rides atop Mexico’s “death train” through narco territory, documenting the harrowing journey migrants take in search of a better life.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m56981_2024_12_12_4297b12a-4f93-4977-8f84-d338aac8a1b0_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250414140000 +0000" stop="20250414150000 +0000">
+    <title>CBC News: Morning</title>
+    <sub-title>CBC News: Morning</sub-title>
+    <desc>What do you need to know about the world around you? Heather Hiscox takes the helm as the anchor for this weekday-morning news program to tell you. Joining her is Colleen Jones with weather and sports info., and Danielle Bochove with all you need to know about the business world.</desc>
+    <date>20250414</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250413140000 +0000" stop="20250413143000 +0000">
-    <title>CTV National News with Heather Butts</title>
-    <sub-title>CTV National News for Saturday, April 12, 2025</sub-title>
-    <episode-num system="onscreen">S2025E44</episode-num>
-    <desc>Watch CTV National News with Heather Butts</desc>
-    <date>20250413</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m30424_2024_8_16_2bf829f5-734f-456b-b8b7-785d70e3afd0_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250414150000 +0000" stop="20250414153000 +0000">
+    <title>About That</title>
+    <sub-title>About That</sub-title>
+    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
+    <date>20250414</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250413143000 +0000" stop="20250413150000 +0000">
-    <title>CTV News: Your Canada</title>
-    <sub-title>Weekend for April 12-13, 2025</sub-title>
-    <episode-num system="onscreen">S2025E87</episode-num>
-    <desc>Stories that showcase what makes Canada unique.</desc>
-    <date>20250411</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250414153000 +0000" stop="20250414160000 +0000">
+    <title>Today's Top Stories</title>
+    <sub-title>Today's Top Stories</sub-title>
+    <desc>What's happening across Canada and around the world.</desc>
+    <date>20250414</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250413150000 +0000" stop="20250413160000 +0000">
-    <title>CTV News Special: Rick Hansen: Unbreakable 50 Years Later</title>
-    <category>Movie</category>
-    <desc>Rick Hansen returns to the scene of the accident that changed his life forever. CTV’s Sandie Rinaldo talks to the Canadian icon.</desc>
-    <date>20241011</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250414160000 +0000" stop="20250414163000 +0000">
+    <title>About That</title>
+    <sub-title>About That</sub-title>
+    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
+    <date>20250414</date>
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250413160000 +0000" stop="20250413163000 +0000">
     <title>CTV National News with Heather Butts</title>
@@ -420,53 +395,31 @@
     <desc>Question Period</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250413131130 +0000" stop="20250413140228 +0000">
-    <title>Cross Country Cake Off</title>
-    <sub-title>Spring Finale</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>The top cake makers from each region come together in the CROSS COUNTRY CAKE OFF kitchen to bake for the grand prize in the national finale.</desc>
-    <date>20250408</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m53718_2024_2_21_85a8c3e4-ba04-4831-8f14-3b3ca1e186e5_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250414140000 +0000" stop="20250414143000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250413140228 +0000" stop="20250413142803 +0000">
-    <title>Country House Hunters: Canada</title>
-    <sub-title>Harrison Hot Springs</sub-title>
-    <episode-num system="onscreen">S01E19</episode-num>
-    <desc>Couples looking to relocate from the city find their perfect country house.</desc>
-    <date>20240320</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54910_2024_2_19_009fd9f8-8d1c-44c1-8e57-1a9c6f543ff8_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250414143000 +0000" stop="20250414150000 +0000">
+    <title>CTV News: Your Canada</title>
+    <sub-title>for Monday, April 14, 2025</sub-title>
+    <episode-num system="onscreen">S2025E88</episode-num>
+    <desc>Stories that showcase what makes Canada unique.</desc>
+    <date>20250412</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250413142803 +0000" stop="20250413145420 +0000">
-    <title>Country House Hunters: Canada</title>
-    <sub-title>Nottawa</sub-title>
-    <episode-num system="onscreen">S01E20</episode-num>
-    <desc>Couples looking to relocate from the city find their perfect country house.</desc>
-    <date>20240320</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54910_2024_2_19_009fd9f8-8d1c-44c1-8e57-1a9c6f543ff8_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250414150000 +0000" stop="20250414160000 +0000">
+    <title>Question Period</title>
+    <category>Movie</category>
+    <desc>Question Period</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250413145420 +0000" stop="20250413152110 +0000">
-    <title>Country House Hunters New Zealand</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Escape the hustle and bustle of city life, with New Zealand home-buyers looking for a lifestyle change.</desc>
-    <date>20240320</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54275_2024_10_30_7ff7a36a-a40b-423a-8691-2020abbbfb48_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250413152110 +0000" stop="20250413154733 +0000">
-    <title>Country House Hunters New Zealand</title>
-    <sub-title>Episode 4</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Escape the hustle and bustle of city life, with New Zealand home-buyers looking for a lifestyle change.</desc>
-    <date>20240320</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54275_2024_10_30_7ff7a36a-a40b-423a-8691-2020abbbfb48_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250413154733 +0000" stop="20250413161353 +0000">
-    <title>Country House Hunters New Zealand</title>
-    <sub-title>Episode 5</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Escape the hustle and bustle of city life, with New Zealand home-buyers looking for a lifestyle change.</desc>
-    <date>20240320</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54275_2024_10_30_7ff7a36a-a40b-423a-8691-2020abbbfb48_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250414160000 +0000" stop="20250414163000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250413161353 +0000" stop="20250413164002 +0000">
     <title>Country House Hunters New Zealand</title>
@@ -820,18 +773,45 @@
     <date>20250228</date>
     <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m49685_2024_2_28_8b5e75e2-3414-431f-8d81-e6282ea4d478_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250413130808 +0000" stop="20250413141230 +0000">
-    <title>Disaster Diaries</title>
-    <sub-title>A Year of Floods and Fire (2016)</sub-title>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250414132007 +0000" stop="20250414134614 +0000">
+    <title>CombiNation Plates</title>
+    <sub-title>Turkey/Indonesia</sub-title>
     <episode-num system="onscreen">S01E02</episode-num>
-    <desc>2016 marked the end of one of the strongest events ever recorded.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRN2P7PIHRQH9LZJ_16_9.jpg" />
+    <desc>Bianca Osbourne combines the cuisines of Turkey and Indonesia to create delicious dishes.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m49685_2024_2_28_8b5e75e2-3414-431f-8d81-e6282ea4d478_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250413141230 +0000" stop="20250413152042 +0000">
-    <title>Planet Rethink</title>
-    <category>Movie</category>
-    <desc>Pollution is everywhere. But all is not dire. We need to increase resource efficiency to preserve our planet.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/3SKVQ99AX6YK1QWMN8RE1F_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250414134614 +0000" stop="20250414141221 +0000">
+    <title>CombiNation Plates</title>
+    <sub-title>Canada/Greece</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Host Bianca Osbourne combines the cuisines of Canada and Greece to create delicious dishes.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m49685_2024_2_28_8b5e75e2-3414-431f-8d81-e6282ea4d478_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250414141221 +0000" stop="20250414150358 +0000">
+    <title>The Marilyn Denis Show</title>
+    <sub-title>Monday, October 21, 2013</sub-title>
+    <episode-num system="onscreen">S04E34</episode-num>
+    <desc>On today's show, fall soups, freezing soup secret, etiquette questions, Halloween outdoor decor, and fall home essentials.</desc>
+    <date>20240506</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m29995_2024_2_19_78d3f68c-8f87-4b12-a352-7a478eefae20_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250414150358 +0000" stop="20250414155431 +0000">
+    <title>The Marilyn Denis Show</title>
+    <sub-title>Tuesday, October 22, 2013</sub-title>
+    <episode-num system="onscreen">S04E35</episode-num>
+    <desc>On today's show, baking soda, creepy dining decor, kids costumes for less, Halloween gadgets, amped sandwiches, and ask Marilyn.</desc>
+    <date>20240521</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m29995_2024_2_19_78d3f68c-8f87-4b12-a352-7a478eefae20_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250414155431 +0000" stop="20250414164503 +0000">
+    <title>The Marilyn Denis Show</title>
+    <sub-title>Friday, October 25, 2013</sub-title>
+    <episode-num system="onscreen">S04E38</episode-num>
+    <desc>On today's show, it's an opposites attact makeover for one lucky couple with style and beauty tips, and how to wear colour.</desc>
+    <date>20240506</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m29995_2024_2_19_78d3f68c-8f87-4b12-a352-7a478eefae20_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250413152042 +0000" stop="20250413162451 +0000">
     <title>Earth's Survival: Decoding the Science</title>
@@ -1004,25 +984,24 @@
     <desc>This documentary reveals the processes melting glaciers, and explores how rising seas may threaten coastlines.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171BD9ZKWFDG5_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250413121355 +0000" stop="20250413131803 +0000">
-    <title>Earth's Survival: Decoding the Science</title>
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250414140408 +0000" stop="20250414150216 +0000">
+    <title>The Next Great Extinction Event</title>
     <category>Movie</category>
-    <desc>This documentary explains how we may be in the middle of the most crucial moment of Earth’s history.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRN2P7OL4YRT6D4Y_2_3.jpg" />
+    <desc>There have been five major extinction events in our planet's history, are we about to experience the 6th?</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRN2P7P9K70F2917_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250413131803 +0000" stop="20250413142045 +0000">
-    <title>Mega Disaster</title>
-    <sub-title>Volcano</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Volcanoes can bury entire cities in clouds of ash and gas, or turn rivers into torrents of mud and debris.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/5N1HJZ69IH6XNUB0QKJMTG_16_9.jpeg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250414150216 +0000" stop="20250414160902 +0000">
+    <title>Moon Shots</title>
+    <category>Movie</category>
+    <desc>With rare archive footage, this stunning one-hour special brings scientific history to life.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRMHLGKAVBYPC8GZ_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250413142045 +0000" stop="20250413152328 +0000">
-    <title>Mega Disaster</title>
-    <sub-title>Tsunami</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>There is no stopping these massive and deadly phenomena, the only thing to do is run to higher ground.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/5N1HJZ69IH6XNUB0QKJMTG_16_9.jpeg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250414160902 +0000" stop="20250414163902 +0000">
+    <title>Space: The New Frontier</title>
+    <sub-title>The Planet Makers</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>From the beginnings of our solar system, there remain many clues to reveal its evolution.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KQRKNR0QG5E_16_9.jpeg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250413152328 +0000" stop="20250413162610 +0000">
     <title>Mega Disaster</title>
@@ -1173,23 +1152,19 @@
     <desc>Volcanoes have been ripping the earth apart. Are we on the verge of the next Pompeii tragedy?</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/5N1HJZ69IH6XRLZWP5H1FS_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250413130000 +0000" stop="20250413140000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250414141105 +0000" stop="20250414151518 +0000">
+    <title>Living with Volcanoes</title>
+    <sub-title>Volcano Wardens</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Volcanologists are ready to face any challenge to quench their thirst for knowledge</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/5N1HJZ69IH6XRLZWP5H1FS_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250413140000 +0000" stop="20250413150000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250413150000 +0000" stop="20250413160000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250414151518 +0000" stop="20250414161828 +0000">
+    <title>Voyage of the Continents</title>
+    <sub-title>Oceania: The Tectonic Ring of Fire</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Pacific and Australian tectonic plates clash across the South Pacific causing intense volcanic activity</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRD9MNQD2MO_16_9.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250413160000 +0000" stop="20250413170000 +0000">
     <title>Evolution Earth</title>
@@ -1323,53 +1298,23 @@
     <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250413124649 +0000" stop="20250413131744 +0000">
-    <title>Wildlife Nannies</title>
-    <sub-title>Wildlife Nannies: Tree-Kangaroo Dorothy</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Tree-Kangaroo Dorothy: Margit Cianelli is a trained animal carer who lives at the Lumholtz Lodge in the Australian tablelands and is currently taking care of small tree kangaroo named Dorothy. Dorothy is old and strong enough to go into the forest by herself now. Margit gets nervous, when Dorothy does not return before dusk. Luckily she is wearing a tracking device… Warthog Baby: Nelly is a 5 week old Warthog that lives in the Kragga Kamma Game Park in South Africa. Her nanny Heike Zitzer is trying to wean Nelly from her care, but the little warthog just loves being by her side. When Heike leaves her alone, Nelly meets grumpy fellows as she searches for Heike throughout the park. Will Nelly make new friends in the end?</desc>
-    <date>20141010</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/WildlifeNannies_S01_E08.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250414140000 +0000" stop="20250414150000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250413131744 +0000" stop="20250413134839 +0000">
-    <title>Wildlife Nannies</title>
-    <sub-title>Wildlife Nannies: Arctic Wolves</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>Arctic Wolves: A pack of 5 week old wolf cubs get ready to go to school with famous film animal trainer Joe Bodemann. But before that, the little cubs have to be weaned off their bottles and get used to their new outdoor enclosure. Wildlife Warriors: These special nannies are always ready to jump into action to save animals of every kind. Over 100 patients are being treated by this Australian wildlife hospital every day: tortoises, kookaburras, wild boars, possums, hedgehogs - and even poisonous snakes! Lion Amir: In South Africa, 11 month old lion Amir was brought to his nanny Katja Peters half starved. Now he’s maturing into a beautiful lion and is looking for company. Will he find true love with a very special lioness?</desc>
-    <date>20141017</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/WildlifeNannies_S01_E09.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250414150000 +0000" stop="20250414160000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250413134839 +0000" stop="20250413141940 +0000">
-    <title>Wildlife Nannies</title>
-    <sub-title>Wildlife Nannies: Raccoon Zorro</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>Raccoon Zorro: 8 week old racoon Zorro is a real handful for Nanny Julia Wiertz. No stone is left unturned on his mischievous adventures. Will Zorro be able to learn how to climb and scavage for food with Julia as a teacher? Storks: Dr. Michael Kaatz has two motherless baby storks at his stork sanctuary. In order to find a new home for Max and Moritz, he is trying to trick a stork family into adopting the orphaned storks. But will the recovered foundlings ever be able to fly in the wild? Zebra Baby et al.: Wildlife keeper Jaco Nell teaches his new assistant Anna de la Roca how to take care of cheetahs, rhinos and zebras on his South African gaming reserve “Kapama”.</desc>
-    <date>20220826</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/WildlifeNannies_S01_E10.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250413141940 +0000" stop="20250413145030 +0000">
-    <title>Wildlife Nannies</title>
-    <sub-title>Wildlife Nannies: Emus</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>Emus: The two emu babies Candy and Henry have accidentally imprinted on their care taker Matthias Reinschmidt at the “Loro Parque” in Tenerife. Now the two young birds follow Matthias everywhere he goes. But they are now big enough to live in an outdoor enclosure of the park – alongside giant turtles! Will they accept their new home and the fact that Matthias will only come to visit sporadically from now on? Baboon Babies: In Namibia, Corinna Auffing and her husband John Ross Stewart are teaching the three little baboon babies Drekki, Stocki and Beuki everything they need to know in order to become proper baboons. Elephant Limpopo: Elephant Baby Limpopo joins the herd on a South African elephant safari under the guidance of Nanny Paul Coetzee for the first time.</desc>
-    <date>20220826</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/WildlifeNannies_S01_E10.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250413145030 +0000" stop="20250413152126 +0000">
-    <title>Wildlife Nannies</title>
-    <sub-title>Wildlife Nannies: Pilot Nanny</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>Pilot Nanny: At the South African “Sondéla Wildlife Center” nanny Petronel Nieuwoudt takes care of animals that have been injured or orphaned because of poaching. Her newest “problem child” is a gnu named Cabrona – will she find a new family for the shy animal? Penguins: Nanny Wolfgang Magnus is responsible for the penguin offspring in Germany’s famous bird park in Walsrode. He spends all the time he can with them, makes sure they gain enough weight and even builds them little caves made out of paper-mâché – several times daily!</desc>
-    <date>20220826</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/WildlifeNannies_S01_E12.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250413152126 +0000" stop="20250413161324 +0000">
-    <title>Dreams of the Settlers - An American Journey</title>
-    <sub-title>Through Utah's Canyons to Salt Lake City</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>It’s a dream route leading from the casino metropolis of Las Vegas, to Salt Lake City, the Mormon capital. It is a journey that follows the footsteps of the first settlers: the Mormons. They came to this desert belt of the United States during the second half of the 19th century to escape persecution and in search of the promised land. Some of them founded Las Vegas. Others moved through the canyons and over the mountains of the colossal Colorado Plateau, where they found water and pasture, to establish many small settlements. The landscapes through which they trekked, had and still have, a breathtaking and bizarre majestic beauty. Bryce Canyon, the hogbacks and the Escalante Staircase plateau are dramatic scenes of wonder formed from rock. The Pajute Indians once described Bryce Canyon as: “red rocks standing like men in a basin”.</desc>
-    <date>20160601</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/DreamsOfTheSettlers_E01.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250414160000 +0000" stop="20250414170000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250413161324 +0000" stop="20250413170531 +0000">
     <title>Dreams of the Settlers - An American Journey</title>
@@ -1539,29 +1484,33 @@
     <date>20220603</date>
     <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/20951-22999/42908907-Samsung-Thumbnail_v1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250413130910 +0000" stop="20250413134950 +0000">
-    <title>The Secret Lives Of Big Cats</title>
-    <sub-title>The Secret Lives of Leopards</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>The leopard, like most big cats, is known for its ability to hunt in absolute invisibility</desc>
-    <date>20200101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/CS1TSLS001EP005.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250414133718 +0000" stop="20250414142748 +0000">
+    <title>mareTV: The Eckernförde Bay - Beach shooters, mine clearance divers, squirrels</title>
+    <category>Movie</category>
+    <desc>Fjord, ford, bay, gulf: there are many names for the beautiful extensions of the Baltic Sea into the country. Eckernförde Bay is shaped by currents, surf and people. It stretches 17 kilometers to the town that gives it its name. Stephan Möller is the acting shooting master of the Eckernförder Bürgerschützengilde. He spent a whole year preparing the beach shooting festival and then this: fog, rain and a stiff breeze. Traditionally, the Eckernförde marksmen always shoot at a wooden bird in the direction of the sea at Whitsun. Under strict conditions! And these stipulate a clear view of at least one kilometer out into the bay. The event literally threatens to fall through, for the first time in 449 years. Around 3,000 soldiers are stationed at the Eckernförde naval base, but only a small group is allowed to call itself an elite unit: the mine divers. They are considered the toughest soldiers in the Navy. Anyone who wants to be one of them has to undergo extreme training. This year, just two candidates made it to the final round. Now they still have to pass the dreaded final exam: running 20 kilometers with marching gear and then swimming ten kilometers through Eckernförde Bay.</desc>
+    <date>20200507</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/24426-26474/50036986-Plex-Portrait-1000x1500_v1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250413134950 +0000" stop="20250413142650 +0000">
-    <title>The Secret Lives Of Big Cats</title>
-    <sub-title>The Secret Lives of Jaguars</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Few places worldwide offer the chance to see a wild jaguar.</desc>
-    <date>20200101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/CS1TSLS001EP006.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250414142748 +0000" stop="20250414151819 +0000">
+    <title>mareTV: Wismar Bay - World Heritage and Water Paradise</title>
+    <category>Movie</category>
+    <desc>The Wismar Bay is unique in its diversity on the Mecklenburg Baltic Sea coast: cliffs, sandy beaches, salt marshes, enchanted islands and, last but not least, the proud Hanseatic city of Wismar with its brick Gothic buildings, which are a UNESCO World Heritage Site. When the mighty logs get wedged together in the timber mill in the port of Wismar, Steven Buchholz has to get to work with his chainsaw. It's a dangerous job, because the logs weigh tons. As a trained carpenter, Steven is a virtuoso with the chain saw. Even after his shift is over, he is looking for the thrill: the wind off his home island of Poel is favorable that day and he wants to reclaim the German record in the kite surfing high jump. For a long time, Ramona Stelzer only knew fish as a tasty ingredient between two halves of a bun. But when the goldsmith got her hands on fish leather, her business idea was born: she processes the unique natural product fish skin into fine jewelry. The problem is that hardly anyone in Germany tans fish skin. In order to reliably obtain supplies, Ramona now wants to learn this craft herself.</desc>
+    <date>20200806</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/24426-26474/50036987-Samsung-Thumbnail_v1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250413142650 +0000" stop="20250413152339 +0000">
-    <title>Deadly Game</title>
-    <sub-title>Killers in the Making</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Some of the cutest mini-monsters can grow to be the most ferocious predators.</desc>
-    <date>20160101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/ZD1DGAS001EP001.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250414151819 +0000" stop="20250414160854 +0000">
+    <title>Lunenburg: Where the Land Meets the Sea</title>
+    <category>Movie</category>
+    <desc>On the east coast of Canada, a place whose name sounds strangely familiar. The small town of Lunenburg, west of Halifax, was founded in 1753 by North German immigrants. Today, the idyllic town with its many wooden houses is a UNESCO World Heritage Site. In the 19th century, Lunenburg was one of the richest towns in the British Empire, becoming prosperous through fishing and shipbuilding. Glenn Rhodenizer's family traces back ten generations directly to German immigrants. And what the Rhodenizers primarily grow on their fields directly by the sea could hardly be more typical: it is white cabbage, which the farming family processes into sauerkraut. Sauerkraut can be found in every restaurant and supermarket in this area; it is the specialty of the region. The heritage of wooden boat building is successfully maintained by David Westergard. In his ancient shed, he is assembling a 20-meter schooner from four different types of local wood. Building wooden boats, he says, is like "slow food": sustainable, conscious, environmentally friendly, waste-free.</desc>
+    <date>20180426</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/24426-26474/50036982-Samsung-Thumbnail_v1.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250414160854 +0000" stop="20250414175118 +0000">
+    <title>Winter Journey to the Polar Circle (Exploring Norway on the Nordlandsbanen)</title>
+    <category>Movie</category>
+    <desc>The Nordland Railway in Norway, travels from Trondheim through the isolated regions of Trendelag and Nordland. After Mo I Rana, it traverses the Arctic Circle and ends in the northern Norwegian town of Bodø. The railway covers a distance of some 729 kilometres, passing by dense, snow-covered forests, frozen fjords and snow-capped mountains. Temperatures of sometimes minus 30 degrees are quite normal here for months, on many days there is no more than five hours of daylight. Kindergarten teacher Kaia Aarstrand und her husband, Bjørnar, a technician for the municipality, live with their four boys in Aursletta, deep within the Vistenfjord, far away from civilization. All made possible by the Norwegian state: electricity, mobile phone connection and a speedboat that brings the family to school and to work. But when the Vistenfjord freezes up, the family is isolated for days. Tormod Schøning spends hours on end on his Saltfjellet whenever snowstorms occur and he has to clear the only road connection between North and South Norway with his snow plough. For the duration of his shifts, Tormod lives in the snow plough station.</desc>
+    <date>20210601</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/23794-25842/48740498-Plex-1000x1500_v1.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250413152339 +0000" stop="20250413161825 +0000">
     <title>Deadly Game</title>
@@ -1733,45 +1682,27 @@
     <date>20070101</date>
     <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-5f170d61b898490041b49369" start="20250413131423 +0000" stop="20250413134523 +0000">
-    <title>Dr. Phur</title>
-    <sub-title>Dr. Phur | Travel Companions</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>How to handle scaredy-cat pets and traveling with your furry friends.</desc>
-    <date>20240102</date>
-    <icon src="https://images.frequency.com/video/18iivx3uum4xr1ryxlv1rgkxi/original/18iivx3uum4xr1ryxlv1rgkxi.png" />
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250414133009 +0000" stop="20250414142922 +0000">
+    <title>Unbelievable Beasts</title>
+    <sub-title>Part 2</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Explore the survival strategies of animals like cane toads, frogs, and chameleons through expert insights.</desc>
+    <date>20070101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-5f170d61b898490041b49369" start="20250413134523 +0000" stop="20250413141723 +0000">
-    <title>Best Pets of the Month</title>
-    <sub-title>Best Pets of the Month | Ep. 5.4</sub-title>
-    <episode-num system="onscreen">S05E04</episode-num>
-    <desc>These pets won March '22. But after watching these clips, the real winner is you.</desc>
-    <date>20220325</date>
-    <icon src="https://images.frequency.com/video/p29u76emtzcc173rtbbwrar09/original/p29u76emtzcc173rtbbwrar09.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250414142922 +0000" stop="20250414152738 +0000">
+    <title>Sharks, Scavengers of the sea</title>
+    <category>Movie</category>
+    <desc>New Caledonia's lagoon is a shark paradise, where they scavenge feathers, fins, and fur for prey.</desc>
+    <date>20030101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-5f170d61b898490041b49369" start="20250413141723 +0000" stop="20250413144823 +0000">
-    <title>Best Pets of the Month</title>
-    <sub-title>Best Pets of the Month | Ep. 6.4</sub-title>
-    <episode-num system="onscreen">S06E04</episode-num>
-    <desc>These pets won March '23. But after watching these clips, the real winner is you.</desc>
-    <date>20230322</date>
-    <icon src="https://images.frequency.com/video/1wci3xpgl5lhd1awyl6x01b86/original/1wci3xpgl5lhd1awyl6x01b86.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-5f170d61b898490041b49369" start="20250413144823 +0000" stop="20250413152023 +0000">
-    <title>TPC Most Valuable Pets 2</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Just when you thought pets couldn't get more awesome, we found footage of some of the most talented pets showing off their valuable skills!</desc>
-    <date>20220112</date>
-    <icon src="https://images.frequency.com/video/x0bg3rwll8911lxqi1uwjopr0/original/x0bg3rwll8911lxqi1uwjopr0.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-5f170d61b898490041b49369" start="20250413152023 +0000" stop="20250413155223 +0000">
-    <title>TPC Stuffed Animals</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Got The Munchies? You"re not alone. Feast your eyes on these clips of pets doing what they do best - snacking! It's going to be a real treat!</desc>
-    <date>20210209</date>
-    <icon src="https://images.frequency.com/video/1gkc6oyp8pg5l199cbukpwref/original/1gkc6oyp8pg5l199cbukpwref.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250414152738 +0000" stop="20250414162526 +0000">
+    <title>River Jaws</title>
+    <category>Movie</category>
+    <desc>Since 1950, Europe's largest freshwater fish, the catfish, has harmed pikes, pigeons, and bathers.</desc>
+    <date>20150101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-5f170d61b898490041b49369" start="20250413155223 +0000" stop="20250413162323 +0000">
     <title>Funniest Pets of the Month</title>
@@ -2109,6 +2040,46 @@
     <date>20210224</date>
     <icon src="https://images.frequency.com/video/16vmuxmp3zdee1c3zsa5ww5l9/original/16vmuxmp3zdee1c3zsa5ww5l9.jpg" />
   </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-5f170d61b898490041b49369" start="20250414133823 +0000" stop="20250414141023 +0000">
+    <title>Best Pets of the Month</title>
+    <sub-title>Best Pets of the Month | Ep. 1.8</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>These pets won August and September '18. But after watching these clips, the real winner is you.</desc>
+    <date>20230321</date>
+    <icon src="https://images.frequency.com/video/18lkvtcb3ysa51x6vbmgfdmn8/original/18lkvtcb3ysa51x6vbmgfdmn8.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-5f170d61b898490041b49369" start="20250414141023 +0000" stop="20250414144223 +0000">
+    <title>Best Pets of the Month</title>
+    <sub-title>Best Pets of the Month | Ep. 1.9</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>These pets won October and November '18. But after watching these clips, the real winner is you.</desc>
+    <date>20230321</date>
+    <icon src="https://images.frequency.com/video/hwg96q41e0p81hpgprrsgbhkq/original/hwg96q41e0p81hpgprrsgbhkq.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-5f170d61b898490041b49369" start="20250414144223 +0000" stop="20250414151423 +0000">
+    <title>Best Pets of the Month</title>
+    <sub-title>Best Pets of the Month | Ep. 2.1</sub-title>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <desc>These pets won January and February '19. But after watching these clips, the real winner is you.</desc>
+    <date>20230322</date>
+    <icon src="https://images.frequency.com/video/12cvc8ul8i4301rfnkxc0ep52/original/12cvc8ul8i4301rfnkxc0ep52.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-5f170d61b898490041b49369" start="20250414151423 +0000" stop="20250414154623 +0000">
+    <title>Best Pets of the Month</title>
+    <sub-title>Best Pets of the Month | Ep. 2.2</sub-title>
+    <episode-num system="onscreen">S02E02</episode-num>
+    <desc>The best pets for March and April '19. But after watching these clips, the real winner is you.</desc>
+    <date>20230322</date>
+    <icon src="https://images.frequency.com/video/1uhna849ofo0l1ateku0gr0ek/original/1uhna849ofo0l1ateku0gr0ek.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-5f170d61b898490041b49369" start="20250414154623 +0000" stop="20250414161723 +0000">
+    <title>TPC That's My Pet</title>
+    <sub-title>TPC That's My Pet | Equine Edition</sub-title>
+    <episode-num system="onscreen">S05E03</episode-num>
+    <desc>Did you know that there are over 200 breeds of pony?</desc>
+    <date>20240429</date>
+    <icon src="https://images.frequency.com/video/15qdnagufna6a14ijr1onqgjb/original/15qdnagufna6a14ijr1onqgjb.jpg" />
+  </programme>
   <channel id="CABC2300009KD">
     <display-name>CBC News</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300009KD_20250121T094932SQUARE.png" />
@@ -2157,11 +2128,6 @@
     <display-name>Love Nature 4K</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3400003IP_20250204T234403SQUARE.png" />
   </channel>
-  <programme channel="CABC2300009KD" start="20250413150000 +0000" stop="20250413160000 +0000">
-    <title>Rosemary Barton Live</title>
-    <desc>Rosemary Barton delivers compelling conversations and political news and issues affecting Canadians.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_839163353_5_20250212T162242151Z_54_imageprocessorclient-tvplus-linear-b76dd9bbb-sk45m.png" />
-  </programme>
   <programme channel="CABC2300009KD" start="20250413160000 +0000" stop="20250413180000 +0000">
     <title>This Week's Top Stories</title>
     <desc>The big stories that made news across Canada and the world this week.</desc>
@@ -2182,25 +2148,15 @@
     <desc>Cross Country Checkup is Canada's only national phone-in show, broadcasting live from coast to coast to coast.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_551966561_0_20241129T142758403Z_104_imageprocessorclient-tvplus-linear-5dc4fd45f6-5r449.jpeg" />
   </programme>
-  <programme channel="CA15000018F" start="20250413150000 +0000" stop="20250413153000 +0000">
-    <title>CBC Vancouver News Saturday</title>
-    <desc>B.C.'s award-winning newscast delivers local breaking news, original journalism and weather.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542759669_0_20240603T112700837Z_44.jpeg" />
+  <programme channel="CABC2300009KD" start="20250413220000 +0000" stop="20250413230000 +0000">
+    <title>Rosemary Barton Live</title>
+    <desc>Rosemary Barton delivers compelling conversations and political news and issues affecting Canadians.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_839163353_5_20250212T162242151Z_54_imageprocessorclient-tvplus-linear-b76dd9bbb-sk45m.png" />
   </programme>
-  <programme channel="CA15000018F" start="20250413153000 +0000" stop="20250413160000 +0000">
-    <title>CBC Vancouver News Saturday</title>
-    <desc>B.C.'s award-winning newscast delivers local breaking news, original journalism and weather.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542759669_0_20240603T112700837Z_44.jpeg" />
-  </programme>
-  <programme channel="CA15000018F" start="20250413160000 +0000" stop="20250413163000 +0000">
-    <title>CBC Vancouver News Saturday</title>
-    <desc>B.C.'s award-winning newscast delivers local breaking news, original journalism and weather.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542759669_0_20240603T112700837Z_44.jpeg" />
-  </programme>
-  <programme channel="CA15000018F" start="20250413163000 +0000" stop="20250413170000 +0000">
-    <title>CBC Vancouver News Saturday</title>
-    <desc>B.C.'s award-winning newscast delivers local breaking news, original journalism and weather.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542759669_0_20240603T112700837Z_44.jpeg" />
+  <programme channel="CABC2300009KD" start="20250413230000 +0000" stop="20250414000000 +0000">
+    <title>The Fifth Estate</title>
+    <desc>The Fifth Estate brings in-depth investigations that matter to Canadians.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925926_0_20241213T120008023Z_34_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
   </programme>
   <programme channel="CA15000018F" start="20250413170000 +0000" stop="20250413173000 +0000">
     <title>About That</title>
@@ -2232,25 +2188,15 @@
     <desc>Cross Country Checkup is Canada's only national phone-in show, broadcasting live from coast to coast to coast.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_551966561_0_20241129T142758403Z_104_imageprocessorclient-tvplus-linear-5dc4fd45f6-5r449.jpeg" />
   </programme>
-  <programme channel="CA4600008AI" start="20250413150000 +0000" stop="20250413153000 +0000">
-    <title>CBC News: Alberta Late Night</title>
-    <desc>CBC Alberta News breaks down the stories that matter to our communities.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925932_0_20241213T120007872Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
+  <programme channel="CA15000018F" start="20250413220000 +0000" stop="20250413230000 +0000">
+    <title>Documentary</title>
+    <desc>Features some of the best documentary work done by the CBC in the last 50 years.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_1053364758_0_20250325T102614056Z_111_imageprocessorclient-tvplus-linear-b76dd9bbb-jk5t6.jpeg" />
   </programme>
-  <programme channel="CA4600008AI" start="20250413153000 +0000" stop="20250413160000 +0000">
-    <title>CBC News: Alberta Late Night</title>
-    <desc>CBC Alberta News breaks down the stories that matter to our communities.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925932_0_20241213T120007872Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
-  </programme>
-  <programme channel="CA4600008AI" start="20250413160000 +0000" stop="20250413163000 +0000">
-    <title>About That</title>
-    <desc>Andrew Chang expands our understanding of the stories everybody's talking about.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515038_0_20240529T053048695Z_102.jpeg" />
-  </programme>
-  <programme channel="CA4600008AI" start="20250413163000 +0000" stop="20250413170000 +0000">
-    <title>About That</title>
-    <desc>Andrew Chang expands our understanding of the stories everybody's talking about.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515038_0_20240529T053048695Z_102.jpeg" />
+  <programme channel="CA15000018F" start="20250413230000 +0000" stop="20250413233000 +0000">
+    <title>Marketplace</title>
+    <desc>Whether a slick scam, misleading marketing claim or maddening customer service, Marketplace has got your back.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515148_0_20240529T053048179Z_71.jpeg" />
   </programme>
   <programme channel="CA4600008AI" start="20250413170000 +0000" stop="20250413180000 +0000">
     <title>This Week's Top Stories</title>
@@ -2277,17 +2223,17 @@
     <desc>Cross Country Checkup is Canada's only national phone-in show, broadcasting live from coast to coast to coast.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_551966561_0_20241129T142758403Z_104_imageprocessorclient-tvplus-linear-5dc4fd45f6-5r449.jpeg" />
   </programme>
-  <programme channel="CA4600006DO" start="20250413150000 +0000" stop="20250413160000 +0000">
-    <title>This Week's Top Stories</title>
-    <desc>The big stories that made news across Canada and the world this week.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550207986_0_20241103T002715072Z_115_imageprocessorclient-tvplus-linear-5dc4fd45f6-kmjnf.jpeg" />
+  <programme channel="CA4600008AI" start="20250413220000 +0000" stop="20250413223000 +0000">
+    <title>Land &amp; Sea</title>
+    <desc>The lives, stories and issues of the people of Atlantic Canada.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925927_0_20241213T120007913Z_45_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
   </programme>
-  <programme channel="CA4600006DO" start="20250413160000 +0000" stop="20250413163000 +0000">
-    <title>Marketplace</title>
-    <desc>Whether a slick scam, misleading marketing claim or maddening customer service, Marketplace has got your back.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925924_0_20241213T120008100Z_23_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
+  <programme channel="CA4600008AI" start="20250413223000 +0000" stop="20250413230000 +0000">
+    <title>Land &amp; Sea</title>
+    <desc>The lives, stories and issues of the people of Atlantic Canada.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925927_0_20241213T120007913Z_45_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
   </programme>
-  <programme channel="CA4600006DO" start="20250413163000 +0000" stop="20250413170000 +0000">
+  <programme channel="CA4600008AI" start="20250413230000 +0000" stop="20250413233000 +0000">
     <title>Marketplace</title>
     <desc>Whether a slick scam, misleading marketing claim or maddening customer service, Marketplace has got your back.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925924_0_20241213T120008100Z_23_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
@@ -2317,17 +2263,17 @@
     <desc>Cross Country Checkup is Canada's only national phone-in show, broadcasting live from coast to coast to coast.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_551966561_0_20241129T142758403Z_104_imageprocessorclient-tvplus-linear-5dc4fd45f6-5r449.jpeg" />
   </programme>
-  <programme channel="CA4600003GV" start="20250413150000 +0000" stop="20250413160000 +0000">
-    <title>This Week's Top Stories</title>
-    <desc>The big stories that made news across Canada and the world this week.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550207986_0_20241103T002715072Z_115_imageprocessorclient-tvplus-linear-5dc4fd45f6-kmjnf.jpeg" />
+  <programme channel="CA4600006DO" start="20250413220000 +0000" stop="20250413223000 +0000">
+    <title>Land &amp; Sea</title>
+    <desc>The lives, stories and issues of the people of Atlantic Canada.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925927_0_20241213T120007913Z_45_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
   </programme>
-  <programme channel="CA4600003GV" start="20250413160000 +0000" stop="20250413163000 +0000">
-    <title>Marketplace</title>
-    <desc>Whether a slick scam, misleading marketing claim or maddening customer service, Marketplace has got your back.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925924_0_20241213T120008100Z_23_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
+  <programme channel="CA4600006DO" start="20250413223000 +0000" stop="20250413230000 +0000">
+    <title>Land &amp; Sea</title>
+    <desc>The lives, stories and issues of the people of Atlantic Canada.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925927_0_20241213T120007913Z_45_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
   </programme>
-  <programme channel="CA4600003GV" start="20250413163000 +0000" stop="20250413170000 +0000">
+  <programme channel="CA4600006DO" start="20250413230000 +0000" stop="20250413233000 +0000">
     <title>Marketplace</title>
     <desc>Whether a slick scam, misleading marketing claim or maddening customer service, Marketplace has got your back.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925924_0_20241213T120008100Z_23_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
@@ -2357,17 +2303,17 @@
     <desc>Cross Country Checkup is Canada's only national phone-in show, broadcasting live from coast to coast to coast.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_551966561_0_20241129T142758403Z_104_imageprocessorclient-tvplus-linear-5dc4fd45f6-5r449.jpeg" />
   </programme>
-  <programme channel="CA4600007UE" start="20250413150000 +0000" stop="20250413160000 +0000">
-    <title>This Week's Top Stories</title>
-    <desc>The big stories that made news across Canada and the world this week.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550207986_0_20241103T002715072Z_115_imageprocessorclient-tvplus-linear-5dc4fd45f6-kmjnf.jpeg" />
+  <programme channel="CA4600003GV" start="20250413220000 +0000" stop="20250413223000 +0000">
+    <title>Documentary</title>
+    <desc>Features some of the best documentary work done by the CBC in the last 50 years.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186118_0_20241217T103439312Z_124_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CA4600007UE" start="20250413160000 +0000" stop="20250413163000 +0000">
-    <title>Marketplace</title>
-    <desc>Whether a slick scam, misleading marketing claim or maddening customer service, Marketplace has got your back.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925924_0_20241213T120008100Z_23_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
+  <programme channel="CA4600003GV" start="20250413223000 +0000" stop="20250413230000 +0000">
+    <title>Documentary</title>
+    <desc>Features some of the best documentary work done by the CBC in the last 50 years.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186118_0_20241217T103439312Z_124_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CA4600007UE" start="20250413163000 +0000" stop="20250413170000 +0000">
+  <programme channel="CA4600003GV" start="20250413230000 +0000" stop="20250413233000 +0000">
     <title>Marketplace</title>
     <desc>Whether a slick scam, misleading marketing claim or maddening customer service, Marketplace has got your back.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925924_0_20241213T120008100Z_23_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
@@ -2397,17 +2343,17 @@
     <desc>Cross Country Checkup is Canada's only national phone-in show, broadcasting live from coast to coast to coast.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_551966561_0_20241129T142758403Z_104_imageprocessorclient-tvplus-linear-5dc4fd45f6-5r449.jpeg" />
   </programme>
-  <programme channel="CA46000149D" start="20250413150000 +0000" stop="20250413160000 +0000">
-    <title>This Week's Top Stories</title>
-    <desc>The big stories that made news across Canada and the world this week.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550207986_0_20241103T002715072Z_115_imageprocessorclient-tvplus-linear-5dc4fd45f6-kmjnf.jpeg" />
+  <programme channel="CA4600007UE" start="20250413220000 +0000" stop="20250413223000 +0000">
+    <title>Land &amp; Sea</title>
+    <desc>The lives, stories and issues of the people of Atlantic Canada.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925927_0_20241213T120007913Z_45_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
   </programme>
-  <programme channel="CA46000149D" start="20250413160000 +0000" stop="20250413163000 +0000">
-    <title>Marketplace</title>
-    <desc>Whether a slick scam, misleading marketing claim or maddening customer service, Marketplace has got your back.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925924_0_20241213T120008100Z_23_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
+  <programme channel="CA4600007UE" start="20250413223000 +0000" stop="20250413230000 +0000">
+    <title>Land &amp; Sea</title>
+    <desc>The lives, stories and issues of the people of Atlantic Canada.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925927_0_20241213T120007913Z_45_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
   </programme>
-  <programme channel="CA46000149D" start="20250413163000 +0000" stop="20250413170000 +0000">
+  <programme channel="CA4600007UE" start="20250413230000 +0000" stop="20250413233000 +0000">
     <title>Marketplace</title>
     <desc>Whether a slick scam, misleading marketing claim or maddening customer service, Marketplace has got your back.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925924_0_20241213T120008100Z_23_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
@@ -2437,29 +2383,20 @@
     <desc>Cross Country Checkup is Canada's only national phone-in show, broadcasting live from coast to coast to coast.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_551966561_0_20241129T142758403Z_104_imageprocessorclient-tvplus-linear-5dc4fd45f6-5r449.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250413150000 +0000" stop="20250413153000 +0000">
-    <title>Weather AM</title>
-    <desc>Get your local forecast and weather headlines from right here in Canada, and around the globe.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_539709218_0_20240321T153330644Z_1.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA46000149D" start="20250413220000 +0000" stop="20250413223000 +0000">
+    <title>Land &amp; Sea</title>
+    <desc>The lives, stories and issues of the people of Atlantic Canada.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925927_0_20241213T120007913Z_45_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250413153000 +0000" stop="20250413160000 +0000">
-    <title>Force of Nature Rewind</title>
-    <desc>Wild and viral weather footage from across Canada and around the world</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA46000149D" start="20250413223000 +0000" stop="20250413230000 +0000">
+    <title>Land &amp; Sea</title>
+    <desc>The lives, stories and issues of the people of Atlantic Canada.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925927_0_20241213T120007913Z_45_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250413160000 +0000" stop="20250413170000 +0000">
-    <title>Snowshoes and Solitude</title>
-    <desc>Les Stroud and his then wife attempt to spend a full year living off the land in remote northern Canada.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_1120212230_0_20250407T002314056Z_27_imageprocessorclient-tvplus-linear-b76dd9bbb-sk45m.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA46000149D" start="20250413230000 +0000" stop="20250413233000 +0000">
+    <title>Marketplace</title>
+    <desc>Whether a slick scam, misleading marketing claim or maddening customer service, Marketplace has got your back.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925924_0_20241213T120008100Z_23_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250413170000 +0000" stop="20250413180000 +0000">
     <title>Survivorman</title>
@@ -2518,22 +2455,30 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250413144705 +0000" stop="20250413153559 +0000">
-    <title>Destination Wild: Wild Chile</title>
-    <sub-title>Episode 3</sub-title>
-    <desc>Chile is a ribbon of land trapped by natural borders. At its Northern edge, the driest desert in the world cuts off the country from the rest of South America. Here, in the Atacama desert, wildlife has spent millions of years adapting to a life without water. Those that survive have learnt that no opportunity comes without its fair share of risk, but for the animals of the Atacama, only those that dare, will make it in the most unforgiving desert on Earth.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_485221451_0_20231013T023057605Z_1.jpeg" />
+  <programme channel="CABC23000223U" start="20250413213000 +0000" stop="20250413220000 +0000">
+    <title>Wild Harvest</title>
+    <sub-title>Deer Heart Lily</sub-title>
+    <desc>Different types of flora in Sitka, Alaska, including the false lily of the valley and wild snapdragons.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534079374_0_20231018T132748962Z_1.jpeg" />
     <rating>
-      <value>NA</value>
+      <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250413153559 +0000" stop="20250413163431 +0000">
-    <title>Antelope</title>
-    <sub-title>Unsung Heroes of the Plains</sub-title>
-    <desc>For some the word ‘antelope' might not incite much interest but look closer and you'll discover a remarkably diverse group of animals, numbering nearly one hundred different species. Some are easy to miss, the little dik-dik being barely the size of a house cat, while eland weigh in at more than half a ton. There are representatives roaming plains from the Mongolian Plateau in Asia to the cape of South Africa. Wherever you find them, these remarkable animals are the unsung heroes of the plains.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_485221451_0_20231013T023057605Z_1.jpeg" />
+  <programme channel="CABC23000223U" start="20250413220000 +0000" stop="20250413230000 +0000">
+    <title>Survivorman: Bigfoot</title>
+    <sub-title>The Hidden World</sub-title>
+    <desc>Les plants himself in Bigfoot hot spots across North America collecting stories and experiences from believers</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534285350_0_20231024T163742475Z_50.jpeg" />
     <rating>
-      <value>NA</value>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="CABC23000223U" start="20250413230000 +0000" stop="20250413233000 +0000">
+    <title>Force of Nature Rewind</title>
+    <desc>Wild and viral weather footage from across Canada and around the world</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
+    <rating>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250413163431 +0000" stop="20250413172919 +0000">
@@ -2587,29 +2532,22 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="GBBA220000751" start="20250413145511 +0000" stop="20250413152659 +0000">
-    <title>Echo And The Elephants Of Amboseli</title>
-    <sub-title>Calves on the Edge</sub-title>
-    <desc>Echo's family have their first new baby of the year, Evaline. The baby looks unusually exhausted, because Elettra, the first-time mother won't let her sleep.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_668952015_0_20250225T161652901Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-9tw54.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250413215826 +0000" stop="20250413225629 +0000">
+    <title>Nature's Weirdest</title>
+    <desc>All habitats present difficulties, but the challenges of the desert are more obvious than most – scorching heat and a lack food and water make them one of the most hostile environments on the planet. But with great challenges come incredible solutions. Despite the deadly conditions, a hardy band of unique animal and plant species have adapted to meet the inhospitable desert conditions head on. Each one finds its own way to exploit and conserve the available food and water in a daily struggle for survival.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_748887606_0_20250326T142139019Z_74_imageprocessorclient-tvplus-linear-6fb5b47f79-8bxmq.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
   </programme>
-  <programme channel="GBBA220000751" start="20250413152659 +0000" stop="20250413155536 +0000">
-    <title>Echo And The Elephants Of Amboseli</title>
-    <sub-title>Triumph and Disaster</sub-title>
-    <desc>In Echo's family, her niece Elettra is a mother for the first time. She has a lot to learn. Three-day-old baby Evaline finds the going tough, as her mother fails to watch over her, and the others send the adventurous youngster packing.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_668952015_0_20250225T161652901Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-9tw54.jpeg" />
-  </programme>
-  <programme channel="GBBA220000751" start="20250413155536 +0000" stop="20250413162624 +0000">
-    <title>Echo And The Elephants Of Amboseli</title>
-    <sub-title>Triumph and Disaster War at the waterhole</sub-title>
-    <desc>For Echo and her family, the weeks after the rains are good times. They have time to take a mud bath together. Baby Evaline is a handful, and new mother Elettra still hasn't learnt to stay close to her.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_668952015_0_20250225T161652901Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-9tw54.jpeg" />
-  </programme>
-  <programme channel="GBBA220000751" start="20250413162624 +0000" stop="20250413170012 +0000">
-    <title>Echo And The Elephants Of Amboseli</title>
-    <sub-title>The Dangerous Dry Season</sub-title>
-    <desc>Echo lives in Southern Kenya alongside 1,500 other wild African elephants. Below Kilimanjaro, no rain has fallen. There's no grass to eat, so Echo must find food for her hungry family.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_668952015_0_20250225T161652901Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-9tw54.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250413225629 +0000" stop="20250413234520 +0000">
+    <title>Destination Wild: Wild Chile</title>
+    <sub-title>Episode 2</sub-title>
+    <desc>Chile is at the mercy of weather systems that have shaped the nation. In the South, strong westerlies bring rains that create rich green Valdivian forests, carpeting the neotropic ecozone. The Valdivian forests of Chile are a unique ecosystem harbouring species of a ‘land before time' – The forests of Valdivia represent the unique assemblage of ancient species, both floral and faunal, which today persist as relicts of Gondwanaland.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_485221451_0_20231013T023057605Z_1.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
   <programme channel="GBBA220000751" start="20250413170012 +0000" stop="20250413180011 +0000">
     <title>Blue Realm</title>
@@ -2635,50 +2573,29 @@
     <desc>With cold temperatures in Florida putting a freeze on python hunting, the guys head to Louisiana to conduct vital research on invasive reptile species.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_668949914_1_20250225T161659013Z_42_imageprocessorclient-tvplus-linear-6fb5b47f79-xv2bl.jpeg" />
   </programme>
-  <programme channel="USBA3000043LH" start="20250413144701 +0000" stop="20250413151148 +0000">
-    <title>The Wildlife Docs</title>
-    <sub-title>Mothers Know Best</sub-title>
-    <desc>When a male lemur named Gozzie doesn't show the female lemurs their proper respect, he ends up having to visit The Wildlife Docs. Then, aardvarks don't look like any other animal, in fact they look like they're a combination of animals. And just wait until you meet the new baby aardvark named Peanut.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550735405_0_20241112T072516926Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-xk8kz.jpeg" />
-    <rating>
-      <value>TV-G</value>
-    </rating>
+  <programme channel="GBBA220000751" start="20250413211603 +0000" stop="20250413215051 +0000">
+    <title>Shamwari</title>
+    <sub-title>Episode 12</sub-title>
+    <desc>Johan has a rather sensitive procedure to perform. He needs to operate on a rhino's penis. The wild dogs have escaped from Shamwari and the team must now battle to get them back before they start killing livestock on the neighbouring farms.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_669812138_0_20250226T001706072Z_51_imageprocessorclient-tvplus-linear-6fb5b47f79-mxkkf.jpeg" />
   </programme>
-  <programme channel="USBA3000043LH" start="20250413151148 +0000" stop="20250413153636 +0000">
-    <title>The Wildlife Docs</title>
-    <sub-title>Baby Blues &amp; Flashy Hues</sub-title>
-    <desc>A lesser bush baby is resisting its everyday mealtime and turacos get a routine examination.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550735423_11_20241112T072507672Z_77_imageprocessorclient-tvplus-linear-5dc4fd45f6-4w62v.jpeg" />
-    <rating>
-      <value>TV-G</value>
-    </rating>
+  <programme channel="GBBA220000751" start="20250413215051 +0000" stop="20250413222539 +0000">
+    <title>Shamwari</title>
+    <sub-title>Episode 13</sub-title>
+    <desc>A lion cub with a broken leg checks in to the animal hospital. A new bunch of ranger trainees arrives at Shamwari and we start putting them through their paces. They need to get down and dirty if they are to pass their first exam.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_668960451_1_20250225T161659010Z_94_imageprocessorclient-tvplus-linear-6fb5b47f79-xv2bl.jpeg" />
   </programme>
-  <programme channel="USBA3000043LH" start="20250413153636 +0000" stop="20250413160123 +0000">
-    <title>The Wildlife Docs</title>
-    <sub-title>Love the Skin You're In</sub-title>
-    <desc>Penguins are coming to Busch Gardens Tampa. We'll be there as one new chick emerges from his shell, and be part of training sessions as the young penguins learn to swim and stand still for X-rays. Plus, two unique canine species, a fennec fox and a New Guinea singing dog, are suffering from stubborn skin conditions so they need to visit a dermatologist.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550735763_5_20241112T072507020Z_103_imageprocessorclient-tvplus-linear-5dc4fd45f6-mc795.jpeg" />
-    <rating>
-      <value>TV-G</value>
-    </rating>
+  <programme channel="GBBA220000751" start="20250413222539 +0000" stop="20250413230027 +0000">
+    <title>The Great Penguin Rescue</title>
+    <sub-title>Episode 1</sub-title>
+    <desc>Michaela Strachan takes things to the next level as she signs up as a volunteer on Africa's biggest penguin rescue mission. Will Michaela be able to cope and takes on the care of hundreds of abandoned penguin chicks at the SANCCOB sea bird hospital?</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_668953529_0_20250225T161700748Z_97_imageprocessorclient-tvplus-linear-6fb5b47f79-9tw54.jpeg" />
   </programme>
-  <programme channel="USBA3000043LH" start="20250413160123 +0000" stop="20250413162611 +0000">
-    <title>The Wildlife Docs</title>
-    <sub-title>Scales and Tails</sub-title>
-    <desc>Hold your nose! It's time to meet two striped skunks, and witness a skunk exercising to lose weight. Plus, Busch Gardens Tampa is crawling with lizards from all over the world! The team gives us an inside look at what it means to care for these unique species.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550735524_10_20241112T072507710Z_96_imageprocessorclient-tvplus-linear-5dc4fd45f6-gx6jk.jpeg" />
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme channel="USBA3000043LH" start="20250413162611 +0000" stop="20250413165059 +0000">
-    <title>The Wildlife Docs</title>
-    <sub-title>Hard Shelled and Bushy Tailed</sub-title>
-    <desc>Olivia the greater bush baby has given birth to her second son, and the two of them are due in for checkups. Plus, a bale of turtles, terrapins and tortoises all need the attention of The Wildlife Docs, for a variety of issues, from a damaged shell to a fractured leg.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550735695_7_20241112T072507295Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-8kjh4.jpeg" />
-    <rating>
-      <value>TV-G</value>
-    </rating>
+  <programme channel="GBBA220000751" start="20250413230027 +0000" stop="20250413233515 +0000">
+    <title>The Great Penguin Rescue</title>
+    <sub-title>Episode 2</sub-title>
+    <desc>Michaela is reaching the end of her training at the SANCCOB sea bird hospital with the angry oiled adult penguins, but just as she feels she is getting the hang of things the abandoned chicks start piling into the centre and stakes get higher.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_668953214_1_20250225T161653253Z_95_imageprocessorclient-tvplus-linear-6fb5b47f79-xv2bl.jpeg" />
   </programme>
   <programme channel="USBA3000043LH" start="20250413165059 +0000" stop="20250413171546 +0000">
     <title>The Wildlife Docs</title>
@@ -2779,22 +2696,49 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme channel="USBA3400003IP" start="20250413144604 +0000" stop="20250413154116 +0000">
-    <title>The Canary Islands</title>
-    <sub-title>Life at the Limit</sub-title>
-    <desc>Tour the last temperate cloud forest and the islands' remarkable microclimates.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533927514_1_20231014T022305196Z_92.jpeg" />
+  <programme channel="USBA3000043LH" start="20250413212548 +0000" stop="20250413215023 +0000">
+    <title>Dr. Chris Pet Vet</title>
+    <sub-title>Love Bites</sub-title>
+    <desc>Veterinarian Chris Brown comes to the rescue to help an abandoned 12-year-old cat and a depressed parrot caught in a bizarre love triangle. Meanwhile, can Lisa help a beautiful samoyed survive a tick bite?</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_551425291_0_20241122T043446667Z_44_imageprocessorclient-tvplus-linear-5dc4fd45f6-7xngg.jpeg" />
     <rating>
-      <value>PG</value>
+      <value>TV-G</value>
     </rating>
   </programme>
-  <programme channel="USBA3400003IP" start="20250413154116 +0000" stop="20250413163358 +0000">
-    <title>Becoming Orangutan</title>
-    <sub-title>Growing Pains</sub-title>
-    <desc>Explore student growing pains and learn why Dilla's fate is suddenly in doubt.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533927514_1_20231014T022305196Z_92.jpeg" />
+  <programme channel="USBA3000043LH" start="20250413215023 +0000" stop="20250413221531 +0000">
+    <title>Dr. Chris Pet Vet</title>
+    <sub-title>Sore Throat</sub-title>
+    <desc>Veterinarian Chris Brown rushes to help a dog hanging out of a window. Later, Lisa tries to help a golden retriever who is believed to have swallowed something, while Chris must put his hand down the throat of an alligator that swallowed a plastic bottle.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_551425428_0_20241122T043451159Z_112_imageprocessorclient-tvplus-linear-5dc4fd45f6-7xngg.jpeg" />
     <rating>
-      <value>PG</value>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="USBA3000043LH" start="20250413221531 +0000" stop="20250413224008 +0000">
+    <title>Dr. Chris Pet Vet</title>
+    <sub-title>Starved for Attention</sub-title>
+    <desc>Veterinarian Chris Brown is called out to a farm to investigate a daschund's dangerous obsession with newborn calves. At the pet hospital, an aging Boris is rushed in after his owner sees symptoms of a stroke. And Sandy, a missing siamese cat, turns up at the clinic a victim of a near fatal hit and run.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_551425308_0_20241122T043446314Z_107_imageprocessorclient-tvplus-linear-5dc4fd45f6-7xngg.jpeg" />
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="USBA3000043LH" start="20250413224008 +0000" stop="20250413230516 +0000">
+    <title>Dr. Chris Pet Vet</title>
+    <sub-title>Kittens &amp; Kids</sub-title>
+    <desc>Veterinarian Chris Brown must help an eight-month-old kitten after her legs were shattered by an unthinkable act of cruelty. Jess the kelpie is rushed to the animal hospital with a chicken bone dangerously lodged in his throat. And a boisterous baby goat wreaks havoc on the clinic. Can Chris find him a safe home?</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_551425293_0_20241122T043451164Z_65_imageprocessorclient-tvplus-linear-5dc4fd45f6-7xngg.jpeg" />
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="USBA3000043LH" start="20250413230516 +0000" stop="20250413233425 +0000">
+    <title>A Dog For Life</title>
+    <sub-title>The Madurai's and Mike</sub-title>
+    <desc>The Madurai's are both doctors looking for a furkid who will ease them into the idea of parenthood: a dog that is not too much hard work, that likes being calm at home, and importantly, a dog that doesn't mess too much. Mike is a 28-year-old epileptic man, suffering from grand-mal seizures. His seizures were so unmanaged and unpredictable that he didn't leave his flat for months. He's been matched with a seizure response medic alert dog, Jewel, who is able to give him confidence to live a full life.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_552888987_0_20241213T032812892Z_42_imageprocessorclient-tvplus-linear-5dc4fd45f6-5r449.jpeg" />
+    <rating>
+      <value>TV-PG</value>
     </rating>
   </programme>
   <programme channel="USBA3400003IP" start="20250413163358 +0000" stop="20250413172837 +0000">
@@ -2837,6 +2781,23 @@
     <title>Secret Life Of The Wombat</title>
     <sub-title>Wombat Wood</sub-title>
     <desc>Near Australia's Snowy Mountains are a hundred burrows known as Wombat Wood.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533927514_1_20231014T022305196Z_92.jpeg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="USBA3400003IP" start="20250413211528 +0000" stop="20250413221711 +0000">
+    <title>Tree Kangaroos: Ghosts of the Forest</title>
+    <desc>Track a Lumholtz's tree kangaroo joey as she learns how to survive in the wild.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533927514_1_20231014T022305196Z_92.jpeg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="USBA3400003IP" start="20250413221711 +0000" stop="20250413231022 +0000">
+    <title>Becoming Orangutan</title>
+    <sub-title>Growing Pains</sub-title>
+    <desc>Explore student growing pains and learn why Dilla's fate is suddenly in doubt.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533927514_1_20231014T022305196Z_92.jpeg" />
     <rating>
       <value>PG</value>
