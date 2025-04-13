@@ -69,7 +69,7 @@ def filter_and_build_epg(urls):
 	    
 local_epg = os.getenv("LOCAL_EPG")
 urls = [
-    'https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz'
+    'https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz',
 	'https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/all.xml.gz',
 	'https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz',
 	'https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz',
