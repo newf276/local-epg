@@ -37149,16 +37149,6 @@
     <display-name>Wild Planet</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20250107T025838SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250414170000 +0000" stop="20250414173000 +0000">
-    <title>Newfoundland &amp; Labrador Now</title>
-    <desc>News, investigations and community stories in NL and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
-  <programme channel="CA4600003GV" start="20250414173000 +0000" stop="20250414180000 +0000">
-    <title>Newfoundland &amp; Labrador Now</title>
-    <desc>News, investigations and community stories in NL and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250414180000 +0000" stop="20250414183000 +0000">
     <title>Newfoundland &amp; Labrador Now</title>
     <desc>News, investigations and community stories in NL and beyond.</desc>
@@ -37199,13 +37189,10 @@
     <desc>Carolyn Stokes and Ashley Brauweiler deliver a complete package of local news and weather.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186123_0_20241217T103439666Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250414170000 +0000" stop="20250414180000 +0000">
-    <title>What If</title>
-    <desc>Take an epic journey through hypothetical worlds and possibilities.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124161_0_20231019T012929504Z_108.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250414233000 +0000" stop="20250415003000 +0000">
+    <title>CBC News Here and Now</title>
+    <desc>Carolyn Stokes and Ashley Brauweiler deliver a complete package of local news and weather.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186123_0_20241217T103439666Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250414180000 +0000" stop="20250414183000 +0000">
     <title>Weather Today</title>
@@ -37296,12 +37283,21 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250414165455 +0000" stop="20250414174927 +0000">
-    <title>Defending the Family</title>
-    <desc>In the animal kingdom the desire to breed and defend young sits above all else, and every creature deploys its own unique strategies to get the job done. Some fight for their own with lethal jaws, whilst others get in help, making use of neighbourhood bodyguards for hire. Some rely on close friends to help them out and others choose to isolate themselves in a fortress instead. Whatever their plan for a safe home, one thing's for sure - animals will stop at nothing to defend their families.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_737566257_0_20250322T141840467Z_45_imageprocessorclient-tvplus-linear-6fb5b47f79-bbtvn.jpeg" />
+  <programme channel="CABC23000223U" start="20250414233000 +0000" stop="20250415000000 +0000">
+    <title>Force of Nature Rewind</title>
+    <desc>Wild and viral weather footage from across Canada and around the world</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="CABC23000223U" start="20250415000000 +0000" stop="20250415003000 +0000">
+    <title>Power To The People</title>
+    <sub-title>Alert Bay</sub-title>
+    <desc>Discover how the 'Namgis First Nation is fighting for the health of their wild salmon populations and orcas.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124211_0_20231019T012926115Z_59.jpeg" />
+    <rating>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250414174927 +0000" stop="20250414184421 +0000">
@@ -37348,6 +37344,14 @@
     <title>The Power of Plants  The Great Escape</title>
     <desc>You think plants are boring or passive? Far from it! They use complex reactions to respond to light, sound and touch. And like in the animal kingdom, different species have developed a near unending list of strategies to ensure their legacy is passed on. Plants have evolved tricks to beat the ele-ments, animal enemies or even other plants: From thorns and spines to poisons and even live-in bodyguards. This two-part series shows the survival strategies of our green “roommates” we share the planet with.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_748953663_0_20250326T142139019Z_68_imageprocessorclient-tvplus-linear-6fb5b47f79-8bxmq.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="GBBB5000002PL" start="20250414231908 +0000" stop="20250415001540 +0000">
+    <title>Manatees on the Move</title>
+    <desc>Manatees, sea cows, these gentle giants go by several names. They were once thought to be beautiful mermaids that could lure sailors to their deaths, though they probably won't win too many beauty contests. To retain their weight, manatees need to eat for 8 hours and consume 8% of their bodyweight every day. And keeping eating also means keeping moving! Thanks to their tolerance of human visitors, manatees have mates everywhere, working tirelessly to ensure they roam the world for generations to come.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_714924741_0_20250314T141639588Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-bbtvn.jpeg" />
     <rating>
       <value>12</value>
     </rating>
