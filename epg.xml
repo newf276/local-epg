@@ -37007,16 +37007,6 @@
     <display-name>Wild Planet</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20250107T025838SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250414140000 +0000" stop="20250414143000 +0000">
-    <title>Newfoundland &amp; Labrador Now</title>
-    <desc>News, investigations and community stories in NL and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
-  <programme channel="CA4600003GV" start="20250414143000 +0000" stop="20250414150000 +0000">
-    <title>Newfoundland &amp; Labrador Now</title>
-    <desc>News, investigations and community stories in NL and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250414150000 +0000" stop="20250414153000 +0000">
     <title>About That</title>
     <desc>Andrew Chang expands our understanding of the stories everybody's talking about.</desc>
@@ -37072,21 +37062,10 @@
     <desc>Make sense of your world with original reporting that breaks down the world's biggest news stories.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542759671_0_20240603T112659311Z_21.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250414140000 +0000" stop="20250414143000 +0000">
-    <title>Weather AM</title>
-    <desc>Get your local forecast and weather headlines from right here in Canada, and around the globe.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_539709218_0_20240321T153330644Z_1.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="CABC23000223U" start="20250414143000 +0000" stop="20250414150000 +0000">
-    <title>Force of Nature Rewind</title>
-    <desc>Wild and viral weather footage from across Canada and around the world</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250414203000 +0000" stop="20250414213000 +0000">
+    <title>CBC News Here and Now</title>
+    <desc>Carolyn Stokes and Ashley Brauweiler deliver a complete package of local news and weather.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186123_0_20241217T103439666Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250414150000 +0000" stop="20250414153000 +0000">
     <title>Weather AM</title>
@@ -37161,12 +37140,20 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250414140934 +0000" stop="20250414150606 +0000">
-    <title>Manatees on the Move</title>
-    <desc>Manatees, sea cows, these gentle giants go by several names. They were once thought to be beautiful mermaids that could lure sailors to their deaths, though they probably won't win too many beauty contests. To retain their weight, manatees need to eat for 8 hours and consume 8% of their bodyweight every day. And keeping eating also means keeping moving! Thanks to their tolerance of human visitors, manatees have mates everywhere, working tirelessly to ensure they roam the world for generations to come.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_714924741_0_20250314T141639588Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-bbtvn.jpeg" />
+  <programme channel="CABC23000223U" start="20250414203000 +0000" stop="20250414210000 +0000">
+    <title>Force of Nature Rewind</title>
+    <desc>Wild and viral weather footage from across Canada and around the world</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="CABC23000223U" start="20250414210000 +0000" stop="20250414213000 +0000">
+    <title>Weather Today</title>
+    <desc>National and local forecast details for across the country</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_1109216430_0_20250404T222943514Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-njxgs.jpeg" />
+    <rating>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250414150606 +0000" stop="20250414160000 +0000">
@@ -37213,6 +37200,14 @@
     <title>Fight for Life</title>
     <desc>Nature is red in tooth and claw – animals face daily battles to protect themselves and secure the resources they need to survive. For predators to find food, lower links in the food chain have a fight on their hands escaping the jaws of death. Their only options are to die, run or turn and fight. Winning these battles will make the difference between life and death, and with the stakes so high don't be surprised if the biggest animals don't have everything their own way. Welcome to nature's fight club.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_757553914_0_20250329T162039085Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-zlxtx.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="GBBB5000002PL" start="20250414203448 +0000" stop="20250414212942 +0000">
+    <title>Nature's Most Dangerous</title>
+    <desc>Who's not a thrill seeker among us? We humans love to put ourselves at risk and lap up the thrill of living dangerously. And to fuel our fetish for fear, we turn to the animal kingdom. But what is the truth behind the killers of the natural world? Do they live up to their reputations, and who really is the most dangerous? From killer crocs to ferocious big cats, we'll run you through the most dangerous teeth, fangs, stingers and bites in the animal kingdom. These are the deadliest animals on planet earth.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_757476106_0_20250329T162039085Z_27_imageprocessorclient-tvplus-linear-6fb5b47f79-zlxtx.jpeg" />
     <rating>
       <value>12</value>
     </rating>
