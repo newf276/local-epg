@@ -37116,16 +37116,6 @@
     <display-name>Wild Planet</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20250107T025838SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250415170000 +0000" stop="20250415173000 +0000">
-    <title>Newfoundland &amp; Labrador Now</title>
-    <desc>News, investigations and community stories in NL and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
-  <programme channel="CA4600003GV" start="20250415173000 +0000" stop="20250415180000 +0000">
-    <title>Newfoundland &amp; Labrador Now</title>
-    <desc>News, investigations and community stories in NL and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250415180000 +0000" stop="20250415183000 +0000">
     <title>Newfoundland &amp; Labrador Now</title>
     <desc>News, investigations and community stories in NL and beyond.</desc>
@@ -37166,13 +37156,10 @@
     <desc>Carolyn Stokes and Ashley Brauweiler deliver a complete package of local news and weather.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186123_0_20241217T103439666Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250415170000 +0000" stop="20250415180000 +0000">
-    <title>What If</title>
-    <desc>Take an epic journey through hypothetical worlds and possibilities.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124161_0_20231019T012929504Z_108.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250415233000 +0000" stop="20250416003000 +0000">
+    <title>CBC News Here and Now</title>
+    <desc>Carolyn Stokes and Ashley Brauweiler deliver a complete package of local news and weather.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186123_0_20241217T103439666Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250415180000 +0000" stop="20250415183000 +0000">
     <title>Weather Today</title>
@@ -37263,12 +37250,21 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250415170236 +0000" stop="20250415175908 +0000">
-    <title>Monkey Mayhem</title>
-    <desc>Monkeys: loveable, aggressive, diverse and full of mischief. Our distant cousins have much in common with us. They're intelligent, cooperative and have complex relationships. They're some of the most evolutionary successful species on the planet, successful across the globe from Japanese snow monkeys to African baboons. Swinging through our family tree quickly reveals the diversity of our monkey relatives. They come in all shapes and sizes, and are certainly not as different from us as we might think.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_485221451_0_20231013T023057605Z_1.jpeg" />
+  <programme channel="CABC23000223U" start="20250415233000 +0000" stop="20250416000000 +0000">
+    <title>Force of Nature Rewind</title>
+    <desc>Wild and viral weather footage from across Canada and around the world</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
     <rating>
-      <value>NA</value>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="CABC23000223U" start="20250416000000 +0000" stop="20250416003000 +0000">
+    <title>Power To The People</title>
+    <sub-title>Little Buffalo</sub-title>
+    <desc>Melina Laboucan-Massimo experienced the effects of oil sands extraction  now she's a climate change campaigner</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124211_0_20231019T012926115Z_59.jpeg" />
+    <rating>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250415175908 +0000" stop="20250415185402 +0000">
@@ -37318,6 +37314,14 @@
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_753688096_0_20250328T091949384Z_18_imageprocessorclient-tvplus-linear-6fb5b47f79-wzgbv.jpeg" />
     <rating>
       <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="GBBB5000002PL" start="20250415233203 +0000" stop="20250416002535 +0000">
+    <title>Moose Movie</title>
+    <desc>Nothing shouts northern wilderness more than a magnificent bull moose, the undisputed king of the forest. But moose don't start out big and burly  for two twins born into a forest glade a challenging life lies ahead. They'll need to quickly learn the ways of the wilderness, how to find food and cope with predators. We'll watch the first episodes of their young lives as they find their place among their giant cousins. It's a story with enough drama to fill a Hollywood movie – a moose movie.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_485221451_0_20231013T023057605Z_1.jpeg" />
+    <rating>
+      <value>NA</value>
     </rating>
   </programme>
   </tv>
