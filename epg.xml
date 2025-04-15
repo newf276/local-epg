@@ -37026,11 +37026,6 @@
     <display-name>Wild Planet</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20250107T025838SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250415050000 +0000" stop="20250415060000 +0000">
-    <title>The National</title>
-    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250415060000 +0000" stop="20250415063000 +0000">
     <title>CBC News NL</title>
     <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
@@ -37076,14 +37071,10 @@
     <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250415050000 +0000" stop="20250415060000 +0000">
-    <title>Survivorman: Bigfoot</title>
-    <sub-title>Portland, Oregon</sub-title>
-    <desc>Les goes to a secret location outside of Portland, Oregon with filmmaker Devon Massyn in search of Bigfoot</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534285350_0_20231024T163742475Z_50.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250415113000 +0000" stop="20250415123000 +0000">
+    <title>The National</title>
+    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250415060000 +0000" stop="20250415063000 +0000">
     <title>Dream In Colour</title>
@@ -37173,12 +37164,20 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250415045959 +0000" stop="20250415055332 +0000">
-    <title>Moose Movie</title>
-    <desc>Nothing shouts northern wilderness more than a magnificent bull moose, the undisputed king of the forest. But moose don't start out big and burly  for two twins born into a forest glade a challenging life lies ahead. They'll need to quickly learn the ways of the wilderness, how to find food and cope with predators. We'll watch the first episodes of their young lives as they find their place among their giant cousins. It's a story with enough drama to fill a Hollywood movie – a moose movie.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_485221451_0_20231013T023057605Z_1.jpeg" />
+  <programme channel="CABC23000223U" start="20250415113000 +0000" stop="20250415120000 +0000">
+    <title>Force of Nature Rewind</title>
+    <desc>Wild and viral weather footage from across Canada and around the world</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
     <rating>
-      <value>NA</value>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="CABC23000223U" start="20250415120000 +0000" stop="20250415123000 +0000">
+    <title>Weather AM</title>
+    <desc>Get your local forecast and weather headlines from right here in Canada, and around the globe.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_539709218_0_20240321T153330644Z_1.jpeg" />
+    <rating>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250415055332 +0000" stop="20250415065002 +0000">
@@ -37228,6 +37227,15 @@
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_751771740_0_20250327T152205865Z_30_imageprocessorclient-tvplus-linear-6fb5b47f79-wzgbv.jpeg" />
     <rating>
       <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="GBBB5000002PL" start="20250415112803 +0000" stop="20250415122435 +0000">
+    <title>Lion</title>
+    <sub-title>Africa's Super Power</sub-title>
+    <desc>The endless plains of East Africa is a paradise for lions. The most social of all cats, lions form prides that are unlike any other animals. Together, they'll hunt, raise their young and defend their territory. With such a close family and plentiful home, the pride welcomes new babies every year. But new children introduces new dangers. The cubs will have to trust their instincts, their mother and the power of the pride if they are to make it to adulthood and take their place on the African plains.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_485221451_0_20231013T023057605Z_1.jpeg" />
+    <rating>
+      <value>NA</value>
     </rating>
   </programme>
   </tv>
