@@ -37064,11 +37064,6 @@
     <display-name>Wild Planet</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20250107T025838SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250415110000 +0000" stop="20250415113000 +0000">
-    <title>CBC News NL</title>
-    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250415113000 +0000" stop="20250415123000 +0000">
     <title>The National</title>
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
@@ -37124,21 +37119,15 @@
     <desc>News, investigations and community stories in NL and beyond.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250415110000 +0000" stop="20250415113000 +0000">
-    <title>Weather AM</title>
-    <desc>Get your local forecast and weather headlines from right here in Canada, and around the globe.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_539709218_0_20240321T153330644Z_1.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250415173000 +0000" stop="20250415180000 +0000">
+    <title>Newfoundland &amp; Labrador Now</title>
+    <desc>News, investigations and community stories in NL and beyond.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250415113000 +0000" stop="20250415120000 +0000">
-    <title>Force of Nature Rewind</title>
-    <desc>Wild and viral weather footage from across Canada and around the world</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250415180000 +0000" stop="20250415183000 +0000">
+    <title>Newfoundland &amp; Labrador Now</title>
+    <desc>News, investigations and community stories in NL and beyond.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250415120000 +0000" stop="20250415123000 +0000">
     <title>Weather AM</title>
@@ -37223,12 +37212,12 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250415103133 +0000" stop="20250415112803 +0000">
-    <title>Hidden Spain</title>
-    <desc>Spain is found at the crossroads between the Mediterranean and the Atlantic, resulting in diverse landscapes, ancient cultures and magnificent wildlife.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_751771740_0_20250327T152205865Z_30_imageprocessorclient-tvplus-linear-6fb5b47f79-wzgbv.jpeg" />
+  <programme channel="CABC23000223U" start="20250415180000 +0000" stop="20250415183000 +0000">
+    <title>Weather Today</title>
+    <desc>National and local forecast details for across the country</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_1109216430_0_20250404T222943514Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-njxgs.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250415112803 +0000" stop="20250415122435 +0000">
@@ -37287,6 +37276,14 @@
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_485221451_0_20231013T023057605Z_1.jpeg" />
     <rating>
       <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="GBBB5000002PL" start="20250415175908 +0000" stop="20250415185402 +0000">
+    <title>The Magic of the Mangroves</title>
+    <desc>Mangroves are one of the most important habitats on Earth, vital to many of the planet's most extraordinary, wonderful and endangered species. Everything from shorebirds and sharks to monkeys and manatees rely on mangroves. And although we tend to view them as a mess of tangled roots, mosquitoes and mud, they're also crucial for safeguarding the well-being of humans. Once we start explore this unique landscape there's no doubt that we will be just as enchanted as wildlife by the magic of mangroves.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_753688096_0_20250328T091949384Z_18_imageprocessorclient-tvplus-linear-6fb5b47f79-wzgbv.jpeg" />
+    <rating>
+      <value>12</value>
     </rating>
   </programme>
   </tv>
