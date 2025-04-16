@@ -36317,11 +36317,6 @@
     <display-name>Wild Planet</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20250107T025838SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250416203000 +0000" stop="20250416213000 +0000">
-    <title>CBC News Here and Now</title>
-    <desc>Carolyn Stokes and Ashley Brauweiler deliver a complete package of local news and weather.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186123_0_20241217T103439666Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250416213000 +0000" stop="20250416223000 +0000">
     <title>CBC News Here and Now</title>
     <desc>Carolyn Stokes and Ashley Brauweiler deliver a complete package of local news and weather.</desc>
@@ -36362,21 +36357,10 @@
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250416210000 +0000" stop="20250416213000 +0000">
-    <title>Weather Today</title>
-    <desc>National and local forecast details for across the country</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_1109216430_0_20250404T222943514Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-njxgs.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="CABC23000223U" start="20250416213000 +0000" stop="20250416220000 +0000">
-    <title>Force of Nature Rewind</title>
-    <desc>Wild and viral weather footage from across Canada and around the world</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250417040000 +0000" stop="20250417043000 +0000">
+    <title>CBC News NL</title>
+    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250416220000 +0000" stop="20250416223000 +0000">
     <title>Weather Today</title>
@@ -36462,12 +36446,12 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250416203419 +0000" stop="20250416212713 +0000">
-    <title>Colours of Nature</title>
-    <desc>From subtle to shocking, colour enhances the beauty of the natural world. Colour is a language to most living things, whether as a warning, camouflage or a come on. But there's more to colour than just pigment. Colours define how many animals behave, how they mate and how they inter-act with one another. For us the beautiful and varied shades of the animal kingdom form a spec-tacular kaleidoscope of colours. With all the diversity in the world, sit back and enjoy all the col-ours of the animal kingdom.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_737543054_0_20250322T141840467Z_92_imageprocessorclient-tvplus-linear-6fb5b47f79-bbtvn.jpeg" />
+  <programme channel="CABC23000223U" start="20250417040000 +0000" stop="20250417050000 +0000">
+    <title>Crazy Creatures</title>
+    <desc>Evolution has crafted some of the strangest beings you can imagine, and it's all been done for a reason.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124637_0_20231019T012929406Z_99.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250416212713 +0000" stop="20250416222207 +0000">
@@ -36520,5 +36504,14 @@
     <title>Penguin Party</title>
     <desc>From South Africa to Georgia and all across the southern hemisphere, the penguin party never ends!</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_485221594_0_20231013T023057606Z_34.jpeg" />
+  </programme>
+  <programme channel="GBBB5000002PL" start="20250417035117 +0000" stop="20250417050000 +0000">
+    <title>Mountains</title>
+    <sub-title>Gateways to Heaven</sub-title>
+    <desc>Mountains define some of our most spectacular landscapes, creating a mosaic of dramatic habitats, teaming with incredible wildlife. Mountains are found on every continent on Earth, covering 22% of the planet's surface. They're a vital part of our ecosystem  a quarter of terrestrial animal and plant species live in mountains and they house an incredible 85% of all amphibians, mammals and birds. It's no wonder that so many cultures consider mountains sacred places: gateways to the heavens.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_753709978_0_20250328T091949359Z_42_imageprocessorclient-tvplus-linear-6fb5b47f79-wzgbv.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
   </programme>
   </tv>
