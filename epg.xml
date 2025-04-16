@@ -36317,11 +36317,6 @@
     <display-name>Wild Planet</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20250107T025838SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250416200000 +0000" stop="20250416203000 +0000">
-    <title>The Breakdown</title>
-    <desc>Make sense of your world with original reporting that breaks down the world's biggest news stories.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542759671_0_20240603T112659311Z_21.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250416203000 +0000" stop="20250416213000 +0000">
     <title>CBC News Here and Now</title>
     <desc>Carolyn Stokes and Ashley Brauweiler deliver a complete package of local news and weather.</desc>
@@ -36357,21 +36352,15 @@
     <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250416200000 +0000" stop="20250416203000 +0000">
-    <title>Weather Today</title>
-    <desc>National and local forecast details for across the country</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_1109216430_0_20250404T222943514Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-njxgs.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250417023000 +0000" stop="20250417030000 +0000">
+    <title>CBC News NL</title>
+    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250416203000 +0000" stop="20250416210000 +0000">
-    <title>Force of Nature Rewind</title>
-    <desc>Wild and viral weather footage from across Canada and around the world</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250417030000 +0000" stop="20250417040000 +0000">
+    <title>The National</title>
+    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250416210000 +0000" stop="20250416213000 +0000">
     <title>Weather Today</title>
@@ -36465,12 +36454,12 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250416193918 +0000" stop="20250416203419 +0000">
-    <title>Fight for Territory</title>
-    <desc>Biological instinct is driven by three things: the desire to stay alive, to find food and to breed. But to do all these things, animals first need a home. Out in the wilderness a safe place to call home can be the difference between life and death. A place to secure meals, raise their families and hide from danger. Ideal spots are in short supply and well worth fighting for! From lion scraps to insect warfare, these conflicts can provide us with the most remarkable spectacles in the animal kingdom.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_753751411_0_20250328T091949359Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-wzgbv.jpeg" />
+  <programme channel="CABC23000223U" start="20250417030000 +0000" stop="20250417040000 +0000">
+    <title>What If</title>
+    <desc>Take an epic journey through hypothetical worlds and possibilities.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124161_0_20231019T012929504Z_108.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250416203419 +0000" stop="20250416212713 +0000">
@@ -36526,5 +36515,10 @@
     <rating>
       <value>12</value>
     </rating>
+  </programme>
+  <programme channel="GBBB5000002PL" start="20250417025623 +0000" stop="20250417035117 +0000">
+    <title>Penguin Party</title>
+    <desc>From South Africa to Georgia and all across the southern hemisphere, the penguin party never ends!</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_485221594_0_20231013T023057606Z_34.jpeg" />
   </programme>
   </tv>
