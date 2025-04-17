@@ -34972,11 +34972,6 @@
     <display-name>Wild Planet</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20250107T025838SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250417090000 +0000" stop="20250417093000 +0000">
-    <title>CBC News NL</title>
-    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250417093000 +0000" stop="20250417103000 +0000">
     <title>The National</title>
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
@@ -35027,21 +35022,15 @@
     <desc>Andrew Chang expands our understanding of the stories everybody's talking about.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515038_0_20240529T053048695Z_102.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250417090000 +0000" stop="20250417093000 +0000">
-    <title>Dream In Colour</title>
-    <desc>Get lost in the breathtaking beauty of Canadian and international landscapes</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124152_0_20231019T012929571Z_80.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250417153000 +0000" stop="20250417160000 +0000">
+    <title>The Breakdown</title>
+    <desc>Make sense of your world with original reporting that breaks down the world's biggest news stories.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542759671_0_20240603T112659311Z_21.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250417093000 +0000" stop="20250417100000 +0000">
-    <title>Dream In Colour</title>
-    <desc>Get lost in the breathtaking beauty of Canadian and international landscapes</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124152_0_20231019T012929571Z_80.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250417160000 +0000" stop="20250417163000 +0000">
+    <title>Newfoundland &amp; Labrador Now</title>
+    <desc>News, investigations and community stories in NL and beyond.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250417100000 +0000" stop="20250417103000 +0000">
     <title>Weather AM</title>
@@ -35131,13 +35120,21 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250417090013 +0000" stop="20250417092930 +0000">
-    <title>Peace Parks</title>
-    <sub-title>Peace Parks, Episode 2</sub-title>
-    <desc>In this series, we follow the trail of the Transfrontier Parks. We explore why these conservation areas are important and what they protect. Through the eyes of the local communities and the conservation bodies, we follow a trail along the major rivers, mountains and deserts to see what can be achieved if countries work together to conserve a shared heritage.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_485221451_0_20231013T023057605Z_1.jpeg" />
+  <programme channel="CABC23000223U" start="20250417153000 +0000" stop="20250417160000 +0000">
+    <title>Force of Nature Rewind</title>
+    <desc>Wild and viral weather footage from across Canada and around the world</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
     <rating>
-      <value>3</value>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="CABC23000223U" start="20250417160000 +0000" stop="20250417170000 +0000">
+    <title>Survivorman</title>
+    <sub-title>Australian Outback</sub-title>
+    <desc>Forced to land his ultralight aircraft, Les is out to endure the elements in this spectacular locale.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534285350_0_20231024T163742475Z_50.jpeg" />
+    <rating>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250417092930 +0000" stop="20250417102025 +0000">
@@ -35202,6 +35199,14 @@
   <programme channel="GBBB5000002PL" start="20250417144956 +0000" stop="20250417154628 +0000">
     <title>Meet The Marsupials</title>
     <desc>Few countries have a more iconic representative in the animal kingdom than Australia and the marsupial. Marsupials were once found across the planet, but over time they found their way to the outback, leaving Australia as an ark carrying the future of pouch mammals. As varied as they are unusual, marsupials are a weird and wonderful mob of animals who carry their young in a pouch. Whether hopping, climbing or even airborne, marsupials are some of the strangest but most fascinating creatures you're likely to meet.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_485221451_0_20231013T023057605Z_1.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="GBBB5000002PL" start="20250417154628 +0000" stop="20250417163922 +0000">
+    <title>Cheetah: Beating the Odds</title>
+    <desc>A cheetah raises her young family on the vast expanse of the Serengeti. If her cubs are going to survive, she'll have to overcome a barrage of challenges. Lions, gangsters of the plains, are quick to throw their muscle around, whilst hyenas and jackals attempt to steal anything the cheetah manage to kill. The cheetah will have to learn the hunting skills their mother has perfected. Once they've learnt the ropes, they'll make their own way across the plains, establishing territory and having cubs of their own.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_485221451_0_20231013T023057605Z_1.jpeg" />
     <rating>
       <value>NA</value>
