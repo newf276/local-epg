@@ -36303,22 +36303,10 @@
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250417230000 +0000" stop="20250417233000 +0000">
-    <title>Storm Hunters</title>
-    <sub-title>Landfall!</sub-title>
-    <desc>Jaclyn anxiously experiences her first Category 4 Tropical Storm, Hurricane Matthew in Florida.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124210_0_20231019T012929407Z_53.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="CABC23000223U" start="20250417233000 +0000" stop="20250418000000 +0000">
-    <title>Force of Nature Rewind</title>
-    <desc>Wild and viral weather footage from across Canada and around the world</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250418060000 +0000" stop="20250418070000 +0000">
+    <title>The National</title>
+    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250418000000 +0000" stop="20250418003000 +0000">
     <title>Power To The People</title>
@@ -36388,12 +36376,12 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250417225803 +0000" stop="20250417234857 +0000">
-    <title>Hidden Japan</title>
-    <desc>Japan is the fourth largest island nation in the world and the second most populous. The culture of Japan is incredible, but even this is overshadowed by nature's beauty. There are more than 130 mammals and an astonishing 600 bird species dwelling in Japan's 6,852 islands. This island chain is so long that it spans several climate zones, providing a huge range of habitat for wildlife. Look beyond the ancient temples and glass skyscrapers and volcanos loom, bears hunt and birds do battle. This is the hidden Japan.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_485221451_0_20231013T023057605Z_1.jpeg" />
+  <programme channel="CABC23000223U" start="20250418060000 +0000" stop="20250418063000 +0000">
+    <title>Dream In Colour</title>
+    <desc>Get lost in the breathtaking beauty of Canadian and international landscapes</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124152_0_20231019T012929571Z_80.jpeg" />
     <rating>
-      <value>NA</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250417234857 +0000" stop="20250418004529 +0000">
@@ -36462,6 +36450,14 @@
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_737566257_0_20250322T141840467Z_45_imageprocessorclient-tvplus-linear-6fb5b47f79-bbtvn.jpeg" />
     <rating>
       <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="GBBB5000002PL" start="20250418055432 +0000" stop="20250418064925 +0000">
+    <title>Hidden UK</title>
+    <desc>For its tiny size the UK is a hugely varied landscape with a surprising collection of natural history – from the English Channel and famous white cliffs, to ancient forests and dramatic mountains. Indisputably stunning landscapes, providing homes for noble stags, soaring eagles, playful dolphins and endlessly entertaining otters. And this is just the tip of the iceberg – countless discoveries are waiting to be unearthed if you decide step off the beaten track in search of the hidden UK.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_485221451_0_20231013T023057605Z_1.jpeg" />
+    <rating>
+      <value>NA</value>
     </rating>
   </programme>
   </tv>
