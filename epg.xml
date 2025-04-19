@@ -36270,11 +36270,6 @@
     <display-name>Wild Planet</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20250107T025838SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250419180000 +0000" stop="20250419183000 +0000">
-    <title>About That</title>
-    <desc>Andrew Chang expands our understanding of the stories everybody's talking about.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515038_0_20240529T053048695Z_102.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250419183000 +0000" stop="20250419193000 +0000">
     <title>This Week's Top Stories</title>
     <desc>The big stories that made news across Canada and the world this week.</desc>
@@ -36325,13 +36320,15 @@
     <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250419180000 +0000" stop="20250419190000 +0000">
-    <title>What If</title>
-    <desc>Take an epic journey through hypothetical worlds and possibilities.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124161_0_20231019T012929504Z_108.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250420003000 +0000" stop="20250420010000 +0000">
+    <title>CBC News: Atlantic Tonight</title>
+    <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
+  </programme>
+  <programme channel="CA4600003GV" start="20250420010000 +0000" stop="20250420013000 +0000">
+    <title>CBC News: Atlantic Tonight</title>
+    <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250419190000 +0000" stop="20250419200000 +0000">
     <title>What If</title>
@@ -36381,12 +36378,12 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250419175611 +0000" stop="20250419185213 +0000">
-    <title>Enchanted Forest</title>
-    <desc>There are few places on the planet more magical than the forest. To spend a day here is nature's way of offering a spa, a bathe in nature. There is enchantment at every turn.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489826915_0_20240330T155555826Z_46.jpeg" />
+  <programme channel="CABC23000223U" start="20250420010000 +0000" stop="20250420020000 +0000">
+    <title>What If</title>
+    <desc>Take an epic journey through hypothetical worlds and possibilities.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124161_0_20231019T012929504Z_108.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250419185213 +0000" stop="20250419194846 +0000">
@@ -36433,6 +36430,14 @@
     <title>Lions Rule</title>
     <desc>On the African plains lions rule. They're not the biggest or fastest animals around, but stealth, teamwork and the strength of the pride means they almost always come out on top.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489916360_1_20240402T180917487Z_15.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="GBBB5000002PL" start="20250420002610 +0000" stop="20250420012104 +0000">
+    <title>The Power of Plants  The Great Escape</title>
+    <desc>You think plants are boring or passive? Far from it! They use complex reactions to respond to light, sound and touch. And like in the animal kingdom, different species have developed a near unending list of strategies to ensure their legacy is passed on. Plants have evolved tricks to beat the ele-ments, animal enemies or even other plants: From thorns and spines to poisons and even live-in bodyguards. This two-part series shows the survival strategies of our green “roommates” we share the planet with.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_748953663_0_20250326T142139019Z_68_imageprocessorclient-tvplus-linear-6fb5b47f79-8bxmq.jpeg" />
     <rating>
       <value>12</value>
     </rating>
