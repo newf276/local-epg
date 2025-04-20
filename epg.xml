@@ -36610,11 +36610,6 @@
     <display-name>Wild Planet</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20250107T025838SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250420150000 +0000" stop="20250420160000 +0000">
-    <title>This Week's Top Stories</title>
-    <desc>The big stories that made news across Canada and the world this week.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550207986_0_20241103T002715072Z_115_imageprocessorclient-tvplus-linear-5dc4fd45f6-kmjnf.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250420160000 +0000" stop="20250420163000 +0000">
     <title>Marketplace</title>
     <desc>Whether a slick scam, misleading marketing claim or maddening customer service, Marketplace has got your back.</desc>
@@ -36650,21 +36645,10 @@
     <desc>Cross Country Checkup is Canada's only national phone-in show, broadcasting live from coast to coast to coast.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_551966561_0_20241129T142758403Z_104_imageprocessorclient-tvplus-linear-5dc4fd45f6-5r449.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250420150000 +0000" stop="20250420153000 +0000">
-    <title>Weather AM</title>
-    <desc>Get your local forecast and weather headlines from right here in Canada, and around the globe.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_539709218_0_20240321T153330644Z_1.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="CABC23000223U" start="20250420153000 +0000" stop="20250420160000 +0000">
-    <title>Force of Nature Rewind</title>
-    <desc>Wild and viral weather footage from across Canada and around the world</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250420220000 +0000" stop="20250420223000 +0000">
+    <title>Documentary</title>
+    <desc>Features some of the best documentary work done by the CBC in the last 50 years.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186118_0_20241217T103439312Z_124_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250420160000 +0000" stop="20250420170000 +0000">
     <title>Crazy Creatures</title>
@@ -36714,12 +36698,12 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250420150901 +0000" stop="20250420160533 +0000">
-    <title>The Power of Plants  Race to Grow and Breed</title>
-    <desc>Just like animals, the lives of plants are dominated by the need to become strong and pass on genes to the next generation – a race to grow and breed. They must race to beat their competition to the best light spots, and to make the most of perilously short seasons. And also like in the animal kingdom, different species have developed a near unending list of strategies to ensure their legacy is passed on. Our ideas about plants need a seed change – it's time to respect the power of plants.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_751738921_0_20250327T152205865Z_33_imageprocessorclient-tvplus-linear-6fb5b47f79-wzgbv.jpeg" />
+  <programme channel="CABC23000223U" start="20250420220000 +0000" stop="20250420230000 +0000">
+    <title>What If</title>
+    <desc>Take an epic journey through hypothetical worlds and possibilities.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124161_0_20231019T012929504Z_108.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250420160533 +0000" stop="20250420165515 +0000">
@@ -36766,5 +36750,10 @@
     <rating>
       <value>12</value>
     </rating>
+  </programme>
+  <programme channel="GBBB5000002PL" start="20250420213159 +0000" stop="20250420223026 +0000">
+    <title>Dangerous Trails: Elephants in the Minefield</title>
+    <desc>This film tells the story of peace and resettlement in Angola. After decades of civil War, the Elephants are returning via routes riddled with landmines. We show the challenge of both elephants and people reclaiming their land and living together.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_487979206_0_20240124T153018202Z_90.jpeg" />
   </programme>
   </tv>
