@@ -36595,16 +36595,6 @@
     <display-name>Wild Planet</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20250107T025838SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250420120000 +0000" stop="20250420123000 +0000">
-    <title>CBC News: Atlantic Tonight</title>
-    <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
-  <programme channel="CA4600003GV" start="20250420123000 +0000" stop="20250420130000 +0000">
-    <title>CBC News: Atlantic Tonight</title>
-    <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250420130000 +0000" stop="20250420133000 +0000">
     <title>CBC News: Atlantic Tonight</title>
     <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
@@ -36650,21 +36640,15 @@
     <desc>Andrew Chang expands our understanding of the stories everybody's talking about.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515038_0_20240529T053048695Z_102.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250420120000 +0000" stop="20250420123000 +0000">
-    <title>Weather AM</title>
-    <desc>Get your local forecast and weather headlines from right here in Canada, and around the globe.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_539709218_0_20240321T153330644Z_1.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250420183000 +0000" stop="20250420190000 +0000">
+    <title>About That</title>
+    <desc>Andrew Chang expands our understanding of the stories everybody's talking about.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515038_0_20240529T053048695Z_102.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250420123000 +0000" stop="20250420130000 +0000">
-    <title>Force of Nature Rewind</title>
-    <desc>Wild and viral weather footage from across Canada and around the world</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250420190000 +0000" stop="20250420200000 +0000">
+    <title>This Week's Top Stories</title>
+    <desc>The big stories that made news across Canada and the world this week.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550207986_0_20241103T002715072Z_115_imageprocessorclient-tvplus-linear-5dc4fd45f6-kmjnf.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250420130000 +0000" stop="20250420133000 +0000">
     <title>Weather AM</title>
@@ -36738,12 +36722,12 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250420112849 +0000" stop="20250420121830 +0000">
-    <title>Crocodile Kingdom</title>
-    <desc>The crocodile is king of the wetland  a tone of cold blooded monster with the most terrifying bite force on Earth. The product of a 100 million year ancestry, the 25 species around today are testament to the crocodile's supreme intelligence and adaptability.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_490717396_0_20240424T102150608Z_46.jpeg" />
+  <programme channel="CABC23000223U" start="20250420190000 +0000" stop="20250420200000 +0000">
+    <title>Your Body On</title>
+    <desc>Putting the human body to the “What if” test.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124532_0_20231019T012926060Z_69.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250420121830 +0000" stop="20250420131657 +0000">
@@ -36794,6 +36778,14 @@
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_485221451_0_20231013T023057605Z_1.jpeg" />
     <rating>
       <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="GBBB5000002PL" start="20250420185014 +0000" stop="20250420194546 +0000">
+    <title>Animal Record Breakers</title>
+    <desc>We love to measure aspects of life at its extremes. The biggest, the tallest, even the rarest – some of the most iconic creatures in the natural world. Many are familiar but it's also important to recognise some of the more surprising record breakers.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489739109_0_20240327T155556792Z_76.jpeg" />
+    <rating>
+      <value>12</value>
     </rating>
   </programme>
   </tv>
