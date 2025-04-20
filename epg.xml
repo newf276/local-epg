@@ -36575,11 +36575,6 @@
     <display-name>Wild Planet</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20250107T025838SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250420190000 +0000" stop="20250420200000 +0000">
-    <title>This Week's Top Stories</title>
-    <desc>The big stories that made news across Canada and the world this week.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550207986_0_20241103T002715072Z_115_imageprocessorclient-tvplus-linear-5dc4fd45f6-kmjnf.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250420200000 +0000" stop="20250420220000 +0000">
     <title>Cross Country Check Up</title>
     <desc>Cross Country Checkup is Canada's only national phone-in show, broadcasting live from coast to coast to coast.</desc>
@@ -36615,13 +36610,10 @@
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250420190000 +0000" stop="20250420200000 +0000">
-    <title>Your Body On</title>
-    <desc>Putting the human body to the “What if” test.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124532_0_20231019T012926060Z_69.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250421020000 +0000" stop="20250421023000 +0000">
+    <title>CBC News: Atlantic Tonight</title>
+    <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250420200000 +0000" stop="20250420210000 +0000">
     <title>What If</title>
@@ -36672,12 +36664,22 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250420185014 +0000" stop="20250420194546 +0000">
-    <title>Animal Record Breakers</title>
-    <desc>We love to measure aspects of life at its extremes. The biggest, the tallest, even the rarest – some of the most iconic creatures in the natural world. Many are familiar but it's also important to recognise some of the more surprising record breakers.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489739109_0_20240327T155556792Z_76.jpeg" />
+  <programme channel="CABC23000223U" start="20250421013000 +0000" stop="20250421020000 +0000">
+    <title>Experiencing Canada</title>
+    <sub-title>B.C.</sub-title>
+    <desc>Discover British Columbia with Nathan as he cycles, tastes local wines, and explores the Osoyoos Desert.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534079374_0_20231018T132748962Z_1.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="CABC23000223U" start="20250421020000 +0000" stop="20250421023000 +0000">
+    <title>Experiencing Canada</title>
+    <sub-title>Nova Scotia</sub-title>
+    <desc>Join Nathan in Nova Scotia to uncover the surf, sail the Bluenose II, and savor fresh oysters and lobster.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534079374_0_20231018T132748962Z_1.jpeg" />
+    <rating>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250420194546 +0000" stop="20250420204218 +0000">
@@ -36724,5 +36726,18 @@
     <rating>
       <value>12</value>
     </rating>
+  </programme>
+  <programme channel="GBBB5000002PL" start="20250421011903 +0000" stop="20250421020844 +0000">
+    <title>Crocodile Kingdom</title>
+    <desc>The crocodile is king of the wetland  a tone of cold blooded monster with the most terrifying bite force on Earth. The product of a 100 million year ancestry, the 25 species around today are testament to the crocodile's supreme intelligence and adaptability.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_490717396_0_20240424T102150608Z_46.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="GBBB5000002PL" start="20250421020844 +0000" stop="20250421030711 +0000">
+    <title>Dangerous Trails: Elephants in the Minefield</title>
+    <desc>This film tells the story of peace and resettlement in Angola. After decades of civil War, the Elephants are returning via routes riddled with landmines. We show the challenge of both elephants and people reclaiming their land and living together.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_487979206_0_20240124T153018202Z_90.jpeg" />
   </programme>
   </tv>
