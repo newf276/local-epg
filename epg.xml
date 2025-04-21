@@ -36543,16 +36543,6 @@
     <display-name>Wild Planet</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20250107T025838SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250420220000 +0000" stop="20250420223000 +0000">
-    <title>Documentary</title>
-    <desc>Features some of the best documentary work done by the CBC in the last 50 years.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186118_0_20241217T103439312Z_124_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
-  <programme channel="CA4600003GV" start="20250420223000 +0000" stop="20250420230000 +0000">
-    <title>Documentary</title>
-    <desc>Features some of the best documentary work done by the CBC in the last 50 years.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186118_0_20241217T103439312Z_124_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250420230000 +0000" stop="20250420233000 +0000">
     <title>Marketplace</title>
     <desc>Whether a slick scam, misleading marketing claim or maddening customer service, Marketplace has got your back.</desc>
@@ -36593,13 +36583,15 @@
     <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250420220000 +0000" stop="20250420230000 +0000">
-    <title>What If</title>
-    <desc>Take an epic journey through hypothetical worlds and possibilities.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124161_0_20231019T012929504Z_108.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250421043000 +0000" stop="20250421050000 +0000">
+    <title>CBC News: Atlantic Tonight</title>
+    <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
+  </programme>
+  <programme channel="CA4600003GV" start="20250421050000 +0000" stop="20250421060000 +0000">
+    <title>The National</title>
+    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250420230000 +0000" stop="20250421000000 +0000">
     <title>How To Survive</title>
@@ -36668,10 +36660,13 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250420213159 +0000" stop="20250420223026 +0000">
-    <title>Dangerous Trails: Elephants in the Minefield</title>
-    <desc>This film tells the story of peace and resettlement in Angola. After decades of civil War, the Elephants are returning via routes riddled with landmines. We show the challenge of both elephants and people reclaiming their land and living together.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_487979206_0_20240124T153018202Z_90.jpeg" />
+  <programme channel="CABC23000223U" start="20250421050000 +0000" stop="20250421060000 +0000">
+    <title>What If</title>
+    <desc>Take an epic journey through hypothetical worlds and possibilities.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124161_0_20231019T012929504Z_108.jpeg" />
+    <rating>
+      <value>PG</value>
+    </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250420223026 +0000" stop="20250420232658 +0000">
     <title>Bucketlist Africa</title>
@@ -36722,6 +36717,15 @@
     <title>Animal Record Breakers</title>
     <desc>We love to measure aspects of life at its extremes. The biggest, the tallest, even the rarest – some of the most iconic creatures in the natural world. Many are familiar but it's also important to recognise some of the more surprising record breakers.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489739109_0_20240327T155556792Z_76.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="GBBB5000002PL" start="20250421045959 +0000" stop="20250421055832 +0000">
+    <title>Marine Mammals</title>
+    <sub-title>Born to Swim</sub-title>
+    <desc>From giant sperm whales to dramatic humpbacks and playful dolphins, we can't resist the endless charms of marine mammals.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489712411_0_20240326T160607220Z_69.jpeg" />
     <rating>
       <value>12</value>
     </rating>
