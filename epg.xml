@@ -36322,16 +36322,6 @@
     <display-name>Wild Planet</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20250107T025838SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250422020000 +0000" stop="20250422023000 +0000">
-    <title>CBC News NL</title>
-    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
-  <programme channel="CA4600003GV" start="20250422023000 +0000" stop="20250422030000 +0000">
-    <title>CBC News NL</title>
-    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250422030000 +0000" stop="20250422040000 +0000">
     <title>The National</title>
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
@@ -36372,14 +36362,15 @@
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250422020000 +0000" stop="20250422030000 +0000">
-    <title>Survivorman</title>
-    <sub-title>Patagonia</sub-title>
-    <desc>Les travels to one of the most beautiful places on the planet to make mistakes so that you don't have to.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534285350_0_20231024T163742475Z_50.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250422083000 +0000" stop="20250422090000 +0000">
+    <title>CBC News NL</title>
+    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
+  </programme>
+  <programme channel="CA4600003GV" start="20250422090000 +0000" stop="20250422093000 +0000">
+    <title>CBC News NL</title>
+    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250422030000 +0000" stop="20250422040000 +0000">
     <title>What If</title>
@@ -36446,12 +36437,20 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250422013148 +0000" stop="20250422022820 +0000">
-    <title>Hidden Germany</title>
-    <desc>A dramatic country steeped in history and ancient culture, it's easy to focus on Germany's great cities and landmarks. But Germany also has a more hidden treasure-trove, one full of natural wonders</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_748921248_0_20250326T142139019Z_70_imageprocessorclient-tvplus-linear-6fb5b47f79-8bxmq.jpeg" />
+  <programme channel="CABC23000223U" start="20250422083000 +0000" stop="20250422090000 +0000">
+    <title>Dream In Colour</title>
+    <desc>Get lost in the breathtaking beauty of Canadian and international landscapes</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124152_0_20231019T012929571Z_80.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="CABC23000223U" start="20250422090000 +0000" stop="20250422093000 +0000">
+    <title>Dream In Colour</title>
+    <desc>Get lost in the breathtaking beauty of Canadian and international landscapes</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124152_0_20231019T012929571Z_80.jpeg" />
+    <rating>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250422022820 +0000" stop="20250422032252 +0000">
@@ -36518,6 +36517,14 @@
     <title>The Power of Plants  Race to Grow and Breed</title>
     <desc>Just like animals, the lives of plants are dominated by the need to become strong and pass on genes to the next generation – a race to grow and breed. They must race to beat their competition to the best light spots, and to make the most of perilously short seasons. And also like in the animal kingdom, different species have developed a near unending list of strategies to ensure their legacy is passed on. Our ideas about plants need a seed change – it's time to respect the power of plants.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_751738921_0_20250327T152205865Z_33_imageprocessorclient-tvplus-linear-6fb5b47f79-wzgbv.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="GBBB5000002PL" start="20250422084252 +0000" stop="20250422093747 +0000">
+    <title>The Power of Plants  The Great Escape</title>
+    <desc>You think plants are boring or passive? Far from it! They use complex reactions to respond to light, sound and touch. And like in the animal kingdom, different species have developed a near unending list of strategies to ensure their legacy is passed on. Plants have evolved tricks to beat the ele-ments, animal enemies or even other plants: From thorns and spines to poisons and even live-in bodyguards. This two-part series shows the survival strategies of our green “roommates” we share the planet with.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_748953663_0_20250326T142139019Z_68_imageprocessorclient-tvplus-linear-6fb5b47f79-8bxmq.jpeg" />
     <rating>
       <value>12</value>
     </rating>
