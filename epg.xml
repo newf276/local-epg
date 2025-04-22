@@ -36136,11 +36136,6 @@
     <display-name>Wild Planet</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20250107T025838SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250422200000 +0000" stop="20250422203000 +0000">
-    <title>The Breakdown</title>
-    <desc>Make sense of your world with original reporting that breaks down the world's biggest news stories.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542759671_0_20240603T112659311Z_21.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250422203000 +0000" stop="20250422213000 +0000">
     <title>CBC News Here and Now</title>
     <desc>Carolyn Stokes and Ashley Brauweiler deliver a complete package of local news and weather.</desc>
@@ -36176,21 +36171,15 @@
     <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250422200000 +0000" stop="20250422203000 +0000">
-    <title>Your Weather Today</title>
-    <desc>National and local forecast details for across the country</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_1176632344_0_20250417T122612093Z_52_imageprocessorclient-tvplus-linear-b76dd9bbb-28957.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250423023000 +0000" stop="20250423030000 +0000">
+    <title>CBC News NL</title>
+    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250422203000 +0000" stop="20250422210000 +0000">
-    <title>Force of Nature Rewind</title>
-    <desc>Wild and viral weather footage from across Canada and around the world</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250423030000 +0000" stop="20250423040000 +0000">
+    <title>The National</title>
+    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250422210000 +0000" stop="20250422213000 +0000">
     <title>Your Weather Today</title>
@@ -36284,12 +36273,12 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250422192531 +0000" stop="20250422202025 +0000">
-    <title>Extinction! Going, Going, Gone</title>
-    <desc>Extinction, a daunting and confusing word. A force of nature, that sees the end of species, but also heralds the birth of others. Right now the extinction rate could be as much as 10,000 times faster than it should be. 20% of fish, a fifth of all reptiles and a quarter of mammals face extinction. If we are to do anything to stem the tide of extinction we must understand the lifestyles of those in danger. The future for countless animals is uncertain, but one thing is for sure – we have a lot to learn.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_805020133_0_20250416T062239114Z_83_imageprocessorclient-tvplus-linear-6fb5b47f79-xd9xm.jpeg" />
+  <programme channel="CABC23000223U" start="20250423030000 +0000" stop="20250423040000 +0000">
+    <title>What If</title>
+    <desc>Take an epic journey through hypothetical worlds and possibilities.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124161_0_20231019T012929504Z_108.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250422202025 +0000" stop="20250422211519 +0000">
@@ -36342,6 +36331,14 @@
     <title>Fight for Life</title>
     <desc>Nature is red in tooth and claw – animals face daily battles to protect themselves and secure the resources they need to survive. For predators to find food, lower links in the food chain have a fight on their hands escaping the jaws of death. Their only options are to die, run or turn and fight. Winning these battles will make the difference between life and death, and with the stakes so high don't be surprised if the biggest animals don't have everything their own way. Welcome to nature's fight club.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_757553914_0_20250329T162039085Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-zlxtx.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="GBBB5000002PL" start="20250423023716 +0000" stop="20250423033040 +0000">
+    <title>Extinction! Going, Going, Gone</title>
+    <desc>Extinction, a daunting and confusing word. A force of nature, that sees the end of species, but also heralds the birth of others. Right now the extinction rate could be as much as 10,000 times faster than it should be. 20% of fish, a fifth of all reptiles and a quarter of mammals face extinction. If we are to do anything to stem the tide of extinction we must understand the lifestyles of those in danger. The future for countless animals is uncertain, but one thing is for sure – we have a lot to learn.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_805020133_0_20250416T062239114Z_83_imageprocessorclient-tvplus-linear-6fb5b47f79-xd9xm.jpeg" />
     <rating>
       <value>12</value>
     </rating>
