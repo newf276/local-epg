@@ -36356,11 +36356,6 @@
     <display-name>Wild Planet</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20250107T025838SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250422050000 +0000" stop="20250422060000 +0000">
-    <title>The National</title>
-    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250422060000 +0000" stop="20250422063000 +0000">
     <title>CBC News NL</title>
     <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
@@ -36406,14 +36401,10 @@
     <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250422050000 +0000" stop="20250422060000 +0000">
-    <title>Survivorman: Bigfoot</title>
-    <sub-title>Willow Creek California</sub-title>
-    <desc>Les tracks Bigfoot in the ancient red cedar forests of Northwest California.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534285350_0_20231024T163742475Z_50.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250422113000 +0000" stop="20250422123000 +0000">
+    <title>The National</title>
+    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250422060000 +0000" stop="20250422063000 +0000">
     <title>Dream In Colour</title>
@@ -36503,12 +36494,21 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250422045959 +0000" stop="20250422055454 +0000">
-    <title>Extinction! Going, Going, Gone</title>
-    <desc>Extinction, a daunting and confusing word. A force of nature, that sees the end of species, but also heralds the birth of others. Right now the extinction rate could be as much as 10,000 times faster than it should be. 20% of fish, a fifth of all reptiles and a quarter of mammals face extinction. If we are to do anything to stem the tide of extinction we must understand the lifestyles of those in danger. The future for countless animals is uncertain, but one thing is for sure – we have a lot to learn.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_805020133_0_20250416T062239114Z_83_imageprocessorclient-tvplus-linear-6fb5b47f79-xd9xm.jpeg" />
+  <programme channel="CABC23000223U" start="20250422113000 +0000" stop="20250422120000 +0000">
+    <title>Experiencing Canada</title>
+    <sub-title>Newfoundland and Labrador</sub-title>
+    <desc>Journey to Newfoundland's easternmost point with Nathan to see whales, icebergs, puffins, and cocktails.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534079374_0_20231018T132748962Z_1.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="CABC23000223U" start="20250422120000 +0000" stop="20250422123000 +0000">
+    <title>Weather AM</title>
+    <desc>Get your local forecast and weather headlines from right here in Canada, and around the globe.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_539709218_0_20240321T153330644Z_1.jpeg" />
+    <rating>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250422055454 +0000" stop="20250422064948 +0000">
@@ -36553,6 +36553,14 @@
     <title>Mega Nature</title>
     <desc>The largest animals are some of the most awe-inspiring, but when smaller species come together their combined forces can be even greater.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_490556285_1_20240419T163151801Z_94.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="GBBB5000002PL" start="20250422111851 +0000" stop="20250422121245 +0000">
+    <title>Fight for Life</title>
+    <desc>Nature is red in tooth and claw – animals face daily battles to protect themselves and secure the resources they need to survive. For predators to find food, lower links in the food chain have a fight on their hands escaping the jaws of death. Their only options are to die, run or turn and fight. Winning these battles will make the difference between life and death, and with the stakes so high don't be surprised if the biggest animals don't have everything their own way. Welcome to nature's fight club.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_757553914_0_20250329T162039085Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-zlxtx.jpeg" />
     <rating>
       <value>12</value>
     </rating>
