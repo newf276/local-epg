@@ -3,7 +3,7 @@ import gzip
 import xml.etree.ElementTree as ET
 import requests
 
-save_as_gz = False  # Set to True to save an additional .gz version
+save_as_gz = True  # Set to True to save an additional .gz version
 
 tvg_ids_file = os.path.join(os.path.dirname(__file__), 'tvg-ids.txt')
 output_file = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'epg.xml')
@@ -69,7 +69,6 @@ def filter_and_build_epg(urls):
 	    
 local_epg = os.getenv("LOCAL_EPG")
 urls = [
-    'https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz',
 	'https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/all.xml.gz',
 	'https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz',
 	'https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz',
