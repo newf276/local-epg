@@ -2749,16 +2749,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250424170000 +0000" stop="20250424173000 +0000">
-    <title>Newfoundland &amp; Labrador Now</title>
-    <desc>News, investigations and community stories in NL and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
-  <programme channel="CA4600003GV" start="20250424173000 +0000" stop="20250424180000 +0000">
-    <title>Newfoundland &amp; Labrador Now</title>
-    <desc>News, investigations and community stories in NL and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250424180000 +0000" stop="20250424183000 +0000">
     <title>Newfoundland &amp; Labrador Now</title>
     <desc>News, investigations and community stories in NL and beyond.</desc>
@@ -2799,13 +2789,10 @@
     <desc>Carolyn Stokes and Ashley Brauweiler deliver a complete package of local news and weather.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186123_0_20241217T103439666Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250424170000 +0000" stop="20250424180000 +0000">
-    <title>What If</title>
-    <desc>Take an epic journey through hypothetical worlds and possibilities.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124161_0_20231019T012929504Z_108.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250424233000 +0000" stop="20250425003000 +0000">
+    <title>CBC News Here and Now</title>
+    <desc>Carolyn Stokes and Ashley Brauweiler deliver a complete package of local news and weather.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186123_0_20241217T103439666Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250424180000 +0000" stop="20250424183000 +0000">
     <title>Your Weather Today</title>
@@ -2899,12 +2886,21 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250424162451 +0000" stop="20250424172054 +0000">
-    <title>Enchanted Forest</title>
-    <desc>There are few places on the planet more magical than the forest. To spend a day here is nature's way of offering a spa, a bathe in nature. There is enchantment at every turn.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489826915_0_20240330T155555826Z_46.jpeg" />
+  <programme channel="CABC23000223U" start="20250424233000 +0000" stop="20250425000000 +0000">
+    <title>Force of Nature Rewind</title>
+    <desc>Wild and viral weather footage from across Canada and around the world</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="CABC23000223U" start="20250425000000 +0000" stop="20250425003000 +0000">
+    <title>Power To The People</title>
+    <sub-title>Listuguj</sub-title>
+    <desc>Three communities face an uphill struggle to stake their claim in the Gaspe Bay's booming wind energy sector.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124211_0_20231019T012926115Z_59.jpeg" />
+    <rating>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250424172054 +0000" stop="20250424181912 +0000">
@@ -2967,12 +2963,12 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250424160000 +0000" stop="20250424174712 +0000">
-    <title>Apocalypse Island</title>
-    <desc>Is a Pacific island key to Mayan 2012 predictions? Ask Jim Turner.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_549327636_1_20241018T002443584Z_119_imageprocessorclient-tvplus-linear-5dc4fd45f6-kmjnf.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250425000339 +0000" stop="20250425010010 +0000">
+    <title>Hidden Spain</title>
+    <desc>Spain is found at the crossroads between the Mediterranean and the Atlantic, resulting in diverse landscapes, ancient cultures and magnificent wildlife.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_751771740_0_20250327T152205865Z_30_imageprocessorclient-tvplus-linear-6fb5b47f79-wzgbv.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250424174712 +0000" stop="20250424184947 +0000">
@@ -3015,6 +3011,15 @@
     <title>Apocalypse Island</title>
     <desc>Is a Pacific island key to Mayan 2012 predictions? Ask Jim Turner.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_549327636_1_20241018T002443584Z_119_imageprocessorclient-tvplus-linear-5dc4fd45f6-kmjnf.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250424234712 +0000" stop="20250425004948 +0000">
+    <title>Doomsday: 10 Ways the World Will End</title>
+    <sub-title>Mega Eruption</sub-title>
+    <desc>A volcanic hyper eruption blows through the surface of the Earth.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550123390_0_20241101T142908279Z_21_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
     <rating>
       <value>TV-PG</value>
     </rating>
