@@ -3390,16 +3390,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250426183000 +0000" stop="20250426193000 +0000">
-    <title>This Week's Top Stories: Canada Votes</title>
-    <desc>The big stories from the campaign trail this week as Canada's election campaign continues.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_1210172377_0_20250423T172732746Z_98_imageprocessorclient-tvplus-linear-b76dd9bbb-j5rhb.jpeg" />
-  </programme>
-  <programme channel="CA4600003GV" start="20250426193000 +0000" stop="20250426200000 +0000">
-    <title>Documentary</title>
-    <desc>Features some of the best documentary work done by the CBC in the last 50 years.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186118_0_20241217T103439312Z_124_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250426200000 +0000" stop="20250426203000 +0000">
     <title>Documentary</title>
     <desc>Features some of the best documentary work done by the CBC in the last 50 years.</desc>
@@ -3450,21 +3440,15 @@
     <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250426190000 +0000" stop="20250426193000 +0000">
-    <title>Force of Nature Rewind</title>
-    <desc>Wild and viral weather footage from across Canada and around the world</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250427013000 +0000" stop="20250427020000 +0000">
+    <title>CBC News: Atlantic Tonight</title>
+    <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250426193000 +0000" stop="20250426200000 +0000">
-    <title>Force of Nature Rewind</title>
-    <desc>Wild and viral weather footage from across Canada and around the world</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250427020000 +0000" stop="20250427023000 +0000">
+    <title>CBC News: Atlantic Tonight</title>
+    <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250426200000 +0000" stop="20250426203000 +0000">
     <title>Force of Nature Rewind</title>
@@ -3554,12 +3538,20 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250426183359 +0000" stop="20250426193031 +0000">
-    <title>Nature's Cutest</title>
-    <desc>As we all know the natural world can be tough and challenging at times, but it can also be nothing short of adorable.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489797423_0_20240329T144954399Z_113.jpeg" />
+  <programme channel="CABC23000223U" start="20250427013000 +0000" stop="20250427020000 +0000">
+    <title>Force of Nature Rewind</title>
+    <desc>Wild and viral weather footage from across Canada and around the world</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="CABC23000223U" start="20250427020000 +0000" stop="20250427023000 +0000">
+    <title>Force of Nature Rewind</title>
+    <desc>Wild and viral weather footage from across Canada and around the world</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
+    <rating>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250426193031 +0000" stop="20250426202703 +0000">
@@ -3626,14 +3618,19 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250426183313 +0000" stop="20250426192438 +0000">
-    <title>How The Earth Was Made</title>
-    <sub-title>Driest Place on Earth</sub-title>
-    <desc>The Atacama desert is considered the driest place on Earth.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550123222_1_20241101T142909803Z_28_imageprocessorclient-tvplus-linear-5dc4fd45f6-xk8kz.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250427012137 +0000" stop="20250427014655 +0000">
+    <title>Hannah Goes to Namibia</title>
+    <sub-title>S01 E02</sub-title>
+    <desc>Hannah runs a health check on two female cheetahs with veterinarian Maaike. She then goes into the wilderness with Naankuse founder Marlice. Together they go in search of the elephant Apollo, which was resettled in the sanctuary. The former "problem" elephant now leads a peaceful life here.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489364877_1_20240314T153818923Z_22.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>12</value>
     </rating>
+  </programme>
+  <programme channel="GBBB5000002PL" start="20250427014655 +0000" stop="20250427024150 +0000">
+    <title>Penguin Party</title>
+    <desc>From South Africa to Georgia and all across the southern hemisphere, the penguin party never ends!</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_485221594_0_20231013T023057606Z_34.jpeg" />
   </programme>
   <programme channel="US900001CX" start="20250426192438 +0000" stop="20250426201732 +0000">
     <title>How The Earth Was Made</title>
@@ -3693,6 +3690,15 @@
     <title>How The Earth Was Made</title>
     <sub-title>Driest Place on Earth</sub-title>
     <desc>The Atacama desert is considered the driest place on Earth.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550123222_1_20241101T142909803Z_28_imageprocessorclient-tvplus-linear-5dc4fd45f6-xk8kz.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250427012438 +0000" stop="20250427021732 +0000">
+    <title>How The Earth Was Made</title>
+    <sub-title>Tsunami</sub-title>
+    <desc>Tsunamis are one of the most terrifying forces of nature.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550123222_1_20241101T142909803Z_28_imageprocessorclient-tvplus-linear-5dc4fd45f6-xk8kz.jpeg" />
     <rating>
       <value>TV-PG</value>
