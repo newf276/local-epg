@@ -3413,11 +3413,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250426130000 +0000" stop="20250426133000 +0000">
-    <title>CBC News NL</title>
-    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250426133000 +0000" stop="20250426143000 +0000">
     <title>The National</title>
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
@@ -3458,21 +3453,15 @@
     <desc>The big stories from the campaign trail this week as Canada's election campaign continues.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_1210172377_0_20250423T172732746Z_98_imageprocessorclient-tvplus-linear-b76dd9bbb-j5rhb.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250426130000 +0000" stop="20250426133000 +0000">
-    <title>Weather AM</title>
-    <desc>Get your local forecast and weather headlines from right here in Canada, and around the globe.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_539709218_0_20240321T153330644Z_1.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250426193000 +0000" stop="20250426200000 +0000">
+    <title>Documentary</title>
+    <desc>Features some of the best documentary work done by the CBC in the last 50 years.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186118_0_20241217T103439312Z_124_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250426133000 +0000" stop="20250426140000 +0000">
-    <title>Force of Nature Rewind</title>
-    <desc>Wild and viral weather footage from across Canada and around the world</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250426200000 +0000" stop="20250426203000 +0000">
+    <title>Documentary</title>
+    <desc>Features some of the best documentary work done by the CBC in the last 50 years.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186118_0_20241217T103439312Z_124_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250426140000 +0000" stop="20250426143000 +0000">
     <title>Weather AM</title>
@@ -3565,12 +3554,20 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250426130751 +0000" stop="20250426140239 +0000">
-    <title>Hidden Australia</title>
-    <desc>Sometimes called the biggest island on Earth, Australia is a sub-continent of incredible diversity, beauty, danger and downright weirdness. The 4,000km between the coasts are made up of a patchwork of contrasting landscapes: tropical rainforests, snow-capped mountains, dry woodland, giant wetlands, tropical reefs and hostile desert. These vast tracts of wilderness boast the world's most unique and bizarre wildlife communities. In this ‘hidden' Australia, there is an astonishing surprise at every turn.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_485221451_0_20231013T023057605Z_1.jpeg" />
+  <programme channel="CABC23000223U" start="20250426193000 +0000" stop="20250426200000 +0000">
+    <title>Force of Nature Rewind</title>
+    <desc>Wild and viral weather footage from across Canada and around the world</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
     <rating>
-      <value>NA</value>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="CABC23000223U" start="20250426200000 +0000" stop="20250426203000 +0000">
+    <title>Force of Nature Rewind</title>
+    <desc>Wild and viral weather footage from across Canada and around the world</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
+    <rating>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250426140239 +0000" stop="20250426145911 +0000">
@@ -3628,13 +3625,12 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250426123313 +0000" stop="20250426132438 +0000">
-    <title>How The Earth Was Made</title>
-    <sub-title>Driest Place on Earth</sub-title>
-    <desc>The Atacama desert is considered the driest place on Earth.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550123222_1_20241101T142909803Z_28_imageprocessorclient-tvplus-linear-5dc4fd45f6-xk8kz.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250426193031 +0000" stop="20250426202703 +0000">
+    <title>Manatees on the Move</title>
+    <desc>Manatees, sea cows, these gentle giants go by several names. They were once thought to be beautiful mermaids that could lure sailors to their deaths, though they probably won't win too many beauty contests. To retain their weight, manatees need to eat for 8 hours and consume 8% of their bodyweight every day. And keeping eating also means keeping moving! Thanks to their tolerance of human visitors, manatees have mates everywhere, working tirelessly to ensure they roam the world for generations to come.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_714924741_0_20250314T141639588Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-bbtvn.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250426132438 +0000" stop="20250426141732 +0000">
@@ -3695,6 +3691,15 @@
     <title>How The Earth Was Made</title>
     <sub-title>Driest Place on Earth</sub-title>
     <desc>The Atacama desert is considered the driest place on Earth.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550123222_1_20241101T142909803Z_28_imageprocessorclient-tvplus-linear-5dc4fd45f6-xk8kz.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250426192438 +0000" stop="20250426201732 +0000">
+    <title>How The Earth Was Made</title>
+    <sub-title>Tsunami</sub-title>
+    <desc>Tsunamis are one of the most terrifying forces of nature.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550123222_1_20241101T142909803Z_28_imageprocessorclient-tvplus-linear-5dc4fd45f6-xk8kz.jpeg" />
     <rating>
       <value>TV-PG</value>
