@@ -3465,11 +3465,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250426160000 +0000" stop="20250426163000 +0000">
-    <title>About That</title>
-    <desc>Andrew Chang expands our understanding of the stories everybody's talking about.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515038_0_20240529T053048695Z_102.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250426163000 +0000" stop="20250426173000 +0000">
     <title>The National: Canada Votes</title>
     <desc>The National presents the big stories from Canada's federal election campaign.</desc>
@@ -3515,23 +3510,15 @@
     <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250426160000 +0000" stop="20250426163000 +0000">
-    <title>Experiencing Canada</title>
-    <sub-title>Newfoundland and Labrador</sub-title>
-    <desc>Journey to Newfoundland's easternmost point with Nathan to see whales, icebergs, puffins, and cocktails.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534079374_0_20231018T132748962Z_1.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250426223000 +0000" stop="20250426230000 +0000">
+    <title>CBC News: Atlantic Tonight</title>
+    <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250426163000 +0000" stop="20250426170000 +0000">
-    <title>Experiencing Canada</title>
-    <sub-title>B.C.</sub-title>
-    <desc>Discover British Columbia with Nathan as he cycles, tastes local wines, and explores the Osoyoos Desert.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534079374_0_20231018T132748962Z_1.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250426230000 +0000" stop="20250426233000 +0000">
+    <title>CBC News: Atlantic Tonight</title>
+    <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250426170000 +0000" stop="20250426173000 +0000">
     <title>Experiencing Canada</title>
@@ -3622,22 +3609,20 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250426155544 +0000" stop="20250426161858 +0000">
-    <title>Hannah Goes to Namibia</title>
-    <sub-title>S01 E01</sub-title>
-    <desc>As soon as she arrives, conservationist Hannah Emde immerses herself in Namibia's wildlife. The first destination of her trip is the world-famous Naankuse Foundation near Windhoek</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489364860_2_20240314T153818808Z_86.jpeg" />
+  <programme channel="CABC23000223U" start="20250426223000 +0000" stop="20250426230000 +0000">
+    <title>Force of Nature Rewind</title>
+    <desc>Wild and viral weather footage from across Canada and around the world</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250426161858 +0000" stop="20250426164416 +0000">
-    <title>Hannah Goes to Namibia</title>
-    <sub-title>S01 E02</sub-title>
-    <desc>Hannah runs a health check on two female cheetahs with veterinarian Maaike. She then goes into the wilderness with Naankuse founder Marlice. Together they go in search of the elephant Apollo, which was resettled in the sanctuary. The former "problem" elephant now leads a peaceful life here.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489364877_1_20240314T153818923Z_22.jpeg" />
+  <programme channel="CABC23000223U" start="20250426230000 +0000" stop="20250426233000 +0000">
+    <title>Force of Nature Rewind</title>
+    <desc>Wild and viral weather footage from across Canada and around the world</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250426164416 +0000" stop="20250426173911 +0000">
@@ -3692,13 +3677,20 @@
     <desc>From South Africa to Georgia and all across the southern hemisphere, the penguin party never ends!</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_485221594_0_20231013T023057606Z_34.jpeg" />
   </programme>
-  <programme channel="US900001CX" start="20250426160000 +0000" stop="20250426165034 +0000">
-    <title>How The Earth Was Made</title>
-    <sub-title>Birth of the Earth</sub-title>
-    <desc>Four and a half billion years ago the Earth formed from dust in space.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550123222_1_20241101T142909803Z_28_imageprocessorclient-tvplus-linear-5dc4fd45f6-xk8kz.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250426221030 +0000" stop="20250426230519 +0000">
+    <title>Hidden Australia</title>
+    <desc>Sometimes called the biggest island on Earth, Australia is a sub-continent of incredible diversity, beauty, danger and downright weirdness. The 4,000km between the coasts are made up of a patchwork of contrasting landscapes: tropical rainforests, snow-capped mountains, dry woodland, giant wetlands, tropical reefs and hostile desert. These vast tracts of wilderness boast the world's most unique and bizarre wildlife communities. In this ‘hidden' Australia, there is an astonishing surprise at every turn.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_485221451_0_20231013T023057605Z_1.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="GBBB5000002PL" start="20250426230519 +0000" stop="20250427000151 +0000">
+    <title>Nature's Cutest</title>
+    <desc>As we all know the natural world can be tough and challenging at times, but it can also be nothing short of adorable.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489797423_0_20240329T144954399Z_113.jpeg" />
+    <rating>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250426165034 +0000" stop="20250426174108 +0000">
@@ -3759,6 +3751,15 @@
     <title>How The Earth Was Made</title>
     <sub-title>Birth of the Earth</sub-title>
     <desc>Four and a half billion years ago the Earth formed from dust in space.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550123222_1_20241101T142909803Z_28_imageprocessorclient-tvplus-linear-5dc4fd45f6-xk8kz.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250426225034 +0000" stop="20250426234108 +0000">
+    <title>How The Earth Was Made</title>
+    <sub-title>Grand Canyon</sub-title>
+    <desc>The Grand Canyon is nearly 300 miles long and over a mile deep.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550123222_1_20241101T142909803Z_28_imageprocessorclient-tvplus-linear-5dc4fd45f6-xk8kz.jpeg" />
     <rating>
       <value>TV-PG</value>
