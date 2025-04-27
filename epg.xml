@@ -3304,16 +3304,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250427130000 +0000" stop="20250427133000 +0000">
-    <title>CBC News: Atlantic Tonight</title>
-    <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
-  <programme channel="CA4600003GV" start="20250427133000 +0000" stop="20250427140000 +0000">
-    <title>CBC News: Atlantic Tonight</title>
-    <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250427140000 +0000" stop="20250427143000 +0000">
     <title>About That</title>
     <desc>Andrew Chang expands our understanding of the stories everybody's talking about.</desc>
@@ -3359,21 +3349,10 @@
     <desc>The big stories from the campaign trail this week as Canada's election campaign continues.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_1210172377_0_20250423T172732746Z_98_imageprocessorclient-tvplus-linear-b76dd9bbb-j5rhb.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250427130000 +0000" stop="20250427133000 +0000">
-    <title>Weather AM</title>
-    <desc>Get your local forecast and weather headlines from right here in Canada, and around the globe.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_539709218_0_20240321T153330644Z_1.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="CABC23000223U" start="20250427133000 +0000" stop="20250427140000 +0000">
-    <title>Force of Nature Rewind</title>
-    <desc>Wild and viral weather footage from across Canada and around the world</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250427200000 +0000" stop="20250427220000 +0000">
+    <title>Cross Country Check Up</title>
+    <desc>Cross Country Checkup is Canada's only national phone-in show, broadcasting live from coast to coast to coast.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_551966561_0_20241129T142758403Z_104_imageprocessorclient-tvplus-linear-5dc4fd45f6-5r449.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250427140000 +0000" stop="20250427143000 +0000">
     <title>Weather AM</title>
@@ -3463,22 +3442,20 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250427125107 +0000" stop="20250427131916 +0000">
-    <title>Epic Safari Encounters</title>
-    <sub-title>Chitake Springs</sub-title>
-    <desc>Wildlife guide, Craig accompanies Kristina to one of the wildest places in Zimbabwe – Chitake Springs, aka, Ambush Alley. They get up close to a huge bull elephant and Kristina has her first-ever sighting of endangered wild dogs.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_485221451_0_20231013T023057605Z_1.jpeg" />
+  <programme channel="CABC23000223U" start="20250427193000 +0000" stop="20250427200000 +0000">
+    <title>Force of Nature Rewind</title>
+    <desc>Wild and viral weather footage from across Canada and around the world</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
     <rating>
-      <value>NA</value>
+      <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250427131916 +0000" stop="20250427134628 +0000">
-    <title>Epic Safari Encounters</title>
-    <sub-title>Victoria Falls part 1</sub-title>
-    <desc>Kristina gets to tick off one of her bucket list dreams – the majestic Victoria Falls. Her guide Beano walks her through the history of the falls formation and they encounter some of the wildlife that live in the surrounding area. She zip-lines across the gorge and learns the integral role vultures play in the ecosystem.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_485221451_0_20231013T023057605Z_1.jpeg" />
+  <programme channel="CABC23000223U" start="20250427200000 +0000" stop="20250427203000 +0000">
+    <title>Force of Nature Rewind</title>
+    <desc>Wild and viral weather footage from across Canada and around the world</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
     <rating>
-      <value>NA</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250427134628 +0000" stop="20250427144300 +0000">
@@ -3571,13 +3548,13 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250427123329 +0000" stop="20250427132540 +0000">
-    <title>The Universe</title>
-    <sub-title>Spaceship Earth</sub-title>
-    <desc>Take a ride through the formation of the third planet from the Sun, Earth.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550122911_0_20241101T142907529Z_96_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250427195651 +0000" stop="20250427202004 +0000">
+    <title>Hannah Goes to Namibia</title>
+    <sub-title>S01 E03</sub-title>
+    <desc>Hannah Emde meets one of Africa's most experienced elephant trackers: Hendrick Munembome, the Director of Elephant Human Relations Aid (EHRA).</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489394763_1_20240315T161153504Z_93.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250427132540 +0000" stop="20250427141747 +0000">
@@ -3638,6 +3615,15 @@
     <title>The Universe</title>
     <sub-title>Spaceship Earth</sub-title>
     <desc>Take a ride through the formation of the third planet from the Sun, Earth.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550122911_0_20241101T142907529Z_96_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250427192541 +0000" stop="20250427201748 +0000">
+    <title>The Universe</title>
+    <sub-title>Mercury and Venus: The Inner Planets</sub-title>
+    <desc>Scorched by their proximity to the sun, Mercury and Venus are hostile worlds.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550122911_0_20241101T142907529Z_96_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
     <rating>
       <value>TV-PG</value>
