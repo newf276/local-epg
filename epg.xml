@@ -2977,16 +2977,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250428180000 +0000" stop="20250428183000 +0000">
-    <title>Newfoundland &amp; Labrador Now</title>
-    <desc>News, investigations and community stories in NL and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
-  <programme channel="CA4600003GV" start="20250428183000 +0000" stop="20250428190000 +0000">
-    <title>Newfoundland &amp; Labrador Now</title>
-    <desc>News, investigations and community stories in NL and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250428190000 +0000" stop="20250428193000 +0000">
     <title>Newfoundland &amp; Labrador Now</title>
     <desc>News, investigations and community stories in NL and beyond.</desc>
@@ -3016,22 +3006,6 @@
     <title>Canada Votes: Election Night</title>
     <desc>The CBC News Election Team brings you complete results and analysis live from across Canada.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_1220404205_5_20250425T142748319Z_101_imageprocessorclient-tvplus-linear-b76dd9bbb-wf66n.png" />
-  </programme>
-  <programme channel="CABC23000223U" start="20250428180000 +0000" stop="20250428183000 +0000">
-    <title>Your Weather Today</title>
-    <desc>National and local forecast details for across the country</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_1176632344_0_20250417T122612093Z_52_imageprocessorclient-tvplus-linear-b76dd9bbb-28957.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="CABC23000223U" start="20250428183000 +0000" stop="20250428190000 +0000">
-    <title>Force of Nature Rewind</title>
-    <desc>Wild and viral weather footage from across Canada and around the world</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
   </programme>
   <programme channel="CABC23000223U" start="20250428190000 +0000" stop="20250428193000 +0000">
     <title>Your Weather Today</title>
@@ -3123,13 +3097,21 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250428180351 +0000" stop="20250428183229 +0000">
-    <title>Hannah Goes to Namibia</title>
-    <sub-title>S01 E06</sub-title>
-    <desc>Hannah Emde tries to illuminate the subject of trophy hunting from all sides. She talks to the Khwe chief, villagers and game guards in the Zambezi region.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_490066059_0_20240406T160351318Z_1.jpeg" />
+  <programme channel="CABC23000223U" start="20250429003000 +0000" stop="20250429010000 +0000">
+    <title>Health and Weather</title>
+    <sub-title>Beating the Winter Blues</sub-title>
+    <desc>Viruses aren't the only things we battle during winter  how you can boost your mental and physical health</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534916337_0_20231111T005207801Z_112.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="CABC23000223U" start="20250429010000 +0000" stop="20250429013000 +0000">
+    <title>Force of Nature Rewind</title>
+    <desc>Wild and viral weather footage from across Canada and around the world</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
+    <rating>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250428183229 +0000" stop="20250428193115 +0000">
@@ -3202,13 +3184,22 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250428174249 +0000" stop="20250428183413 +0000">
-    <title>Mega Disasters</title>
-    <sub-title>Deadly Jet Collision</sub-title>
-    <desc>Crashes like the 1977 Tenerife ruin air travel due to runway incursions.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550195698_0_20241102T182337848Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250429001743 +0000" stop="20250429005052 +0000">
+    <title>Kalahari Meerkats</title>
+    <sub-title>Kalahari Meerkats S02 E01</sub-title>
+    <desc>The rains have finally arrived in the Kalahari and the vast desert has never looked better. Cleo, the boss of this small group of wild meerkats has given birth to five new pups</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_490771489_0_20240425T152743549Z_107.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="GBBB5000002PL" start="20250429005052 +0000" stop="20250429012408 +0000">
+    <title>Kalahari Meerkats</title>
+    <sub-title>Kalahari Meerkats S02 E02</sub-title>
+    <desc>In another cruel twist Cleo's young pup Ophelia got left behind on a foraging trip and was killed by one of the Kalahari's most dangerous creatures, a Goshawk. The remaining three pups: Zeus, Daisy and Flo have lost their dear sister and playmate and this is causing high levels of insecurity.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_490771519_1_20240425T152743602Z_46.jpeg" />
+    <rating>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250428183413 +0000" stop="20250428192536 +0000">
@@ -3269,6 +3260,15 @@
     <title>Mega Disasters</title>
     <sub-title>Deadly Jet Collision</sub-title>
     <desc>Crashes like the 1977 Tenerife ruin air travel due to runway incursions.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550195698_0_20241102T182337848Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250429003414 +0000" stop="20250429012537 +0000">
+    <title>Mega Disasters</title>
+    <sub-title>Comet Storm</sub-title>
+    <desc>Comet explosion in Canada wiped out North American life 13,000 years ago.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550195698_0_20241102T182337848Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg" />
     <rating>
       <value>TV-PG</value>
