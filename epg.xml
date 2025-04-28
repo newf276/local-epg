@@ -3036,16 +3036,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250428150000 +0000" stop="20250428153000 +0000">
-    <title>About That</title>
-    <desc>Andrew Chang expands our understanding of the stories everybody's talking about.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515038_0_20240529T053048695Z_102.jpeg" />
-  </programme>
-  <programme channel="CA4600003GV" start="20250428153000 +0000" stop="20250428160000 +0000">
-    <title>The Breakdown</title>
-    <desc>Make sense of your world with original reporting that breaks down the world's biggest news stories.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542759671_0_20240603T112659311Z_21.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250428160000 +0000" stop="20250428163000 +0000">
     <title>Newfoundland &amp; Labrador Now</title>
     <desc>News, investigations and community stories in NL and beyond.</desc>
@@ -3096,21 +3086,10 @@
     <desc>Carolyn Stokes and Ashley Brauweiler deliver a complete package of local news and weather.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186123_0_20241217T103439666Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250428150000 +0000" stop="20250428153000 +0000">
-    <title>Weather AM</title>
-    <desc>Get your local forecast and weather headlines from right here in Canada, and around the globe.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_539709218_0_20240321T153330644Z_1.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="CABC23000223U" start="20250428153000 +0000" stop="20250428160000 +0000">
-    <title>Force of Nature Rewind</title>
-    <desc>Wild and viral weather footage from across Canada and around the world</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250428213000 +0000" stop="20250428223000 +0000">
+    <title>CBC News Here and Now</title>
+    <desc>Carolyn Stokes and Ashley Brauweiler deliver a complete package of local news and weather.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186123_0_20241217T103439666Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250428160000 +0000" stop="20250428170000 +0000">
     <title>Survivorman</title>
@@ -3185,13 +3164,20 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250428144057 +0000" stop="20250428153943 +0000">
-    <title>Europe's Wilderness</title>
-    <sub-title>S01 E03</sub-title>
-    <desc>This popular motif in prehistoric cave paintings, the European Bison is Europe's heaviest land mammal. Weighing in at just under one tonne, it is also Europe's last wild cattle spieces</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489739104_1_20240327T155556737Z_96.jpeg" />
+  <programme channel="CABC23000223U" start="20250428213000 +0000" stop="20250428220000 +0000">
+    <title>Force of Nature Rewind</title>
+    <desc>Wild and viral weather footage from across Canada and around the world</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="CABC23000223U" start="20250428220000 +0000" stop="20250428223000 +0000">
+    <title>Your Weather Today</title>
+    <desc>National and local forecast details for across the country</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_1176632344_0_20250417T122612093Z_52_imageprocessorclient-tvplus-linear-b76dd9bbb-28957.jpeg" />
+    <rating>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250428153943 +0000" stop="20250428163438 +0000">
@@ -3273,13 +3259,22 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250428150831 +0000" stop="20250428160000 +0000">
-    <title>Mega Disasters</title>
-    <sub-title>Methane Explosion</sub-title>
-    <desc>A theory states that eruptions of methane gas in the ocean occur regularly.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550195698_0_20241102T182337848Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250428213235 +0000" stop="20250428215524 +0000">
+    <title>Hannah Goes to Namibia</title>
+    <sub-title>S01 E05</sub-title>
+    <desc>Hannah Emde meets the most famous big cat researcher in the world. Dr. Laurie Marker is the founder of the Cheetah Conservation Fund (CCF), which has set the global benchmark for cheetah conservation.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489424903_1_20240316T153932409Z_1.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="GBBB5000002PL" start="20250428215524 +0000" stop="20250428222402 +0000">
+    <title>Hannah Goes to Namibia</title>
+    <sub-title>S01 E06</sub-title>
+    <desc>Hannah Emde tries to illuminate the subject of trophy hunting from all sides. She talks to the Khwe chief, villagers and game guards in the Zambezi region.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_490066059_0_20240406T160351318Z_1.jpeg" />
+    <rating>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250428160000 +0000" stop="20250428165125 +0000">
@@ -3340,6 +3335,15 @@
     <title>Mega Disasters</title>
     <sub-title>Methane Explosion</sub-title>
     <desc>A theory states that eruptions of methane gas in the ocean occur regularly.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550195698_0_20241102T182337848Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250428220000 +0000" stop="20250428225125 +0000">
+    <title>Mega Disasters</title>
+    <sub-title>Atlantis Apocalypse</sub-title>
+    <desc>Santorini-like volcanoes erupt, causing destruction. History repeating?</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550195698_0_20241102T182337848Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg" />
     <rating>
       <value>TV-PG</value>
