@@ -2900,11 +2900,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250428203000 +0000" stop="20250428213000 +0000">
-    <title>CBC News Here and Now</title>
-    <desc>Carolyn Stokes and Ashley Brauweiler deliver a complete package of local news and weather.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186123_0_20241217T103439666Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250428213000 +0000" stop="20250428223000 +0000">
     <title>CBC News Here and Now</title>
     <desc>Carolyn Stokes and Ashley Brauweiler deliver a complete package of local news and weather.</desc>
@@ -2919,22 +2914,6 @@
     <title>Canada Votes: Election Night</title>
     <desc>The CBC News Election Team brings you complete results and analysis live from across Canada.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_1220404205_5_20250425T142748319Z_101_imageprocessorclient-tvplus-linear-b76dd9bbb-wf66n.png" />
-  </programme>
-  <programme channel="CABC23000223U" start="20250428210000 +0000" stop="20250428213000 +0000">
-    <title>Your Weather Today</title>
-    <desc>National and local forecast details for across the country</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_1176632344_0_20250417T122612093Z_52_imageprocessorclient-tvplus-linear-b76dd9bbb-28957.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="CABC23000223U" start="20250428213000 +0000" stop="20250428220000 +0000">
-    <title>Force of Nature Rewind</title>
-    <desc>Wild and viral weather footage from across Canada and around the world</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
   </programme>
   <programme channel="CABC23000223U" start="20250428220000 +0000" stop="20250428223000 +0000">
     <title>Your Weather Today</title>
@@ -3020,22 +2999,12 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250428205919 +0000" stop="20250428213235 +0000">
-    <title>Kalahari Meerkats</title>
-    <sub-title>Kalahari Meerkats S02 E02</sub-title>
-    <desc>In another cruel twist Cleo's young pup Ophelia got left behind on a foraging trip and was killed by one of the Kalahari's most dangerous creatures, a Goshawk. The remaining three pups: Zeus, Daisy and Flo have lost their dear sister and playmate and this is causing high levels of insecurity.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_490771519_1_20240425T152743602Z_46.jpeg" />
+  <programme channel="CABC23000223U" start="20250429040000 +0000" stop="20250429050000 +0000">
+    <title>How To Survive</title>
+    <desc>Endure life-threatening moments by employing statistical facts and survivor stories, all while entertaining.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124631_0_20231019T012929606Z_64.jpeg" />
     <rating>
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="GBBB5000002PL" start="20250428213235 +0000" stop="20250428215524 +0000">
-    <title>Hannah Goes to Namibia</title>
-    <sub-title>S01 E05</sub-title>
-    <desc>Hannah Emde meets the most famous big cat researcher in the world. Dr. Laurie Marker is the founder of the Cheetah Conservation Fund (CCF), which has set the global benchmark for cheetah conservation.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489424903_1_20240316T153932409Z_1.jpeg" />
-    <rating>
-      <value>12</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250428215524 +0000" stop="20250428222402 +0000">
@@ -3109,13 +3078,21 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250428210831 +0000" stop="20250428220000 +0000">
-    <title>Mega Disasters</title>
-    <sub-title>Methane Explosion</sub-title>
-    <desc>A theory states that eruptions of methane gas in the ocean occur regularly.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550195698_0_20241102T182337848Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250429031420 +0000" stop="20250429040915 +0000">
+    <title>Nature's Most Dangerous</title>
+    <desc>Who's not a thrill seeker among us? We humans love to put ourselves at risk and lap up the thrill of living dangerously. And to fuel our fetish for fear, we turn to the animal kingdom. But what is the truth behind the killers of the natural world? Do they live up to their reputations, and who really is the most dangerous? From killer crocs to ferocious big cats, we'll run you through the most dangerous teeth, fangs, stingers and bites in the animal kingdom. These are the deadliest animals on planet earth.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_757476106_0_20250329T162039085Z_27_imageprocessorclient-tvplus-linear-6fb5b47f79-zlxtx.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="GBBB5000002PL" start="20250429040915 +0000" stop="20250429045959 +0000">
+    <title>Kalahari Meerkats</title>
+    <sub-title>Kalahari Meerkats S02 E01</sub-title>
+    <desc>The rains have finally arrived in the Kalahari and the vast desert has never looked better. Cleo, the boss of this small group of wild meerkats has given birth to five new pups</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_490771489_0_20240425T152743549Z_107.jpeg" />
+    <rating>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250428220000 +0000" stop="20250428225125 +0000">
@@ -3176,6 +3153,15 @@
     <title>Mega Disasters</title>
     <sub-title>Methane Explosion</sub-title>
     <desc>A theory states that eruptions of methane gas in the ocean occur regularly.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550195698_0_20241102T182337848Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250429040001 +0000" stop="20250429045126 +0000">
+    <title>Mega Disasters</title>
+    <sub-title>Atlantis Apocalypse</sub-title>
+    <desc>Santorini-like volcanoes erupt, causing destruction. History repeating?</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550195698_0_20241102T182337848Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg" />
     <rating>
       <value>TV-PG</value>
