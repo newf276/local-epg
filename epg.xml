@@ -3025,11 +3025,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250428103000 +0000" stop="20250428113000 +0000">
-    <title>CBC News: Atlantic Tonight</title>
-    <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250428113000 +0000" stop="20250428123000 +0000">
     <title>The National</title>
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
@@ -3085,21 +3080,15 @@
     <desc>News, investigations and community stories in NL and beyond.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250428110000 +0000" stop="20250428113000 +0000">
-    <title>Weather AM</title>
-    <desc>Get your local forecast and weather headlines from right here in Canada, and around the globe.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_539709218_0_20240321T153330644Z_1.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250428173000 +0000" stop="20250428180000 +0000">
+    <title>Newfoundland &amp; Labrador Now</title>
+    <desc>News, investigations and community stories in NL and beyond.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250428113000 +0000" stop="20250428120000 +0000">
-    <title>Force of Nature Rewind</title>
-    <desc>Wild and viral weather footage from across Canada and around the world</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250428180000 +0000" stop="20250428183000 +0000">
+    <title>Newfoundland &amp; Labrador Now</title>
+    <desc>News, investigations and community stories in NL and beyond.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250428120000 +0000" stop="20250428123000 +0000">
     <title>Weather AM</title>
@@ -3182,13 +3171,12 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250428104924 +0000" stop="20250428114810 +0000">
-    <title>Europe's Wilderness</title>
-    <sub-title>S01 E03</sub-title>
-    <desc>This popular motif in prehistoric cave paintings, the European Bison is Europe's heaviest land mammal. Weighing in at just under one tonne, it is also Europe's last wild cattle spieces</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489739104_1_20240327T155556737Z_96.jpeg" />
+  <programme channel="CABC23000223U" start="20250428180000 +0000" stop="20250428183000 +0000">
+    <title>Your Weather Today</title>
+    <desc>National and local forecast details for across the country</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_1176632344_0_20250417T122612093Z_52_imageprocessorclient-tvplus-linear-b76dd9bbb-28957.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250428114810 +0000" stop="20250428124305 +0000">
@@ -3270,13 +3258,22 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250428105124 +0000" stop="20250428114248 +0000">
-    <title>Mega Disasters</title>
-    <sub-title>The Next Pompeii?</sub-title>
-    <desc>In 79 AD, Vesuvius destroyed Pompeii  danger to Naples' 3 million residents.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550195698_0_20241102T182337848Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250428174103 +0000" stop="20250428180351 +0000">
+    <title>Hannah Goes to Namibia</title>
+    <sub-title>S01 E05</sub-title>
+    <desc>Hannah Emde meets the most famous big cat researcher in the world. Dr. Laurie Marker is the founder of the Cheetah Conservation Fund (CCF), which has set the global benchmark for cheetah conservation.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489424903_1_20240316T153932409Z_1.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="GBBB5000002PL" start="20250428180351 +0000" stop="20250428183229 +0000">
+    <title>Hannah Goes to Namibia</title>
+    <sub-title>S01 E06</sub-title>
+    <desc>Hannah Emde tries to illuminate the subject of trophy hunting from all sides. She talks to the Khwe chief, villagers and game guards in the Zambezi region.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_490066059_0_20240406T160351318Z_1.jpeg" />
+    <rating>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250428114248 +0000" stop="20250428123413 +0000">
@@ -3337,6 +3334,15 @@
     <title>Mega Disasters</title>
     <sub-title>The Next Pompeii?</sub-title>
     <desc>In 79 AD, Vesuvius destroyed Pompeii  danger to Naples' 3 million residents.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550195698_0_20241102T182337848Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250428174249 +0000" stop="20250428183413 +0000">
+    <title>Mega Disasters</title>
+    <sub-title>Deadly Jet Collision</sub-title>
+    <desc>Crashes like the 1977 Tenerife ruin air travel due to runway incursions.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550195698_0_20241102T182337848Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg" />
     <rating>
       <value>TV-PG</value>
