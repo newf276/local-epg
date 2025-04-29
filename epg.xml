@@ -3032,16 +3032,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250429090000 +0000" stop="20250429123000 +0000">
-    <title>CBC News Morning</title>
-    <desc>Start the day with the latest news in Canada and around the world.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_1220404193_2_20250425T142744328Z_35_imageprocessorclient-tvplus-linear-b76dd9bbb-8k29c.jpeg" />
-  </programme>
-  <programme channel="CA4600003GV" start="20250429123000 +0000" stop="20250429130000 +0000">
-    <title>Newfoundland &amp; Labrador Now</title>
-    <desc>News, investigations and community stories in NL and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250429130000 +0000" stop="20250429133000 +0000">
     <title>Newfoundland &amp; Labrador Now</title>
     <desc>News, investigations and community stories in NL and beyond.</desc>
@@ -3097,22 +3087,15 @@
     <desc>News, investigations and community stories in NL and beyond.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250429120000 +0000" stop="20250429123000 +0000">
-    <title>Weather AM</title>
-    <desc>Get your local forecast and weather headlines from right here in Canada, and around the globe.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_539709218_0_20240321T153330644Z_1.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250429183000 +0000" stop="20250429190000 +0000">
+    <title>Newfoundland &amp; Labrador Now</title>
+    <desc>News, investigations and community stories in NL and beyond.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250429123000 +0000" stop="20250429130000 +0000">
-    <title>Experiencing Canada</title>
-    <sub-title>Nova Scotia</sub-title>
-    <desc>Join Nathan in Nova Scotia to uncover the surf, sail the Bluenose II, and savor fresh oysters and lobster.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534079374_0_20231018T132748962Z_1.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250429190000 +0000" stop="20250429193000 +0000">
+    <title>Newfoundland &amp; Labrador Now</title>
+    <desc>News, investigations and community stories in NL and beyond.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250429130000 +0000" stop="20250429133000 +0000">
     <title>Weather AM</title>
@@ -3188,12 +3171,20 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250429115253 +0000" stop="20250429124639 +0000">
-    <title>Fighting for a Mate</title>
-    <desc>Animals face daily battles to protect themselves and secure the resources they need to survive. Every battle is a trade-off between the risk to health and the prizes awarded to the victors. Each animal fights with a unique set of tools, from display structures and elaborate body language to claws, jaws and antlers. And few fights are as fuelled as those during breeding season  the ultimate trophy for the brave fighter is, of course, a chance to pass on the fighting genes to the next generation.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_751784343_0_20250327T152205865Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-wzgbv.jpeg" />
+  <programme channel="CABC23000223U" start="20250429183000 +0000" stop="20250429190000 +0000">
+    <title>Force of Nature Rewind</title>
+    <desc>Wild and viral weather footage from across Canada and around the world</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="CABC23000223U" start="20250429190000 +0000" stop="20250429193000 +0000">
+    <title>Your Weather Today</title>
+    <desc>National and local forecast details for across the country</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_1176632344_0_20250417T122612093Z_52_imageprocessorclient-tvplus-linear-b76dd9bbb-28957.jpeg" />
+    <rating>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250429124639 +0000" stop="20250429134456 +0000">
@@ -3256,13 +3247,12 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250429114213 +0000" stop="20250429123252 +0000">
-    <title>The Universe</title>
-    <sub-title>Deadly Comets and Meteors</sub-title>
-    <desc>Celestial forces prowl the Universe and threaten man's very existence.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550122911_0_20241101T142907529Z_96_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250429183451 +0000" stop="20250429192945 +0000">
+    <title>The Magic of the Mangroves</title>
+    <desc>Mangroves are one of the most important habitats on Earth, vital to many of the planet's most extraordinary, wonderful and endangered species. Everything from shorebirds and sharks to monkeys and manatees rely on mangroves. And although we tend to view them as a mess of tangled roots, mosquitoes and mud, they're also crucial for safeguarding the well-being of humans. Once we start explore this unique landscape there's no doubt that we will be just as enchanted as wildlife by the magic of mangroves.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_753688096_0_20250328T091949384Z_18_imageprocessorclient-tvplus-linear-6fb5b47f79-wzgbv.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250429123252 +0000" stop="20250429132333 +0000">
@@ -3323,6 +3313,15 @@
     <title>The Universe</title>
     <sub-title>Deadly Comets and Meteors</sub-title>
     <desc>Celestial forces prowl the Universe and threaten man's very existence.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550122911_0_20241101T142907529Z_96_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250429183253 +0000" stop="20250429192334 +0000">
+    <title>The Universe</title>
+    <sub-title>Biggest Things in Space</sub-title>
+    <desc>We can't compare anything on earth to the biggest things known in space.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550122911_0_20241101T142907529Z_96_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
     <rating>
       <value>TV-PG</value>
