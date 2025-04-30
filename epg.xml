@@ -1726,6 +1726,10 @@
     <display-name>Space Science Now</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/fc5addbc-5229-419a-b24f-c518d53739e3/SSNow_Plex_Logo-Light.png" />
   </channel>
+  <channel id="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84">
+    <display-name>MagellanTV NOW</display-name>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/a6682e77-715d-4766-9ae4-aaf5c1e8c6a9/magellantv_1_color_logo.png" />
+  </channel>
   <channel id="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11">
     <display-name>Evolution Earth</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/31571b22-1399-4d51-b979-a4600bb449ed/Evolution_Earth_WHITE_Logo_RDX.png" />
@@ -2737,6 +2741,205 @@
     <category>Movie</category>
     <desc>This film shows how collected evidence revolutionized our understanding of the origin of the solar system.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRN2P7QFPGXL0VGL_2_3.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250430192319 +0000" stop="20250430202734 +0000">
+    <title>The Lost Island of Madre de Dios</title>
+    <category>Movie</category>
+    <desc>Watch divers, geologists, and biologists face extreme conditions to study this unexplored Antarctic land.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU1719AEVLU6PRM_2_3.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250430202734 +0000" stop="20250430213149 +0000">
+    <title>Shark Cinema Science</title>
+    <category>Movie</category>
+    <desc>This underseas journey explores advanced shark research worldwide with acclaimed filmmaker Andy Casagrande.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171CITKJ78Q9C_2_3.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250430213149 +0000" stop="20250430220355 +0000">
+    <title>Herders: The Ancient Tradition Lives On</title>
+    <sub-title>A Shepherd in Eastern Germany</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Every year, a master shepherd takes 200 black-headed sheep through the middle of the German capital of Berlin.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171AG3KB8M81L_16_9.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250430220355 +0000" stop="20250430223549 +0000">
+    <title>Herders: The Ancient Tradition Lives On</title>
+    <sub-title>Kyrgystan's Pastoralists On The Move</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>In Kyrgyzstan, herders drive their herds into the mountains to pastures at nearly 2,500 meters (8,000 feet).</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171AG3KB8M81L_16_9.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250430223549 +0000" stop="20250430230755 +0000">
+    <title>Herders: The Ancient Tradition Lives On</title>
+    <sub-title>Cowherds of the Savannah</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>In northeastern Uganda, a herder finds that a disease affecting cattle threatens his livelihood.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171AG3KB8M81L_16_9.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250430230755 +0000" stop="20250430233944 +0000">
+    <title>Herders: The Ancient Tradition Lives On</title>
+    <sub-title>The Camel Herders of Rajasthan</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>A Raika camel herd has scattered throughout the dry forest of the Rajasthan land in northwest India.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171AG3KB8M81L_16_9.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250430233944 +0000" stop="20250501001146 +0000">
+    <title>Herders: The Ancient Tradition Lives On</title>
+    <sub-title>Living with Alpacas in the Peruvian Andes</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>The rapidly changing climate threatens the way of life for an alpaca herder in the high Andes of Peru.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171AG3KB8M81L_16_9.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250501001146 +0000" stop="20250501011356 +0000">
+    <title>Africa's Deadly Kingdom</title>
+    <sub-title>Kalahari</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>The Kalahari: a thirsty land where brief rains spark vibrant life, soon reclaimed by the desert.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/MHY11D9N2QJ9W8KFA2C9TW_16_9.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250501011356 +0000" stop="20250501021607 +0000">
+    <title>Africa's Deadly Kingdom</title>
+    <sub-title>Reefs</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Africa’s southern coral reefs are vibrant and dynamic worlds in which remarkable creatures that live.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/MHY11D9N2QJ9W8KFA2C9TW_16_9.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250501021607 +0000" stop="20250501031819 +0000">
+    <title>Africa's Deadly Kingdom</title>
+    <sub-title>Grass Plains</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Africa's vast grasslands host epic wildlife gatherings, where survival depends on adapting to seasons.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/MHY11D9N2QJ9W8KFA2C9TW_16_9.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250501031819 +0000" stop="20250501042029 +0000">
+    <title>Africa's Deadly Kingdom</title>
+    <sub-title>Coastlines</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>See how the inhabitants of South Africa's beautiful but volatile West Coast continually adapt to survive.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/MHY11D9N2QJ9W8KFA2C9TW_16_9.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250501042029 +0000" stop="20250501052314 +0000">
+    <title>Saved From Extinction</title>
+    <sub-title>Horses in Search of a King</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>A genetic anomaly threatens Przewalski’s wild horses. Can this rare species be saved from extinction?</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/JE96NYKYDMKRQBSS98ORX5_16_9.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250501052314 +0000" stop="20250501062323 +0000">
+    <title>Saved From Extinction</title>
+    <sub-title>Tamarins Under Siege</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Golden Lion Tamarins narrowly escaped extinction in the 1970s, but will a new intruder spell the end?</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/JE96NYKYDMKRQBSS98ORX5_16_9.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250501062323 +0000" stop="20250501072634 +0000">
+    <title>Saved From Extinction</title>
+    <sub-title>The Turtle Who Came Out of Nowhere</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Scientists are approached by a previously undiscovered species of turtle. Does this new animal pose a threat?</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/JE96NYKYDMKRQBSS98ORX5_16_9.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250501072634 +0000" stop="20250501082846 +0000">
+    <title>Saved From Extinction</title>
+    <sub-title>Oryx Evacuees</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>The oryx has been all but annihilated. Are these rare animals destined for extinction?</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/JE96NYKYDMKRQBSS98ORX5_16_9.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250501082846 +0000" stop="20250501093301 +0000">
+    <title>The Lost Island of Madre de Dios</title>
+    <category>Movie</category>
+    <desc>Watch divers, geologists, and biologists face extreme conditions to study this unexplored Antarctic land.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU1719AEVLU6PRM_2_3.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250501093301 +0000" stop="20250501103716 +0000">
+    <title>Shark Cinema Science</title>
+    <category>Movie</category>
+    <desc>This underseas journey explores advanced shark research worldwide with acclaimed filmmaker Andy Casagrande.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171CITKJ78Q9C_2_3.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250501103716 +0000" stop="20250501110922 +0000">
+    <title>Herders: The Ancient Tradition Lives On</title>
+    <sub-title>A Shepherd in Eastern Germany</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Every year, a master shepherd takes 200 black-headed sheep through the middle of the German capital of Berlin.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171AG3KB8M81L_16_9.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250501110922 +0000" stop="20250501114116 +0000">
+    <title>Herders: The Ancient Tradition Lives On</title>
+    <sub-title>Kyrgystan's Pastoralists On The Move</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>In Kyrgyzstan, herders drive their herds into the mountains to pastures at nearly 2,500 meters (8,000 feet).</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171AG3KB8M81L_16_9.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250501114116 +0000" stop="20250501121322 +0000">
+    <title>Herders: The Ancient Tradition Lives On</title>
+    <sub-title>Cowherds of the Savannah</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>In northeastern Uganda, a herder finds that a disease affecting cattle threatens his livelihood.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171AG3KB8M81L_16_9.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250501121322 +0000" stop="20250501124511 +0000">
+    <title>Herders: The Ancient Tradition Lives On</title>
+    <sub-title>The Camel Herders of Rajasthan</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>A Raika camel herd has scattered throughout the dry forest of the Rajasthan land in northwest India.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171AG3KB8M81L_16_9.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250501124511 +0000" stop="20250501131713 +0000">
+    <title>Herders: The Ancient Tradition Lives On</title>
+    <sub-title>Living with Alpacas in the Peruvian Andes</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>The rapidly changing climate threatens the way of life for an alpaca herder in the high Andes of Peru.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171AG3KB8M81L_16_9.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250501131713 +0000" stop="20250501141923 +0000">
+    <title>Africa's Deadly Kingdom</title>
+    <sub-title>Kalahari</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>The Kalahari: a thirsty land where brief rains spark vibrant life, soon reclaimed by the desert.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/MHY11D9N2QJ9W8KFA2C9TW_16_9.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250501141923 +0000" stop="20250501152134 +0000">
+    <title>Africa's Deadly Kingdom</title>
+    <sub-title>Reefs</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Africa’s southern coral reefs are vibrant and dynamic worlds in which remarkable creatures that live.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/MHY11D9N2QJ9W8KFA2C9TW_16_9.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250501152134 +0000" stop="20250501162346 +0000">
+    <title>Africa's Deadly Kingdom</title>
+    <sub-title>Grass Plains</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Africa's vast grasslands host epic wildlife gatherings, where survival depends on adapting to seasons.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/MHY11D9N2QJ9W8KFA2C9TW_16_9.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250501162346 +0000" stop="20250501172556 +0000">
+    <title>Africa's Deadly Kingdom</title>
+    <sub-title>Coastlines</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>See how the inhabitants of South Africa's beautiful but volatile West Coast continually adapt to survive.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/MHY11D9N2QJ9W8KFA2C9TW_16_9.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250501172556 +0000" stop="20250501182841 +0000">
+    <title>Saved From Extinction</title>
+    <sub-title>Horses in Search of a King</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>A genetic anomaly threatens Przewalski’s wild horses. Can this rare species be saved from extinction?</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/JE96NYKYDMKRQBSS98ORX5_16_9.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250501182841 +0000" stop="20250501192850 +0000">
+    <title>Saved From Extinction</title>
+    <sub-title>Tamarins Under Siege</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Golden Lion Tamarins narrowly escaped extinction in the 1970s, but will a new intruder spell the end?</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/JE96NYKYDMKRQBSS98ORX5_16_9.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250501192850 +0000" stop="20250501203201 +0000">
+    <title>Saved From Extinction</title>
+    <sub-title>The Turtle Who Came Out of Nowhere</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Scientists are approached by a previously undiscovered species of turtle. Does this new animal pose a threat?</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/JE96NYKYDMKRQBSS98ORX5_16_9.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250430200000 +0000" stop="20250430210000 +0000">
     <title>Evolution Earth</title>
