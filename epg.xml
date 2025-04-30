@@ -3188,11 +3188,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250430090000 +0000" stop="20250430093000 +0000">
-    <title>CBC News NL</title>
-    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250430093000 +0000" stop="20250430103000 +0000">
     <title>The National</title>
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
@@ -3243,21 +3238,15 @@
     <desc>Andrew Chang expands our understanding of the stories everybody's talking about.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515038_0_20240529T053048695Z_102.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250430090000 +0000" stop="20250430093000 +0000">
-    <title>Dream In Colour</title>
-    <desc>Get lost in the breathtaking beauty of Canadian and international landscapes</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124152_0_20231019T012929571Z_80.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250430153000 +0000" stop="20250430160000 +0000">
+    <title>The Breakdown</title>
+    <desc>Make sense of your world with original reporting that breaks down the world's biggest news stories.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542759671_0_20240603T112659311Z_21.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250430093000 +0000" stop="20250430100000 +0000">
-    <title>Dream In Colour</title>
-    <desc>Get lost in the breathtaking beauty of Canadian and international landscapes</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124152_0_20231019T012929571Z_80.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250430160000 +0000" stop="20250430163000 +0000">
+    <title>Newfoundland &amp; Labrador Now</title>
+    <desc>News, investigations and community stories in NL and beyond.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250430100000 +0000" stop="20250430103000 +0000">
     <title>Weather AM</title>
@@ -3347,13 +3336,21 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250430085352 +0000" stop="20250430095215 +0000">
-    <title>Europe's Wilderness</title>
-    <sub-title>S01 E06</sub-title>
-    <desc>The Wolverin is a heavy weight and loner of the vast, coniferous forests, moors and mountains. Resemblying a bear rather than a marten in physique, it can grow up to 1 meter in length and can bring down a young moose with his teeth.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489826940_0_20240330T155555826Z_18.jpeg" />
+  <programme channel="CABC23000223U" start="20250430153000 +0000" stop="20250430160000 +0000">
+    <title>Force of Nature Rewind</title>
+    <desc>Wild and viral weather footage from across Canada and around the world</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="CABC23000223U" start="20250430160000 +0000" stop="20250430170000 +0000">
+    <title>Survivorman</title>
+    <sub-title>Malaysia Sea Gypsies</sub-title>
+    <desc>Les will attempt to survive in an area of the world where sea urchins rule the ocean floor.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534285350_0_20231024T163742475Z_50.jpeg" />
+    <rating>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250430095215 +0000" stop="20250430102531 +0000">
@@ -3417,13 +3414,21 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250430090718 +0000" stop="20250430100000 +0000">
-    <title>The Universe</title>
-    <sub-title>The Outer Planets</sub-title>
-    <desc>New discoveries are creating a fundamental rethinking of our solar system.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550122911_0_20241101T142907529Z_96_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250430151746 +0000" stop="20250430155102 +0000">
+    <title>Kalahari Meerkats</title>
+    <sub-title>Kalahari Meerkats S02 E06</sub-title>
+    <desc>Finally the two rival gangs meet and a big battle ensues. The Gosa Gang are on their way home from the Whispering Forest and bump into their bitter enemies head on. In an attempt to get past them and move over the mountain a full on war breaks out</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_491051744_0_20240501T152702041Z_121.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="GBBB5000002PL" start="20250430155102 +0000" stop="20250430164604 +0000">
+    <title>Nuts about Squirrels</title>
+    <desc>Squirrels have conquered tundra, deserts, forests and more, developing ingenious life skills along the way, from stashing nuts to fighting snakes.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489395991_2_20240315T170238208Z_159.jpeg" />
+    <rating>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250430100000 +0000" stop="20250430105122 +0000">
@@ -3485,6 +3490,15 @@
     <sub-title>Depths of Destruction</sub-title>
     <desc>Underground world suffers in Life After People  plants buckle, NORAD attacked.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550195729_0_20241102T182337723Z_114_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250430155959 +0000" stop="20250430165122 +0000">
+    <title>Evolve</title>
+    <sub-title>Guts</sub-title>
+    <desc>Survival needs guts?digestive systems turn food into fuel universally.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550195695_0_20241102T182337724Z_46_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg" />
     <rating>
       <value>TV-PG</value>
     </rating>
