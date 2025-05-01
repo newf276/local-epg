@@ -3706,16 +3706,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250501180000 +0000" stop="20250501183000 +0000">
-    <title>Newfoundland &amp; Labrador Now</title>
-    <desc>News, investigations and community stories in NL and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
-  <programme channel="CA4600003GV" start="20250501183000 +0000" stop="20250501190000 +0000">
-    <title>Newfoundland &amp; Labrador Now</title>
-    <desc>News, investigations and community stories in NL and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250501190000 +0000" stop="20250501193000 +0000">
     <title>Newfoundland &amp; Labrador Now</title>
     <desc>News, investigations and community stories in NL and beyond.</desc>
@@ -3751,21 +3741,15 @@
     <desc>Carolyn Stokes and Ashley Brauweiler deliver a complete package of local news and weather.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186123_0_20241217T103439666Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250501180000 +0000" stop="20250501183000 +0000">
-    <title>Your Weather Today</title>
-    <desc>National and local forecast details for across the country</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_1176632344_0_20250417T122612093Z_52_imageprocessorclient-tvplus-linear-b76dd9bbb-28957.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250502003000 +0000" stop="20250502010000 +0000">
+    <title>About That</title>
+    <desc>Andrew Chang expands our understanding of the stories everybody's talking about.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515038_0_20240529T053048695Z_102.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250501183000 +0000" stop="20250501190000 +0000">
-    <title>Force of Nature Rewind</title>
-    <desc>Wild and viral weather footage from across Canada and around the world</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250502010000 +0000" stop="20250502020000 +0000">
+    <title>The National</title>
+    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250501190000 +0000" stop="20250501193000 +0000">
     <title>Experiencing Canada</title>
@@ -3861,12 +3845,21 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250501172929 +0000" stop="20250501182501 +0000">
-    <title>Animal Record Breakers</title>
-    <desc>We love to measure aspects of life at its extremes. The biggest, the tallest, even the rarest – some of the most iconic creatures in the natural world. Many are familiar but it's also important to recognise some of the more surprising record breakers.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489739109_0_20240327T155556792Z_76.jpeg" />
+  <programme channel="CABC23000223U" start="20250502003000 +0000" stop="20250502010000 +0000">
+    <title>Out Of This World</title>
+    <sub-title>Mars</sub-title>
+    <desc>The idea of humans on Mars is no longer science fiction. A look at the mission to explore the red planet.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124541_0_20231019T012926059Z_135.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="CABC23000223U" start="20250502010000 +0000" stop="20250502013000 +0000">
+    <title>Force of Nature Rewind</title>
+    <desc>Wild and viral weather footage from across Canada and around the world</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
+    <rating>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250501182501 +0000" stop="20250501192119 +0000">
@@ -3924,6 +3917,15 @@
     <sub-title>King of the Jungle</sub-title>
     <desc>One of the most powerful yet elusive animals on the planet, we follow one male to reveal the secret life of the jaguar.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_809051480_0_20250417T162222867Z_3_imageprocessorclient-tvplus-linear-6fb5b47f79-84mv4.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="GBBB5000002PL" start="20250502004034 +0000" stop="20250502012938 +0000">
+    <title>Wild Madagascar</title>
+    <sub-title>Fantastical Creatures</sub-title>
+    <desc>Breaking off from mainland Africa 160 million years ago, refugee animals cast adrift on natural rafts arrived on the tropical shores of Madagascar.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_809931917_0_20250418T001724598Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-9rknc.jpeg" />
     <rating>
       <value>12</value>
     </rating>
