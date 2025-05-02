@@ -3833,11 +3833,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250502200000 +0000" stop="20250502203000 +0000">
-    <title>The Breakdown</title>
-    <desc>Make sense of your world with original reporting that breaks down the world's biggest news stories.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542759671_0_20240603T112659311Z_21.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250502203000 +0000" stop="20250502213000 +0000">
     <title>CBC News Here and Now</title>
     <desc>Carolyn Stokes and Ashley Brauweiler deliver a complete package of local news and weather.</desc>
@@ -3873,21 +3868,15 @@
     <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250502200000 +0000" stop="20250502203000 +0000">
-    <title>Your Weather Today</title>
-    <desc>National and local forecast details for across the country</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_1176632344_0_20250417T122612093Z_52_imageprocessorclient-tvplus-linear-b76dd9bbb-28957.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250503023000 +0000" stop="20250503030000 +0000">
+    <title>CBC News NL</title>
+    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250502203000 +0000" stop="20250502210000 +0000">
-    <title>Force of Nature Rewind</title>
-    <desc>Wild and viral weather footage from across Canada and around the world</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250503030000 +0000" stop="20250503040000 +0000">
+    <title>The National</title>
+    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250502210000 +0000" stop="20250502213000 +0000">
     <title>Your Weather Today</title>
@@ -3980,21 +3969,12 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250502192722 +0000" stop="20250502202037 +0000">
-    <title>Mind of a Giant</title>
-    <desc>What is it like to be an elephant? This series reveals new research which attempts to answer that question.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_833198910_0_20250426T071758815Z_32_imageprocessorclient-tvplus-linear-6fb5b47f79-gnnmg.jpeg" />
+  <programme channel="CABC23000223U" start="20250503030000 +0000" stop="20250503040000 +0000">
+    <title>What If</title>
+    <desc>Take an epic journey through hypothetical worlds and possibilities.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124161_0_20231019T012929504Z_108.jpeg" />
     <rating>
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="GBBB5000002PL" start="20250502202037 +0000" stop="20250502210940 +0000">
-    <title>Wild Europe</title>
-    <sub-title>A Realm Unvealed</sub-title>
-    <desc>Europe: A land of myriad climates and terrains, within whose boundaries lie some of the most complex and beautiful habitats on the planet. This is Europe  wild and thriving.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_833278322_0_20250426T071758815Z_79_imageprocessorclient-tvplus-linear-6fb5b47f79-gnnmg.jpeg" />
-    <rating>
-      <value>12</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250502210940 +0000" stop="20250502220434 +0000">
@@ -4046,22 +4026,12 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250502192420 +0000" stop="20250502201636 +0000">
-    <title>The Universe</title>
-    <sub-title>The End Of The Earth: Deep Space Threats To Our Planet</sub-title>
-    <desc>NASA's top brass and other scientists are arming themselves.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550122911_0_20241101T142907529Z_96_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250503022819 +0000" stop="20250503031956 +0000">
+    <title>Urban Warriors</title>
+    <desc>As human populations grow, so does our footprint, and more of the natural world is gradually paved over, displacing animals from their natural homes.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_833200223_0_20250426T071758815Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-gnnmg.jpeg" />
     <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme channel="US900001CX" start="20250502201636 +0000" stop="20250502210916 +0000">
-    <title>The Universe</title>
-    <sub-title>Total Eclipse</sub-title>
-    <desc>Total Solar Eclipses are one of the most spectacular phenomena in the heavens.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550122911_0_20241101T142907529Z_96_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
-    <rating>
-      <value>TV-PG</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250502210916 +0000" stop="20250502220000 +0000">
@@ -4113,6 +4083,24 @@
     <title>The Universe</title>
     <sub-title>The End Of The Earth: Deep Space Threats To Our Planet</sub-title>
     <desc>NASA's top brass and other scientists are arming themselves.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550122911_0_20241101T142907529Z_96_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250503021636 +0000" stop="20250503030916 +0000">
+    <title>The Universe</title>
+    <sub-title>Total Eclipse</sub-title>
+    <desc>Total Solar Eclipses are one of the most spectacular phenomena in the heavens.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550122911_0_20241101T142907529Z_96_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250503030916 +0000" stop="20250503040001 +0000">
+    <title>The Universe</title>
+    <sub-title>Cosmic Apocalypse</sub-title>
+    <desc>The Universe as we know it is condemned to death.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550122911_0_20241101T142907529Z_96_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
     <rating>
       <value>TV-PG</value>
