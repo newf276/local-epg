@@ -3879,11 +3879,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250503170000 +0000" stop="20250503180000 +0000">
-    <title>NL Picks a Premier</title>
-    <desc>Special coverage from CBC Newfoundland and Labrador for the provincial liberal leadership convention</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_1261076804_0_20250502T203059456Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-vg5j4.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250503180000 +0000" stop="20250503183000 +0000">
     <title>About That</title>
     <desc>Andrew Chang expands our understanding of the stories everybody's talking about.</desc>
@@ -3929,23 +3924,15 @@
     <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250503170000 +0000" stop="20250503173000 +0000">
-    <title>Experiencing Canada</title>
-    <sub-title>Nova Scotia</sub-title>
-    <desc>Join Nathan in Nova Scotia to uncover the surf, sail the Bluenose II, and savor fresh oysters and lobster.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534079374_0_20231018T132748962Z_1.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250503233000 +0000" stop="20250504000000 +0000">
+    <title>CBC News: Atlantic Tonight</title>
+    <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250503173000 +0000" stop="20250503180000 +0000">
-    <title>Experiencing Canada</title>
-    <sub-title>Quebec</sub-title>
-    <desc>In Quebec, Nathan kayaks the Saguenay Fjord, unwinds at a distillery, and hunts for quartz crystals.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534079374_0_20231018T132748962Z_1.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250504000000 +0000" stop="20250504003000 +0000">
+    <title>CBC News: Atlantic Tonight</title>
+    <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250503180000 +0000" stop="20250503183000 +0000">
     <title>Force of Nature Rewind</title>
@@ -4021,12 +4008,20 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250503165744 +0000" stop="20250503175416 +0000">
-    <title>Monkey Mayhem</title>
-    <desc>Monkeys: loveable, aggressive, diverse and full of mischief. Our distant cousins have much in common with us. They're intelligent, cooperative and have complex relationships. They're some of the most evolutionary successful species on the planet, successful across the globe from Japanese snow monkeys to African baboons. Swinging through our family tree quickly reveals the diversity of our monkey relatives. They come in all shapes and sizes, and are certainly not as different from us as we might think.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_485221451_0_20231013T023057605Z_1.jpeg" />
+  <programme channel="CABC23000223U" start="20250503233000 +0000" stop="20250504000000 +0000">
+    <title>Force of Nature Rewind</title>
+    <desc>Wild and viral weather footage from across Canada and around the world</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
     <rating>
-      <value>NA</value>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="CABC23000223U" start="20250504000000 +0000" stop="20250504003000 +0000">
+    <title>Force of Nature Rewind</title>
+    <desc>Wild and viral weather footage from across Canada and around the world</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
+    <rating>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250503175416 +0000" stop="20250503184710 +0000">
@@ -4079,13 +4074,12 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250503165122 +0000" stop="20250503174247 +0000">
-    <title>How The Earth Was Made</title>
-    <sub-title>Loch Ness</sub-title>
-    <desc>This lake holds more water than any other lake in Britain.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550123222_1_20241101T142909803Z_28_imageprocessorclient-tvplus-linear-5dc4fd45f6-xk8kz.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250503232253 +0000" stop="20250504001741 +0000">
+    <title>Hidden Australia</title>
+    <desc>Sometimes called the biggest island on Earth, Australia is a sub-continent of incredible diversity, beauty, danger and downright weirdness. The 4,000km between the coasts are made up of a patchwork of contrasting landscapes: tropical rainforests, snow-capped mountains, dry woodland, giant wetlands, tropical reefs and hostile desert. These vast tracts of wilderness boast the world's most unique and bizarre wildlife communities. In this ‘hidden' Australia, there is an astonishing surprise at every turn.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_485221451_0_20231013T023057605Z_1.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>NA</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250503174247 +0000" stop="20250503183251 +0000">
@@ -4146,6 +4140,15 @@
     <title>How The Earth Was Made</title>
     <sub-title>Loch Ness</sub-title>
     <desc>This lake holds more water than any other lake in Britain.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550123222_1_20241101T142909803Z_28_imageprocessorclient-tvplus-linear-5dc4fd45f6-xk8kz.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250503234248 +0000" stop="20250504003251 +0000">
+    <title>How The Earth Was Made</title>
+    <sub-title>The Deepest Place on Earth</sub-title>
+    <desc>The Marianas Trench is the deepest place on earth.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550123222_1_20241101T142909803Z_28_imageprocessorclient-tvplus-linear-5dc4fd45f6-xk8kz.jpeg" />
     <rating>
       <value>TV-PG</value>
