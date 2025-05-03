@@ -3870,11 +3870,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250503200000 +0000" stop="20250503203000 +0000">
-    <title>Documentary</title>
-    <desc>Features some of the best documentary work done by the CBC in the last 50 years.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186118_0_20241217T103439312Z_124_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250503203000 +0000" stop="20250503213000 +0000">
     <title>This Week's Top Stories</title>
     <desc>The big stories that made news across Canada and the world this week.</desc>
@@ -3930,13 +3925,15 @@
     <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250503200000 +0000" stop="20250503210000 +0000">
-    <title>What If</title>
-    <desc>Take an epic journey through hypothetical worlds and possibilities.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124161_0_20231019T012929504Z_108.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250504023000 +0000" stop="20250504030000 +0000">
+    <title>CBC News: Atlantic Tonight</title>
+    <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
+  </programme>
+  <programme channel="CA4600003GV" start="20250504030000 +0000" stop="20250504033000 +0000">
+    <title>CBC News: Atlantic Tonight</title>
+    <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250503210000 +0000" stop="20250503213000 +0000">
     <title>How To Survive</title>
@@ -4014,13 +4011,12 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250503194158 +0000" stop="20250503203825 +0000">
-    <title>Wild and Alive</title>
-    <sub-title>Wild and Alive S01 E01</sub-title>
-    <desc>Five critically endangered African species find protection in one modest haven - De Hoop Nature reserve is not only a World heritage Site its's also incredibly important for the survival of these iconic animal.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_492427152_0_20240514T143132785Z_71.jpeg" />
+  <programme channel="CABC23000223U" start="20250504030000 +0000" stop="20250504040000 +0000">
+    <title>What If</title>
+    <desc>Take an epic journey through hypothetical worlds and possibilities.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124161_0_20231019T012929504Z_108.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250503203825 +0000" stop="20250503213327 +0000">
@@ -4082,22 +4078,12 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250503192327 +0000" stop="20250503201642 +0000">
-    <title>How The Earth Was Made</title>
-    <sub-title>America's Gold</sub-title>
-    <desc>Gold originates from our solar system's supernova, concentrated on Earth.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550123222_1_20241101T142909803Z_28_imageprocessorclient-tvplus-linear-5dc4fd45f6-xk8kz.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250504030543 +0000" stop="20250504035837 +0000">
+    <title>Cheetah: Beating the Odds</title>
+    <desc>A cheetah raises her young family on the vast expanse of the Serengeti. If her cubs are going to survive, she'll have to overcome a barrage of challenges. Lions, gangsters of the plains, are quick to throw their muscle around, whilst hyenas and jackals attempt to steal anything the cheetah manage to kill. The cheetah will have to learn the hunting skills their mother has perfected. Once they've learnt the ropes, they'll make their own way across the plains, establishing territory and having cubs of their own.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_485221451_0_20231013T023057605Z_1.jpeg" />
     <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme channel="US900001CX" start="20250503201642 +0000" stop="20250503210921 +0000">
-    <title>How The Earth Was Made</title>
-    <sub-title>America's Ice Age</sub-title>
-    <desc>Why do we have ice ages and when is the next one due?</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550123222_1_20241101T142909803Z_28_imageprocessorclient-tvplus-linear-5dc4fd45f6-xk8kz.jpeg" />
-    <rating>
-      <value>TV-PG</value>
+      <value>NA</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250503210921 +0000" stop="20250503220001 +0000">
@@ -4149,6 +4135,24 @@
     <title>How The Earth Was Made</title>
     <sub-title>America's Gold</sub-title>
     <desc>Gold originates from our solar system's supernova, concentrated on Earth.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550123222_1_20241101T142909803Z_28_imageprocessorclient-tvplus-linear-5dc4fd45f6-xk8kz.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250504021643 +0000" stop="20250504030922 +0000">
+    <title>How The Earth Was Made</title>
+    <sub-title>America's Ice Age</sub-title>
+    <desc>Why do we have ice ages and when is the next one due?</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550123222_1_20241101T142909803Z_28_imageprocessorclient-tvplus-linear-5dc4fd45f6-xk8kz.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250504030922 +0000" stop="20250504040002 +0000">
+    <title>How The Earth Was Made</title>
+    <sub-title>Ring of Fire</sub-title>
+    <desc>Almost 25,000 miles long, it is one of the most awesome sights on Earth.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550123222_1_20241101T142909803Z_28_imageprocessorclient-tvplus-linear-5dc4fd45f6-xk8kz.jpeg" />
     <rating>
       <value>TV-PG</value>
