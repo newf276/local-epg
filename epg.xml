@@ -3804,16 +3804,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250503073000 +0000" stop="20250503083000 +0000">
-    <title>The National</title>
-    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
-  </programme>
-  <programme channel="CA4600003GV" start="20250503083000 +0000" stop="20250503090000 +0000">
-    <title>CBC News NL</title>
-    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250503090000 +0000" stop="20250503093000 +0000">
     <title>CBC News NL</title>
     <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
@@ -3854,21 +3844,10 @@
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250503080000 +0000" stop="20250503083000 +0000">
-    <title>Dream In Colour</title>
-    <desc>Get lost in the breathtaking beauty of Canadian and international landscapes</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124152_0_20231019T012929571Z_80.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="CABC23000223U" start="20250503083000 +0000" stop="20250503090000 +0000">
-    <title>Dream In Colour</title>
-    <desc>Get lost in the breathtaking beauty of Canadian and international landscapes</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124152_0_20231019T012929571Z_80.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250503143000 +0000" stop="20250503153000 +0000">
+    <title>This Week's Top Stories</title>
+    <desc>The big stories that made news across Canada and the world this week.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550207986_0_20241103T002715072Z_115_imageprocessorclient-tvplus-linear-5dc4fd45f6-kmjnf.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250503090000 +0000" stop="20250503093000 +0000">
     <title>Dream In Colour</title>
@@ -3958,12 +3937,20 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250503074617 +0000" stop="20250503084249 +0000">
-    <title>Monkey Mayhem</title>
-    <desc>Monkeys: loveable, aggressive, diverse and full of mischief. Our distant cousins have much in common with us. They're intelligent, cooperative and have complex relationships. They're some of the most evolutionary successful species on the planet, successful across the globe from Japanese snow monkeys to African baboons. Swinging through our family tree quickly reveals the diversity of our monkey relatives. They come in all shapes and sizes, and are certainly not as different from us as we might think.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_485221451_0_20231013T023057605Z_1.jpeg" />
+  <programme channel="CABC23000223U" start="20250503143000 +0000" stop="20250503150000 +0000">
+    <title>Force of Nature Rewind</title>
+    <desc>Wild and viral weather footage from across Canada and around the world</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
     <rating>
-      <value>NA</value>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="CABC23000223U" start="20250503150000 +0000" stop="20250503153000 +0000">
+    <title>Weather AM</title>
+    <desc>Get your local forecast and weather headlines from right here in Canada, and around the globe.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_539709218_0_20240321T153330644Z_1.jpeg" />
+    <rating>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250503084249 +0000" stop="20250503093543 +0000">
@@ -4016,22 +4003,21 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250503072421 +0000" stop="20250503081637 +0000">
-    <title>The Universe</title>
-    <sub-title>The End Of The Earth: Deep Space Threats To Our Planet</sub-title>
-    <desc>NASA's top brass and other scientists are arming themselves.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550122911_0_20241101T142907529Z_96_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250503141127 +0000" stop="20250503150615 +0000">
+    <title>Hidden Australia</title>
+    <desc>Sometimes called the biggest island on Earth, Australia is a sub-continent of incredible diversity, beauty, danger and downright weirdness. The 4,000km between the coasts are made up of a patchwork of contrasting landscapes: tropical rainforests, snow-capped mountains, dry woodland, giant wetlands, tropical reefs and hostile desert. These vast tracts of wilderness boast the world's most unique and bizarre wildlife communities. In this ‘hidden' Australia, there is an astonishing surprise at every turn.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_485221451_0_20231013T023057605Z_1.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>NA</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250503081637 +0000" stop="20250503090917 +0000">
-    <title>The Universe</title>
-    <sub-title>Total Eclipse</sub-title>
-    <desc>Total Solar Eclipses are one of the most spectacular phenomena in the heavens.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550122911_0_20241101T142907529Z_96_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250503150615 +0000" stop="20250503160242 +0000">
+    <title>Wild and Alive</title>
+    <sub-title>Wild and Alive S01 E01</sub-title>
+    <desc>Five critically endangered African species find protection in one modest haven - De Hoop Nature reserve is not only a World heritage Site its's also incredibly important for the survival of these iconic animal.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_492427152_0_20240514T143132785Z_71.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250503090917 +0000" stop="20250503095959 +0000">
@@ -4083,6 +4069,24 @@
     <title>How The Earth Was Made</title>
     <sub-title>America's Gold</sub-title>
     <desc>Gold originates from our solar system's supernova, concentrated on Earth.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550123222_1_20241101T142909803Z_28_imageprocessorclient-tvplus-linear-5dc4fd45f6-xk8kz.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250503141641 +0000" stop="20250503150921 +0000">
+    <title>How The Earth Was Made</title>
+    <sub-title>America's Ice Age</sub-title>
+    <desc>Why do we have ice ages and when is the next one due?</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550123222_1_20241101T142909803Z_28_imageprocessorclient-tvplus-linear-5dc4fd45f6-xk8kz.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250503150921 +0000" stop="20250503160000 +0000">
+    <title>How The Earth Was Made</title>
+    <sub-title>Ring of Fire</sub-title>
+    <desc>Almost 25,000 miles long, it is one of the most awesome sights on Earth.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550123222_1_20241101T142909803Z_28_imageprocessorclient-tvplus-linear-5dc4fd45f6-xk8kz.jpeg" />
     <rating>
       <value>TV-PG</value>
