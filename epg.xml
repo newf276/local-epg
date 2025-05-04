@@ -3787,16 +3787,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250504080000 +0000" stop="20250504083000 +0000">
-    <title>CBC News: Atlantic Tonight</title>
-    <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
-  <programme channel="CA4600003GV" start="20250504083000 +0000" stop="20250504090000 +0000">
-    <title>CBC News: Atlantic Tonight</title>
-    <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250504090000 +0000" stop="20250504093000 +0000">
     <title>CBC News: Atlantic Tonight</title>
     <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
@@ -3852,21 +3842,15 @@
     <desc>Andrew Chang expands our understanding of the stories everybody's talking about.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515038_0_20240529T053048695Z_102.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250504080000 +0000" stop="20250504083000 +0000">
-    <title>Dream In Colour</title>
-    <desc>Get lost in the breathtaking beauty of Canadian and international landscapes</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124152_0_20231019T012929571Z_80.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250504143000 +0000" stop="20250504150000 +0000">
+    <title>About That</title>
+    <desc>Andrew Chang expands our understanding of the stories everybody's talking about.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515038_0_20240529T053048695Z_102.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250504083000 +0000" stop="20250504090000 +0000">
-    <title>Dream In Colour</title>
-    <desc>Get lost in the breathtaking beauty of Canadian and international landscapes</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124152_0_20231019T012929571Z_80.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250504150000 +0000" stop="20250504160000 +0000">
+    <title>This Week's Top Stories</title>
+    <desc>The big stories that made news across Canada and the world this week.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550207986_0_20241103T002715072Z_115_imageprocessorclient-tvplus-linear-5dc4fd45f6-kmjnf.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250504090000 +0000" stop="20250504093000 +0000">
     <title>Dream In Colour</title>
@@ -3956,13 +3940,20 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250504075034 +0000" stop="20250504084359 +0000">
-    <title>Seals</title>
-    <sub-title>Clowns of the Sea</sub-title>
-    <desc>Life is rarely easy for seals, and yet all over the world they consistently rise to the challenge – and always have fun doing it.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_490395458_0_20240415T155328639Z_67.jpeg" />
+  <programme channel="CABC23000223U" start="20250504143000 +0000" stop="20250504150000 +0000">
+    <title>Force of Nature Rewind</title>
+    <desc>Wild and viral weather footage from across Canada and around the world</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="CABC23000223U" start="20250504150000 +0000" stop="20250504153000 +0000">
+    <title>Weather AM</title>
+    <desc>Get your local forecast and weather headlines from right here in Canada, and around the globe.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_539709218_0_20240321T153330644Z_1.jpeg" />
+    <rating>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250504084359 +0000" stop="20250504093852 +0000">
@@ -4016,22 +4007,12 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250504072329 +0000" stop="20250504081643 +0000">
-    <title>How The Earth Was Made</title>
-    <sub-title>America's Gold</sub-title>
-    <desc>Gold originates from our solar system's supernova, concentrated on Earth.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550123222_1_20241101T142909803Z_28_imageprocessorclient-tvplus-linear-5dc4fd45f6-xk8kz.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250504141744 +0000" stop="20250504151414 +0000">
+    <title>Hidden Spain</title>
+    <desc>Spain is found at the crossroads between the Mediterranean and the Atlantic, resulting in diverse landscapes, ancient cultures and magnificent wildlife.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_751771740_0_20250327T152205865Z_30_imageprocessorclient-tvplus-linear-6fb5b47f79-wzgbv.jpeg" />
     <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme channel="US900001CX" start="20250504081643 +0000" stop="20250504090923 +0000">
-    <title>How The Earth Was Made</title>
-    <sub-title>America's Ice Age</sub-title>
-    <desc>Why do we have ice ages and when is the next one due?</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550123222_1_20241101T142909803Z_28_imageprocessorclient-tvplus-linear-5dc4fd45f6-xk8kz.jpeg" />
-    <rating>
-      <value>TV-PG</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250504090923 +0000" stop="20250504100000 +0000">
@@ -4083,6 +4064,24 @@
     <title>The Universe</title>
     <sub-title>Asteroid Attack</sub-title>
     <desc>What are the latest discoveries in the deadly world of asteroids?</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550122911_0_20241101T142907529Z_96_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250504141840 +0000" stop="20250504150919 +0000">
+    <title>The Universe</title>
+    <sub-title>Saturn: Lord Of The Rings</sub-title>
+    <desc>Are the rings of Saturn a real celestial phenomenon or merely a cosmic Illusion?</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550122911_0_20241101T142907529Z_96_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250504150919 +0000" stop="20250504160000 +0000">
+    <title>The Universe</title>
+    <sub-title>Alien Faces</sub-title>
+    <desc>Scientists and astronomers create five lines of extraterrestrial evolution.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550122911_0_20241101T142907529Z_96_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
     <rating>
       <value>TV-PG</value>
