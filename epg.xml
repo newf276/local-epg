@@ -3769,16 +3769,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250504140000 +0000" stop="20250504143000 +0000">
-    <title>About That</title>
-    <desc>Andrew Chang expands our understanding of the stories everybody's talking about.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515038_0_20240529T053048695Z_102.jpeg" />
-  </programme>
-  <programme channel="CA4600003GV" start="20250504143000 +0000" stop="20250504150000 +0000">
-    <title>About That</title>
-    <desc>Andrew Chang expands our understanding of the stories everybody's talking about.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515038_0_20240529T053048695Z_102.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250504150000 +0000" stop="20250504160000 +0000">
     <title>This Week's Top Stories</title>
     <desc>The big stories that made news across Canada and the world this week.</desc>
@@ -3818,22 +3808,6 @@
     <title>Cross Country Check Up</title>
     <desc>Cross Country Checkup is Canada's only national phone-in show, broadcasting live from coast to coast to coast.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_551966561_0_20241129T142758403Z_104_imageprocessorclient-tvplus-linear-5dc4fd45f6-5r449.jpeg" />
-  </programme>
-  <programme channel="CABC23000223U" start="20250504140000 +0000" stop="20250504143000 +0000">
-    <title>Weather AM</title>
-    <desc>Get your local forecast and weather headlines from right here in Canada, and around the globe.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_539709218_0_20240321T153330644Z_1.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="CABC23000223U" start="20250504143000 +0000" stop="20250504150000 +0000">
-    <title>Force of Nature Rewind</title>
-    <desc>Wild and viral weather footage from across Canada and around the world</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
   </programme>
   <programme channel="CABC23000223U" start="20250504150000 +0000" stop="20250504153000 +0000">
     <title>Weather AM</title>
@@ -3909,12 +3883,12 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250504132251 +0000" stop="20250504141744 +0000">
-    <title>Mind of a Giant</title>
-    <desc>What is it like to be an elephant? This series reveals new research which attempts to answer that question.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_833198910_0_20250426T071758815Z_32_imageprocessorclient-tvplus-linear-6fb5b47f79-gnnmg.jpeg" />
+  <programme channel="CABC23000223U" start="20250504210000 +0000" stop="20250504213000 +0000">
+    <title>Crazy Creatures</title>
+    <desc>Evolution has crafted some of the strangest beings you can imagine, and it's all been done for a reason.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124637_0_20231019T012929406Z_99.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250504141744 +0000" stop="20250504151414 +0000">
@@ -3977,22 +3951,13 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250504132636 +0000" stop="20250504141840 +0000">
-    <title>The Universe</title>
-    <sub-title>Asteroid Attack</sub-title>
-    <desc>What are the latest discoveries in the deadly world of asteroids?</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550122911_0_20241101T142907529Z_96_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250504204938 +0000" stop="20250504214710 +0000">
+    <title>Wild and Alive</title>
+    <sub-title>S01 E04</sub-title>
+    <desc>On the savannah of southern Africa, rains have turned the land green and lush. It's the time of plenty and for the cast of wild characters here, cashing in is priority number one.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_492670777_1_20240516T144521013Z_133.jpeg" />
     <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme channel="US900001CX" start="20250504141840 +0000" stop="20250504150919 +0000">
-    <title>The Universe</title>
-    <sub-title>Saturn: Lord Of The Rings</sub-title>
-    <desc>Are the rings of Saturn a real celestial phenomenon or merely a cosmic Illusion?</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550122911_0_20241101T142907529Z_96_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
-    <rating>
-      <value>TV-PG</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250504150919 +0000" stop="20250504160000 +0000">
@@ -4044,6 +4009,24 @@
     <title>The Universe</title>
     <sub-title>Asteroid Attack</sub-title>
     <desc>What are the latest discoveries in the deadly world of asteroids?</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550122911_0_20241101T142907529Z_96_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250504201840 +0000" stop="20250504210920 +0000">
+    <title>The Universe</title>
+    <sub-title>Saturn: Lord Of The Rings</sub-title>
+    <desc>Are the rings of Saturn a real celestial phenomenon or merely a cosmic Illusion?</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550122911_0_20241101T142907529Z_96_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250504210920 +0000" stop="20250504220001 +0000">
+    <title>The Universe</title>
+    <sub-title>Alien Faces</sub-title>
+    <desc>Scientists and astronomers create five lines of extraterrestrial evolution.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550122911_0_20241101T142907529Z_96_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
     <rating>
       <value>TV-PG</value>
