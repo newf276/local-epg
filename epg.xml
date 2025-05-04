@@ -3628,13 +3628,15 @@
     <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250504200000 +0000" stop="20250504210000 +0000">
-    <title>What If</title>
-    <desc>Take an epic journey through hypothetical worlds and possibilities.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124161_0_20231019T012929504Z_108.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250505023000 +0000" stop="20250505030000 +0000">
+    <title>CBC News: Atlantic Tonight</title>
+    <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
+  </programme>
+  <programme channel="CA4600003GV" start="20250505030000 +0000" stop="20250505040000 +0000">
+    <title>The National</title>
+    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250504210000 +0000" stop="20250504213000 +0000">
     <title>Crazy Creatures</title>
@@ -3712,13 +3714,12 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250504195306 +0000" stop="20250504204938 +0000">
-    <title>Wild and Alive</title>
-    <sub-title>S01 E03</sub-title>
-    <desc>In the heart of the Ivory Coast a small rural village has a very special resident. The last white rhino in the country sleeps on the village outskirts and feeds on the villagers' crops.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_492552324_0_20240515T150402882Z_1.jpeg" />
+  <programme channel="CABC23000223U" start="20250505030000 +0000" stop="20250505040000 +0000">
+    <title>What If</title>
+    <desc>Take an epic journey through hypothetical worlds and possibilities.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124161_0_20231019T012929504Z_108.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250504204938 +0000" stop="20250504214710 +0000">
@@ -3773,22 +3774,13 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250504192637 +0000" stop="20250504201840 +0000">
-    <title>The Universe</title>
-    <sub-title>Asteroid Attack</sub-title>
-    <desc>What are the latest discoveries in the deadly world of asteroids?</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550122911_0_20241101T142907529Z_96_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250505022246 +0000" stop="20250505031610 +0000">
+    <title>Seals</title>
+    <sub-title>Clowns of the Sea</sub-title>
+    <desc>Life is rarely easy for seals, and yet all over the world they consistently rise to the challenge – and always have fun doing it.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_490395458_0_20240415T155328639Z_67.jpeg" />
     <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme channel="US900001CX" start="20250504201840 +0000" stop="20250504210920 +0000">
-    <title>The Universe</title>
-    <sub-title>Saturn: Lord Of The Rings</sub-title>
-    <desc>Are the rings of Saturn a real celestial phenomenon or merely a cosmic Illusion?</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550122911_0_20241101T142907529Z_96_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
-    <rating>
-      <value>TV-PG</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250504210920 +0000" stop="20250504220001 +0000">
@@ -3840,6 +3832,24 @@
     <title>The Universe</title>
     <sub-title>Asteroid Attack</sub-title>
     <desc>What are the latest discoveries in the deadly world of asteroids?</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550122911_0_20241101T142907529Z_96_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250505021841 +0000" stop="20250505030920 +0000">
+    <title>The Universe</title>
+    <sub-title>Saturn: Lord Of The Rings</sub-title>
+    <desc>Are the rings of Saturn a real celestial phenomenon or merely a cosmic Illusion?</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550122911_0_20241101T142907529Z_96_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250505030920 +0000" stop="20250505040001 +0000">
+    <title>The Universe</title>
+    <sub-title>Alien Faces</sub-title>
+    <desc>Scientists and astronomers create five lines of extraterrestrial evolution.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550122911_0_20241101T142907529Z_96_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
     <rating>
       <value>TV-PG</value>
