@@ -3840,16 +3840,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250504020000 +0000" stop="20250504023000 +0000">
-    <title>CBC News: Atlantic Tonight</title>
-    <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
-  <programme channel="CA4600003GV" start="20250504023000 +0000" stop="20250504030000 +0000">
-    <title>CBC News: Atlantic Tonight</title>
-    <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250504030000 +0000" stop="20250504033000 +0000">
     <title>CBC News: Atlantic Tonight</title>
     <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
@@ -3905,14 +3895,15 @@
     <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250504020000 +0000" stop="20250504030000 +0000">
-    <title>Survivorman</title>
-    <sub-title>High Arctic Inuit</sub-title>
-    <desc>Les witnesses the marriage of Western technology and indigenous knowledge in the face of rapid change.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534285350_0_20231024T163742475Z_50.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250504083000 +0000" stop="20250504090000 +0000">
+    <title>CBC News: Atlantic Tonight</title>
+    <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
+  </programme>
+  <programme channel="CA4600003GV" start="20250504090000 +0000" stop="20250504093000 +0000">
+    <title>CBC News: Atlantic Tonight</title>
+    <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250504030000 +0000" stop="20250504040000 +0000">
     <title>What If</title>
@@ -3979,12 +3970,20 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250504020910 +0000" stop="20250504030543 +0000">
-    <title>Monkey Mayhem</title>
-    <desc>Monkeys: loveable, aggressive, diverse and full of mischief. Our distant cousins have much in common with us. They're intelligent, cooperative and have complex relationships. They're some of the most evolutionary successful species on the planet, successful across the globe from Japanese snow monkeys to African baboons. Swinging through our family tree quickly reveals the diversity of our monkey relatives. They come in all shapes and sizes, and are certainly not as different from us as we might think.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_485221451_0_20231013T023057605Z_1.jpeg" />
+  <programme channel="CABC23000223U" start="20250504083000 +0000" stop="20250504090000 +0000">
+    <title>Dream In Colour</title>
+    <desc>Get lost in the breathtaking beauty of Canadian and international landscapes</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124152_0_20231019T012929571Z_80.jpeg" />
     <rating>
-      <value>NA</value>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="CABC23000223U" start="20250504090000 +0000" stop="20250504093000 +0000">
+    <title>Dream In Colour</title>
+    <desc>Get lost in the breathtaking beauty of Canadian and international landscapes</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124152_0_20231019T012929571Z_80.jpeg" />
+    <rating>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250504030543 +0000" stop="20250504035837 +0000">
@@ -4038,22 +4037,12 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250504012328 +0000" stop="20250504021643 +0000">
-    <title>How The Earth Was Made</title>
-    <sub-title>America's Gold</sub-title>
-    <desc>Gold originates from our solar system's supernova, concentrated on Earth.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550123222_1_20241101T142909803Z_28_imageprocessorclient-tvplus-linear-5dc4fd45f6-xk8kz.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250504084359 +0000" stop="20250504093852 +0000">
+    <title>Mind of a Giant</title>
+    <desc>What is it like to be an elephant? This series reveals new research which attempts to answer that question.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_833198910_0_20250426T071758815Z_32_imageprocessorclient-tvplus-linear-6fb5b47f79-gnnmg.jpeg" />
     <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme channel="US900001CX" start="20250504021643 +0000" stop="20250504030922 +0000">
-    <title>How The Earth Was Made</title>
-    <sub-title>America's Ice Age</sub-title>
-    <desc>Why do we have ice ages and when is the next one due?</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550123222_1_20241101T142909803Z_28_imageprocessorclient-tvplus-linear-5dc4fd45f6-xk8kz.jpeg" />
-    <rating>
-      <value>TV-PG</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250504030922 +0000" stop="20250504040002 +0000">
@@ -4105,6 +4094,24 @@
     <title>How The Earth Was Made</title>
     <sub-title>America's Gold</sub-title>
     <desc>Gold originates from our solar system's supernova, concentrated on Earth.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550123222_1_20241101T142909803Z_28_imageprocessorclient-tvplus-linear-5dc4fd45f6-xk8kz.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250504081643 +0000" stop="20250504090923 +0000">
+    <title>How The Earth Was Made</title>
+    <sub-title>America's Ice Age</sub-title>
+    <desc>Why do we have ice ages and when is the next one due?</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550123222_1_20241101T142909803Z_28_imageprocessorclient-tvplus-linear-5dc4fd45f6-xk8kz.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250504090923 +0000" stop="20250504100000 +0000">
+    <title>How The Earth Was Made</title>
+    <sub-title>Ring of Fire</sub-title>
+    <desc>Almost 25,000 miles long, it is one of the most awesome sights on Earth.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550123222_1_20241101T142909803Z_28_imageprocessorclient-tvplus-linear-5dc4fd45f6-xk8kz.jpeg" />
     <rating>
       <value>TV-PG</value>
