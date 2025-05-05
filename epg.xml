@@ -3340,11 +3340,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250505203000 +0000" stop="20250505213000 +0000">
-    <title>CBC News Here and Now</title>
-    <desc>Carolyn Stokes and Ashley Brauweiler deliver a complete package of local news and weather.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186123_0_20241217T103439666Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250505213000 +0000" stop="20250505223000 +0000">
     <title>CBC News Here and Now</title>
     <desc>Carolyn Stokes and Ashley Brauweiler deliver a complete package of local news and weather.</desc>
@@ -3385,21 +3380,10 @@
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250505210000 +0000" stop="20250505213000 +0000">
-    <title>Your Weather Today</title>
-    <desc>National and local forecast details for across the country</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_1176632344_0_20250417T122612093Z_52_imageprocessorclient-tvplus-linear-b76dd9bbb-28957.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="CABC23000223U" start="20250505213000 +0000" stop="20250505220000 +0000">
-    <title>Force of Nature Rewind</title>
-    <desc>Wild and viral weather footage from across Canada and around the world</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250506040000 +0000" stop="20250506043000 +0000">
+    <title>CBC News NL</title>
+    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250505220000 +0000" stop="20250505223000 +0000">
     <title>Your Weather Today</title>
@@ -3485,13 +3469,12 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250505204951 +0000" stop="20250505213709 +0000">
-    <title>Wild Colombia</title>
-    <sub-title>Lost Eden</sub-title>
-    <desc>Colombia is truly unique. A magical land of wildly diverse landscapes where mirror-like wetlands fringe verdant rainforests, mangroves meander through vast grasslands and snow-capped mountain peaks emerge from misty, jungle-clad slopes. Making it home to a staggering variety of wildlife  an evolutionary paradise and one of the most bio-diverse countries on earth.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_809911629_0_20250418T001724598Z_49_imageprocessorclient-tvplus-linear-6fb5b47f79-9rknc.jpeg" />
+  <programme channel="CABC23000223U" start="20250506040000 +0000" stop="20250506050000 +0000">
+    <title>Crazy Creatures</title>
+    <desc>Evolution has crafted some of the strangest beings you can imagine, and it's all been done for a reason.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124637_0_20231019T012929406Z_99.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250505213709 +0000" stop="20250505222802 +0000">
@@ -3557,13 +3540,13 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250505210836 +0000" stop="20250505220001 +0000">
-    <title>Mega Disasters</title>
-    <sub-title>New York City Hurricane</sub-title>
-    <desc>Exploring impacts and prevention of a Category 3 Hurricane in NYC.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550195698_0_20241102T182337848Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250506034618 +0000" stop="20250506045959 +0000">
+    <title>Destination Wild</title>
+    <sub-title>Wild Islands</sub-title>
+    <desc>Zanzibar is a land of giants. Isolated from mainland Africa these islands harbour some of the most unique animals with many being the largest found anywhere in the world.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_841637977_0_20250429T062556950Z_3_imageprocessorclient-tvplus-linear-6fb5b47f79-sxjm2.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250505220001 +0000" stop="20250505225125 +0000">
@@ -3624,6 +3607,15 @@
     <title>Mega Disasters</title>
     <sub-title>New York City Hurricane</sub-title>
     <desc>Exploring impacts and prevention of a Category 3 Hurricane in NYC.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550195698_0_20241102T182337848Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250506040002 +0000" stop="20250506045126 +0000">
+    <title>Mega Disasters</title>
+    <sub-title>Prehistoric English Superflood</sub-title>
+    <desc>Could the island nation of Great Britain have once been connected to Europe?</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550195698_0_20241102T182337848Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg" />
     <rating>
       <value>TV-PG</value>
