@@ -3235,16 +3235,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250505170000 +0000" stop="20250505173000 +0000">
-    <title>Newfoundland &amp; Labrador Now</title>
-    <desc>News, investigations and community stories in NL and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
-  <programme channel="CA4600003GV" start="20250505173000 +0000" stop="20250505180000 +0000">
-    <title>Newfoundland &amp; Labrador Now</title>
-    <desc>News, investigations and community stories in NL and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250505180000 +0000" stop="20250505183000 +0000">
     <title>Newfoundland &amp; Labrador Now</title>
     <desc>News, investigations and community stories in NL and beyond.</desc>
@@ -3285,13 +3275,10 @@
     <desc>Carolyn Stokes and Ashley Brauweiler deliver a complete package of local news and weather.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186123_0_20241217T103439666Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250505170000 +0000" stop="20250505180000 +0000">
-    <title>What If</title>
-    <desc>Take an epic journey through hypothetical worlds and possibilities.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124161_0_20231019T012929504Z_108.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250505233000 +0000" stop="20250506003000 +0000">
+    <title>CBC News Here and Now</title>
+    <desc>Carolyn Stokes and Ashley Brauweiler deliver a complete package of local news and weather.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186123_0_20241217T103439666Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250505180000 +0000" stop="20250505183000 +0000">
     <title>Your Weather Today</title>
@@ -3382,22 +3369,21 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250505162750 +0000" stop="20250505171508 +0000">
-    <title>Wild Colombia</title>
-    <sub-title>Lost Eden</sub-title>
-    <desc>Colombia is truly unique. A magical land of wildly diverse landscapes where mirror-like wetlands fringe verdant rainforests, mangroves meander through vast grasslands and snow-capped mountain peaks emerge from misty, jungle-clad slopes. Making it home to a staggering variety of wildlife  an evolutionary paradise and one of the most bio-diverse countries on earth.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_809911629_0_20250418T001724598Z_49_imageprocessorclient-tvplus-linear-6fb5b47f79-9rknc.jpeg" />
+  <programme channel="CABC23000223U" start="20250505233000 +0000" stop="20250506000000 +0000">
+    <title>Force of Nature Rewind</title>
+    <desc>Wild and viral weather footage from across Canada and around the world</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250505171508 +0000" stop="20250505180601 +0000">
-    <title>Jaguar</title>
-    <sub-title>King of the Jungle</sub-title>
-    <desc>One of the most powerful yet elusive animals on the planet, we follow one male to reveal the secret life of the jaguar.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_809051480_0_20250417T162222867Z_3_imageprocessorclient-tvplus-linear-6fb5b47f79-84mv4.jpeg" />
+  <programme channel="CABC23000223U" start="20250506000000 +0000" stop="20250506003000 +0000">
+    <title>Power To The People</title>
+    <sub-title>Gull Bay</sub-title>
+    <desc>Gull Bay First Nation found the means to offset their use of diesel power using solar energy</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124211_0_20231019T012926115Z_59.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250505180601 +0000" stop="20250505190217 +0000">
@@ -3454,13 +3440,13 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250505165124 +0000" stop="20250505174249 +0000">
-    <title>Mega Disasters</title>
-    <sub-title>Gamma Ray Burst</sub-title>
-    <desc>Kansas scientists link gamma ray bursts to mass extinction 450M years ago.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550195698_0_20241102T182337848Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250505232418 +0000" stop="20250506002250 +0000">
+    <title>Destination Wild</title>
+    <sub-title>Wild Islands</sub-title>
+    <desc>Zanzibar is a land of giants. Isolated from mainland Africa these islands harbour some of the most unique animals with many being the largest found anywhere in the world.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_841637977_0_20250429T062556950Z_3_imageprocessorclient-tvplus-linear-6fb5b47f79-sxjm2.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250505174249 +0000" stop="20250505183413 +0000">
@@ -3521,6 +3507,15 @@
     <title>Mega Disasters</title>
     <sub-title>Gamma Ray Burst</sub-title>
     <desc>Kansas scientists link gamma ray bursts to mass extinction 450M years ago.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550195698_0_20241102T182337848Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250505234250 +0000" stop="20250506003414 +0000">
+    <title>Mega Disasters</title>
+    <sub-title>Glacier Meltdown</sub-title>
+    <desc>Global meltdown begins as temperatures rise, causing ice melt and rising seas.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550195698_0_20241102T182337848Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg" />
     <rating>
       <value>TV-PG</value>
