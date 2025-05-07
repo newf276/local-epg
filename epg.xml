@@ -3376,16 +3376,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250507113000 +0000" stop="20250507123000 +0000">
-    <title>The National</title>
-    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
-  </programme>
-  <programme channel="CA4600003GV" start="20250507123000 +0000" stop="20250507130000 +0000">
-    <title>Newfoundland &amp; Labrador Now</title>
-    <desc>News, investigations and community stories in NL and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250507130000 +0000" stop="20250507133000 +0000">
     <title>Newfoundland &amp; Labrador Now</title>
     <desc>News, investigations and community stories in NL and beyond.</desc>
@@ -3441,22 +3431,15 @@
     <desc>News, investigations and community stories in NL and beyond.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250507120000 +0000" stop="20250507123000 +0000">
-    <title>Weather AM</title>
-    <desc>Get your local forecast and weather headlines from right here in Canada, and around the globe.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_539709218_0_20240321T153330644Z_1.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250507183000 +0000" stop="20250507190000 +0000">
+    <title>Newfoundland &amp; Labrador Now</title>
+    <desc>News, investigations and community stories in NL and beyond.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250507123000 +0000" stop="20250507130000 +0000">
-    <title>Experiencing Canada</title>
-    <sub-title>B.C.</sub-title>
-    <desc>Discover British Columbia with Nathan as he cycles, tastes local wines, and explores the Osoyoos Desert.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534079374_0_20231018T132748962Z_1.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250507190000 +0000" stop="20250507193000 +0000">
+    <title>Newfoundland &amp; Labrador Now</title>
+    <desc>News, investigations and community stories in NL and beyond.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250507130000 +0000" stop="20250507133000 +0000">
     <title>Weather AM</title>
@@ -3533,13 +3516,20 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250507112854 +0000" stop="20250507122549 +0000">
-    <title>Destination Wild</title>
-    <sub-title>Argentina</sub-title>
-    <desc>Argentina's northern territory contains one of the largest reserves in the country. Iberá is a vast expanse of swamps, marshes and lagoons, with a biodiversity count to rival the Pantanal.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_848496683_0_20250501T141843360Z_126_imageprocessorclient-tvplus-linear-6fb5b47f79-chdnh.jpeg" />
+  <programme channel="CABC23000223U" start="20250507183000 +0000" stop="20250507190000 +0000">
+    <title>Force of Nature Rewind</title>
+    <desc>Wild and viral weather footage from across Canada and around the world</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="CABC23000223U" start="20250507190000 +0000" stop="20250507193000 +0000">
+    <title>Your Weather Today</title>
+    <desc>National and local forecast details for across the country</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_1176632344_0_20250417T122612093Z_52_imageprocessorclient-tvplus-linear-b76dd9bbb-28957.jpeg" />
+    <rating>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250507122549 +0000" stop="20250507131841 +0000">
@@ -3605,13 +3595,13 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250507114419 +0000" stop="20250507123543 +0000">
-    <title>Evolve</title>
-    <sub-title>Communication</sub-title>
-    <desc>Communication's impact on species' survival and evolution.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533870053_0_20231012T063324407Z_71.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250507184136 +0000" stop="20250507193806 +0000">
+    <title>Wild Portugal</title>
+    <sub-title>S01 E03</sub-title>
+    <desc>The richness of Portugal's coastal waters is amazing. Thousands of creatures live here, both in the water and on land. The portuguese coast is the ultimate frontier before the Atlantic Ocean. In the middle of the Atlantic, the archipelago of the Azores is home to one of the richest ocean ecosystems on the Planet. In this episode we will meet some of these species in a unique and revealing look at their lives.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_848530452_0_20250501T141843360Z_80_imageprocessorclient-tvplus-linear-6fb5b47f79-chdnh.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250507123543 +0000" stop="20250507132907 +0000">
@@ -3672,6 +3662,15 @@
     <title>Evolve</title>
     <sub-title>Communication</sub-title>
     <desc>Communication's impact on species' survival and evolution.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533870053_0_20231012T063324407Z_71.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250507183544 +0000" stop="20250507192908 +0000">
+    <title>Life After People</title>
+    <sub-title>Waters of Death</sub-title>
+    <desc>Destructive waters overtake the world we leave behind.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533870053_0_20231012T063324407Z_71.jpeg" />
     <rating>
       <value>TV-PG</value>
