@@ -3467,21 +3467,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250507010000 +0000" stop="20250507020000 +0000">
-    <title>The National</title>
-    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
-  </programme>
-  <programme channel="CA4600003GV" start="20250507020000 +0000" stop="20250507023000 +0000">
-    <title>CBC News NL</title>
-    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
-  <programme channel="CA4600003GV" start="20250507023000 +0000" stop="20250507030000 +0000">
-    <title>CBC News NL</title>
-    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250507030000 +0000" stop="20250507040000 +0000">
     <title>The National</title>
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
@@ -3517,30 +3502,20 @@
     <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250507010000 +0000" stop="20250507013000 +0000">
-    <title>Force of Nature Rewind</title>
-    <desc>Wild and viral weather footage from across Canada and around the world</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250507073000 +0000" stop="20250507083000 +0000">
+    <title>The National</title>
+    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250507013000 +0000" stop="20250507020000 +0000">
-    <title>Force of Nature Rewind</title>
-    <desc>Wild and viral weather footage from across Canada and around the world</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250507083000 +0000" stop="20250507090000 +0000">
+    <title>CBC News NL</title>
+    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250507020000 +0000" stop="20250507030000 +0000">
-    <title>Survivorman</title>
-    <sub-title>Temagami (Fan Challenge)</sub-title>
-    <desc>From over 200 applicants, Joe McConnell was selected to join Les on a very difficult survival expedition.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534285350_0_20231024T163742475Z_50.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250507090000 +0000" stop="20250507093000 +0000">
+    <title>CBC News NL</title>
+    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250507030000 +0000" stop="20250507040000 +0000">
     <title>What If</title>
@@ -3591,22 +3566,36 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250507003512 +0000" stop="20250507013343 +0000">
-    <title>Destination Wild</title>
-    <sub-title>Wild Islands</sub-title>
-    <desc>The Caribbean has been shaped by millions of years of unstoppable volcanic forces and ferocious hurricanes, creating a network of 7,000 islands, each one more unique than the next.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_844646493_0_20250430T072239131Z_111_imageprocessorclient-tvplus-linear-6fb5b47f79-4w9rf.jpeg" />
+  <programme channel="CABC23000223U" start="20250507073000 +0000" stop="20250507080000 +0000">
+    <title>Dream In Colour</title>
+    <desc>Get lost in the breathtaking beauty of Canadian and international landscapes</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124152_0_20231019T012929571Z_80.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250507013343 +0000" stop="20250507022859 +0000">
-    <title>Destination Wild</title>
-    <sub-title>Argentina</sub-title>
-    <desc>Stretching almost 1000 miles, from the jungles of Brazil to the southernmost point of South America, Patagonia's coast is home to some of the natural world's most spectacular animals.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_844623947_0_20250430T072239131Z_115_imageprocessorclient-tvplus-linear-6fb5b47f79-4w9rf.jpeg" />
+  <programme channel="CABC23000223U" start="20250507080000 +0000" stop="20250507083000 +0000">
+    <title>Dream In Colour</title>
+    <desc>Get lost in the breathtaking beauty of Canadian and international landscapes</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124152_0_20231019T012929571Z_80.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="CABC23000223U" start="20250507083000 +0000" stop="20250507090000 +0000">
+    <title>Dream In Colour</title>
+    <desc>Get lost in the breathtaking beauty of Canadian and international landscapes</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124152_0_20231019T012929571Z_80.jpeg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="CABC23000223U" start="20250507090000 +0000" stop="20250507093000 +0000">
+    <title>Dream In Colour</title>
+    <desc>Get lost in the breathtaking beauty of Canadian and international landscapes</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124152_0_20231019T012929571Z_80.jpeg" />
+    <rating>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250507022859 +0000" stop="20250507032015 +0000">
@@ -3661,31 +3650,22 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250507003224 +0000" stop="20250507012434 +0000">
-    <title>The Universe</title>
-    <sub-title>Life And Death Of A Star</sub-title>
-    <desc>Ignited by the power of the atom, stars are anything but peaceful.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550122911_0_20241101T142907529Z_96_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250507075157 +0000" stop="20250507084449 +0000">
+    <title>Kanga Pan</title>
+    <sub-title>An African Horror Story</sub-title>
+    <desc>Kanga Pan: An African Horror Story is a spine-chilling, one-off wildlife documentary. Who is the killer on the loose? Who is terrorising the pan? An investigation needs to be undertaken.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_848496686_0_20250501T141843360Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-chdnh.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>12</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250507012434 +0000" stop="20250507021520 +0000">
-    <title>The Universe</title>
-    <sub-title>Gravity</sub-title>
-    <desc>Gravity is the most powerful and exacting force in the universe.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550122911_0_20241101T142907529Z_96_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250507084449 +0000" stop="20250507093352 +0000">
+    <title>Desert Land of the Middle East</title>
+    <sub-title>Wild Frontiers</sub-title>
+    <desc>The Middle East is also home to the Red Sea, one of the saltiest seas in the world, yet despite this, over ten per cent of this sea's fish species are found nowhere else on the planet.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_848542540_0_20250501T141843360Z_115_imageprocessorclient-tvplus-linear-6fb5b47f79-chdnh.jpeg" />
     <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme channel="US900001CX" start="20250507021520 +0000" stop="20250507030732 +0000">
-    <title>The Universe</title>
-    <sub-title>Alien Planets</sub-title>
-    <desc>Have planet hunters finally found proof of other Earthlike worlds?</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550122911_0_20241101T142907529Z_96_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
-    <rating>
-      <value>TV-PG</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250507030732 +0000" stop="20250507040002 +0000">
@@ -3728,6 +3708,33 @@
     <title>The Universe</title>
     <sub-title>Life And Death Of A Star</sub-title>
     <desc>Ignited by the power of the atom, stars are anything but peaceful.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550122911_0_20241101T142907529Z_96_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250507072435 +0000" stop="20250507081521 +0000">
+    <title>The Universe</title>
+    <sub-title>Gravity</sub-title>
+    <desc>Gravity is the most powerful and exacting force in the universe.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550122911_0_20241101T142907529Z_96_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250507081521 +0000" stop="20250507090733 +0000">
+    <title>The Universe</title>
+    <sub-title>Alien Planets</sub-title>
+    <desc>Have planet hunters finally found proof of other Earthlike worlds?</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550122911_0_20241101T142907529Z_96_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250507090733 +0000" stop="20250507095959 +0000">
+    <title>The Universe</title>
+    <sub-title>The Day the Moon Was Gone</sub-title>
+    <desc>Without the moon, Earth would be a very different and desolate place today.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550122911_0_20241101T142907529Z_96_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
     <rating>
       <value>TV-PG</value>
