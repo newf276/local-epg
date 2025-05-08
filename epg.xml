@@ -1752,30 +1752,6 @@
     <display-name>Real Wild</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/09e8c6b6-368e-4275-b974-fe5e1921f64d/RealWild_Logo_White_-_Simon_Tuquabo.png" />
   </channel>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250507230000 +0000" stop="20250507233000 +0000">
-    <title>About That</title>
-    <sub-title>About That</sub-title>
-    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
-    <date>20250507</date>
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250507233000 +0000" stop="20250508000000 +0000">
-    <title>Today's Top Stories</title>
-    <sub-title>Today's Top Stories</sub-title>
-    <desc>What's happening across Canada and around the world.</desc>
-    <date>20250507</date>
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250508000000 +0000" stop="20250508010000 +0000">
-    <title>Today's Top Stories</title>
-    <sub-title>Today's Top Stories</sub-title>
-    <desc>What's happening across Canada and around the world.</desc>
-    <date>20250508</date>
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250508010000 +0000" stop="20250508020000 +0000">
-    <title>The National</title>
-    <sub-title>The National</sub-title>
-    <desc>CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.</desc>
-    <date>20250508</date>
-  </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250508020000 +0000" stop="20250508030000 +0000">
     <title>The National</title>
     <sub-title>The National</sub-title>
@@ -1896,37 +1872,29 @@
     <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
     <date>20250508</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250507230000 +0000" stop="20250508000000 +0000">
-    <title>W5</title>
-    <sub-title>Where's Dylan?</sub-title>
-    <episode-num system="onscreen">S56E28</episode-num>
-    <desc>A boy's disappearance leads to a community turning on his parents.</desc>
-    <date>20250220</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29794_2024_2_22_01ca6461-2f07-403f-8834-295a51103928_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250508233000 +0000" stop="20250509000000 +0000">
+    <title>Today's Top Stories</title>
+    <sub-title>Today's Top Stories</sub-title>
+    <desc>What's happening across Canada and around the world.</desc>
+    <date>20250508</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250508000000 +0000" stop="20250508003000 +0000">
-    <title>CTV National News with Omar Sachedina</title>
-    <sub-title>CTV National News for Tuesday, May 6, 2025</sub-title>
-    <episode-num system="onscreen">S2025E72</episode-num>
-    <desc>CTV National News with Omar Sachedina is Canada's #1 national newscast</desc>
-    <date>20250507</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29593_2024_2_22_a0b77432-b521-4b92-8fd6-df17c3828c96_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250509000000 +0000" stop="20250509010000 +0000">
+    <title>Today's Top Stories</title>
+    <sub-title>Today's Top Stories</sub-title>
+    <desc>What's happening across Canada and around the world.</desc>
+    <date>20250509</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250508003000 +0000" stop="20250508010000 +0000">
-    <title>CTV News: Your Canada</title>
-    <sub-title>for Wednesday, May 7, 2025</sub-title>
-    <episode-num system="onscreen">S2025E107</episode-num>
-    <desc>Stories that showcase what makes Canada unique.</desc>
-    <date>20250507</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250509010000 +0000" stop="20250509020000 +0000">
+    <title>The National</title>
+    <sub-title>The National</sub-title>
+    <desc>CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.</desc>
+    <date>20250509</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250508010000 +0000" stop="20250508020000 +0000">
-    <title>Power Play with Vassy Kapelos</title>
-    <sub-title>Power Play for Tuesday, May 6, 2025</sub-title>
-    <episode-num system="onscreen">S2025E163</episode-num>
-    <desc>CTV News Channel's daily marquee political program, Power Play.</desc>
-    <date>20250507</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29798_2024_2_22_42dbc6b2-bee6-4555-bcc6-aa46ecdb9674_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250509020000 +0000" stop="20250509030000 +0000">
+    <title>The National</title>
+    <sub-title>The National</sub-title>
+    <desc>CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.</desc>
+    <date>20250509</date>
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250508020000 +0000" stop="20250508023000 +0000">
     <title>CTV News: Across Canada</title>
@@ -2152,29 +2120,29 @@
     <date>20250220</date>
     <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29794_2024_2_22_01ca6461-2f07-403f-8834-295a51103928_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250507230223 +0000" stop="20250507235613 +0000">
-    <title>The Good Stuff with Mary Berg</title>
-    <sub-title>Tuesday, April 29, 2025</sub-title>
-    <episode-num system="onscreen">S02E127</episode-num>
-    <desc>Bacon and pea gnocchi; food and drink crowd-pleasers; must-have gardening gadgets; outdoor pet safety; "North of North" star Anna Lambe.</desc>
-    <date>20250430</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54775_2025_4_4_582bd9bf-59ae-4419-9c55-c32dd46adf0a_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250509000000 +0000" stop="20250509003000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250507235613 +0000" stop="20250508004601 +0000">
-    <title>The Good Stuff with Mary Berg</title>
-    <sub-title>Wednesday, April 30, 2025</sub-title>
-    <episode-num system="onscreen">S02E128</episode-num>
-    <desc>Mary and her guests make homemade dupes of store-bought classics, like chocolate freezer cake and mac 'n cheese.</desc>
-    <date>20250430</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54775_2025_4_4_582bd9bf-59ae-4419-9c55-c32dd46adf0a_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250509003000 +0000" stop="20250509010000 +0000">
+    <title>CTV News: Your Canada</title>
+    <category>Movie</category>
+    <desc>CTV News: Your Canada</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250508004601 +0000" stop="20250508013754 +0000">
-    <title>The Good Stuff with Mary Berg</title>
-    <sub-title>Thursday, May 1, 2025</sub-title>
-    <episode-num system="onscreen">S02E129</episode-num>
-    <desc>Sheet-pan salmon; cluttered closet transformation and organizing products; 'Sullivan's Crossing's' Morgan Kohan and Chad Michael Murray.</desc>
-    <date>20250501</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54775_2025_4_4_582bd9bf-59ae-4419-9c55-c32dd46adf0a_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250509010000 +0000" stop="20250509020000 +0000">
+    <title>Power Play</title>
+    <category>Movie</category>
+    <desc>Power Play</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250509020000 +0000" stop="20250509023000 +0000">
+    <title>CTV News: Across Canada</title>
+    <category>Movie</category>
+    <desc>CTV News: Across Canada</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250508013754 +0000" stop="20250508022945 +0000">
     <title>The Good Stuff with Mary Berg</title>
@@ -2568,23 +2536,69 @@
     <date>20250228</date>
     <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250507222219 +0000" stop="20250508001034 +0000">
-    <title>Shockwave</title>
-    <category>Movie</category>
-    <desc>A powerful earthquake and tsunami will some day devastate the Pacific Northwest. What can we do to prepare?</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRMHLGJS4A0TVTAG_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250508231654 +0000" stop="20250508234217 +0000">
+    <title>Mary Makes It Easy</title>
+    <sub-title>Summer’s Bounty</sub-title>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <desc>Celebrate the season with Mary’s recipes that take advantage of limited-edition produce, including tomatoes, zucchini, peppers and berries.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250508001034 +0000" stop="20250508010713 +0000">
-    <title>Solar Superstorms: Journey to the Center of the Sun</title>
-    <category>Movie</category>
-    <desc>As technology and electrical grids have spread, big solar storms pose a threat equal to the worst hurricanes.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRMHLGJUDY5858BY_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250508234217 +0000" stop="20250509000739 +0000">
+    <title>Mary Makes It Easy</title>
+    <sub-title>Fake It ‘Til You Bake It</sub-title>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <desc>Whether you’re a newbie baker or a pro who wants to take it easy, these recipes are all about supermarket hacks to raise your baking game.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250508010713 +0000" stop="20250508013823 +0000">
-    <title>Day of the Asteroid</title>
-    <category>Movie</category>
-    <desc>Armed with new defensive technologies, scientists are getting ready for the Day of the Asteroid.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/1JAIHT965NB3R818EFJJJZF_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250509000739 +0000" stop="20250509003302 +0000">
+    <title>Mary Makes It Easy</title>
+    <sub-title>Livin’ in the Past-a</sub-title>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <desc>Make your own checkered tablecloth magic with Mary’s recipes for Italian-American restaurant night.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250509003302 +0000" stop="20250509005825 +0000">
+    <title>Mary Makes It Easy</title>
+    <sub-title>Cast Away</sub-title>
+    <episode-num system="onscreen">S02E08</episode-num>
+    <desc>Hosted by chef and two-time Canadian Screen Award-winner Mary Berg, follows Berg as she takes viewers step-by-step through recipes.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250509005825 +0000" stop="20250509012145 +0000">
+    <title>Mary Makes It Easy</title>
+    <sub-title>Make and Take</sub-title>
+    <episode-num system="onscreen">S02E09</episode-num>
+    <desc>Impress pals with recipes that are great to make and easier to take, and they just might steal the show at the next potluck.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250509012145 +0000" stop="20250509014706 +0000">
+    <title>Mary Makes It Easy</title>
+    <sub-title>Bare Bones Baking</sub-title>
+    <episode-num system="onscreen">S02E10</episode-num>
+    <desc>Mary shows how to up the baking game without breaking the bank on fancy gadgets. There’s no specialty equipment here!</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250509014706 +0000" stop="20250509021029 +0000">
+    <title>Mary Makes It Easy</title>
+    <sub-title>The Short List</sub-title>
+    <episode-num system="onscreen">S02E11</episode-num>
+    <desc>Mary keeps shopping lists short with flavourful dishes made up of just a few ingredients.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250509021029 +0000" stop="20250509023551 +0000">
+    <title>Mary Makes It Easy</title>
+    <sub-title>Livin' on the Veg</sub-title>
+    <episode-num system="onscreen">S02E12</episode-num>
+    <desc>Celebrate the veg life with Mary’s meatless recipes that are so much more than just a bowl of greens.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250508013823 +0000" stop="20250508024400 +0000">
     <title>Exoplanets: Thousands of New Worlds</title>
@@ -2746,26 +2760,40 @@
     <desc>In our search for life beyond Earth, seeking water on other planetary bodies is an important first step.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KQRKNR0QG5E_16_9.jpeg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250507224459 +0000" stop="20250507234509 +0000">
-    <title>Facing Forces of Nature</title>
-    <sub-title>Melting Ice</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Melting ice at Earth's poles: Do we still have a chance to stop it from melting and prevent its repercussions?</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171CM82POYQJZ_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250508231551 +0000" stop="20250508234557 +0000">
+    <title>Space: The New Frontier</title>
+    <sub-title>Webb of Life</sub-title>
+    <episode-num system="onscreen">S05E08</episode-num>
+    <desc>The James Webb Space Telescope will be our key to understanding where we fit in our enormous universe.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KQRKNR0QG5E_16_9.jpeg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250507234509 +0000" stop="20250508004836 +0000">
-    <title>Wild Faces of Switzerland</title>
-    <sub-title>The Jura Mountains</sub-title>
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250508234557 +0000" stop="20250509001603 +0000">
+    <title>Space: The New Frontier</title>
+    <sub-title>Peering Into the Abyss</sub-title>
+    <episode-num system="onscreen">S05E09</episode-num>
+    <desc>Time and space converge in black holes. Now we can peer into its abyss to discover its secrets.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KQRKNR0QG5E_16_9.jpeg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250509001603 +0000" stop="20250509004608 +0000">
+    <title>Space: The New Frontier</title>
+    <sub-title>Next Big Leap</sub-title>
+    <episode-num system="onscreen">S05E10</episode-num>
+    <desc>Earth's new generation of orbiting telescopes promises to expand our universe of knowledge about our origins.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KQRKNR0QG5E_16_9.jpeg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250509004608 +0000" stop="20250509014803 +0000">
+    <title>Hurricane: The Anatomy</title>
+    <sub-title>Predicting the Unpredictable</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Take an exciting journey of discovery into an almost untouched wilderness: The Jura Mountains.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171AFHVCCICM7_16_9.jpg" />
+    <desc>This episode explores the search for hurricane scientists' holy grail.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/5N1HJZ69IH6XR1R9BB5ADD_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250508004836 +0000" stop="20250508015113 +0000">
-    <title>Wild Faces of Switzerland</title>
-    <sub-title>Ticino</sub-title>
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250509014803 +0000" stop="20250509024914 +0000">
+    <title>Hurricane: The Anatomy</title>
+    <sub-title>Shaping the Wilderness</sub-title>
     <episode-num system="onscreen">S01E02</episode-num>
-    <desc>This episode focuses on Ticino, reaching from the Tessin Alps down to the charming Muggio Valley.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171AFHVCCICM7_16_9.jpg" />
+    <desc>This episode looks at how plants and animals cope with the annual onslaught in the hurricane zone.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/5N1HJZ69IH6XR1R9BB5ADD_16_9.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250508015113 +0000" stop="20250508025438 +0000">
     <title>Wild Faces of Switzerland</title>
@@ -2975,23 +3003,40 @@
     <desc>On this episode we examine how things taste, and how vital scent is from the animal perspective.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU17194HRQ8GZM9_16_9.jpeg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250507230000 +0000" stop="20250508000000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250508233747 +0000" stop="20250509001040 +0000">
+    <title>Super Senses: Wild Feats of Evolution</title>
+    <sub-title>Super Human Senses</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>There are senses we share with most animals, but what about those senses that humans aren't equipped with?</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU17194HRQ8GZM9_16_9.jpeg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250508000000 +0000" stop="20250508010000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250509001040 +0000" stop="20250509004153 +0000">
+    <title>Super Senses: Wild Feats of Evolution</title>
+    <sub-title>Sixth Sense</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>There’s a whole world of sensations that animals are aware of but humans are completely unable to detect.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU17194HRQ8GZM9_16_9.jpeg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250508010000 +0000" stop="20250508020000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250509004153 +0000" stop="20250509011409 +0000">
+    <title>Super Senses: Wild Feats of Evolution</title>
+    <sub-title>Sense of Timing</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>In this episode, we examine how every animal has what could be called a sense of rhythm.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU17194HRQ8GZM9_16_9.jpeg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250509011409 +0000" stop="20250509014600 +0000">
+    <title>Super Senses: Wild Feats of Evolution</title>
+    <sub-title>Underwater</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>While all life began in the oceans, human beings now rely on technology to navigate the seven seas.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU17194HRQ8GZM9_16_9.jpeg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250509014600 +0000" stop="20250509021810 +0000">
+    <title>Super Senses: Wild Feats of Evolution</title>
+    <sub-title>Sky</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>While all life began in the oceans, human beings now rely on technology to navigate the seven seas.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU17194HRQ8GZM9_16_9.jpeg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250508020000 +0000" stop="20250508030000 +0000">
     <title>Evolution Earth</title>
@@ -3125,21 +3170,23 @@
     <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250507231418 +0000" stop="20250508001503 +0000">
-    <title>The U.S. East Coast</title>
-    <sub-title>The U.S. East Coast, The Heart of New England</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>From New York, the journey up the coast leads into the heart of New England. We visit Yale; spend some time in the 19th century mansions at Newport, RI; tour the coastal fishing and vacation towns of Massachusetts, and then meet a modern entrepreneur in Boston and see her rooftop gardens.</desc>
-    <date>20140522</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/useastcoast_e4.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250509000000 +0000" stop="20250509010000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250508001503 +0000" stop="20250508011350 +0000">
-    <title>New Life</title>
-    <sub-title>Born to Swim</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>It's a water world and life couldn't survive without it. And thanks to it, a mind blowing diversity of creatures thrive beneath the surface. Born to enjoy the riches underwater they must master their body's adaptations, learn to find food, to escape danger and above all become expert swimmers! Whether it's in rivers, on beaches or in the deep ocean, all must overcome the obstacles and fulfil their destiny, all are born to swim! Of all the habitats on earth, the ocean is perhaps the most challenging. Here salt, temperatures, currents and predators can make life difficult; it's not an obvious place to want to bring up your babies… But even in these waters generation after generation beats the odds. They have overcome the challenges and become some of the most beautiful and graceful of creatures. But any baby born to swim has a lot to learn… All over the world there are creatures born to swim, and though humans are not, we seem determined to join them. Perhaps we are envious of their grace. Maybe we are all water babies at heart</desc>
-    <date>20150303</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/800256_BornToSwim_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250509010000 +0000" stop="20250509020000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250509020000 +0000" stop="20250509030000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250508011350 +0000" stop="20250508021541 +0000">
     <title>White Lions: Born Wild</title>
@@ -3332,27 +3379,29 @@
     <date>20180102</date>
     <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/WildMoments_s01_e02_DangerousAndDeadly1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250507220653 +0000" stop="20250507235159 +0000">
-    <title>Lions On The Move</title>
-    <category>Movie</category>
-    <desc>Kevin Richardson, animal lover, faces the challenge of relocating 28 lions and 14 hyenas.</desc>
-    <date>19980101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250508235713 +0000" stop="20250509005559 +0000">
+    <title>Wild Moments</title>
+    <sub-title>Wild Moments: Dangerous &amp; Deadly II</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Wildlife filmmakers often risk life and limb trying to capture unique images of their dangerous protagonists. A cunning grizzly grabs a salmon off Andreas Kieling's fishing rod, in the depths of the Amazon River a diving team has a spooky encounter with piranhas, in the Mediterranean Sea the currents nearly push Thomas Behrend into the mouths of angry sperm whales defending a newborn - and cameramen who want to film jaguars in the dense jungle of South America become easy prey for the well camouflaged cats. The life of the film-makers is also threatened by elemental forces and failing technical equipment: In the swamps of North Australia violent storms hold up the crossing of tearing rivers, a volcano in the South Seas spits burning lumps of lava into the base camp, and in Siberia a camera team breaks through the ice and has to camp at minus 30°C in the middle of nowhere. The second episode "Wild Moments - Dangerous and Deadly" follows wildlife-filmmakers on their adventurous journeys throughout the world.</desc>
+    <date>20180103</date>
+    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/WildMoments_s01_e03_DangerousAndDeadly2.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250507235159 +0000" stop="20250508005245 +0000">
-    <title>The Tick and the Bird</title>
-    <category>Movie</category>
-    <desc>A flea in a Laysan Albatross' feathers crosses the Pacific, landing on Midway Island to mate &amp; form a family.</desc>
-    <date>20020101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250509005559 +0000" stop="20250509015636 +0000">
+    <title>Portugal's Nature Parks</title>
+    <sub-title>Madeira</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Madeira - Portugal's autonomous island in the Atlantic Ocean, is closer to the African coast than to the mother country Portugal, from which it is separated by about 900 kilometers. The island's name comes from Portuguese sailors who claimed the uninhabited isle for themselves in 1419. Madeira means wood and that was available in abundance. Almost the entire surface was covered by dense forest. Since 1982, two-thirds of the landscape has been protected.</desc>
+    <date>20220301</date>
+    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/PortugalsNatureParks_E04.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250508005245 +0000" stop="20250508015534 +0000">
-    <title>Conflicts of Nature</title>
-    <sub-title>Conflicts in a Pond</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>The water beetle emerges in spring, battling for survival in a pond with various creatures.</desc>
-    <date>19990101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250509015636 +0000" stop="20250509025721 +0000">
+    <title>Portugal's Nature Parks</title>
+    <sub-title>Ria Formosa</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>The "Parque Natural da Ria Formosa" is one of the largest lagoon conservation areas in Europe. Bordered by five natural islands. A mosaic of sandbanks, brackish and freshwater lagoons and salt marshes. In 2010, the "Ria Formosa" was chosen as one of the seven natural wonders of Portugal. It is a unique ecosystem: in the winter months, more than 20,000 birds gather here. In addition, the nature park has one of the largest seahorse populations internationally. More than half of all fish species in the Atlantic are said to spawn in the lagoon.</desc>
+    <date>20220301</date>
+    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/PortugalsNatureParks_E05.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250508015534 +0000" stop="20250508025602 +0000">
     <title>Conflicts of Nature</title>
@@ -3516,6 +3565,45 @@
     <date>20200101</date>
     <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
   </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250508232100 +0000" stop="20250508234756 +0000">
+    <title>World of Oceans</title>
+    <sub-title>Life on the Reef</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Coral reefs in warm waters near the equator host a quarter of all marine species.</desc>
+    <date>20200101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250508234756 +0000" stop="20250509001431 +0000">
+    <title>World of Oceans</title>
+    <sub-title>Sharks</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Sharks, often feared, have a deeper significance beyond their appearance.</desc>
+    <date>20200101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250509001431 +0000" stop="20250509011523 +0000">
+    <title>Animals Like Us</title>
+    <sub-title>Animal Tools</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Mutualism explores animal cooperation for survival, turning host-parasite relationships into alliances.</desc>
+    <date>20040101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250509011523 +0000" stop="20250509021352 +0000">
+    <title>Animals Like Us</title>
+    <sub-title>Animal Play</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>Playing games helps children and animals develop coordination, adaptability, and social skills.</desc>
+    <date>20040101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250509021352 +0000" stop="20250509031454 +0000">
+    <title>Sperm Whales: Dealing with the Unexpected</title>
+    <category>Movie</category>
+    <desc>The Sperm Whale family in the Crozet Islands faces threats from humans, fishing lines, and deep-sea monsters.</desc>
+    <date>20050101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  </programme>
   <channel id="CA4600003GV">
     <display-name>CBC News Newfoundland &amp; Labrador</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4600003GV_20250401T004721SQUARE.png" />
@@ -3532,21 +3620,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250508010000 +0000" stop="20250508020000 +0000">
-    <title>The National</title>
-    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
-  </programme>
-  <programme channel="CA4600003GV" start="20250508020000 +0000" stop="20250508023000 +0000">
-    <title>CBC News NL</title>
-    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
-  <programme channel="CA4600003GV" start="20250508023000 +0000" stop="20250508030000 +0000">
-    <title>CBC News NL</title>
-    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250508030000 +0000" stop="20250508040000 +0000">
     <title>The National</title>
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
@@ -3582,30 +3655,20 @@
     <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250508010000 +0000" stop="20250508013000 +0000">
-    <title>Force of Nature Rewind</title>
-    <desc>Wild and viral weather footage from across Canada and around the world</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250508073000 +0000" stop="20250508083000 +0000">
+    <title>The National</title>
+    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250508013000 +0000" stop="20250508020000 +0000">
-    <title>Force of Nature Rewind</title>
-    <desc>Wild and viral weather footage from across Canada and around the world</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250508083000 +0000" stop="20250508090000 +0000">
+    <title>CBC News NL</title>
+    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250508020000 +0000" stop="20250508030000 +0000">
-    <title>Survivorman</title>
-    <sub-title>Romania Part 1</sub-title>
-    <desc>Les disappears into the forested Transylvanian Alps to test the skills of Romania's top Search and Rescue Team</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534285350_0_20231024T163742475Z_50.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250508090000 +0000" stop="20250508093000 +0000">
+    <title>CBC News NL</title>
+    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250508030000 +0000" stop="20250508040000 +0000">
     <title>What If</title>
@@ -3656,31 +3719,36 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250508001158 +0000" stop="20250508011030 +0000">
-    <title>Destination Wild</title>
-    <sub-title>Wild Islands</sub-title>
-    <desc>Nestled alongside Canada's south west coast, Vancouver Island is home to the richest Pacific wildlife.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_848507259_0_20250501T141843360Z_107_imageprocessorclient-tvplus-linear-6fb5b47f79-chdnh.jpeg" />
+  <programme channel="CABC23000223U" start="20250508073000 +0000" stop="20250508080000 +0000">
+    <title>Dream In Colour</title>
+    <desc>Get lost in the breathtaking beauty of Canadian and international landscapes</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124152_0_20231019T012929571Z_80.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250508011030 +0000" stop="20250508020725 +0000">
-    <title>Destination Wild</title>
-    <sub-title>Argentina</sub-title>
-    <desc>Argentina's northern territory contains one of the largest reserves in the country. Iberá is a vast expanse of swamps, marshes and lagoons, with a biodiversity count to rival the Pantanal.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_848496683_0_20250501T141843360Z_126_imageprocessorclient-tvplus-linear-6fb5b47f79-chdnh.jpeg" />
+  <programme channel="CABC23000223U" start="20250508080000 +0000" stop="20250508083000 +0000">
+    <title>Dream In Colour</title>
+    <desc>Get lost in the breathtaking beauty of Canadian and international landscapes</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124152_0_20231019T012929571Z_80.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250508020725 +0000" stop="20250508030017 +0000">
-    <title>Kanga Pan</title>
-    <sub-title>An African Horror Story</sub-title>
-    <desc>Kanga Pan: An African Horror Story is a spine-chilling, one-off wildlife documentary. Who is the killer on the loose? Who is terrorising the pan? An investigation needs to be undertaken.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_848496686_0_20250501T141843360Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-chdnh.jpeg" />
+  <programme channel="CABC23000223U" start="20250508083000 +0000" stop="20250508090000 +0000">
+    <title>Dream In Colour</title>
+    <desc>Get lost in the breathtaking beauty of Canadian and international landscapes</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124152_0_20231019T012929571Z_80.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="CABC23000223U" start="20250508090000 +0000" stop="20250508093000 +0000">
+    <title>Dream In Colour</title>
+    <desc>Get lost in the breathtaking beauty of Canadian and international landscapes</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124152_0_20231019T012929571Z_80.jpeg" />
+    <rating>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250508030017 +0000" stop="20250508034920 +0000">
@@ -3710,8 +3778,8 @@
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250508055253 +0000" stop="20250508065125 +0000">
-    <title>Destination Wild</title>
-    <sub-title>Wild Islands</sub-title>
+    <title>Destination Wild: Wild Islands</title>
+    <sub-title>S01 E04</sub-title>
     <desc>The Falkland Islands' pristine coastlines and bountiful seas offer a lifeline and breeding centre for millions of penguins each year.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_850997432_0_20250502T102323079Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-tqk7n.jpeg" />
     <rating>
@@ -3726,31 +3794,30 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250508003544 +0000" stop="20250508012908 +0000">
-    <title>Life After People</title>
-    <sub-title>Waters of Death</sub-title>
-    <desc>Destructive waters overtake the world we leave behind.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533870053_0_20231012T063324407Z_71.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250508074757 +0000" stop="20250508084429 +0000">
+    <title>Manatees on the Move</title>
+    <desc>Manatees, sea cows, these gentle giants go by several names. They were once thought to be beautiful mermaids that could lure sailors to their deaths, though they probably won't win too many beauty contests. To retain their weight, manatees need to eat for 8 hours and consume 8% of their bodyweight every day. And keeping eating also means keeping moving! Thanks to their tolerance of human visitors, manatees have mates everywhere, working tirelessly to ensure they roam the world for generations to come.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_714924741_0_20250314T141639588Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-bbtvn.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>12</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250508012908 +0000" stop="20250508021938 +0000">
-    <title>Life After People</title>
-    <sub-title>Last Supper</sub-title>
-    <desc>Man's world of food faces ruin  supermarkets breed pests, some crops fail.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533870053_0_20231012T063324407Z_71.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250508084429 +0000" stop="20250508090945 +0000">
+    <title>Frontier Vets</title>
+    <sub-title>S01 E01</sub-title>
+    <desc>The vet students meet for the first time and travel 7 hours to the remote clinic. We learn about their fears and insecurities -- fear of failure and the weight of responsibilities ahead.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489052008_1_20240303T062241026Z_101.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>12</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250508021938 +0000" stop="20250508030922 +0000">
-    <title>Life After People</title>
-    <sub-title>Toxic Revenge</sub-title>
-    <desc>Toxins and chemicals ravage a world without people, turning waters acidic.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533870053_0_20231012T063324407Z_71.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250508090945 +0000" stop="20250508093501 +0000">
+    <title>Frontier Vets</title>
+    <sub-title>S01 E02</sub-title>
+    <desc>The vets get situated in their dormitory accommodations. Dr. Greg deliberately pairs them according to their differences. Vets need to learn to work with colleagues and clients different from themselves.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489115529_0_20240305T153050485Z_51.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250508030922 +0000" stop="20250508040001 +0000">
@@ -3793,6 +3860,33 @@
     <title>Life After People</title>
     <sub-title>Waters of Death</sub-title>
     <desc>Destructive waters overtake the world we leave behind.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533870053_0_20231012T063324407Z_71.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250508072909 +0000" stop="20250508081939 +0000">
+    <title>Life After People</title>
+    <sub-title>Last Supper</sub-title>
+    <desc>Man's world of food faces ruin  supermarkets breed pests, some crops fail.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533870053_0_20231012T063324407Z_71.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250508081939 +0000" stop="20250508090923 +0000">
+    <title>Life After People</title>
+    <sub-title>Toxic Revenge</sub-title>
+    <desc>Toxins and chemicals ravage a world without people, turning waters acidic.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533870053_0_20231012T063324407Z_71.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250508090923 +0000" stop="20250508100000 +0000">
+    <title>Life After People</title>
+    <sub-title>Take Me To Your Leader</sub-title>
+    <desc>How will the White House fall in a Life After People? Historical homes decay.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533870053_0_20231012T063324407Z_71.jpeg" />
     <rating>
       <value>TV-PG</value>
