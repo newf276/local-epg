@@ -3706,11 +3706,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250508203000 +0000" stop="20250508213000 +0000">
-    <title>CBC News Here and Now</title>
-    <desc>Carolyn Stokes and Ashley Brauweiler deliver a complete package of local news and weather.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186123_0_20241217T103439666Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250508213000 +0000" stop="20250508223000 +0000">
     <title>CBC News Here and Now</title>
     <desc>Carolyn Stokes and Ashley Brauweiler deliver a complete package of local news and weather.</desc>
@@ -3751,21 +3746,10 @@
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250508210000 +0000" stop="20250508213000 +0000">
-    <title>Your Weather Today</title>
-    <desc>National and local forecast details for across the country</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_1176632344_0_20250417T122612093Z_52_imageprocessorclient-tvplus-linear-b76dd9bbb-28957.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="CABC23000223U" start="20250508213000 +0000" stop="20250508220000 +0000">
-    <title>Force of Nature Rewind</title>
-    <desc>Wild and viral weather footage from across Canada and around the world</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250509040000 +0000" stop="20250509043000 +0000">
+    <title>CBC News NL</title>
+    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250508220000 +0000" stop="20250508223000 +0000">
     <title>Your Weather Today</title>
@@ -3851,12 +3835,12 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250508203630 +0000" stop="20250508213302 +0000">
-    <title>Nature's Cutest</title>
-    <desc>As we all know the natural world can be tough and challenging at times, but it can also be nothing short of adorable.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489797423_0_20240329T144954399Z_113.jpeg" />
+  <programme channel="CABC23000223U" start="20250509040000 +0000" stop="20250509050000 +0000">
+    <title>Crazy Creatures</title>
+    <desc>Evolution has crafted some of the strangest beings you can imagine, and it's all been done for a reason.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124637_0_20231019T012929406Z_99.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250508213302 +0000" stop="20250508222934 +0000">
@@ -3927,13 +3911,21 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250508210918 +0000" stop="20250508220001 +0000">
-    <title>Serial Killer Earth</title>
-    <sub-title>Tornado on Fire</sub-title>
-    <desc>In this episode, a flaming tornado terrorizes a team of firefighters.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478326_3_20250508T122905900Z_93_imageprocessorclient-tvplus-linear-b76dd9bbb-7227f.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250509032951 +0000" stop="20250509035507 +0000">
+    <title>Frontier Vets</title>
+    <sub-title>S01 E02</sub-title>
+    <desc>The vets get situated in their dormitory accommodations. Dr. Greg deliberately pairs them according to their differences. Vets need to learn to work with colleagues and clients different from themselves.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489115529_0_20240305T153050485Z_51.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="GBBB5000002PL" start="20250509035507 +0000" stop="20250509050000 +0000">
+    <title>Colours of Nature</title>
+    <desc>From subtle to shocking, colour enhances the beauty of the natural world. Colour is a language to most living things, whether as a warning, camouflage or a come on. But there's more to colour than just pigment. Colours define how many animals behave, how they mate and how they inter-act with one another. For us the beautiful and varied shades of the animal kingdom form a spec-tacular kaleidoscope of colours. With all the diversity in the world, sit back and enjoy all the col-ours of the animal kingdom.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_737543054_0_20250322T141840467Z_92_imageprocessorclient-tvplus-linear-6fb5b47f79-bbtvn.jpeg" />
+    <rating>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250508220001 +0000" stop="20250508225143 +0000">
@@ -3994,6 +3986,15 @@
     <title>Serial Killer Earth</title>
     <sub-title>Tornado on Fire</sub-title>
     <desc>In this episode, a flaming tornado terrorizes a team of firefighters.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478326_3_20250508T122905900Z_93_imageprocessorclient-tvplus-linear-b76dd9bbb-7227f.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250509040002 +0000" stop="20250509045144 +0000">
+    <title>Serial Killer Earth</title>
+    <sub-title>Tornado vs. Airport</sub-title>
+    <desc>Landslide chases workers, tornado strikes airport, quake threatens old church.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478326_3_20250508T122905900Z_93_imageprocessorclient-tvplus-linear-b76dd9bbb-7227f.jpeg" />
     <rating>
       <value>TV-PG</value>
