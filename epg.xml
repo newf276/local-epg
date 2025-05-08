@@ -3682,16 +3682,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250508113000 +0000" stop="20250508123000 +0000">
-    <title>The National</title>
-    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
-  </programme>
-  <programme channel="CA4600003GV" start="20250508123000 +0000" stop="20250508130000 +0000">
-    <title>Newfoundland &amp; Labrador Now</title>
-    <desc>News, investigations and community stories in NL and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250508130000 +0000" stop="20250508133000 +0000">
     <title>Newfoundland &amp; Labrador Now</title>
     <desc>News, investigations and community stories in NL and beyond.</desc>
@@ -3747,21 +3737,15 @@
     <desc>News, investigations and community stories in NL and beyond.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250508120000 +0000" stop="20250508123000 +0000">
-    <title>Weather AM</title>
-    <desc>Get your local forecast and weather headlines from right here in Canada, and around the globe.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_539709218_0_20240321T153330644Z_1.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250508183000 +0000" stop="20250508190000 +0000">
+    <title>Newfoundland &amp; Labrador Now</title>
+    <desc>News, investigations and community stories in NL and beyond.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250508123000 +0000" stop="20250508130000 +0000">
-    <title>Force of Nature Rewind</title>
-    <desc>Wild and viral weather footage from across Canada and around the world</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250508190000 +0000" stop="20250508193000 +0000">
+    <title>Newfoundland &amp; Labrador Now</title>
+    <desc>News, investigations and community stories in NL and beyond.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250508130000 +0000" stop="20250508133000 +0000">
     <title>Weather AM</title>
@@ -3836,12 +3820,20 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250508112627 +0000" stop="20250508122259 +0000">
-    <title>Nature's Cutest</title>
-    <desc>As we all know the natural world can be tough and challenging at times, but it can also be nothing short of adorable.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489797423_0_20240329T144954399Z_113.jpeg" />
+  <programme channel="CABC23000223U" start="20250508183000 +0000" stop="20250508190000 +0000">
+    <title>Force of Nature Rewind</title>
+    <desc>Wild and viral weather footage from across Canada and around the world</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="CABC23000223U" start="20250508190000 +0000" stop="20250508193000 +0000">
+    <title>Your Weather Today</title>
+    <desc>National and local forecast details for across the country</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_1176632344_0_20250417T122612093Z_52_imageprocessorclient-tvplus-linear-b76dd9bbb-28957.jpeg" />
+    <rating>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250508122259 +0000" stop="20250508131931 +0000">
@@ -3912,13 +3904,21 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250508114331 +0000" stop="20250508123455 +0000">
-    <title>Serial Killer Earth</title>
-    <sub-title>Tornado in Aisle 12</sub-title>
-    <desc>Mother Nature's worst hurricane, tornado, and Haiti earthquake wreak havoc.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533870053_0_20231012T063324407Z_71.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250508181948 +0000" stop="20250508184504 +0000">
+    <title>Frontier Vets</title>
+    <sub-title>S01 E02</sub-title>
+    <desc>The vets get situated in their dormitory accommodations. Dr. Greg deliberately pairs them according to their differences. Vets need to learn to work with colleagues and clients different from themselves.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489115529_0_20240305T153050485Z_51.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="GBBB5000002PL" start="20250508184504 +0000" stop="20250508193758 +0000">
+    <title>Colours of Nature</title>
+    <desc>From subtle to shocking, colour enhances the beauty of the natural world. Colour is a language to most living things, whether as a warning, camouflage or a come on. But there's more to colour than just pigment. Colours define how many animals behave, how they mate and how they inter-act with one another. For us the beautiful and varied shades of the animal kingdom form a spec-tacular kaleidoscope of colours. With all the diversity in the world, sit back and enjoy all the col-ours of the animal kingdom.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_737543054_0_20250322T141840467Z_92_imageprocessorclient-tvplus-linear-6fb5b47f79-bbtvn.jpeg" />
+    <rating>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250508123455 +0000" stop="20250508132606 +0000">
@@ -3979,6 +3979,15 @@
     <title>Serial Killer Earth</title>
     <sub-title>Tornado in Aisle 12</sub-title>
     <desc>Mother Nature's worst hurricane, tornado, and Haiti earthquake wreak havoc.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533870053_0_20231012T063324407Z_71.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250508183456 +0000" stop="20250508192607 +0000">
+    <title>Serial Killer Earth</title>
+    <sub-title>Lightning Strikes Thrice</sub-title>
+    <desc>Mother Nature unleashes a barrage of attacks around the globe.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533870053_0_20231012T063324407Z_71.jpeg" />
     <rating>
       <value>TV-PG</value>
