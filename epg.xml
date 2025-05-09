@@ -3533,11 +3533,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250509200000 +0000" stop="20250509203000 +0000">
-    <title>The Breakdown</title>
-    <desc>Make sense of your world with original reporting that breaks down the world's biggest news stories.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542759671_0_20240603T112659311Z_21.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250509203000 +0000" stop="20250509213000 +0000">
     <title>CBC News Here and Now</title>
     <desc>Carolyn Stokes and Ashley Brauweiler deliver a complete package of local news and weather.</desc>
@@ -3573,23 +3568,15 @@
     <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250509200000 +0000" stop="20250509203000 +0000">
-    <title>Experiencing Canada</title>
-    <sub-title>Nova Scotia</sub-title>
-    <desc>Join Nathan in Nova Scotia to uncover the surf, sail the Bluenose II, and savor fresh oysters and lobster.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534079374_0_20231018T132748962Z_1.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250510023000 +0000" stop="20250510030000 +0000">
+    <title>CBC News NL</title>
+    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250509203000 +0000" stop="20250509210000 +0000">
-    <title>Experiencing Canada</title>
-    <sub-title>Quebec</sub-title>
-    <desc>In Quebec, Nathan kayaks the Saguenay Fjord, unwinds at a distillery, and hunts for quartz crystals.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534079374_0_20231018T132748962Z_1.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250510030000 +0000" stop="20250510040000 +0000">
+    <title>The National</title>
+    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250509210000 +0000" stop="20250509213000 +0000">
     <title>Your Weather Today</title>
@@ -3683,12 +3670,12 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250509195853 +0000" stop="20250509205251 +0000">
-    <title>History of Life on Earth  Journey To The Land</title>
-    <desc>As the first landmasses emerged from prehistoric seas, animals took their first steps on dry land. The explosion of life that followed changed the world forever.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_751726444_0_20250327T152205865Z_32_imageprocessorclient-tvplus-linear-6fb5b47f79-wzgbv.jpeg" />
+  <programme channel="CABC23000223U" start="20250510030000 +0000" stop="20250510040000 +0000">
+    <title>What If</title>
+    <desc>Take an epic journey through hypothetical worlds and possibilities.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124161_0_20231019T012929504Z_108.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250509205251 +0000" stop="20250509214922 +0000">
@@ -3750,22 +3737,31 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250509192533 +0000" stop="20250509201737 +0000">
-    <title>The Universe</title>
-    <sub-title>Time Travel</sub-title>
-    <desc>One of the Universe's most enduring mysteries is Time Travel.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478327_2_20250508T122900449Z_76_imageprocessorclient-tvplus-linear-b76dd9bbb-vbp7f.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250510021420 +0000" stop="20250510023936 +0000">
+    <title>Frontier Vets</title>
+    <sub-title>S01 E03</sub-title>
+    <desc>Roxanne let her puppy case, ‘Ripple' stay overnight at the dorm. The group – especially her roommate Charlotte - is critical of this. Not only is she using the dog as a social crutch, it's highly unprofessional to become so attached to a patient.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489143607_0_20240306T155541594Z_81.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>12</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250509201737 +0000" stop="20250509210917 +0000">
-    <title>The Universe</title>
-    <sub-title>Pulsars and Quasars</sub-title>
-    <desc>They sound like the same phenomenon, but Pulsars and Quasars are very different.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478327_2_20250508T122900449Z_76_imageprocessorclient-tvplus-linear-b76dd9bbb-vbp7f.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250510023936 +0000" stop="20250510030452 +0000">
+    <title>Frontier Vets</title>
+    <sub-title>S01 E04</sub-title>
+    <desc>Dr. Greg forces the students to attend a local Heritage Festival – something none of them are in the mood for on their ‘day off'. But will their attitudes change after witnessing the South African dance and folk customs?</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489143727_1_20240306T155541605Z_23.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="GBBB5000002PL" start="20250510030452 +0000" stop="20250510035356 +0000">
+    <title>Wild Madagascar</title>
+    <sub-title>Fantastical Creatures</sub-title>
+    <desc>Breaking off from mainland Africa 160 million years ago, refugee animals cast adrift on natural rafts arrived on the tropical shores of Madagascar.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_809931917_0_20250418T001724598Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-9rknc.jpeg" />
+    <rating>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250509210917 +0000" stop="20250509220001 +0000">
@@ -3817,6 +3813,24 @@
     <title>The Universe</title>
     <sub-title>Time Travel</sub-title>
     <desc>One of the Universe's most enduring mysteries is Time Travel.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478327_2_20250508T122900449Z_76_imageprocessorclient-tvplus-linear-b76dd9bbb-vbp7f.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250510021737 +0000" stop="20250510030918 +0000">
+    <title>The Universe</title>
+    <sub-title>Pulsars and Quasars</sub-title>
+    <desc>They sound like the same phenomenon, but Pulsars and Quasars are very different.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478327_2_20250508T122900449Z_76_imageprocessorclient-tvplus-linear-b76dd9bbb-vbp7f.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250510030918 +0000" stop="20250510040002 +0000">
+    <title>The Universe</title>
+    <sub-title>Search For ET</sub-title>
+    <desc>In a galaxy filled with a billion stars, are we alone?</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478327_2_20250508T122900449Z_76_imageprocessorclient-tvplus-linear-b76dd9bbb-vbp7f.jpeg" />
     <rating>
       <value>TV-PG</value>
