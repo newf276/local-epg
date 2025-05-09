@@ -3510,16 +3510,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250509170000 +0000" stop="20250509173000 +0000">
-    <title>Newfoundland &amp; Labrador Now</title>
-    <desc>News, investigations and community stories in NL and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
-  <programme channel="CA4600003GV" start="20250509173000 +0000" stop="20250509180000 +0000">
-    <title>Newfoundland &amp; Labrador Now</title>
-    <desc>News, investigations and community stories in NL and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250509180000 +0000" stop="20250509183000 +0000">
     <title>Newfoundland &amp; Labrador Now</title>
     <desc>News, investigations and community stories in NL and beyond.</desc>
@@ -3560,13 +3550,10 @@
     <desc>Carolyn Stokes and Ashley Brauweiler deliver a complete package of local news and weather.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186123_0_20241217T103439666Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250509170000 +0000" stop="20250509180000 +0000">
-    <title>What If</title>
-    <desc>Take an epic journey through hypothetical worlds and possibilities.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124161_0_20231019T012929504Z_108.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250509233000 +0000" stop="20250510003000 +0000">
+    <title>CBC News Here and Now</title>
+    <desc>Carolyn Stokes and Ashley Brauweiler deliver a complete package of local news and weather.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186123_0_20241217T103439666Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250509180000 +0000" stop="20250509183000 +0000">
     <title>Your Weather Today</title>
@@ -3661,21 +3648,21 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250509162752 +0000" stop="20250509172423 +0000">
-    <title>Magical Fjords</title>
-    <desc>Fjords are one of the most dramatic landscapes on Earth. But for all their beauty and majesty, the surface spectacle is just the tip of the iceberg.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_490430473_2_20240416T160229995Z_137.jpeg" />
+  <programme channel="CABC23000223U" start="20250509233000 +0000" stop="20250510000000 +0000">
+    <title>Force of Nature Rewind</title>
+    <desc>Wild and viral weather footage from across Canada and around the world</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250509172423 +0000" stop="20250509174939 +0000">
-    <title>Frontier Vets</title>
-    <sub-title>S01 E03</sub-title>
-    <desc>Roxanne let her puppy case, ‘Ripple' stay overnight at the dorm. The group – especially her roommate Charlotte - is critical of this. Not only is she using the dog as a social crutch, it's highly unprofessional to become so attached to a patient.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489143607_0_20240306T155541594Z_81.jpeg" />
+  <programme channel="CABC23000223U" start="20250510000000 +0000" stop="20250510003000 +0000">
+    <title>Power To The People</title>
+    <sub-title>Tofino</sub-title>
+    <desc>Harnessing renewable energy through a geoexchange system to cost effectively heat and cool homes and buildings</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124211_0_20231019T012926115Z_59.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250509174939 +0000" stop="20250509181455 +0000">
@@ -3747,13 +3734,12 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250509165136 +0000" stop="20250509174237 +0000">
-    <title>The Universe</title>
-    <sub-title>Death Stars</sub-title>
-    <desc>Death stars are in the final stage of life before they explode into supernovae.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478327_2_20250508T122900449Z_76_imageprocessorclient-tvplus-linear-b76dd9bbb-vbp7f.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250509232857 +0000" stop="20250510002351 +0000">
+    <title>Extinction! Going, Going, Gone</title>
+    <desc>Extinction, a daunting and confusing word. A force of nature, that sees the end of species, but also heralds the birth of others. Right now the extinction rate could be as much as 10,000 times faster than it should be. 20% of fish, a fifth of all reptiles and a quarter of mammals face extinction. If we are to do anything to stem the tide of extinction we must understand the lifestyles of those in danger. The future for countless animals is uncertain, but one thing is for sure – we have a lot to learn.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_805020133_0_20250416T062239114Z_83_imageprocessorclient-tvplus-linear-6fb5b47f79-xd9xm.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250509174237 +0000" stop="20250509183323 +0000">
@@ -3814,6 +3800,15 @@
     <title>The Universe</title>
     <sub-title>Death Stars</sub-title>
     <desc>Death stars are in the final stage of life before they explode into supernovae.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478327_2_20250508T122900449Z_76_imageprocessorclient-tvplus-linear-b76dd9bbb-vbp7f.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250509234238 +0000" stop="20250510003324 +0000">
+    <title>The Universe</title>
+    <sub-title>Nebulas</sub-title>
+    <desc>View what are considered the "crown jewels" of the heavens.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478327_2_20250508T122900449Z_76_imageprocessorclient-tvplus-linear-b76dd9bbb-vbp7f.jpeg" />
     <rating>
       <value>TV-PG</value>
