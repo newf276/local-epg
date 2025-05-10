@@ -3657,16 +3657,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250510183000 +0000" stop="20250510193000 +0000">
-    <title>This Week's Top Stories</title>
-    <desc>The big stories that made news across Canada and the world this week.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550207986_0_20241103T002715072Z_115_imageprocessorclient-tvplus-linear-5dc4fd45f6-kmjnf.jpeg" />
-  </programme>
-  <programme channel="CA4600003GV" start="20250510193000 +0000" stop="20250510200000 +0000">
-    <title>Documentary</title>
-    <desc>Features some of the best documentary work done by the CBC in the last 50 years.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186118_0_20241217T103439312Z_124_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250510200000 +0000" stop="20250510203000 +0000">
     <title>Documentary</title>
     <desc>Features some of the best documentary work done by the CBC in the last 50 years.</desc>
@@ -3717,21 +3707,15 @@
     <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250510190000 +0000" stop="20250510193000 +0000">
-    <title>Force of Nature Rewind</title>
-    <desc>Wild and viral weather footage from across Canada and around the world</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250511013000 +0000" stop="20250511020000 +0000">
+    <title>CBC News: Atlantic Tonight</title>
+    <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250510193000 +0000" stop="20250510200000 +0000">
-    <title>Force of Nature Rewind</title>
-    <desc>Wild and viral weather footage from across Canada and around the world</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250511020000 +0000" stop="20250511023000 +0000">
+    <title>CBC News: Atlantic Tonight</title>
+    <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250510200000 +0000" stop="20250510210000 +0000">
     <title>What If</title>
@@ -3808,13 +3792,13 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250510182232 +0000" stop="20250510191904 +0000">
-    <title>Lion</title>
-    <sub-title>Africa's Super Power</sub-title>
-    <desc>The endless plains of East Africa is a paradise for lions. The most social of all cats, lions form prides that are unlike any other animals. Together, they'll hunt, raise their young and defend their territory. With such a close family and plentiful home, the pride welcomes new babies every year. But new children introduces new dangers. The cubs will have to trust their instincts, their mother and the power of the pride if they are to make it to adulthood and take their place on the African plains.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_485221451_0_20231013T023057605Z_1.jpeg" />
+  <programme channel="CABC23000223U" start="20250511020000 +0000" stop="20250511030000 +0000">
+    <title>Survivorman</title>
+    <sub-title>Tonga</sub-title>
+    <desc>Les and Bob must rely on their extensive wilderness skills – and luck – if they hope to survive.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534285350_0_20231024T163742475Z_50.jpeg" />
     <rating>
-      <value>NA</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250510191904 +0000" stop="20250510201536 +0000">
@@ -3877,13 +3861,12 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250510183509 +0000" stop="20250510192633 +0000">
-    <title>How The Earth Was Made</title>
-    <sub-title>Iceland</sub-title>
-    <desc>Largest, most fearsome volcanic island, we'll explore Iceland's fiery mystery.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478335_0_20250508T122902170Z_150_imageprocessorclient-tvplus-linear-b76dd9bbb-bpgg8.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250511013344 +0000" stop="20250511023015 +0000">
+    <title>Giants of Europe</title>
+    <desc>Once upon a time, huge beasts roamed Europe. But these magnificent creatures were driven out by our greed, and we are only now starting to realise how poor our landscapes are without them. Mercifully, this realisation has started to fuel an exciting change of fortunes for Europe's wildlife.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_490556326_1_20240419T163151801Z_58.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250510192633 +0000" stop="20250510201758 +0000">
@@ -3944,6 +3927,15 @@
     <title>How The Earth Was Made</title>
     <sub-title>Iceland</sub-title>
     <desc>Largest, most fearsome volcanic island, we'll explore Iceland's fiery mystery.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478335_0_20250508T122902170Z_150_imageprocessorclient-tvplus-linear-b76dd9bbb-bpgg8.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250511012634 +0000" stop="20250511021759 +0000">
+    <title>How The Earth Was Made</title>
+    <sub-title>Sahara</sub-title>
+    <desc>Africa's Sahara Desert is the size of the United States.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478335_0_20250508T122902170Z_150_imageprocessorclient-tvplus-linear-b76dd9bbb-bpgg8.jpeg" />
     <rating>
       <value>TV-PG</value>
