@@ -3601,16 +3601,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250510040000 +0000" stop="20250510043000 +0000">
-    <title>CBC News NL</title>
-    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
-  <programme channel="CA4600003GV" start="20250510043000 +0000" stop="20250510050000 +0000">
-    <title>CBC News NL</title>
-    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250510050000 +0000" stop="20250510060000 +0000">
     <title>The National</title>
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
@@ -3651,13 +3641,15 @@
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250510040000 +0000" stop="20250510050000 +0000">
-    <title>Your Body On</title>
-    <desc>Putting the human body to the “What if” test.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124532_0_20231019T012926060Z_69.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250510103000 +0000" stop="20250510110000 +0000">
+    <title>CBC News NL</title>
+    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
+  </programme>
+  <programme channel="CA4600003GV" start="20250510110000 +0000" stop="20250510113000 +0000">
+    <title>CBC News NL</title>
+    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250510050000 +0000" stop="20250510060000 +0000">
     <title>Survivorman: Bigfoot</title>
@@ -3740,12 +3732,20 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250510035356 +0000" stop="20250510050000 +0000">
-    <title>Extinction! Going, Going, Gone</title>
-    <desc>Extinction, a daunting and confusing word. A force of nature, that sees the end of species, but also heralds the birth of others. Right now the extinction rate could be as much as 10,000 times faster than it should be. 20% of fish, a fifth of all reptiles and a quarter of mammals face extinction. If we are to do anything to stem the tide of extinction we must understand the lifestyles of those in danger. The future for countless animals is uncertain, but one thing is for sure – we have a lot to learn.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_805020133_0_20250416T062239114Z_83_imageprocessorclient-tvplus-linear-6fb5b47f79-xd9xm.jpeg" />
+  <programme channel="CABC23000223U" start="20250510103000 +0000" stop="20250510110000 +0000">
+    <title>Force of Nature Rewind</title>
+    <desc>Wild and viral weather footage from across Canada and around the world</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="CABC23000223U" start="20250510110000 +0000" stop="20250510113000 +0000">
+    <title>Weather AM</title>
+    <desc>Get your local forecast and weather headlines from right here in Canada, and around the globe.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_539709218_0_20240321T153330644Z_1.jpeg" />
+    <rating>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250510050000 +0000" stop="20250510055632 +0000">
@@ -3800,13 +3800,12 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250510040002 +0000" stop="20250510045137 +0000">
-    <title>The Universe</title>
-    <sub-title>10 Ways to Destroy the Earth</sub-title>
-    <desc>In this episode, our experts cook up ten ways you could destroy the earth.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478327_2_20250508T122900449Z_76_imageprocessorclient-tvplus-linear-b76dd9bbb-vbp7f.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250510102403 +0000" stop="20250510112035 +0000">
+    <title>Lions Rule</title>
+    <desc>On the African plains lions rule. They're not the biggest or fastest animals around, but stealth, teamwork and the strength of the pride means they almost always come out on top.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489916360_1_20240402T180917487Z_15.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250510045137 +0000" stop="20250510054239 +0000">
@@ -3867,6 +3866,15 @@
     <title>How The Earth Was Made</title>
     <sub-title>Yellowstone</sub-title>
     <desc>Yellowstone National Park is one of the most dangerous geo features on Earth.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478335_0_20250508T122902170Z_150_imageprocessorclient-tvplus-linear-b76dd9bbb-bpgg8.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250510105104 +0000" stop="20250510114358 +0000">
+    <title>How The Earth Was Made</title>
+    <sub-title>New York</sub-title>
+    <desc>It is one of the most man-made spaces on the planet.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478335_0_20250508T122902170Z_150_imageprocessorclient-tvplus-linear-b76dd9bbb-bpgg8.jpeg" />
     <rating>
       <value>TV-PG</value>
