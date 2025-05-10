@@ -3647,16 +3647,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250510093000 +0000" stop="20250510103000 +0000">
-    <title>The National</title>
-    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
-  </programme>
-  <programme channel="CA4600003GV" start="20250510103000 +0000" stop="20250510110000 +0000">
-    <title>CBC News NL</title>
-    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250510110000 +0000" stop="20250510113000 +0000">
     <title>CBC News NL</title>
     <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
@@ -3697,21 +3687,10 @@
     <desc>Andrew Chang expands our understanding of the stories everybody's talking about.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515038_0_20240529T053048695Z_102.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250510100000 +0000" stop="20250510103000 +0000">
-    <title>Weather AM</title>
-    <desc>Get your local forecast and weather headlines from right here in Canada, and around the globe.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_539709218_0_20240321T153330644Z_1.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="CABC23000223U" start="20250510103000 +0000" stop="20250510110000 +0000">
-    <title>Force of Nature Rewind</title>
-    <desc>Wild and viral weather footage from across Canada and around the world</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250510163000 +0000" stop="20250510173000 +0000">
+    <title>This Week's Top Stories</title>
+    <desc>The big stories that made news across Canada and the world this week.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550207986_0_20241103T002715072Z_115_imageprocessorclient-tvplus-linear-5dc4fd45f6-kmjnf.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250510110000 +0000" stop="20250510113000 +0000">
     <title>Weather AM</title>
@@ -3802,13 +3781,13 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250510092731 +0000" stop="20250510102403 +0000">
-    <title>Lion</title>
-    <sub-title>Africa's Super Power</sub-title>
-    <desc>The endless plains of East Africa is a paradise for lions. The most social of all cats, lions form prides that are unlike any other animals. Together, they'll hunt, raise their young and defend their territory. With such a close family and plentiful home, the pride welcomes new babies every year. But new children introduces new dangers. The cubs will have to trust their instincts, their mother and the power of the pride if they are to make it to adulthood and take their place on the African plains.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_485221451_0_20231013T023057605Z_1.jpeg" />
+  <programme channel="CABC23000223U" start="20250510170000 +0000" stop="20250510180000 +0000">
+    <title>Survivorman</title>
+    <sub-title>Tonga</sub-title>
+    <desc>Les and Bob must rely on their extensive wilderness skills – and luck – if they hope to survive.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534285350_0_20231024T163742475Z_50.jpeg" />
     <rating>
-      <value>NA</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250510102403 +0000" stop="20250510112035 +0000">
@@ -3871,13 +3850,12 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250510095959 +0000" stop="20250510105104 +0000">
-    <title>How The Earth Was Made</title>
-    <sub-title>Yellowstone</sub-title>
-    <desc>Yellowstone National Park is one of the most dangerous geo features on Earth.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478335_0_20250508T122902170Z_150_imageprocessorclient-tvplus-linear-b76dd9bbb-bpgg8.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250510163843 +0000" stop="20250510173514 +0000">
+    <title>Giants of Europe</title>
+    <desc>Once upon a time, huge beasts roamed Europe. But these magnificent creatures were driven out by our greed, and we are only now starting to realise how poor our landscapes are without them. Mercifully, this realisation has started to fuel an exciting change of fortunes for Europe's wildlife.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_490556326_1_20240419T163151801Z_58.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250510105104 +0000" stop="20250510114358 +0000">
@@ -3938,6 +3916,15 @@
     <title>How The Earth Was Made</title>
     <sub-title>Yellowstone</sub-title>
     <desc>Yellowstone National Park is one of the most dangerous geo features on Earth.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478335_0_20250508T122902170Z_150_imageprocessorclient-tvplus-linear-b76dd9bbb-bpgg8.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250510165105 +0000" stop="20250510174359 +0000">
+    <title>How The Earth Was Made</title>
+    <sub-title>New York</sub-title>
+    <desc>It is one of the most man-made spaces on the planet.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478335_0_20250508T122902170Z_150_imageprocessorclient-tvplus-linear-b76dd9bbb-bpgg8.jpeg" />
     <rating>
       <value>TV-PG</value>
