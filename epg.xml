@@ -3572,11 +3572,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250510010000 +0000" stop="20250510020000 +0000">
-    <title>The National</title>
-    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250510020000 +0000" stop="20250510023000 +0000">
     <title>CBC News NL</title>
     <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
@@ -3622,21 +3617,10 @@
     <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250510010000 +0000" stop="20250510013000 +0000">
-    <title>Force of Nature Rewind</title>
-    <desc>Wild and viral weather footage from across Canada and around the world</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="CABC23000223U" start="20250510013000 +0000" stop="20250510020000 +0000">
-    <title>Force of Nature Rewind</title>
-    <desc>Wild and viral weather footage from across Canada and around the world</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250510073000 +0000" stop="20250510083000 +0000">
+    <title>The National</title>
+    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250510020000 +0000" stop="20250510030000 +0000">
     <title>Survivorman</title>
@@ -3696,12 +3680,20 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250510002351 +0000" stop="20250510011750 +0000">
-    <title>History of Life on Earth  Journey To The Land</title>
-    <desc>As the first landmasses emerged from prehistoric seas, animals took their first steps on dry land. The explosion of life that followed changed the world forever.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_751726444_0_20250327T152205865Z_32_imageprocessorclient-tvplus-linear-6fb5b47f79-wzgbv.jpeg" />
+  <programme channel="CABC23000223U" start="20250510073000 +0000" stop="20250510080000 +0000">
+    <title>Dream In Colour</title>
+    <desc>Get lost in the breathtaking beauty of Canadian and international landscapes</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124152_0_20231019T012929571Z_80.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="CABC23000223U" start="20250510080000 +0000" stop="20250510083000 +0000">
+    <title>Dream In Colour</title>
+    <desc>Get lost in the breathtaking beauty of Canadian and international landscapes</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124152_0_20231019T012929571Z_80.jpeg" />
+    <rating>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250510011750 +0000" stop="20250510021420 +0000">
@@ -3773,13 +3765,12 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250510003324 +0000" stop="20250510012534 +0000">
-    <title>The Universe</title>
-    <sub-title>Light Speed</sub-title>
-    <desc>According to laws of physics we can never travel faster than the speed of light.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478327_2_20250508T122900449Z_76_imageprocessorclient-tvplus-linear-b76dd9bbb-vbp7f.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250510074341 +0000" stop="20250510084013 +0000">
+    <title>Giants of Europe</title>
+    <desc>Once upon a time, huge beasts roamed Europe. But these magnificent creatures were driven out by our greed, and we are only now starting to realise how poor our landscapes are without them. Mercifully, this realisation has started to fuel an exciting change of fortunes for Europe's wildlife.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_490556326_1_20240419T163151801Z_58.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250510012534 +0000" stop="20250510021737 +0000">
@@ -3840,6 +3831,15 @@
     <title>The Universe</title>
     <sub-title>Light Speed</sub-title>
     <desc>According to laws of physics we can never travel faster than the speed of light.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478327_2_20250508T122900449Z_76_imageprocessorclient-tvplus-linear-b76dd9bbb-vbp7f.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250510072535 +0000" stop="20250510081738 +0000">
+    <title>The Universe</title>
+    <sub-title>Time Travel</sub-title>
+    <desc>One of the Universe's most enduring mysteries is Time Travel.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478327_2_20250508T122900449Z_76_imageprocessorclient-tvplus-linear-b76dd9bbb-vbp7f.jpeg" />
     <rating>
       <value>TV-PG</value>
