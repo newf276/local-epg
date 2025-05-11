@@ -3387,16 +3387,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250511160000 +0000" stop="20250511163000 +0000">
-    <title>Marketplace</title>
-    <desc>Whether a slick scam, misleading marketing claim or maddening customer service, Marketplace has got your back.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925924_0_20241213T120008100Z_23_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
-  </programme>
-  <programme channel="CA4600003GV" start="20250511163000 +0000" stop="20250511170000 +0000">
-    <title>Marketplace</title>
-    <desc>Whether a slick scam, misleading marketing claim or maddening customer service, Marketplace has got your back.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925924_0_20241213T120008100Z_23_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250511170000 +0000" stop="20250511180000 +0000">
     <title>This Week's Top Stories</title>
     <desc>The big stories that made news across Canada and the world this week.</desc>
@@ -3427,14 +3417,15 @@
     <desc>Features some of the best documentary work done by the CBC in the last 50 years.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186118_0_20241217T103439312Z_124_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250511160000 +0000" stop="20250511170000 +0000">
-    <title>Survivorman</title>
-    <sub-title>Oregon</sub-title>
-    <desc>Les mirrors the story of a family who nearly perished when they got lost only 1700 ft from their car in Oregon</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534285350_0_20231024T163742475Z_50.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250511223000 +0000" stop="20250511230000 +0000">
+    <title>Documentary</title>
+    <desc>Features some of the best documentary work done by the CBC in the last 50 years.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186118_0_20241217T103439312Z_124_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
+  </programme>
+  <programme channel="CA4600003GV" start="20250511230000 +0000" stop="20250511233000 +0000">
+    <title>Marketplace</title>
+    <desc>Whether a slick scam, misleading marketing claim or maddening customer service, Marketplace has got your back.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925924_0_20241213T120008100Z_23_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250511170000 +0000" stop="20250511180000 +0000">
     <title>Survivorman</title>
@@ -3515,12 +3506,13 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250511154323 +0000" stop="20250511163616 +0000">
-    <title>Colours of Nature</title>
-    <desc>From subtle to shocking, colour enhances the beauty of the natural world. Colour is a language to most living things, whether as a warning, camouflage or a come on. But there's more to colour than just pigment. Colours define how many animals behave, how they mate and how they inter-act with one another. For us the beautiful and varied shades of the animal kingdom form a spec-tacular kaleidoscope of colours. With all the diversity in the world, sit back and enjoy all the col-ours of the animal kingdom.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_737543054_0_20250322T141840467Z_92_imageprocessorclient-tvplus-linear-6fb5b47f79-bbtvn.jpeg" />
+  <programme channel="CABC23000223U" start="20250511230000 +0000" stop="20250511233000 +0000">
+    <title>Experiencing Canada</title>
+    <sub-title>Newfoundland and Labrador</sub-title>
+    <desc>Journey to Newfoundland's easternmost point with Nathan to see whales, icebergs, puffins, and cocktails.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534079374_0_20231018T132748962Z_1.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250511163616 +0000" stop="20250511172519 +0000">
@@ -3583,13 +3575,12 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250511160000 +0000" stop="20250511165135 +0000">
-    <title>The Universe</title>
-    <sub-title>Liquid Universe</sub-title>
-    <desc>The magical liquids of our Liquid Universe.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478327_2_20250508T122900449Z_76_imageprocessorclient-tvplus-linear-b76dd9bbb-vbp7f.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250511224136 +0000" stop="20250511233809 +0000">
+    <title>Bucketlist Africa</title>
+    <desc>Africa: one of the most iconic and diverse continents. It's packed with a spectacular range of habitats and environments, and home to some of the best loved and dramatic wildlife on the planet. From the small and surprising to the enormous and entertaining, there's something for everyone's bucket list on this vast continent. From camels to giraffes, gorillas to buffalo, the sheer range of wildlife found in Africa is unbelievable. With so much to see, where would you begin your bucket list adventure?</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_485221451_0_20231013T023057605Z_1.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>NA</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250511165135 +0000" stop="20250511174346 +0000">
@@ -3650,6 +3641,15 @@
     <title>The Universe</title>
     <sub-title>Liquid Universe</sub-title>
     <desc>The magical liquids of our Liquid Universe.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478327_2_20250508T122900449Z_76_imageprocessorclient-tvplus-linear-b76dd9bbb-vbp7f.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250511225135 +0000" stop="20250511234346 +0000">
+    <title>The Universe</title>
+    <sub-title>Space Travel</sub-title>
+    <desc>Explore the science behind the seemingly fanciful notion of warp-drive.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478327_2_20250508T122900449Z_76_imageprocessorclient-tvplus-linear-b76dd9bbb-vbp7f.jpeg" />
     <rating>
       <value>TV-PG</value>
