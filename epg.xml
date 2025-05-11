@@ -3426,16 +3426,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250511130000 +0000" stop="20250511133000 +0000">
-    <title>CBC News: Atlantic Tonight</title>
-    <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
-  <programme channel="CA4600003GV" start="20250511133000 +0000" stop="20250511140000 +0000">
-    <title>CBC News: Atlantic Tonight</title>
-    <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250511140000 +0000" stop="20250511143000 +0000">
     <title>About That</title>
     <desc>Andrew Chang expands our understanding of the stories everybody's talking about.</desc>
@@ -3481,21 +3471,10 @@
     <desc>The big stories that made news across Canada and the world this week.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550207986_0_20241103T002715072Z_115_imageprocessorclient-tvplus-linear-5dc4fd45f6-kmjnf.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250511130000 +0000" stop="20250511133000 +0000">
-    <title>Weather AM</title>
-    <desc>Get your local forecast and weather headlines from right here in Canada, and around the globe.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_539709218_0_20240321T153330644Z_1.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="CABC23000223U" start="20250511133000 +0000" stop="20250511140000 +0000">
-    <title>Force of Nature Rewind</title>
-    <desc>Wild and viral weather footage from across Canada and around the world</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250511200000 +0000" stop="20250511220000 +0000">
+    <title>Cross Country Check Up</title>
+    <desc>Cross Country Checkup is Canada's only national phone-in show, broadcasting live from coast to coast to coast.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_551966561_0_20241129T142758403Z_104_imageprocessorclient-tvplus-linear-5dc4fd45f6-5r449.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250511140000 +0000" stop="20250511143000 +0000">
     <title>Weather AM</title>
@@ -3576,13 +3555,21 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250511125955 +0000" stop="20250511135048 +0000">
-    <title>Jaguar</title>
-    <sub-title>King of the Jungle</sub-title>
-    <desc>One of the most powerful yet elusive animals on the planet, we follow one male to reveal the secret life of the jaguar.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_809051480_0_20250417T162222867Z_3_imageprocessorclient-tvplus-linear-6fb5b47f79-84mv4.jpeg" />
+  <programme channel="CABC23000223U" start="20250511193000 +0000" stop="20250511200000 +0000">
+    <title>Experiencing Canada</title>
+    <sub-title>Quebec</sub-title>
+    <desc>In Quebec, Nathan kayaks the Saguenay Fjord, unwinds at a distillery, and hunts for quartz crystals.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534079374_0_20231018T132748962Z_1.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="CABC23000223U" start="20250511200000 +0000" stop="20250511210000 +0000">
+    <title>What If</title>
+    <desc>Take an epic journey through hypothetical worlds and possibilities.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124161_0_20231019T012929504Z_108.jpeg" />
+    <rating>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250511135048 +0000" stop="20250511144721 +0000">
@@ -3635,13 +3622,20 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250511123556 +0000" stop="20250511132807 +0000">
-    <title>The Universe</title>
-    <sub-title>Cosmic Holes</sub-title>
-    <desc>Scientists are trying to confirm that other holes lurk in hyperspace.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478327_2_20250508T122900449Z_76_imageprocessorclient-tvplus-linear-b76dd9bbb-vbp7f.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250511191245 +0000" stop="20250511200847 +0000">
+    <title>Enchanted Forest</title>
+    <desc>There are few places on the planet more magical than the forest. To spend a day here is nature's way of offering a spa, a bathe in nature. There is enchantment at every turn.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489826915_0_20240330T155555826Z_46.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="GBBB5000002PL" start="20250511200847 +0000" stop="20250511210140 +0000">
+    <title>Colours of Nature</title>
+    <desc>From subtle to shocking, colour enhances the beauty of the natural world. Colour is a language to most living things, whether as a warning, camouflage or a come on. But there's more to colour than just pigment. Colours define how many animals behave, how they mate and how they inter-act with one another. For us the beautiful and varied shades of the animal kingdom form a spec-tacular kaleidoscope of colours. With all the diversity in the world, sit back and enjoy all the col-ours of the animal kingdom.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_737543054_0_20250322T141840467Z_92_imageprocessorclient-tvplus-linear-6fb5b47f79-bbtvn.jpeg" />
+    <rating>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250511132807 +0000" stop="20250511141840 +0000">
@@ -3702,6 +3696,15 @@
     <title>The Universe</title>
     <sub-title>Cosmic Holes</sub-title>
     <desc>Scientists are trying to confirm that other holes lurk in hyperspace.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478327_2_20250508T122900449Z_76_imageprocessorclient-tvplus-linear-b76dd9bbb-vbp7f.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250511192807 +0000" stop="20250511201841 +0000">
+    <title>The Universe</title>
+    <sub-title>7 Wonders of the Solar System</sub-title>
+    <desc>We are in the midst of the greatest era of space discovery.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478327_2_20250508T122900449Z_76_imageprocessorclient-tvplus-linear-b76dd9bbb-vbp7f.jpeg" />
     <rating>
       <value>TV-PG</value>
