@@ -3295,11 +3295,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250512110000 +0000" stop="20250512113000 +0000">
-    <title>CBC News: Atlantic Tonight</title>
-    <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250512113000 +0000" stop="20250512123000 +0000">
     <title>The National</title>
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
@@ -3355,21 +3350,15 @@
     <desc>News, investigations and community stories in NL and beyond.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250512110000 +0000" stop="20250512113000 +0000">
-    <title>Weather AM</title>
-    <desc>Get your local forecast and weather headlines from right here in Canada, and around the globe.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_539709218_0_20240321T153330644Z_1.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250512173000 +0000" stop="20250512180000 +0000">
+    <title>Newfoundland &amp; Labrador Now</title>
+    <desc>News, investigations and community stories in NL and beyond.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250512113000 +0000" stop="20250512120000 +0000">
-    <title>Force of Nature Rewind</title>
-    <desc>Wild and viral weather footage from across Canada and around the world</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250512180000 +0000" stop="20250512183000 +0000">
+    <title>Newfoundland &amp; Labrador Now</title>
+    <desc>News, investigations and community stories in NL and beyond.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250512120000 +0000" stop="20250512123000 +0000">
     <title>Weather AM</title>
@@ -3456,13 +3445,12 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250512103355 +0000" stop="20250512113214 +0000">
-    <title>Europe's Wilderness</title>
-    <sub-title>S01 E01</sub-title>
-    <desc>The Bearded Vulture is one of the largest birds of prey in Europe and one of the rarest. With its habitat above the treeline in the alpine mountains, we see one of the largest airworthy birds fly loops during its courtship days and flight for survival on the steep slopes.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489713094_0_20240326T160607130Z_35.jpeg" />
+  <programme channel="CABC23000223U" start="20250512180000 +0000" stop="20250512183000 +0000">
+    <title>Your Weather Today</title>
+    <desc>National and local forecast details for across the country</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_1176632344_0_20250417T122612093Z_52_imageprocessorclient-tvplus-linear-b76dd9bbb-28957.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250512113214 +0000" stop="20250512123050 +0000">
@@ -3527,13 +3515,12 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250512105124 +0000" stop="20250512114248 +0000">
-    <title>Mega Disasters</title>
-    <sub-title>Alien Infection</sub-title>
-    <desc>Could Mars craft or comet dust bring alien epidemics?</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478331_1_20250508T122857864Z_102_imageprocessorclient-tvplus-linear-b76dd9bbb-28957.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250512171417 +0000" stop="20250512181938 +0000">
+    <title>Uncharted Amazon</title>
+    <desc>Deep in the jungles of Peru, a silky anteater is fighting to stay awake and a mother humming bird is struggling to raise her chick. The seasonal downpours are about to begin and the rainforest's animals must strive to cope with the changing conditions. Through millions of years of evolution they have developed bizarre relationships and unexpected strategies to overcome them, but for all their ingenuity, they were never prepared for the arrival of a new species on the scene.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_486195980_0_20231116T023803512Z_52.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>NA</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250512114248 +0000" stop="20250512123244 +0000">
@@ -3594,6 +3581,15 @@
     <title>Mega Disasters</title>
     <sub-title>Alien Infection</sub-title>
     <desc>Could Mars craft or comet dust bring alien epidemics?</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478331_1_20250508T122857864Z_102_imageprocessorclient-tvplus-linear-b76dd9bbb-28957.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250512174249 +0000" stop="20250512183245 +0000">
+    <title>Mega Disasters</title>
+    <sub-title>Noah's Great Flood</sub-title>
+    <desc>Could Noah's tale be real? The Mediterranean once surged wildly.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478331_1_20250508T122857864Z_102_imageprocessorclient-tvplus-linear-b76dd9bbb-28957.jpeg" />
     <rating>
       <value>TV-PG</value>
