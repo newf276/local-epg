@@ -3343,16 +3343,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250512170000 +0000" stop="20250512173000 +0000">
-    <title>Newfoundland &amp; Labrador Now</title>
-    <desc>News, investigations and community stories in NL and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
-  <programme channel="CA4600003GV" start="20250512173000 +0000" stop="20250512180000 +0000">
-    <title>Newfoundland &amp; Labrador Now</title>
-    <desc>News, investigations and community stories in NL and beyond.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250512180000 +0000" stop="20250512183000 +0000">
     <title>Newfoundland &amp; Labrador Now</title>
     <desc>News, investigations and community stories in NL and beyond.</desc>
@@ -3393,13 +3383,10 @@
     <desc>Carolyn Stokes and Ashley Brauweiler deliver a complete package of local news and weather.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186123_0_20241217T103439666Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250512170000 +0000" stop="20250512180000 +0000">
-    <title>What If</title>
-    <desc>Take an epic journey through hypothetical worlds and possibilities.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124161_0_20231019T012929504Z_108.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250512233000 +0000" stop="20250513003000 +0000">
+    <title>CBC News Here and Now</title>
+    <desc>Carolyn Stokes and Ashley Brauweiler deliver a complete package of local news and weather.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186123_0_20241217T103439666Z_130_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250512180000 +0000" stop="20250512183000 +0000">
     <title>Your Weather Today</title>
@@ -3490,13 +3477,21 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250512161540 +0000" stop="20250512171417 +0000">
-    <title>Europe's Wilderness</title>
-    <sub-title>S01 E02</sub-title>
-    <desc>The Grey Seal is Europe's largest water prediator. With its habitat in the fish rich costal areas in cool but not arctic waters we discover that recreation in the sun plays a major role for the seal, but we also see it raiding in dangerous waters.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489713170_0_20240326T160607150Z_29.jpeg" />
+  <programme channel="CABC23000223U" start="20250512233000 +0000" stop="20250513000000 +0000">
+    <title>Force of Nature Rewind</title>
+    <desc>Wild and viral weather footage from across Canada and around the world</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="CABC23000223U" start="20250513000000 +0000" stop="20250513003000 +0000">
+    <title>Power To The People</title>
+    <sub-title>Kluane</sub-title>
+    <desc>With climate change reshaping their environment, Kluane First Nation is looking to empower their people</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124211_0_20231019T012926115Z_59.jpeg" />
+    <rating>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250512171417 +0000" stop="20250512181938 +0000">
@@ -3569,13 +3564,22 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250512165125 +0000" stop="20250512174249 +0000">
-    <title>Mega Disasters</title>
-    <sub-title>Alien Infection</sub-title>
-    <desc>Could Mars craft or comet dust bring alien epidemics?</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478331_1_20250508T122857864Z_102_imageprocessorclient-tvplus-linear-b76dd9bbb-28957.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250512232821 +0000" stop="20250512235348 +0000">
+    <title>Frontier Vets</title>
+    <sub-title>S01 E06</sub-title>
+    <desc>Agatha is feeling motivated again only to learn that she actually failed her exams and must leave the residency.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489174874_2_20240307T153222036Z_62.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="GBBB5000002PL" start="20250512235348 +0000" stop="20250513004416 +0000">
+    <title>Aging in the Wild</title>
+    <sub-title>S01 E01</sub-title>
+    <desc>In this episode, we explore how different animal species react to impending death. We explore the factors that lead animals to their final resting places: disease, injury, predation, drought, famine.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_863149149_0_20250506T161726399Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-rwfm2.jpeg" />
+    <rating>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250512174249 +0000" stop="20250512183245 +0000">
@@ -3636,6 +3640,15 @@
     <title>Mega Disasters</title>
     <sub-title>Alien Infection</sub-title>
     <desc>Could Mars craft or comet dust bring alien epidemics?</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478331_1_20250508T122857864Z_102_imageprocessorclient-tvplus-linear-b76dd9bbb-28957.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250512234250 +0000" stop="20250513003246 +0000">
+    <title>Mega Disasters</title>
+    <sub-title>Noah's Great Flood</sub-title>
+    <desc>Could Noah's tale be real? The Mediterranean once surged wildly.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478331_1_20250508T122857864Z_102_imageprocessorclient-tvplus-linear-b76dd9bbb-28957.jpeg" />
     <rating>
       <value>TV-PG</value>
