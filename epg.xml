@@ -3317,11 +3317,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250512200000 +0000" stop="20250512203000 +0000">
-    <title>The Breakdown</title>
-    <desc>Make sense of your world with original reporting that breaks down the world's biggest news stories.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542759671_0_20240603T112659311Z_21.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250512203000 +0000" stop="20250512213000 +0000">
     <title>CBC News Here and Now</title>
     <desc>Carolyn Stokes and Ashley Brauweiler deliver a complete package of local news and weather.</desc>
@@ -3357,21 +3352,15 @@
     <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250512200000 +0000" stop="20250512203000 +0000">
-    <title>Your Weather Today</title>
-    <desc>National and local forecast details for across the country</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_1176632344_0_20250417T122612093Z_52_imageprocessorclient-tvplus-linear-b76dd9bbb-28957.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250513023000 +0000" stop="20250513030000 +0000">
+    <title>CBC News NL</title>
+    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250512203000 +0000" stop="20250512210000 +0000">
-    <title>Force of Nature Rewind</title>
-    <desc>Wild and viral weather footage from across Canada and around the world</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250513030000 +0000" stop="20250513040000 +0000">
+    <title>The National</title>
+    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250512210000 +0000" stop="20250512213000 +0000">
     <title>Your Weather Today</title>
@@ -3465,13 +3454,12 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250512200049 +0000" stop="20250512205907 +0000">
-    <title>Europe's Wilderness</title>
-    <sub-title>S01 E01</sub-title>
-    <desc>The Bearded Vulture is one of the largest birds of prey in Europe and one of the rarest. With its habitat above the treeline in the alpine mountains, we see one of the largest airworthy birds fly loops during its courtship days and flight for survival on the steep slopes.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489713094_0_20240326T160607130Z_35.jpeg" />
+  <programme channel="CABC23000223U" start="20250513030000 +0000" stop="20250513040000 +0000">
+    <title>What If</title>
+    <desc>Take an epic journey through hypothetical worlds and possibilities.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124161_0_20231019T012929504Z_108.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250512205907 +0000" stop="20250512215744 +0000">
@@ -3536,22 +3524,12 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250512192430 +0000" stop="20250512201618 +0000">
-    <title>Mega Disasters</title>
-    <sub-title>Tornado Alley Twister</sub-title>
-    <desc>Intense tornado hits Dallas, Texas with 318 mph winds, carving mile-wide path.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478331_1_20250508T122857864Z_102_imageprocessorclient-tvplus-linear-b76dd9bbb-28957.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250513024111 +0000" stop="20250513034632 +0000">
+    <title>Uncharted Amazon</title>
+    <desc>Deep in the jungles of Peru, a silky anteater is fighting to stay awake and a mother humming bird is struggling to raise her chick. The seasonal downpours are about to begin and the rainforest's animals must strive to cope with the changing conditions. Through millions of years of evolution they have developed bizarre relationships and unexpected strategies to overcome them, but for all their ingenuity, they were never prepared for the arrival of a new species on the scene.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_486195980_0_20231116T023803512Z_52.jpeg" />
     <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme channel="US900001CX" start="20250512201618 +0000" stop="20250512210803 +0000">
-    <title>Mega Disasters</title>
-    <sub-title>East Coast Tsunami</sub-title>
-    <desc>Exploring possibility of a U.S east coast tsunami amid other disasters.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478331_1_20250508T122857864Z_102_imageprocessorclient-tvplus-linear-b76dd9bbb-28957.jpeg" />
-    <rating>
-      <value>TV-PG</value>
+      <value>NA</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250512210803 +0000" stop="20250512220001 +0000">
@@ -3603,6 +3581,24 @@
     <title>Mega Disasters</title>
     <sub-title>Tornado Alley Twister</sub-title>
     <desc>Intense tornado hits Dallas, Texas with 318 mph winds, carving mile-wide path.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478331_1_20250508T122857864Z_102_imageprocessorclient-tvplus-linear-b76dd9bbb-28957.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250513021619 +0000" stop="20250513030804 +0000">
+    <title>Mega Disasters</title>
+    <sub-title>East Coast Tsunami</sub-title>
+    <desc>Exploring possibility of a U.S east coast tsunami amid other disasters.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478331_1_20250508T122857864Z_102_imageprocessorclient-tvplus-linear-b76dd9bbb-28957.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250513030804 +0000" stop="20250513040002 +0000">
+    <title>Mega Disasters</title>
+    <sub-title>L.A.'s Killer Quake</sub-title>
+    <desc>It has been a century since the infamous 1906 San Francisco earthquake.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478331_1_20250508T122857864Z_102_imageprocessorclient-tvplus-linear-b76dd9bbb-28957.jpeg" />
     <rating>
       <value>TV-PG</value>
