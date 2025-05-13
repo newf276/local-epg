@@ -3301,16 +3301,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250513020000 +0000" stop="20250513023000 +0000">
-    <title>CBC News NL</title>
-    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
-  <programme channel="CA4600003GV" start="20250513023000 +0000" stop="20250513030000 +0000">
-    <title>CBC News NL</title>
-    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250513030000 +0000" stop="20250513040000 +0000">
     <title>The National</title>
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
@@ -3351,14 +3341,15 @@
     <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250513020000 +0000" stop="20250513030000 +0000">
-    <title>Survivorman</title>
-    <sub-title>Survivorman and Son Mongolia</sub-title>
-    <desc>Les returns to Mongolia after surviving a near-fatal car crash the year before with his son Logan.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534285350_0_20231024T163742475Z_50.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250513083000 +0000" stop="20250513090000 +0000">
+    <title>CBC News NL</title>
+    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
+  </programme>
+  <programme channel="CA4600003GV" start="20250513090000 +0000" stop="20250513093000 +0000">
+    <title>CBC News NL</title>
+    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250513030000 +0000" stop="20250513040000 +0000">
     <title>What If</title>
@@ -3425,13 +3416,20 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250513014234 +0000" stop="20250513024111 +0000">
-    <title>Europe's Wilderness</title>
-    <sub-title>S01 E02</sub-title>
-    <desc>The Grey Seal is Europe's largest water prediator. With its habitat in the fish rich costal areas in cool but not arctic waters we discover that recreation in the sun plays a major role for the seal, but we also see it raiding in dangerous waters.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489713170_0_20240326T160607150Z_29.jpeg" />
+  <programme channel="CABC23000223U" start="20250513083000 +0000" stop="20250513090000 +0000">
+    <title>Dream In Colour</title>
+    <desc>Get lost in the breathtaking beauty of Canadian and international landscapes</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124152_0_20231019T012929571Z_80.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="CABC23000223U" start="20250513090000 +0000" stop="20250513093000 +0000">
+    <title>Dream In Colour</title>
+    <desc>Get lost in the breathtaking beauty of Canadian and international landscapes</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124152_0_20231019T012929571Z_80.jpeg" />
+    <rating>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250513024111 +0000" stop="20250513034632 +0000">
@@ -3495,22 +3493,22 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250513012431 +0000" stop="20250513021619 +0000">
-    <title>Mega Disasters</title>
-    <sub-title>Tornado Alley Twister</sub-title>
-    <desc>Intense tornado hits Dallas, Texas with 318 mph winds, carving mile-wide path.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478331_1_20250508T122857864Z_102_imageprocessorclient-tvplus-linear-b76dd9bbb-28957.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250513084235 +0000" stop="20250513090750 +0000">
+    <title>Frontier Vets</title>
+    <sub-title>S01 E07</sub-title>
+    <desc>Drew and Agatha have to deal with a dog with a broken leg brought in by a group of youngsters with no money. Will Agatha stand up to Drew who has decided to send them away to find money, by insisting the dog stays at the clinic?</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489222267_0_20240309T063651281Z_62.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>12</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250513021619 +0000" stop="20250513030804 +0000">
-    <title>Mega Disasters</title>
-    <sub-title>East Coast Tsunami</sub-title>
-    <desc>Exploring possibility of a U.S east coast tsunami amid other disasters.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478331_1_20250508T122857864Z_102_imageprocessorclient-tvplus-linear-b76dd9bbb-28957.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250513090750 +0000" stop="20250513093306 +0000">
+    <title>Frontier Vets</title>
+    <sub-title>S01 E08</sub-title>
+    <desc>Charlotte has growing cynicism towards the owner of the emaciated black dog, when he repeatedly dodges his responsibility. Charlotte and Roxy set out on a house call to investigate. What will they find at the owner's house? What condition are his other dogs in?</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489222375_0_20240309T063651274Z_25.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250513030804 +0000" stop="20250513040002 +0000">
@@ -3562,6 +3560,24 @@
     <title>Mega Disasters</title>
     <sub-title>Tornado Alley Twister</sub-title>
     <desc>Intense tornado hits Dallas, Texas with 318 mph winds, carving mile-wide path.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478331_1_20250508T122857864Z_102_imageprocessorclient-tvplus-linear-b76dd9bbb-28957.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250513081620 +0000" stop="20250513090805 +0000">
+    <title>Mega Disasters</title>
+    <sub-title>East Coast Tsunami</sub-title>
+    <desc>Exploring possibility of a U.S east coast tsunami amid other disasters.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478331_1_20250508T122857864Z_102_imageprocessorclient-tvplus-linear-b76dd9bbb-28957.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250513090805 +0000" stop="20250513100000 +0000">
+    <title>Mega Disasters</title>
+    <sub-title>L.A.'s Killer Quake</sub-title>
+    <desc>It has been a century since the infamous 1906 San Francisco earthquake.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478331_1_20250508T122857864Z_102_imageprocessorclient-tvplus-linear-b76dd9bbb-28957.jpeg" />
     <rating>
       <value>TV-PG</value>
