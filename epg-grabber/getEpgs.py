@@ -71,7 +71,6 @@ local_epg = os.getenv("LOCAL_EPG")
 urls = [
 	'https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/all.xml.gz',
 	'https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz',
-	'https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz',
 ]
 
 if __name__ == "__main__":
