@@ -3237,16 +3237,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250513073000 +0000" stop="20250513083000 +0000">
-    <title>The National</title>
-    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
-  </programme>
-  <programme channel="CA4600003GV" start="20250513083000 +0000" stop="20250513090000 +0000">
-    <title>CBC News NL</title>
-    <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250513090000 +0000" stop="20250513093000 +0000">
     <title>CBC News NL</title>
     <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
@@ -3292,21 +3282,15 @@
     <desc>News, investigations and community stories in NL and beyond.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250513080000 +0000" stop="20250513083000 +0000">
-    <title>Dream In Colour</title>
-    <desc>Get lost in the breathtaking beauty of Canadian and international landscapes</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124152_0_20231019T012929571Z_80.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250513143000 +0000" stop="20250513150000 +0000">
+    <title>Newfoundland &amp; Labrador Now</title>
+    <desc>News, investigations and community stories in NL and beyond.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186126_0_20241217T103439286Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250513083000 +0000" stop="20250513090000 +0000">
-    <title>Dream In Colour</title>
-    <desc>Get lost in the breathtaking beauty of Canadian and international landscapes</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124152_0_20231019T012929571Z_80.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250513150000 +0000" stop="20250513153000 +0000">
+    <title>About That</title>
+    <desc>Andrew Chang expands our understanding of the stories everybody's talking about.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515038_0_20240529T053048695Z_102.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250513090000 +0000" stop="20250513093000 +0000">
     <title>Dream In Colour</title>
@@ -3396,21 +3380,20 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250513074741 +0000" stop="20250513084235 +0000">
-    <title>Hidden UK</title>
-    <desc>For its tiny size the UK is a hugely varied landscape with a surprising collection of natural history – from the English Channel and famous white cliffs, to ancient forests and dramatic mountains. Indisputably stunning landscapes, providing homes for noble stags, soaring eagles, playful dolphins and endlessly entertaining otters. And this is just the tip of the iceberg – countless discoveries are waiting to be unearthed if you decide step off the beaten track in search of the hidden UK.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_485221451_0_20231013T023057605Z_1.jpeg" />
+  <programme channel="CABC23000223U" start="20250513143000 +0000" stop="20250513150000 +0000">
+    <title>Force of Nature Rewind</title>
+    <desc>Wild and viral weather footage from across Canada and around the world</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
     <rating>
-      <value>NA</value>
+      <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250513084235 +0000" stop="20250513090750 +0000">
-    <title>Frontier Vets</title>
-    <sub-title>S01 E07</sub-title>
-    <desc>Drew and Agatha have to deal with a dog with a broken leg brought in by a group of youngsters with no money. Will Agatha stand up to Drew who has decided to send them away to find money, by insisting the dog stays at the clinic?</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489222267_0_20240309T063651281Z_62.jpeg" />
+  <programme channel="CABC23000223U" start="20250513150000 +0000" stop="20250513153000 +0000">
+    <title>Weather AM</title>
+    <desc>Get your local forecast and weather headlines from right here in Canada, and around the globe.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_539709218_0_20240321T153330644Z_1.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250513090750 +0000" stop="20250513093306 +0000">
@@ -3484,22 +3467,13 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250513072432 +0000" stop="20250513081620 +0000">
-    <title>Mega Disasters</title>
-    <sub-title>Tornado Alley Twister</sub-title>
-    <desc>Intense tornado hits Dallas, Texas with 318 mph winds, carving mile-wide path.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478331_1_20250508T122857864Z_102_imageprocessorclient-tvplus-linear-b76dd9bbb-28957.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250513145633 +0000" stop="20250513155509 +0000">
+    <title>Europe's Wilderness</title>
+    <sub-title>S01 E02</sub-title>
+    <desc>The Grey Seal is Europe's largest water prediator. With its habitat in the fish rich costal areas in cool but not arctic waters we discover that recreation in the sun plays a major role for the seal, but we also see it raiding in dangerous waters.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489713170_0_20240326T160607150Z_29.jpeg" />
     <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme channel="US900001CX" start="20250513081620 +0000" stop="20250513090805 +0000">
-    <title>Mega Disasters</title>
-    <sub-title>East Coast Tsunami</sub-title>
-    <desc>Exploring possibility of a U.S east coast tsunami amid other disasters.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478331_1_20250508T122857864Z_102_imageprocessorclient-tvplus-linear-b76dd9bbb-28957.jpeg" />
-    <rating>
-      <value>TV-PG</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250513090805 +0000" stop="20250513100000 +0000">
@@ -3551,6 +3525,24 @@
     <title>The Universe</title>
     <sub-title>Extreme Energy</sub-title>
     <desc>Ours is a universe of energy.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478327_2_20250508T122900449Z_76_imageprocessorclient-tvplus-linear-b76dd9bbb-vbp7f.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250513141507 +0000" stop="20250513150751 +0000">
+    <title>The Universe</title>
+    <sub-title>Mysteries Of The Moon</sub-title>
+    <desc>For thousands of years, mankind has found comfort in its presence.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478327_2_20250508T122900449Z_76_imageprocessorclient-tvplus-linear-b76dd9bbb-vbp7f.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250513150751 +0000" stop="20250513160000 +0000">
+    <title>The Universe</title>
+    <sub-title>The Milky Way</sub-title>
+    <desc>Now we know we're not even at the center of our own galaxy.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478327_2_20250508T122900449Z_76_imageprocessorclient-tvplus-linear-b76dd9bbb-vbp7f.jpeg" />
     <rating>
       <value>TV-PG</value>
