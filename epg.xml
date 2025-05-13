@@ -3281,11 +3281,6 @@
     <display-name>Universe: Mysteries Solved</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" />
   </channel>
-  <programme channel="CA4600003GV" start="20250513050000 +0000" stop="20250513060000 +0000">
-    <title>The National</title>
-    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
-  </programme>
   <programme channel="CA4600003GV" start="20250513060000 +0000" stop="20250513063000 +0000">
     <title>CBC News NL</title>
     <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
@@ -3331,14 +3326,10 @@
     <desc>Bringing you breaking news, in-depth reports and weather you can count on.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186129_0_20241217T103439264Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250513050000 +0000" stop="20250513060000 +0000">
-    <title>Survivorman: Bigfoot</title>
-    <sub-title>Foothills of the Rockies</sub-title>
-    <desc>Les returns to the wilds of Rural Alberta to document evidence of Sasquatch activity.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534285350_0_20231024T163742475Z_50.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA4600003GV" start="20250513113000 +0000" stop="20250513123000 +0000">
+    <title>The National</title>
+    <desc>The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth journalism.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515027_0_20240529T053048179Z_120.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250513060000 +0000" stop="20250513063000 +0000">
     <title>Dream In Colour</title>
@@ -3428,13 +3419,20 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="GBBB5000002PL" start="20250513050000 +0000" stop="20250513055019 +0000">
-    <title>Aging in the Wild</title>
-    <sub-title>S01 E02</sub-title>
-    <desc>Reproduction is not only a concern of the young and restless: this episode of Aging in the Wild brings a light-hearted look at the issue of sexuality and camaraderie in older animals.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_864913858_0_20250507T072241686Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-nvssr.jpeg" />
+  <programme channel="CABC23000223U" start="20250513113000 +0000" stop="20250513120000 +0000">
+    <title>Force of Nature Rewind</title>
+    <desc>Wild and viral weather footage from across Canada and around the world</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550471030_0_20241107T142705659Z_52_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
     <rating>
-      <value>12</value>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="CABC23000223U" start="20250513120000 +0000" stop="20250513123000 +0000">
+    <title>Weather AM</title>
+    <desc>Get your local forecast and weather headlines from right here in Canada, and around the globe.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_539709218_0_20240321T153330644Z_1.jpeg" />
+    <rating>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250513055019 +0000" stop="20250513064855 +0000">
@@ -3499,13 +3497,13 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250513045127 +0000" stop="20250513054251 +0000">
-    <title>Mega Disasters</title>
-    <sub-title>Alien Infection</sub-title>
-    <desc>Could Mars craft or comet dust bring alien epidemics?</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478331_1_20250508T122857864Z_102_imageprocessorclient-tvplus-linear-b76dd9bbb-28957.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250513112202 +0000" stop="20250513122047 +0000">
+    <title>Europe's Wilderness</title>
+    <sub-title>S01 E03</sub-title>
+    <desc>This popular motif in prehistoric cave paintings, the European Bison is Europe's heaviest land mammal. Weighing in at just under one tonne, it is also Europe's last wild cattle spieces</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489739104_1_20240327T155556737Z_96.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250513054251 +0000" stop="20250513063247 +0000">
@@ -3566,6 +3564,15 @@
     <title>The Universe</title>
     <sub-title>Biggest Blasts</sub-title>
     <desc>The Universe is full of explosions that both create and destroy.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478327_2_20250508T122900449Z_76_imageprocessorclient-tvplus-linear-b76dd9bbb-vbp7f.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="US900001CX" start="20250513114208 +0000" stop="20250513123247 +0000">
+    <title>The Universe</title>
+    <sub-title>Alien Moons</sub-title>
+    <desc>Explore the moons surrounding the planets of the solar system.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1292478327_2_20250508T122900449Z_76_imageprocessorclient-tvplus-linear-b76dd9bbb-vbp7f.jpeg" />
     <rating>
       <value>TV-PG</value>
