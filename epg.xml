@@ -1740,18 +1740,6 @@
     <display-name>Real Wild</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/09e8c6b6-368e-4275-b974-fe5e1921f64d/RealWild_Logo_White_-_Simon_Tuquabo.png" />
   </channel>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250519200000 +0000" stop="20250519203000 +0000">
-    <title>About That</title>
-    <sub-title>About That</sub-title>
-    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
-    <date>20250519</date>
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250519203000 +0000" stop="20250519230000 +0000">
-    <title>Today's Top Stories</title>
-    <sub-title>Today's Top Stories</sub-title>
-    <desc>What's happening across Canada and around the world.</desc>
-    <date>20250519</date>
-  </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250519230000 +0000" stop="20250519233000 +0000">
     <title>About That</title>
     <sub-title>About That</sub-title>
@@ -1866,45 +1854,17 @@
     <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
     <date>20250520</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250519200000 +0000" stop="20250519203000 +0000">
-    <title>CTV National News with Heather Butts</title>
-    <sub-title>CTV National News for Sunday, May 18, 2025</sub-title>
-    <episode-num system="onscreen">S2025E60</episode-num>
-    <desc>Watch CTV National News with Heather Butts</desc>
-    <date>20250519</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m30424_2024_8_16_2bf829f5-734f-456b-b8b7-785d70e3afd0_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250520203000 +0000" stop="20250520230000 +0000">
+    <title>Today's Top Stories</title>
+    <sub-title>Today's Top Stories</sub-title>
+    <desc>What's happening across Canada and around the world.</desc>
+    <date>20250520</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250519203000 +0000" stop="20250519210000 +0000">
-    <title>CTV News: Your Canada</title>
-    <sub-title>Weekend for May 17-19, 2025</sub-title>
-    <episode-num system="onscreen">S2025E116</episode-num>
-    <desc>Stories that showcase what makes Canada unique.</desc>
-    <date>20250516</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250519210000 +0000" stop="20250519220000 +0000">
-    <title>Question Period</title>
-    <sub-title>for Sunday, May 18, 2025</sub-title>
-    <episode-num system="onscreen">S54E34</episode-num>
-    <desc>Question Period, the national political landmark program, is a must-see for political junkies.</desc>
-    <date>20250518</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29715_2024_2_22_942b978d-6939-46d6-84d6-0963a4db113b_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250519220000 +0000" stop="20250519223000 +0000">
-    <title>CTV National News with Heather Butts</title>
-    <sub-title>CTV National News for Sunday, May 18, 2025</sub-title>
-    <episode-num system="onscreen">S2025E60</episode-num>
-    <desc>Watch CTV National News with Heather Butts</desc>
-    <date>20250519</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m30424_2024_8_16_2bf829f5-734f-456b-b8b7-785d70e3afd0_JPG_1920x1080.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250519223000 +0000" stop="20250519230000 +0000">
-    <title>CTV News: Your Canada</title>
-    <sub-title>Weekend for May 17-19, 2025</sub-title>
-    <episode-num system="onscreen">S2025E116</episode-num>
-    <desc>Stories that showcase what makes Canada unique.</desc>
-    <date>20250516</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250520230000 +0000" stop="20250520233000 +0000">
+    <title>About That</title>
+    <sub-title>About That</sub-title>
+    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
+    <date>20250520</date>
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250519230000 +0000" stop="20250520000000 +0000">
     <title>W5</title>
@@ -2139,29 +2099,42 @@
     <desc>CTV National News</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250519201526 +0000" stop="20250519210545 +0000">
-    <title>The Marilyn Denis Show</title>
-    <sub-title>Tuesday, October 15, 2013</sub-title>
-    <episode-num system="onscreen">S04E30</episode-num>
-    <desc>On today's show, chicken remix, how to shake up your wardrobe, time saving parenting products and double duty decor.</desc>
-    <date>20240506</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m29995_2024_2_19_78d3f68c-8f87-4b12-a352-7a478eefae20_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250520203000 +0000" stop="20250520210000 +0000">
+    <title>CTV News: Your Canada</title>
+    <sub-title>for Tuesday, May 20, 2025</sub-title>
+    <episode-num system="onscreen">S2025E118</episode-num>
+    <desc>Stories that showcase what makes Canada unique.</desc>
+    <date>20250517</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250519210545 +0000" stop="20250519215515 +0000">
-    <title>The Marilyn Denis Show</title>
-    <sub-title>Friday, October 18, 2013</sub-title>
-    <episode-num system="onscreen">S04E33</episode-num>
-    <desc>On today's show, new ways to wear your classics, when to save or spend and debunking hair myths.</desc>
-    <date>20240506</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m29995_2024_2_19_78d3f68c-8f87-4b12-a352-7a478eefae20_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250520210000 +0000" stop="20250520220000 +0000">
+    <title>King Charles III: The Crown and The Quarrels</title>
+    <category>Movie</category>
+    <desc>A special hour looking at Charles III's personal relationships – from his mother, Queen Elizabeth II, the late Princess Diana and his sons.</desc>
+    <date>20241011</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250519215515 +0000" stop="20250519224653 +0000">
-    <title>The Marilyn Denis Show</title>
-    <sub-title>Monday, October 21, 2013</sub-title>
-    <episode-num system="onscreen">S04E34</episode-num>
-    <desc>On today's show, fall soups, freezing soup secret, etiquette questions, Halloween outdoor decor, and fall home essentials.</desc>
-    <date>20240506</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m29995_2024_2_19_78d3f68c-8f87-4b12-a352-7a478eefae20_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250520220000 +0000" stop="20250520223000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250520223000 +0000" stop="20250520230000 +0000">
+    <title>CTV News: Your Canada</title>
+    <sub-title>for Tuesday, May 20, 2025</sub-title>
+    <episode-num system="onscreen">S2025E118</episode-num>
+    <desc>Stories that showcase what makes Canada unique.</desc>
+    <date>20250517</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250520230000 +0000" stop="20250521000000 +0000">
+    <title>W5</title>
+    <sub-title>The Mystery Bomber</sub-title>
+    <episode-num system="onscreen">S58E06</episode-num>
+    <desc>W5 investigates the identity of a would-be bank robber who exploded in a dramatic heist.</desc>
+    <date>20250220</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29794_2024_2_22_01ca6461-2f07-403f-8834-295a51103928_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250519224653 +0000" stop="20250519233924 +0000">
     <title>The Marilyn Denis Show</title>
@@ -2419,17 +2392,37 @@
     <date>20240506</date>
     <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m29995_2024_2_19_78d3f68c-8f87-4b12-a352-7a478eefae20_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250519200752 +0000" stop="20250519211002 +0000">
-    <title>Atlas of a Changing Earth</title>
-    <category>Movie</category>
-    <desc>This documentary reveals the processes melting glaciers, and explores how rising seas may threaten coastlines.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171BD9ZKWFDG5_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250520202730 +0000" stop="20250520212311 +0000">
+    <title>The Marilyn Denis Show</title>
+    <sub-title>Monday, December 9, 2013</sub-title>
+    <episode-num system="onscreen">S04E67</episode-num>
+    <desc>On today's show, foodies gift guide, front door etiquette, gift wrapping, wrap battle throwdown, and holiday brunch.</desc>
+    <date>20240506</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m29995_2024_2_19_78d3f68c-8f87-4b12-a352-7a478eefae20_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250519211002 +0000" stop="20250519225818 +0000">
-    <title>Shockwave</title>
-    <category>Movie</category>
-    <desc>A powerful earthquake and tsunami will some day devastate the Pacific Northwest. What can we do to prepare?</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRMHLGJS4A0TVTAG_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250520212311 +0000" stop="20250520221658 +0000">
+    <title>The Marilyn Denis Show</title>
+    <sub-title>Thursday, September 26, 2019</sub-title>
+    <episode-num system="onscreen">S10E14</episode-num>
+    <desc>7 steps for a current &amp; stylish home; convertible furniture for small spaces; Grey’s Anatomy stars Kevin McKidd &amp; Greg Germann.</desc>
+    <date>20250421</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m29995_2024_2_19_78d3f68c-8f87-4b12-a352-7a478eefae20_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250520221658 +0000" stop="20250520230730 +0000">
+    <title>The Marilyn Denis Show</title>
+    <sub-title>Tuesday, October 22, 2013</sub-title>
+    <episode-num system="onscreen">S04E35</episode-num>
+    <desc>On today's show, baking soda, creepy dining decor, kids costumes for less, Halloween gadgets, amped sandwiches, and ask Marilyn.</desc>
+    <date>20240521</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m29995_2024_2_19_78d3f68c-8f87-4b12-a352-7a478eefae20_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250520230730 +0000" stop="20250520235802 +0000">
+    <title>The Marilyn Denis Show</title>
+    <sub-title>Friday, October 25, 2013</sub-title>
+    <episode-num system="onscreen">S04E38</episode-num>
+    <desc>On today's show, it's an opposites attact makeover for one lucky couple with style and beauty tips, and how to wear colour.</desc>
+    <date>20240506</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m29995_2024_2_19_78d3f68c-8f87-4b12-a352-7a478eefae20_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250519225818 +0000" stop="20250520003635 +0000">
     <title>When We Were Apollo</title>
@@ -2557,26 +2550,47 @@
     <desc>Black holes are mysterious. Find out what impact the massive giants have had on the Universe and its galaxies.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/1JAIHT965NB3R81HC09J62W_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250519194409 +0000" stop="20250519204821 +0000">
-    <title>Living with Volcanoes</title>
-    <sub-title>Destructive Volcanoes</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Volcanoes have been ripping the earth apart. Are we on the verge of the next Pompeii tragedy?</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/5N1HJZ69IH6XRLZWP5H1FS_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250520202323 +0000" stop="20250520205354 +0000">
+    <title>Cosmic Journeys</title>
+    <sub-title>Black Holes and the High-Energy Universe</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Astronomers are probing the cosmic frontier to find out how the Universe works on a fundamental level.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/1JAIHT965NB3R81HC09J62W_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250519204821 +0000" stop="20250519215234 +0000">
-    <title>Living with Volcanoes</title>
-    <sub-title>Volcano Wardens</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Volcanologists are ready to face any challenge to quench their thirst for knowledge</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/5N1HJZ69IH6XRLZWP5H1FS_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250520205354 +0000" stop="20250520212431 +0000">
+    <title>Cosmic Journeys</title>
+    <sub-title>Voyager: Journey to the Stars</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>What will we learn about our Universe from the Voyager spacecraft's epic journey to the stars?</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/1JAIHT965NB3R81HC09J62W_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250519215234 +0000" stop="20250519225543 +0000">
-    <title>Voyage of the Continents</title>
-    <sub-title>Oceania: The Tectonic Ring of Fire</sub-title>
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250520212431 +0000" stop="20250520215535 +0000">
+    <title>Cosmic Journeys</title>
+    <sub-title>The Search for Earth-Like Planets</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>Is our Earth one of the countless life-bearing worlds in our huge galaxy, or is it alone in a barren universe?</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/1JAIHT965NB3R81HC09J62W_16_9.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250520215535 +0000" stop="20250520222642 +0000">
+    <title>Cosmic Journeys</title>
+    <sub-title>The Riddle of Antimatter</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>How did matter come to exist, and what became of its birth twin, a mysterious substance called antimatter?</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/1JAIHT965NB3R81HC09J62W_16_9.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250520222642 +0000" stop="20250520230452 +0000">
+    <title>Cosmic Journeys</title>
+    <sub-title>Super Hurricanes and Typhoons</sub-title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <desc>Why do some hurricanes and typhoons evolve into monsters that leave in their wake trails of destruction?</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/1JAIHT965NB3R81HC09J62W_16_9.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250520230452 +0000" stop="20250521000930 +0000">
+    <title>Science vs. God</title>
+    <sub-title>The Cosmos</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Pacific and Australian tectonic plates clash across the South Pacific causing intense volcanic activity</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRD9MNQD2MO_16_9.jpg" />
+    <desc>As knowledge about the universe increases, the question becomes, is there evidence of a creator?</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4S2YTN2LYIMGH7W_16_9.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250519225543 +0000" stop="20250519235854 +0000">
     <title>Voyage of the Continents</title>
@@ -2720,23 +2734,19 @@
     <desc>Ngorongoro is a land full of wildlife, from proud lions to vast herds of wildebeest and elephants.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRDQ7VDGV23_16_9.jpeg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250519200000 +0000" stop="20250519210000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250520211139 +0000" stop="20250520221551 +0000">
+    <title>Wildest Africa</title>
+    <sub-title>Zambezi: Wild Water</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Zambezi’s long and winding journey destroys, as well as creates.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRDQ7VDGV23_16_9.jpeg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250519210000 +0000" stop="20250519220000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250519220000 +0000" stop="20250519230000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250520221551 +0000" stop="20250520232001 +0000">
+    <title>Wildest Africa</title>
+    <sub-title>Nile: An African Odyssey</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Ancient Egypt, one of the history’s most powerful civilizations, depended on the Nile.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRDQ7VDGV23_16_9.jpeg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250519230000 +0000" stop="20250520000000 +0000">
     <title>Evolution Earth</title>
@@ -2870,27 +2880,23 @@
     <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250519192509 +0000" stop="20250519202751 +0000">
-    <title>Elephants: Back to the Wild</title>
-    <sub-title>Elephants: Back to the Wild: The Return of the Elephants - Tsavo-East-Nationalpark</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>We accompany the first steps of a two-year-old elephant who is just starting his release program. We also observe the story of two young elephants in their first night in the wilderness on their own. Captivating film footage allows us to truly learn how elephants behave in the wild.</desc>
-    <date>20111011</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/ELEPHANTS%2520BACK%2520TO%2520THE%2520WILD%2520EPISODE%25202_Landscape_V1.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250519202751 +0000" stop="20250519212756 +0000">
-    <title>Rewilding: Back to Nature</title>
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250520210000 +0000" stop="20250520220000 +0000">
+    <title>Evolution Earth</title>
     <category>Movie</category>
-    <desc>Worldwide, there are various projects and approaches to give nature more space again. The aim is to create larger wilderness areas that develop with hardly any influence of humans - by reintroducing so-called key animal species and creating a network of wilderness corridors across entire continents. Rewilding promises to be a cost-effective form of conservation in which we can boost biodiversity and protect the climate.</desc>
-    <date>20210812</date>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/18964-21012/38838280-Samsung-Thumbnail_v1.jpg" />
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250519212756 +0000" stop="20250519223112 +0000">
-    <title>Wild Prairie Man</title>
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250520220000 +0000" stop="20250520230000 +0000">
+    <title>Evolution Earth</title>
     <category>Movie</category>
-    <desc>Located in the Northern Great Plains of Canada, Grasslands National Park has been a 20 year odyssey for wildlife photographer James R. Page. For James, critters are more interesting than people and he shares some of his iconic images and experiences from this endangered ecosystem. We showcase the parks wilderness that is dominated by prairie light and dark sky, the wildlife, prairie dogs, mesmerizing landscapes, and bisons. We immerse ourselves in the wild habitat of Grasslands National Park for over a year capturing some never before scenes in the Wild Prairie. James R. Page's connection to the land and the wildlife provides an unforgettable journey into the heart of this endangered ecosystem, while Park experts help us understand its complexity.</desc>
-    <date>20220112</date>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/20529-22577/42044840-Plex-Portrait-1000x1500_v1.jpg" />
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250520230000 +0000" stop="20250521000000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250519223112 +0000" stop="20250519233137 +0000">
     <title>The Secret of Migrating Birds - Tryst at the Red Sea</title>
@@ -3078,26 +3084,37 @@
     <date>20150301</date>
     <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/16977-19025/34768964-Plex-Portrait-1000x1500_v1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250519195415 +0000" stop="20250519205452 +0000">
-    <title>Ibex: Acrobats On The Rocks</title>
-    <category>Movie</category>
-    <desc>The film follows Buck, an Alpine Ibex from Italy's Gran Paradiso, highlighting his life and majestic beauty.</desc>
-    <date>20200101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250520203748 +0000" stop="20250520212754 +0000">
+    <title>Asia - Secret Lives Hidden Places II</title>
+    <sub-title>Asia - Secret Lives Hidden Places II: Gir National Park: India – Asia’s Last Lion</sub-title>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <desc>In the far west of India, unexpected predators roam: lions. Living freely in a human-inhabited area without fences, they occasionally prey on the livestock of the indigenous Maldhari people, who nevertheless take pride in sharing their region with these lions—a unique coexistence of humans and predators. In northern Gujarat, desert landscapes dominate, where semi-nomadic communities breed a unique camel breed capable of swimming: Karai camels swim up to 3km daily to mangrove islands for grazing.</desc>
+    <date>20180628</date>
+    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/ASIA%2520SECRET%2520LIVES%2520-%2520HIDDEN%2520PLACES%2520II%2520EPISODE%25201_Landscape_V1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250519205452 +0000" stop="20250519215320 +0000">
-    <title>Trees Of Life</title>
-    <category>Movie</category>
-    <desc>See how humble plants triggered Earth’s greatest transformation</desc>
-    <date>20110101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250520212754 +0000" stop="20250520221759 +0000">
+    <title>Asia - Secret Lives Hidden Places II</title>
+    <sub-title>Asia - Secret Lives Hidden Places II: Kinabatangan River: Borneo – Forgotten Paradise</sub-title>
+    <episode-num system="onscreen">S02E02</episode-num>
+    <desc>In Sabah, northern Borneo, flows the 560km-long Kinabatangan River. Nowhere else in Sabah are wild animals as easily spotted as along this river: orangutans, elephants, crocodiles, and proboscis monkeys. However, biodiversity is threatened as more rainforest gives way to palm oil plantations. Wildlife ventures into inhabited areas in search of food, leading to conflicts. Locals are fighting to preserve the rainforest and its unique wildlife, demonstrating that conservation and prosperity can coexist even in a modern society.</desc>
+    <date>20180628</date>
+    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/ASIA%2520SECRET%2520LIVES%2520-%2520HIDDEN%2520PLACES%2520II%2520EPISODE%25202_Landscape_V1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250519215320 +0000" stop="20250519225036 +0000">
-    <title>Giant Grizzlies</title>
-    <category>Movie</category>
-    <desc>Join Andreas Kieling and a native Alaskan on a dangerous expedition through Alaska’s grizzly territories.</desc>
-    <date>20190101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250520221759 +0000" stop="20250520230805 +0000">
+    <title>Asia - Secret Lives Hidden Places II</title>
+    <sub-title>Asia - Secret Lives Hidden Places II: Pu Mat National Park: Vietnam – Of Bears and Men</sub-title>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <desc>The jungle in northern Vietnam is nearly impenetrable, with some areas never touched by humans. The remote rainforests of Pu Mat National Park serve as a refuge for endangered wildlife such as black bears, monkeys, and pangolins. Tuan, a biologist and bear specialist, embarks on an expedition to these untouched regions of the park in search of bears. The most hunted animal here is the pangolin, sought after for its scales believed to have medicinal properties and its meat considered a delicacy. A small Vietnamese conservation organization fights for the survival of this species.</desc>
+    <date>20180628</date>
+    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/ASIA%2520SECRET%2520LIVES%2520-%2520HIDDEN%2520PLACES%2520II%2520EPISODE%25203_Landscape_V1.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250520230805 +0000" stop="20250520235810 +0000">
+    <title>Asia - Secret Lives Hidden Places II</title>
+    <sub-title>Asia - Secret Lives Hidden Places II: Gaoligongshan Park: China – Himalaya’s Gold</sub-title>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <desc>The Great Gobi National Park in southwestern Mongolia shelters one of the last populations of wild Bactrian camels, amid its ancient and mysterious desert landscape. With around 800 critically endangered animals, the Gobi remains one of the world's most sparsely inhabited and inhospitable regions, yet its allure is undeniable, offering a captivating backdrop for encounters with wild camels and stories of people deeply connected to nature.</desc>
+    <date>20180628</date>
+    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/ASIA%2520SECRET%2520LIVES%2520-%2520HIDDEN%2520PLACES%2520II%2520EPISODE%25205_Landscape_V1.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250519225036 +0000" stop="20250519234931 +0000">
     <title>Unbelievable Beasts</title>
@@ -3274,6 +3291,29 @@
     <episode-num system="onscreen">S01E03</episode-num>
     <desc>Two eagles struggle to survive and produce offspring to maintain their species.</desc>
     <date>20180101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250520210039 +0000" stop="20250520220028 +0000">
+    <title>Mystery Monkeys Of Shangri-La</title>
+    <category>Movie</category>
+    <desc>A two-year film team documents orphaned snub-nosed monkeys in Yunnan, showing love and loss.</desc>
+    <date>20240101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250520220028 +0000" stop="20250520230106 +0000">
+    <title>Life On Fire</title>
+    <sub-title>Ash Runners</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Animals in New Britain, Papua New Guinea, adapt to Earth's changing moods and conditions.</desc>
+    <date>20130101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250520230106 +0000" stop="20250521000208 +0000">
+    <title>Life On Fire</title>
+    <sub-title>Pioneers of the Deep</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>The study explores how sooty terns and Alvin shrimp adapt to the harsh Tongan archipelago.</desc>
+    <date>20130101</date>
     <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
   </programme>
   </tv>
