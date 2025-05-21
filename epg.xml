@@ -1728,12 +1728,6 @@
     <display-name>Real Wild</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/09e8c6b6-368e-4275-b974-fe5e1921f64d/RealWild_Logo_White_-_Simon_Tuquabo.png" />
   </channel>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250521160000 +0000" stop="20250521163000 +0000">
-    <title>About That</title>
-    <sub-title>About That</sub-title>
-    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
-    <date>20250521</date>
-  </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250521163000 +0000" stop="20250521200000 +0000">
     <title>Today's Top Stories</title>
     <sub-title>Today's Top Stories</sub-title>
@@ -1872,45 +1866,11 @@
     <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
     <date>20250522</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250521160000 +0000" stop="20250521163000 +0000">
-    <title>CTV National News with Omar Sachedina</title>
-    <sub-title>CTV National News for Tuesday, May 20, 2025</sub-title>
-    <episode-num system="onscreen">S2025E80</episode-num>
-    <desc>CTV National News with Omar Sachedina is Canada's #1 national newscast</desc>
-    <date>20250521</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29593_2024_2_22_a0b77432-b521-4b92-8fd6-df17c3828c96_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250521163000 +0000" stop="20250521170000 +0000">
-    <title>CTV News: Your Canada</title>
-    <sub-title>for Wednesday, May 21, 2025</sub-title>
-    <episode-num system="onscreen">S2025E119</episode-num>
-    <desc>Stories that showcase what makes Canada unique.</desc>
-    <date>20250521</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250521170000 +0000" stop="20250521180000 +0000">
-    <title>Power Play with Vassy Kapelos</title>
-    <sub-title>Power Play for Tuesday, May 20, 2025</sub-title>
-    <episode-num system="onscreen">S2025E172</episode-num>
-    <desc>CTV News Channel's daily marquee political program, Power Play.</desc>
-    <date>20250521</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29798_2024_2_22_42dbc6b2-bee6-4555-bcc6-aa46ecdb9674_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250521180000 +0000" stop="20250521183000 +0000">
-    <title>CTV National News with Omar Sachedina</title>
-    <sub-title>CTV National News for Tuesday, May 20, 2025</sub-title>
-    <episode-num system="onscreen">S2025E80</episode-num>
-    <desc>CTV National News with Omar Sachedina is Canada's #1 national newscast</desc>
-    <date>20250521</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29593_2024_2_22_a0b77432-b521-4b92-8fd6-df17c3828c96_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250521183000 +0000" stop="20250521190000 +0000">
-    <title>CTV News: Across Canada</title>
-    <sub-title>for Wednesday, May 21, 2025</sub-title>
-    <episode-num system="onscreen">S2025E109</episode-num>
-    <desc>Top stories from coast-to-coast as reported by CTV News local journalists across Canada.</desc>
-    <date>20250521</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55945_2024_8_9_9f6270cc-d7b3-48b4-a0cc-902adc5a6152_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250522163000 +0000" stop="20250522200000 +0000">
+    <title>Today's Top Stories</title>
+    <sub-title>Today's Top Stories</sub-title>
+    <desc>What's happening across Canada and around the world.</desc>
+    <date>20250522</date>
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250521190000 +0000" stop="20250521200000 +0000">
     <title>W5</title>
@@ -2146,45 +2106,37 @@
     <desc>CTV National News</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250521154524 +0000" stop="20250521163913 +0000">
-    <title>The Good Stuff with Mary Berg</title>
-    <sub-title>Wednesday, May 14, 2025</sub-title>
-    <episode-num system="onscreen">S02E138</episode-num>
-    <desc>Mary, Andrea Buckett, Vijaya Selvaraju and Craig Wong make craveworthy long weekend dishes and dessert perfect for a crowd.</desc>
-    <date>20250514</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54775_2025_4_4_582bd9bf-59ae-4419-9c55-c32dd46adf0a_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250522163000 +0000" stop="20250522170000 +0000">
+    <title>CTV News: Your Canada</title>
+    <category>Movie</category>
+    <desc>CTV News: Your Canada</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250521163913 +0000" stop="20250521173102 +0000">
-    <title>The Good Stuff with Mary Berg</title>
-    <sub-title>Thursday, May 15, 2025</sub-title>
-    <episode-num system="onscreen">S02E139</episode-num>
-    <desc>Mary’s Greek Chicken Burgers; spring planters for sun and shade; long weekend travel ideas across Canada; Canadian wines spotlight.</desc>
-    <date>20250515</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54775_2025_4_4_582bd9bf-59ae-4419-9c55-c32dd46adf0a_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250522170000 +0000" stop="20250522180000 +0000">
+    <title>Power Play</title>
+    <category>Movie</category>
+    <desc>Power Play</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250521173102 +0000" stop="20250521182251 +0000">
-    <title>The Good Stuff with Mary Berg</title>
-    <sub-title>Friday, May 16, 2025</sub-title>
-    <episode-num system="onscreen">S02E140</episode-num>
-    <desc>Chef Lynn Crawford’s easy green sides; styling an outfit with your own pieces; 2 viewers go from long hair to bobs; youthful makeup tricks.</desc>
-    <date>20250516</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54775_2025_4_4_582bd9bf-59ae-4419-9c55-c32dd46adf0a_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250522180000 +0000" stop="20250522183000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250521182251 +0000" stop="20250521184612 +0000">
-    <title>Mary's Kitchen Crush</title>
-    <sub-title>Myra The Entertainer</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>It’s a girls’ night in as Mary Berg hosts her mom and her friends for some beer-braised short ribs and a crowd-pleasing carrot cake.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m44874_2024_2_19_355a5745-081a-4b4a-8aa8-fffb876e0c4c_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250522183000 +0000" stop="20250522190000 +0000">
+    <title>CTV News: Across Canada</title>
+    <category>Movie</category>
+    <desc>CTV News: Across Canada</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250521184612 +0000" stop="20250521191133 +0000">
-    <title>Mary's Kitchen Crush</title>
-    <sub-title>Breakfast for Dinner</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Mary Berg wakes up the taste buds with a kid-friendly breakfast for dinner featuring peanut butter and banana-stuffed French toast.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m44874_2024_2_19_355a5745-081a-4b4a-8aa8-fffb876e0c4c_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250522190000 +0000" stop="20250522200000 +0000">
+    <title>W5</title>
+    <sub-title>The Invisible Man</sub-title>
+    <episode-num system="onscreen">S54E07</episode-num>
+    <desc>W5 investigates romance scams and reveals a global criminal organization behind the ripoffs and tragic consequences.</desc>
+    <date>20250220</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29794_2024_2_22_01ca6461-2f07-403f-8834-295a51103928_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250521191133 +0000" stop="20250521193657 +0000">
     <title>Mary's Kitchen Crush</title>
@@ -2546,26 +2498,61 @@
     <date>20250228</date>
     <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m44874_2024_2_19_355a5745-081a-4b4a-8aa8-fffb876e0c4c_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250521161315 +0000" stop="20250521165125 +0000">
-    <title>Cosmic Journeys</title>
-    <sub-title>Super Hurricanes and Typhoons</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>Why do some hurricanes and typhoons evolve into monsters that leave in their wake trails of destruction?</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/1JAIHT965NB3R81HC09J62W_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250522163836 +0000" stop="20250522170357 +0000">
+    <title>Mary's Kitchen Crush</title>
+    <sub-title>Charity Dinner</sub-title>
+    <episode-num system="onscreen">S01E20</episode-num>
+    <desc>Mary Berg serves up some tasty ratatouille for her friend Kallie as they chat about charitable causes for Mary to support.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m44874_2024_2_19_355a5745-081a-4b4a-8aa8-fffb876e0c4c_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250521165125 +0000" stop="20250521175604 +0000">
-    <title>Science vs. God</title>
-    <sub-title>The Cosmos</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>As knowledge about the universe increases, the question becomes, is there evidence of a creator?</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4S2YTN2LYIMGH7W_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250522170357 +0000" stop="20250522172919 +0000">
+    <title>Mary's Kitchen Crush</title>
+    <sub-title>Raising the Bar</sub-title>
+    <episode-num system="onscreen">S01E21</episode-num>
+    <desc>Mary Berg kicks her friend Sam out of her comfort zone by putting a veggie spin on her favourite bar foods.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m44874_2024_2_19_355a5745-081a-4b4a-8aa8-fffb876e0c4c_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250521175604 +0000" stop="20250521185900 +0000">
-    <title>Science vs. God</title>
-    <sub-title>Life and Evolution</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>The ongoing argument is between those who believe in God and believers of evolution.  Is there room for both?</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4S2YTN2LYIMGH7W_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250522172919 +0000" stop="20250522175439 +0000">
+    <title>Mary's Kitchen Crush</title>
+    <sub-title>Swipe Bite</sub-title>
+    <episode-num system="onscreen">S01E22</episode-num>
+    <desc>Mary Berg inspires her mom to dive into dating with a delicious squash pasta carbonara designed to get her in the mood for love.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m44874_2024_2_19_355a5745-081a-4b4a-8aa8-fffb876e0c4c_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250522175439 +0000" stop="20250522182001 +0000">
+    <title>Mary's Kitchen Crush</title>
+    <sub-title>Canadian Long Weekend</sub-title>
+    <episode-num system="onscreen">S01E23</episode-num>
+    <desc>Summer long weekends are all about fun, food, and friendly hangs, so Mary and her husband host their friends with a Canadian-inspired menu.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m44874_2024_2_19_355a5745-081a-4b4a-8aa8-fffb876e0c4c_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250522182001 +0000" stop="20250522184523 +0000">
+    <title>Mary's Kitchen Crush</title>
+    <sub-title>Birthday Dish</sub-title>
+    <episode-num system="onscreen">S01E24</episode-num>
+    <desc>Mary goes big for her sister-in-law Jenna’s birthday, turning some classic kid-centric birthday party favourites into grown-up goodness.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m44874_2024_2_19_355a5745-081a-4b4a-8aa8-fffb876e0c4c_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250522184523 +0000" stop="20250522191044 +0000">
+    <title>Mary's Kitchen Crush</title>
+    <sub-title>Prep For Time</sub-title>
+    <episode-num system="onscreen">S01E25</episode-num>
+    <desc>Meal prep never tasted so good as Mary Berg spins a pesto chicken and roasted vegetable dinner into three more meals to spare.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m44874_2024_2_19_355a5745-081a-4b4a-8aa8-fffb876e0c4c_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250522191044 +0000" stop="20250522193604 +0000">
+    <title>Mary's Kitchen Crush</title>
+    <sub-title>Tuesday Night</sub-title>
+    <episode-num system="onscreen">S01E26</episode-num>
+    <desc>It’s a burger bonanza with Mary Berg treating her husband Aaron’s friends to fast and flavourful midweek feast.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m44874_2024_2_19_355a5745-081a-4b4a-8aa8-fffb876e0c4c_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250521185900 +0000" stop="20250521200341 +0000">
     <title>Science vs. God</title>
@@ -2693,26 +2680,23 @@
     <desc>A powerful earthquake and tsunami will some day devastate the Pacific Northwest. What can we do to prepare?</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRMHLGJS4A0TVTAG_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250521154036 +0000" stop="20250521164225 +0000">
-    <title>Ocean Wild</title>
-    <sub-title>Color and Camouflage</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Off the coast of the Philippines are some of the most amazing sea creatures in the world.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU1719ZFST10Q3P_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250522164058 +0000" stop="20250522181915 +0000">
+    <title>When We Were Apollo</title>
+    <category>Movie</category>
+    <desc>Take an intimate and personal look at Apollo through the lives and experiences of its most inspiring figures.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171BD4VTL1SND_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250521164225 +0000" stop="20250521174236 +0000">
-    <title>Ocean Wild</title>
-    <sub-title>Indonesia</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>With 17,000 islands. the Indonesia Archipelago is one of the most biodiverse places on earth.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU1719ZFST10Q3P_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250522181915 +0000" stop="20250522192124 +0000">
+    <title>Hubble's Enduring Legacy</title>
+    <category>Movie</category>
+    <desc>The Hubble's iconic images are brought to life to answer the most important questions now facing astronomers.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/161R6J27Z2JR79U1XOZ6WQK_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250521174236 +0000" stop="20250521184237 +0000">
-    <title>Ocean Wild</title>
-    <sub-title>Japan</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Japan's unique coastlines are home to some of the world's most diverse marine ecosystems.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU1719ZFST10Q3P_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250522192124 +0000" stop="20250522201947 +0000">
+    <title>Earth in 1000 years</title>
+    <category>Movie</category>
+    <desc>Earth's stores of ice on Greenland and Antarctica are melting, and sea levels rising. Where is Earth headed?</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRMHLGKBR8G610GS_2_3.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250521184237 +0000" stop="20250521194420 +0000">
     <title>Ocean Wild</title>
@@ -2865,23 +2849,23 @@
     <desc>This Phillippines marine park is a model for sustainable development and a true laboratory of the future.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU17199IZ4EQ5FI_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250521160000 +0000" stop="20250521170000 +0000">
-    <title>Evolution Earth</title>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250522162857 +0000" stop="20250522173351 +0000">
+    <title>The Nature Effect</title>
     <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+    <desc>Experiencing nature stimulates unexpected biological and psychological resources, heightening your well-being.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171APX1IQ5EOK_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250521170000 +0000" stop="20250521180000 +0000">
-    <title>Evolution Earth</title>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250522173351 +0000" stop="20250522183818 +0000">
+    <title>Our Roots, Our Future</title>
     <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+    <desc>Scientists are studying root growth. Roots may help solve climate change and protect the environment.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171APT7P9W94B_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250521180000 +0000" stop="20250521190000 +0000">
-    <title>Evolution Earth</title>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250522183818 +0000" stop="20250522194235 +0000">
+    <title>In the Mind of Plants</title>
     <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+    <desc>Can plants sense pain? Some scientists are convinced plants have surpassed animals on their evolutionary path.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/14POAUR11M6VJA0N777VL_2_3.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250521190000 +0000" stop="20250521200000 +0000">
     <title>Evolution Earth</title>
@@ -3015,29 +2999,23 @@
     <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250521161738 +0000" stop="20250521171824 +0000">
-    <title>The U.S. East Coast</title>
-    <sub-title>The U.S. East Coast, The City and the Sea</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>The journey up the coast continues through Delaware to suburban New Jersey, and onwards into the heart of Manhattan. In Delaware, famous as a corporate tax haven, we visit a winery. In New York City we zip around with a bicycle courier and then head out to Long Island for oysters.</desc>
-    <date>20140521</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/useastcoast_e3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250522170000 +0000" stop="20250522180000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250521171824 +0000" stop="20250521181904 +0000">
-    <title>The U.S. East Coast</title>
-    <sub-title>The U.S. East Coast, Florida - The Sunshine State</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Nowhere is the American way of life as relaxed as on Florida's beaches. The Keys, a chain of islands at the far southern end of the state, reveal a more laid-back side of the USA. But all of Florida amazes -- with secluded beaches, unspoiled nature, and the legacy of the early European settlers.</desc>
-    <date>20140519</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/useastcoast_e1.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250522180000 +0000" stop="20250522190000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250521181904 +0000" stop="20250521191950 +0000">
-    <title>The U.S. East Coast</title>
-    <sub-title>The U.S. East Coast, The Heart of New England</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>From New York, the journey up the coast leads into the heart of New England. We visit Yale; spend some time in the 19th century mansions at Newport, RI; tour the coastal fishing and vacation towns of Massachusetts, and then meet a modern entrepreneur in Boston and see her rooftop gardens.</desc>
-    <date>20140522</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/useastcoast_e4.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250522190000 +0000" stop="20250522200000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250521191950 +0000" stop="20250521202035 +0000">
     <title>The U.S. East Coast</title>
@@ -3221,37 +3199,29 @@
     <date>20210701</date>
     <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/WildlifeDiariesAustralia_E06.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250521160035 +0000" stop="20250521165931 +0000">
-    <title>Unbelievable Beasts</title>
-    <sub-title>Part 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Discover the incredible world of extraordinary animals like a half-tonne tiger and lion hybrid</desc>
-    <date>20070101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250521165931 +0000" stop="20250521175813 +0000">
-    <title>Unbelievable Beasts</title>
-    <sub-title>Part 2</sub-title>
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250522171153 +0000" stop="20250522181121 +0000">
+    <title>Wild Moments</title>
+    <sub-title>Wild Moments: Dangerous &amp; Deadly I</sub-title>
     <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Explore the survival strategies of animals like cane toads, frogs, and chameleons through expert insights.</desc>
-    <date>20070101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
+    <desc>Wildlife film-makers often risk life and limb trying to capture unique images of their dangerous protagonists. In Alaska a cunning grizzly threatens the son of Andreas Kieling, on the remote Wrangel Island in northern-east Siberia his colleague Uwe Anders is taken by surprise by a a polar bear, and off the coast of South Africa a diving-team is unexpectedly surrounded by white sharks. But the life of the film-makers is also threatened by elemental forces, life-threatening diseases and failing technical equipment: Deep in the vast rainforests of West Africa cameraman Klaus Scheurich nearly dies of malaria, and in South India a film team narrowly escapes death in a hot-air balloon accident. But they also meet remarkable people such as a zoo keeper in Cameroon who feels at ease playing with half-grown and adult gorillas - the most powerful of all great apes. The first episode "Wild Moments - Dangerous and Deadly" follows wildlife film-makers on their adventurous journeys throughout the world.</desc>
+    <date>20180102</date>
+    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/WildMoments_s01_e02_DangerousAndDeadly1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250521175813 +0000" stop="20250521182837 +0000">
-    <title>Sanctuary</title>
-    <sub-title>Episode 01</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Return to Freedom, founded by Neda De Mayo, promotes wild horse fertility programs and sanctuary relocations.</desc>
-    <date>20230101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250522181121 +0000" stop="20250522191007 +0000">
+    <title>Wild Moments</title>
+    <sub-title>Wild Moments: Dangerous &amp; Deadly II</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Wildlife filmmakers often risk life and limb trying to capture unique images of their dangerous protagonists. A cunning grizzly grabs a salmon off Andreas Kieling's fishing rod, in the depths of the Amazon River a diving team has a spooky encounter with piranhas, in the Mediterranean Sea the currents nearly push Thomas Behrend into the mouths of angry sperm whales defending a newborn - and cameramen who want to film jaguars in the dense jungle of South America become easy prey for the well camouflaged cats. The life of the film-makers is also threatened by elemental forces and failing technical equipment: In the swamps of North Australia violent storms hold up the crossing of tearing rivers, a volcano in the South Seas spits burning lumps of lava into the base camp, and in Siberia a camera team breaks through the ice and has to camp at minus 30°C in the middle of nowhere. The second episode "Wild Moments - Dangerous and Deadly" follows wildlife-filmmakers on their adventurous journeys throughout the world.</desc>
+    <date>20180103</date>
+    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/WildMoments_s01_e03_DangerousAndDeadly2.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250521182837 +0000" stop="20250521190308 +0000">
-    <title>Sanctuary</title>
-    <sub-title>Episode 02</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Chimp Haven in Louisiana offers retired chimpanzees spacious forested areas to live freely after research.</desc>
-    <date>20230101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250522191007 +0000" stop="20250522200859 +0000">
+    <title>Wild Moments</title>
+    <sub-title>Wild Moments: Dangerous &amp; Deadly III</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Wildlife filmmakers often risk life and limb trying to capture unique images of their dangerous protagonists. In the Kruger National Park Josef Jozefowicz steps into a lionesses' den to film her cubs, in Alaska Andreas Kieling mingles with giant elk bulls in order to film them in action, and in Florida his colleague Zoltan Török gets very close to an alligator mother guarding its nest. The life of the film-makers is also threatened by elemental forces, and failing technical equipment: the strong and tearing current of the Yukon River throws Andreas Kieling's boat onto a gravel bank, in the Democratic Republik of Congo camerawoman Heike Grebe is separated from her colleagues in the dense rainforest, in Kamchatka a film team only just escapes a gigantic landslide, and in Finland a hot-air balloon catches fire and becomes the nightmare of Oliver Goetzl and Ivo Nörenberg. The last episode "Wild Moments - Dangerous and Deadly" follows wildlife film-makers on their adventurous journeys throughout the world.</desc>
+    <date>20180104</date>
+    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/WildMoments_s01_e04_DangerousAndDeadly3.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250521190308 +0000" stop="20250521193710 +0000">
     <title>Sanctuary</title>
@@ -3430,6 +3400,30 @@
     <sub-title>Episode 01</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
     <desc>Herpetologists Juan Tims and Hiram Cuevas explore Bolivia to find venomous snakes and a new viper.</desc>
+    <date>20180101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250522165803 +0000" stop="20250522175325 +0000">
+    <title>Wild Italy: Top Predators</title>
+    <sub-title>The Predators of the River Tiber</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Two large water birds are experiencing an unstoppable demographic boom.</desc>
+    <date>20180101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250522175325 +0000" stop="20250522185135 +0000">
+    <title>Wild Italy: Top Predators</title>
+    <sub-title>Mantis: The Queen of the Waterless River</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Praying mantis, born in the dry grasslands of Southern Italy.</desc>
+    <date>20180101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250522185135 +0000" stop="20250522194651 +0000">
+    <title>Wild Italy: Top Predators</title>
+    <sub-title>Rome City Strikers</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Peregrine falcons and Herring gull have settled in the center of Rome, now nesting in large numbers.</desc>
     <date>20180101</date>
     <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
   </programme>
