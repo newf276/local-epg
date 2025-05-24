@@ -1740,12 +1740,6 @@
     <display-name>Real Wild</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/09e8c6b6-368e-4275-b974-fe5e1921f64d/RealWild_Logo_White_-_Simon_Tuquabo.png" />
   </channel>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250524160000 +0000" stop="20250524190000 +0000">
-    <title>This Week's Top Stories</title>
-    <sub-title>This Week's Top Stories</sub-title>
-    <desc>Making sense of the big stories that made news across Canada and around the world from this past week.</desc>
-    <date>20250524</date>
-  </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250524190000 +0000" stop="20250524193000 +0000">
     <title>About That</title>
     <sub-title>About That</sub-title>
@@ -1884,45 +1878,17 @@
     <desc>Making sense of the big stories that made news across Canada and around the world from this past week.</desc>
     <date>20250525</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250524160000 +0000" stop="20250524163000 +0000">
-    <title>CTV National News with Heather Butts</title>
-    <sub-title>CTV National News for Friday, May 23, 2025</sub-title>
-    <episode-num system="onscreen">S2025E61</episode-num>
-    <desc>Watch CTV National News with Heather Butts</desc>
-    <date>20250524</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m30424_2024_8_16_2bf829f5-734f-456b-b8b7-785d70e3afd0_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250525180000 +0000" stop="20250525190000 +0000">
+    <title>Rosemary Barton Live</title>
+    <sub-title>Rosemary Barton Live</sub-title>
+    <desc>Rosemary Barton delivers a weekly dose of compelling conversations and need-to-know political news and issues affecting Canadians.</desc>
+    <date>20250525</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250524163000 +0000" stop="20250524170000 +0000">
-    <title>CTV News: Your Canada</title>
-    <sub-title>for Friday, May 23, 2025</sub-title>
-    <episode-num system="onscreen">S2025E121</episode-num>
-    <desc>Stories that showcase what makes Canada unique.</desc>
-    <date>20250523</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250524170000 +0000" stop="20250524180000 +0000">
-    <title>Power Play with Vassy Kapelos</title>
-    <sub-title>Power Play for Friday, May 23, 2025</sub-title>
-    <episode-num system="onscreen">S2025E175</episode-num>
-    <desc>CTV News Channel's daily marquee political program, Power Play.</desc>
-    <date>20250524</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29798_2024_2_22_42dbc6b2-bee6-4555-bcc6-aa46ecdb9674_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250524180000 +0000" stop="20250524183000 +0000">
-    <title>CTV National News with Heather Butts</title>
-    <sub-title>CTV National News for Friday, May 23, 2025</sub-title>
-    <episode-num system="onscreen">S2025E61</episode-num>
-    <desc>Watch CTV National News with Heather Butts</desc>
-    <date>20250524</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m30424_2024_8_16_2bf829f5-734f-456b-b8b7-785d70e3afd0_JPG_1920x1080.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250524183000 +0000" stop="20250524190000 +0000">
-    <title>CTV News: Across Canada</title>
-    <sub-title>for Saturday, May 24, 2025</sub-title>
-    <episode-num system="onscreen">S2025E112</episode-num>
-    <desc>Top stories from coast-to-coast as reported by CTV News local journalists across Canada.</desc>
-    <date>20250524</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55945_2024_8_9_9f6270cc-d7b3-48b4-a0cc-902adc5a6152_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250525190000 +0000" stop="20250525193000 +0000">
+    <title>About That</title>
+    <sub-title>About That</sub-title>
+    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
+    <date>20250525</date>
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250524190000 +0000" stop="20250524200000 +0000">
     <title>CTV News Special: I’m Sandie Rinaldo</title>
@@ -2131,61 +2097,38 @@
     <desc>CTV National News</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250524160621 +0000" stop="20250524163226 +0000">
-    <title>Spencer's Big 30</title>
-    <sub-title>Roast Beef Night</sub-title>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250525163000 +0000" stop="20250525170000 +0000">
+    <title>CTV News: Your Canada</title>
+    <category>Movie</category>
+    <desc>CTV News: Your Canada</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250525170000 +0000" stop="20250525180000 +0000">
+    <title>W5: Avery Haines Investigates</title>
+    <sub-title>Narco Jungle: The Death Train</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Chef Spencer Watts makes a delicious family-style roast beef dinner in around 30 minutes.</desc>
+    <desc>Avery rides atop Mexico’s “death train” through narco territory, documenting the harrowing journey migrants take in search of a better life.</desc>
     <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m56981_2024_12_12_4297b12a-4f93-4977-8f84-d338aac8a1b0_JPG_1920x1080.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250524163226 +0000" stop="20250524165832 +0000">
-    <title>Spencer's Big 30</title>
-    <sub-title>Fish &amp; Chips Night</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Fish and chips are always great for a quick, inexpensive family dinner.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250525180000 +0000" stop="20250525183000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250524165832 +0000" stop="20250524172438 +0000">
-    <title>Spencer's Big 30</title>
-    <sub-title>Pizza Night</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Pizza night is quick and budget-friendly as Chef Spencer Watts offers up his favourite recipes.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250525183000 +0000" stop="20250525190000 +0000">
+    <title>CTV News: Your Canada</title>
+    <category>Movie</category>
+    <desc>CTV News: Your Canada</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250524172438 +0000" stop="20250524175044 +0000">
-    <title>Spencer's Big 30</title>
-    <sub-title>Curry in a Hurry Night</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Chef Spencer Watts makes a full, family-style Indian meal in around 30 minutes.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250524175044 +0000" stop="20250524181651 +0000">
-    <title>Spencer's Big 30</title>
-    <sub-title>Chinese Take-Out Night</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Why order take-out when you can make it fresher, faster, and even healthier at home?</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250524181651 +0000" stop="20250524184257 +0000">
-    <title>Spencer's Big 30</title>
-    <sub-title>Lasagna Night</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>It’s all about lasagna with Chef Spencer Watts’ delicious and nutritious 30-minute meal.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250524184257 +0000" stop="20250524190903 +0000">
-    <title>Spencer's Big 30</title>
-    <sub-title>Chicken Bake Night</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Chef Spencer Watts cooks up a quick and nutritious chicken bake meal for four.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250525190000 +0000" stop="20250525200000 +0000">
+    <title>CTV News Special: Rick Hansen: Unbreakable 50 Years Later</title>
+    <category>Movie</category>
+    <desc>Rick Hansen returns to the scene of the accident that changed his life forever. CTV’s Sandie Rinaldo talks to the Canadian icon.</desc>
+    <date>20241011</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250524190903 +0000" stop="20250524193509 +0000">
     <title>Spencer's Big 30</title>
@@ -2547,17 +2490,61 @@
     <date>20240320</date>
     <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54275_2024_10_30_7ff7a36a-a40b-423a-8691-2020abbbfb48_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250524144832 +0000" stop="20250524163648 +0000">
-    <title>Shockwave</title>
-    <category>Movie</category>
-    <desc>A powerful earthquake and tsunami will some day devastate the Pacific Northwest. What can we do to prepare?</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRMHLGJS4A0TVTAG_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250525164007 +0000" stop="20250525170622 +0000">
+    <title>Country House Hunters New Zealand</title>
+    <sub-title>Episode 12</sub-title>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <desc>Couples search for their perfect country house in New Zealand, all while exploring some rural attractions and meeting some of the locals.</desc>
+    <date>20240320</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54275_2024_10_30_7ff7a36a-a40b-423a-8691-2020abbbfb48_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250524163648 +0000" stop="20250524181505 +0000">
-    <title>When We Were Apollo</title>
-    <category>Movie</category>
-    <desc>Take an intimate and personal look at Apollo through the lives and experiences of its most inspiring figures.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171BD4VTL1SND_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250525170622 +0000" stop="20250525173208 +0000">
+    <title>Country House Hunters New Zealand</title>
+    <sub-title>Episode 13</sub-title>
+    <episode-num system="onscreen">S01E13</episode-num>
+    <desc>Couples search for their perfect country house in New Zealand, all while exploring some rural attractions and meeting some of the locals.</desc>
+    <date>20240320</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54275_2024_10_30_7ff7a36a-a40b-423a-8691-2020abbbfb48_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250525173208 +0000" stop="20250525175840 +0000">
+    <title>Country House Hunters New Zealand</title>
+    <sub-title>Episode 14</sub-title>
+    <episode-num system="onscreen">S01E14</episode-num>
+    <desc>Couples search for their perfect country house in New Zealand, all while exploring some rural attractions and meeting some of the locals.</desc>
+    <date>20240320</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54275_2024_10_30_7ff7a36a-a40b-423a-8691-2020abbbfb48_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250525175840 +0000" stop="20250525182405 +0000">
+    <title>Country House Hunters New Zealand</title>
+    <sub-title>Episode 15</sub-title>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <desc>Couples search for their perfect country house in New Zealand, all while exploring some rural attractions and meeting some of the locals.</desc>
+    <date>20240320</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54275_2024_10_30_7ff7a36a-a40b-423a-8691-2020abbbfb48_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250525182405 +0000" stop="20250525185028 +0000">
+    <title>Country House Hunters New Zealand</title>
+    <sub-title>Episode 16</sub-title>
+    <episode-num system="onscreen">S01E16</episode-num>
+    <desc>Couples search for their perfect country house in New Zealand, all while exploring some rural attractions and meeting some of the locals.</desc>
+    <date>20240320</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54275_2024_10_30_7ff7a36a-a40b-423a-8691-2020abbbfb48_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250525185028 +0000" stop="20250525191700 +0000">
+    <title>Country House Hunters New Zealand</title>
+    <sub-title>Episode 17</sub-title>
+    <episode-num system="onscreen">S01E17</episode-num>
+    <desc>Escape the hustle and bustle of city life, with New Zealand home-buyers looking for a lifestyle change.</desc>
+    <date>20240320</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54275_2024_10_30_7ff7a36a-a40b-423a-8691-2020abbbfb48_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250525191700 +0000" stop="20250525194328 +0000">
+    <title>Country House Hunters New Zealand</title>
+    <sub-title>Episode 18</sub-title>
+    <episode-num system="onscreen">S01E18</episode-num>
+    <desc>Escape the hustle and bustle of city life, with New Zealand home-buyers looking for a lifestyle change.</desc>
+    <date>20240320</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54275_2024_10_30_7ff7a36a-a40b-423a-8691-2020abbbfb48_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250524181505 +0000" stop="20250524191714 +0000">
     <title>Hubble's Enduring Legacy</title>
@@ -2746,17 +2733,26 @@
     <desc>How did matter come to exist, and what became of its birth twin, a mysterious substance called antimatter?</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/1JAIHT965NB3R81HC09J62W_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250524161612 +0000" stop="20250524172106 +0000">
-    <title>The Nature Effect</title>
-    <category>Movie</category>
-    <desc>Experiencing nature stimulates unexpected biological and psychological resources, heightening your well-being.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171APX1IQ5EOK_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250525163229 +0000" stop="20250525171039 +0000">
+    <title>Cosmic Journeys</title>
+    <sub-title>Super Hurricanes and Typhoons</sub-title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <desc>Why do some hurricanes and typhoons evolve into monsters that leave in their wake trails of destruction?</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/1JAIHT965NB3R81HC09J62W_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250524172106 +0000" stop="20250524182533 +0000">
-    <title>Our Roots, Our Future</title>
-    <category>Movie</category>
-    <desc>Scientists are studying root growth. Roots may help solve climate change and protect the environment.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171APT7P9W94B_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250525171039 +0000" stop="20250525181517 +0000">
+    <title>Science vs. God</title>
+    <sub-title>The Cosmos</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>As knowledge about the universe increases, the question becomes, is there evidence of a creator?</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4S2YTN2LYIMGH7W_16_9.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250525181517 +0000" stop="20250525191814 +0000">
+    <title>Science vs. God</title>
+    <sub-title>Life and Evolution</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>The ongoing argument is between those who believe in God and believers of evolution.  Is there room for both?</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4S2YTN2LYIMGH7W_16_9.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250524182533 +0000" stop="20250524192950 +0000">
     <title>In the Mind of Plants</title>
@@ -2900,23 +2896,19 @@
     <desc>With 17,000 islands. the Indonesia Archipelago is one of the most biodiverse places on earth.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU1719ZFST10Q3P_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250524160000 +0000" stop="20250524170000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250525171706 +0000" stop="20250525181707 +0000">
+    <title>Ocean Wild</title>
+    <sub-title>Japan</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Japan's unique coastlines are home to some of the world's most diverse marine ecosystems.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU1719ZFST10Q3P_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250524170000 +0000" stop="20250524180000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250524180000 +0000" stop="20250524190000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250525181707 +0000" stop="20250525191850 +0000">
+    <title>Ocean Wild</title>
+    <sub-title>Thailand</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Thai marine wildlife is like no other. In this episode, discover how these creatures evolved.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU1719ZFST10Q3P_16_9.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250524190000 +0000" stop="20250524200000 +0000">
     <title>Evolution Earth</title>
@@ -3050,19 +3042,23 @@
     <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250524154725 +0000" stop="20250524173004 +0000">
-    <title>Secrets of the North Sea</title>
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250525170000 +0000" stop="20250525180000 +0000">
+    <title>Evolution Earth</title>
     <category>Movie</category>
-    <desc>The North Sea is enigmatic. It presents itself in cool shades of grey. Yet who would have guessed that beneath the chilly waves are opulent coral gardens, courting squids, and several of the largest sea creatures on the planet?</desc>
-    <date>20130301</date>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/17060-19108/34940814-Plex-Portrait-1000x1500_v1.jpg" />
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250524173004 +0000" stop="20250524182110 +0000">
-    <title>Mysterious Oceanic Oases - Hotspots of Life</title>
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250525180000 +0000" stop="20250525190000 +0000">
+    <title>Evolution Earth</title>
     <category>Movie</category>
-    <desc>Countless marine animals frolic on the steep slopes of underwater volcanoes. In many cases, several are rare species not found elsewhere. This is in part due to the fact that plankton clings to the wall and provides the fish with food in abundance. This documentary shows several of these oases and also examines the impact dive tourism has and whether preventive measures can help to maintain them. Nature and underwater filmmaker Rolf Möltgen undertakes dives into the mysterious underwater mountain landscapes with marine scientists from all corners of the globe. This journey takes us to Mexico, to snappers, white-tip reef sharks, Galapagos sharks and giant mantas. We visit the Maldives, Colombia and Costa Rica, where the team documents rare species such as deep sea burbots, small tooth sand tiger and dogfish sharks, in depths of more than 3 metres. The eerie underwater mountain world proves: everyone plays a part in the network of life. Thanks to consistent protective regulations, it has been possible to retain the underwater diversity - especially in the unique oases of the high seas</desc>
-    <date>20190207</date>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/22864-24912/46827092-Plex-Portrait-1000x1500_v1.jpg" />
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250525190000 +0000" stop="20250525200000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250524182110 +0000" stop="20250524191955 +0000">
     <title>Secrets of the Mediterranean</title>
@@ -3245,29 +3241,33 @@
     <date>20191107</date>
     <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/14685-16733/30075326-Samsung-Thumbnail_v1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250524161720 +0000" stop="20250524171230 +0000">
-    <title>Wild Italy: Top Predators</title>
-    <sub-title>Two Eagles</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Two eagles struggle to survive and produce offspring to maintain their species.</desc>
-    <date>20180101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250525162513 +0000" stop="20250525171518 +0000">
+    <title>The Seychelles - Africa with South Seas ambience</title>
+    <category>Movie</category>
+    <desc>The 115 islands and islets that make up the Seychelles present a breath-taking variety of plants, rare animals and beaches laced with palms. This is where the leg-endary Coco de Mer palm nuts grow with fruits weigh-ing up to 20 kilos and giant wild land turtles nibble away at mangrove fruits to their hearts content. The archipelago was first settled at the end of the 18th cen-tury. Today, a very colourful potpourri of peoples in this dwarf state proves just how peacefully different cultures can live side by side. Three times a week, the steamer "MV Espoir" completes the trip from the main island of Mahé to Praslin and back. A ship for every-one and practically everything: Used cars, toilet paper, horses, bicycles, furniture - you name it, the Espoir transports goods of all kinds. Coconuts sometimes pose a problem as there are far too many of them. What to do with them? The best place to send them is undoubt-edly Hubert Roumien's Virgin Coconut Oil Laboratory, hidden away in the Mahé jungle. Straw turns into gold at Seaweed Seychelles! There, Benjamin Port Louis collects seaweed and extracts liquid fertiliser from it.</desc>
+    <date>20220603</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/20392-22440/41763683-Plex-Portrait-1000x1500_v1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250524171230 +0000" stop="20250524181105 +0000">
-    <title>Wild Galapagos Series 01 Episode 01</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>The Galapagos Archipelago's diverse biodiversity is attributed to the Pacific's Humboldt</desc>
-    <date>20170101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/ALBWGAS001EP001.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250525171518 +0000" stop="20250525180531 +0000">
+    <title>Sri Lanka - Tropics, temples and tea plantations</title>
+    <category>Movie</category>
+    <desc>Sri Lanka stands for colourful diversity in all respects. If it's spirituality or Ayurveda you're looking for, here it is. Adventurers and nature lovers can also satisfy their needs here. No one must travel far to discover exotic worlds on this drop-shaped tropical island. "mareTV" delves into the day to day lives of the is-landers, some of whom pursue the most unusual pro-fessions: Uditha Lakmaal is a palm tree climber. He harvests the sap of the trees, known as palm wine, by climbing to the top of them. Sri Lankan stilt fishermen now actually have very little to do with fish and func-tion more as models receiving payment from tourists for acting the part. Anulawathie runs a small floating hoop business, offering car inner tubes for adults and tuk-tuk tubes for children. Different varieties of tea can be found on Herman Gunaratnes tea plantation. Just four carefully selected women are allowed to harvest the exclusive white tea grown there. Each tea leaf is cut individually from the bush by gloved hands and with golden scissors.</desc>
+    <date>20220603</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/20951-22999/42908885-Plex-Portrait-1000x1500_v1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250524181105 +0000" stop="20250524190956 +0000">
-    <title>Wild Galapagos Series 01 Episode 02</title>
-    <sub-title>Episode 2</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>home to diverse creatures, inspired Charles Darwin's evolution theory due to their unique adaptations</desc>
-    <date>20170101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/ALBWGAS001EP002.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250525180531 +0000" stop="20250525185603 +0000">
+    <title>mareTV: Jersey - Sunshine Island in the English Channel</title>
+    <category>Movie</category>
+    <desc>Jersey: the Channel Island is one of the areas in the UK that can boast the most hours of annual sunshine. Not that Dave Cowburn cares very much. He works in the dark, cool ducts of an old bunker from the Sec-ond World War. Here, he breeds turbot, and is very successful at it, too. The "Jersey Royal", the regal potato, has been grown on the island since 1880, fertilized with seaweed from the surrounding ocean. In the third generation, Christine Hellio manages approximately 20 hectares on the coast. "The potato is our most important export commodity", she says. It is harvested by hand, as machines cannot be used on the steep fields. The price is quite regal, too: One kilogram costs 6 Euros. Hugh Gill is one of around 240 voluntary police officers on Jersey. The Honorary Police is regarded as the oldest organised police system in the world. Hugh works for them for one week every month. On the green lanes, the streets of Jersey, the speed limit is 15 miles per hour. Jersey has an immense tidal range and with up to 13 metres difference, it is the world's third largest. This is good for a rarity: the Ormer - one of the world's most expensive species of snail.</desc>
+    <date>20130815</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/24426-26474/50036983-Plex-Portrait-1000x1500_v1.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250525185603 +0000" stop="20250525194617 +0000">
+    <title>mareTV: The Blue and White Island World of Greece: Mykonos, Naxos and Tinos</title>
+    <category>Movie</category>
+    <desc>Around the once sacred Isle of Delos, some 200 islands, including 20 larger ones, are arranged almost in a circle. This is where the name of the Greek island paradise comes from: Cyclades, a derivation of the Greek word kýklos, circle. Each cyclade has a unique character. The pelican Petros, about 20 years old, is the mascot of Mykonos. He moves from taverna to taverna all day long, scrounging fish. This works out sometimes well and sometimes not so well. Petros does have a few human friends who regularly slip him something, but all too often visitors eager to take pictures block his path. Then he has to "wiggle" his way through the crowd. Jackie Onassis is said to have once brought Petros' "great-grandmother" from Louisiana to the island.</desc>
+    <date>20200305</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/14685-16733/30075328-Samsung-Thumbnail_v1.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250524190956 +0000" stop="20250524204958 +0000">
     <title>The Real Lost World</title>
@@ -3444,5 +3444,27 @@
     <desc>Peregrine falcons and Herring gull have settled in the center of Rome, now nesting in large numbers.</desc>
     <date>20180101</date>
     <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250525163809 +0000" stop="20250525173855 +0000">
+    <title>Sperm Whales: Dealing with the Unexpected</title>
+    <category>Movie</category>
+    <desc>The Sperm Whale family in the Crozet Islands faces threats from humans, fishing lines, and deep-sea monsters.</desc>
+    <date>20050101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250525173855 +0000" stop="20250525183737 +0000">
+    <title>Trees Of Life</title>
+    <category>Movie</category>
+    <desc>See how humble plants triggered Earth’s greatest transformation</desc>
+    <date>20110101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250525183737 +0000" stop="20250525193652 +0000">
+    <title>Addos Elephants</title>
+    <sub-title>Addo's Elephants</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Protected elephants live and thrive in Addo Elephant National Park.</desc>
+    <date>20060101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/TVFAELS001EP001.jpg" />
   </programme>
   </tv>
