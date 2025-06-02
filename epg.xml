@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv><channel id="62cbef9ebb857100072fc187">
+<tv><channel id="656535fc2c46f30008870fae">
+    <display-name>BBC Earth</display-name>
+    <icon src="https://images.pluto.tv/channels/656535fc2c46f30008870fae/colorLogoPNG.png" />
+  </channel>
+  <channel id="62cbef9ebb857100072fc187">
     <display-name>Global News National</display-name>
     <icon src="https://images.pluto.tv/channels/62cbef9ebb857100072fc187/colorLogoPNG.png" />
   </channel>
@@ -19,6 +23,341 @@
     <display-name>Global News Halifax</display-name>
     <icon src="https://images.pluto.tv/channels/62cbf398b8e02600071deda5/colorLogoPNG.png" />
   </channel>
+  <programme channel="656535fc2c46f30008870fae" start="20250602194300 +0000" stop="20250602201000 +0000">
+    <title>David Attenborough's Natural Curiosities</title>
+    <live />
+    <episode-num system="original-air-date">20250602194300 +0000</episode-num>
+    <desc>Animals adapt to life in the dark; owl eyes are too large to move within their sockets; the giant squid has the largest eyes in the animal kingdom.</desc>
+    <icon src="https://images.pluto.tv/series/660ae1d49622540013184403/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">660ae1d49622540013184403</series-id>
+    <sub-title>Life in the Dark</sub-title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="656535fc2c46f30008870fae" start="20250602201000 +0000" stop="20250602203600 +0000">
+    <title>David Attenborough's Natural Curiosities</title>
+    <live />
+    <episode-num system="original-air-date">20250602201000 +0000</episode-num>
+    <desc>Sir David Attenborough shines the spotlight on amazing animals; he looks at cuckoos and the way the death's-head hawkmoth steals honey.</desc>
+    <icon src="https://images.pluto.tv/series/660ae1d49622540013184403/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">660ae1d49622540013184403</series-id>
+    <sub-title>Curious Imposters</sub-title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="656535fc2c46f30008870fae" start="20250602203600 +0000" stop="20250602210200 +0000">
+    <title>David Attenborough's Natural Curiosities</title>
+    <live />
+    <episode-num system="original-air-date">20250602203600 +0000</episode-num>
+    <desc>Sir David Attenborough shines the spotlight on nature's most amazing animals; he takes a closer look at the vampire bat.</desc>
+    <icon src="https://images.pluto.tv/series/660ae1d49622540013184403/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">660ae1d49622540013184403</series-id>
+    <sub-title>Bad Reputations</sub-title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="656535fc2c46f30008870fae" start="20250602210200 +0000" stop="20250602212800 +0000">
+    <title>David Attenborough's Natural Curiosities</title>
+    <live />
+    <episode-num system="original-air-date">20250602210200 +0000</episode-num>
+    <desc>How naturalists find out that some eels are electric is revealed.</desc>
+    <icon src="https://images.pluto.tv/series/660ae1d49622540013184403/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">660ae1d49622540013184403</series-id>
+    <sub-title>Shocking Senses</sub-title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="656535fc2c46f30008870fae" start="20250602212800 +0000" stop="20250602215400 +0000">
+    <title>David Attenborough's Natural Curiosities</title>
+    <live />
+    <episode-num system="original-air-date">20250602212800 +0000</episode-num>
+    <desc>Sir David Attenborough shines the spotlight on the wood frog, which freezes solid; he looks at how the emperor penguin breeds.</desc>
+    <icon src="https://images.pluto.tv/series/660ae1d49622540013184403/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">660ae1d49622540013184403</series-id>
+    <sub-title>Life on Ice</sub-title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="656535fc2c46f30008870fae" start="20250602215400 +0000" stop="20250602222000 +0000">
+    <title>David Attenborough's Natural Curiosities</title>
+    <live />
+    <episode-num system="original-air-date">20250602215400 +0000</episode-num>
+    <desc>Nature produces two unique mechanisms of natural construction; weaving in birds and silk fascinate scientists.</desc>
+    <icon src="https://images.pluto.tv/series/660ae1d49622540013184403/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">660ae1d49622540013184403</series-id>
+    <sub-title>Spinners and Weavers</sub-title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="656535fc2c46f30008870fae" start="20250602222000 +0000" stop="20250602224600 +0000">
+    <title>David Attenborough's Natural Curiosities</title>
+    <live />
+    <episode-num system="original-air-date">20250602222000 +0000</episode-num>
+    <desc>David Attenborough shines the spotlight on female hyenas; he examines why male seahorses give birth.</desc>
+    <icon src="https://images.pluto.tv/series/660ae1d49622540013184403/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">660ae1d49622540013184403</series-id>
+    <sub-title>Strange Parents</sub-title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="656535fc2c46f30008870fae" start="20250602224600 +0000" stop="20250602231200 +0000">
+    <title>David Attenborough's Natural Curiosities</title>
+    <live />
+    <episode-num system="original-air-date">20250602224600 +0000</episode-num>
+    <desc>Examining how swallows appear each spring; Insects, such as butterflies, suddenly arrive in the summer.</desc>
+    <icon src="https://images.pluto.tv/series/660ae1d49622540013184403/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">660ae1d49622540013184403</series-id>
+    <sub-title>Magical Appearances</sub-title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="656535fc2c46f30008870fae" start="20250602231200 +0000" stop="20250602233800 +0000">
+    <title>David Attenborough's Natural Curiosities</title>
+    <live />
+    <episode-num system="original-air-date">20250602231200 +0000</episode-num>
+    <desc>David Attenborough examines how fleas jump; he tracks the true speed of a cheetah.</desc>
+    <icon src="https://images.pluto.tv/series/660ae1d49622540013184403/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">660ae1d49622540013184403</series-id>
+    <sub-title>Impossible Feats</sub-title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="656535fc2c46f30008870fae" start="20250602233800 +0000" stop="20250603000400 +0000">
+    <title>David Attenborough's Natural Curiosities</title>
+    <live />
+    <episode-num system="original-air-date">20250602233800 +0000</episode-num>
+    <desc>David Attenborough examines orangutans and crows, two unusual animals that use tools.</desc>
+    <icon src="https://images.pluto.tv/series/660ae1d49622540013184403/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">660ae1d49622540013184403</series-id>
+    <sub-title>Curious Minds</sub-title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="656535fc2c46f30008870fae" start="20250603000400 +0000" stop="20250603003000 +0000">
+    <title>David Attenborough's Natural Curiosities</title>
+    <live />
+    <episode-num system="original-air-date">20250603000400 +0000</episode-num>
+    <desc>David Attenborough examines creatures that have fascinated people for centuries; he looks at the expandable bodies of anacondas and camels.</desc>
+    <icon src="https://images.pluto.tv/series/660ae1d49622540013184403/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">660ae1d49622540013184403</series-id>
+    <sub-title>Expandable Bodies</sub-title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="656535fc2c46f30008870fae" start="20250603003000 +0000" stop="20250603005600 +0000">
+    <title>David Attenborough's Natural Curiosities</title>
+    <live />
+    <episode-num system="original-air-date">20250603003000 +0000</episode-num>
+    <desc>A look at some species with unusual styles of consuming food, including the gigantic blue whales and the flamboyant flamingos.</desc>
+    <icon src="https://images.pluto.tv/series/660ae1d49622540013184403/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">660ae1d49622540013184403</series-id>
+    <sub-title>Curious Feeders</sub-title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="656535fc2c46f30008870fae" start="20250603005600 +0000" stop="20250603012200 +0000">
+    <title>David Attenborough's Natural Curiosities</title>
+    <live />
+    <episode-num system="original-air-date">20250603005600 +0000</episode-num>
+    <desc>David Attenborough examines some species with remarkable healing properties.</desc>
+    <icon src="https://images.pluto.tv/series/660ae1d49622540013184403/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">660ae1d49622540013184403</series-id>
+    <sub-title>Curious Cures</sub-title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="656535fc2c46f30008870fae" start="20250603012200 +0000" stop="20250603014800 +0000">
+    <title>David Attenborough's Natural Curiosities</title>
+    <live />
+    <episode-num system="original-air-date">20250603012200 +0000</episode-num>
+    <desc>A look at the incredible animals who can regenerate entire parts of their bodies, like salamanders and deer.</desc>
+    <icon src="https://images.pluto.tv/series/660ae1d49622540013184403/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">660ae1d49622540013184403</series-id>
+    <sub-title>Remarkable Regeneration</sub-title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="656535fc2c46f30008870fae" start="20250603014800 +0000" stop="20250603021400 +0000">
+    <title>David Attenborough's Natural Curiosities</title>
+    <live />
+    <episode-num system="original-air-date">20250603014800 +0000</episode-num>
+    <desc>Sir David Attenborough examines bizarre and deadly hybrid animals.</desc>
+    <icon src="https://images.pluto.tv/series/660ae1d49622540013184403/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">660ae1d49622540013184403</series-id>
+    <sub-title>Animal Frankensteins</sub-title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="656535fc2c46f30008870fae" start="20250603021400 +0000" stop="20250603024000 +0000">
+    <title>David Attenborough's Natural Curiosities</title>
+    <live />
+    <episode-num system="original-air-date">20250603021400 +0000</episode-num>
+    <desc>Sir David Attenborough examines animals with the ability to find their way.</desc>
+    <icon src="https://images.pluto.tv/series/660ae1d49622540013184403/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">660ae1d49622540013184403</series-id>
+    <sub-title>Finding the Way</sub-title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="656535fc2c46f30008870fae" start="20250603024000 +0000" stop="20250603030600 +0000">
+    <title>David Attenborough's Natural Curiosities</title>
+    <live />
+    <episode-num system="original-air-date">20250603024000 +0000</episode-num>
+    <desc>Sir David Attenborough examines the sizes of animals' young.</desc>
+    <icon src="https://images.pluto.tv/series/660ae1d49622540013184403/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">660ae1d49622540013184403</series-id>
+    <sub-title>Extreme Babies</sub-title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="656535fc2c46f30008870fae" start="20250603030600 +0000" stop="20250603033200 +0000">
+    <title>David Attenborough's Natural Curiosities</title>
+    <live />
+    <episode-num system="original-air-date">20250603030600 +0000</episode-num>
+    <desc>Sir David Attenborough discovers if animals and plants can count.</desc>
+    <icon src="https://images.pluto.tv/series/660ae1d49622540013184403/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">660ae1d49622540013184403</series-id>
+    <sub-title>Curious Counters</sub-title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="656535fc2c46f30008870fae" start="20250603033200 +0000" stop="20250603040000 +0000">
+    <title>David Attenborough's Natural Curiosities</title>
+    <live />
+    <episode-num system="original-air-date">20250603033200 +0000</episode-num>
+    <desc>Sir David Attenborough investigates two shells that win at evolution.</desc>
+    <icon src="https://images.pluto.tv/series/660ae1d49622540013184403/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">660ae1d49622540013184403</series-id>
+    <sub-title>Incredible Shells</sub-title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="656535fc2c46f30008870fae" start="20250603040000 +0000" stop="20250603042400 +0000">
+    <title>David Attenborough's Natural Curiosities</title>
+    <live />
+    <episode-num system="original-air-date">20250603040000 +0000</episode-num>
+    <desc>Sir David Attenborough explores animals with fighting behavior.</desc>
+    <icon src="https://images.pluto.tv/series/660ae1d49622540013184403/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">660ae1d49622540013184403</series-id>
+    <sub-title>Ferocious Fighters</sub-title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="656535fc2c46f30008870fae" start="20250603042400 +0000" stop="20250603052100 +0000">
+    <title>Galapagos</title>
+    <live />
+    <episode-num system="original-air-date">20250603042400 +0000</episode-num>
+    <desc>A look at the archeological history of these volcanic islands and how numerous unusual species originated there.</desc>
+    <icon src="https://images.pluto.tv/series/65b05a72a40ff700137d6605/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">65b05a72a40ff700137d6605</series-id>
+    <sub-title>Born of Fire</sub-title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="656535fc2c46f30008870fae" start="20250603052100 +0000" stop="20250603061800 +0000">
+    <title>Galapagos</title>
+    <live />
+    <episode-num system="original-air-date">20250603052100 +0000</episode-num>
+    <desc>Many of Charles Darwin's theories on evolution were based on his observations in the Galapagos.</desc>
+    <icon src="https://images.pluto.tv/series/65b05a72a40ff700137d6605/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">65b05a72a40ff700137d6605</series-id>
+    <sub-title>Islands That Changed the World</sub-title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="656535fc2c46f30008870fae" start="20250603061800 +0000" stop="20250603071500 +0000">
+    <title>Galapagos</title>
+    <live />
+    <episode-num system="original-air-date">20250603061800 +0000</episode-num>
+    <desc>A glimpse into what the future holds for the Galapagos as man and ocean currents have brought change to the islands.</desc>
+    <icon src="https://images.pluto.tv/series/65b05a72a40ff700137d6605/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">65b05a72a40ff700137d6605</series-id>
+    <sub-title>Forces of Change</sub-title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="656535fc2c46f30008870fae" start="20250603071500 +0000" stop="20250603081200 +0000">
+    <title>Wild New Zealand</title>
+    <live />
+    <episode-num system="original-air-date">20250603071500 +0000</episode-num>
+    <desc>Untouched since the dawn of time, evolution runs riot in New Zealand to create some of the rarest and most unusual wildlife on Earth.</desc>
+    <icon src="https://images.pluto.tv/series/67f03bb5670ae219314d44b1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">67f03bb5670ae219314d44b1</series-id>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="656535fc2c46f30008870fae" start="20250603081200 +0000" stop="20250603091000 +0000">
+    <title>Wild New Zealand</title>
+    <live />
+    <episode-num system="original-air-date">20250603081200 +0000</episode-num>
+    <desc>Male sea lions brawl for mating rights and females give birth on a sandy beach in the Auckland Islands, located halfway between New Zealand and Antarctica.</desc>
+    <icon src="https://images.pluto.tv/series/67f03bb5670ae219314d4501/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">67f03bb5670ae219314d4501</series-id>
+    <sub-title>Savage Island Giants</sub-title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="656535fc2c46f30008870fae" start="20250603091000 +0000" stop="20250603100800 +0000">
+    <title>Wild New Zealand</title>
+    <live />
+    <episode-num system="original-air-date">20250603091000 +0000</episode-num>
+    <desc>Four penguin species begin breeding every winter in four very different and rugged locations on New Zealand's South Island.</desc>
+    <icon src="https://images.pluto.tv/series/67f03bb5670ae219314d4501/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">67f03bb5670ae219314d4501</series-id>
+    <sub-title>Penguin Central</sub-title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="656535fc2c46f30008870fae" start="20250603100800 +0000" stop="20250603110600 +0000">
+    <title>Wild Japan</title>
+    <live />
+    <episode-num system="original-air-date">20250603100800 +0000</episode-num>
+    <desc>The central island of Honshu is home to over 100 million people, but is also home to an astonishing range of wildlife.</desc>
+    <icon src="https://images.pluto.tv/series/660ae1d4962254001318454a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">660ae1d4962254001318454a</series-id>
+    <sub-title>Honshu</sub-title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme channel="656535fc2c46f30008870fae" start="20250603110600 +0000" stop="20250603120300 +0000">
+    <title>Wild Japan</title>
+    <live />
+    <episode-num system="original-air-date">20250603110600 +0000</episode-num>
+    <desc>In the far south of Japan, there is a a place where all life is influenced by the power of the sea, and where volcanoes and typhoons are forces to be reckoned with.</desc>
+    <icon src="https://images.pluto.tv/series/660ae1d4962254001318454a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">660ae1d4962254001318454a</series-id>
+    <sub-title>The Southwest Islands</sub-title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
   <programme channel="62cbef9ebb857100072fc187" start="20250602200000 +0000" stop="20250602203000 +0000">
     <title>Global News National</title>
     <live />
