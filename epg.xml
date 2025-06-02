@@ -1728,12 +1728,6 @@
     <display-name>Real Wild</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/09e8c6b6-368e-4275-b974-fe5e1921f64d/RealWild_Logo_White_-_Simon_Tuquabo.png" />
   </channel>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250602110000 +0000" stop="20250602120000 +0000">
-    <title>The National</title>
-    <sub-title>The National</sub-title>
-    <desc>CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.</desc>
-    <date>20250602</date>
-  </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250602120000 +0000" stop="20250602130000 +0000">
     <title>The National</title>
     <sub-title>The National</sub-title>
@@ -1872,13 +1866,11 @@
     <desc>CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.</desc>
     <date>20250603</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250602110000 +0000" stop="20250602120000 +0000">
-    <title>W5</title>
-    <sub-title>Finding Sharron's Killer</sub-title>
-    <episode-num system="onscreen">S58E03</episode-num>
-    <desc>An investigator uses new scientific advances to track a 16-year-old girl's murderer, 50 years later.</desc>
-    <date>20250220</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29794_2024_2_22_01ca6461-2f07-403f-8834-295a51103928_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250603120000 +0000" stop="20250603130000 +0000">
+    <title>The National</title>
+    <sub-title>The National</sub-title>
+    <desc>CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.</desc>
+    <date>20250603</date>
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250602120000 +0000" stop="20250602123000 +0000">
     <title>CTV National News</title>
@@ -2118,29 +2110,11 @@
     <date>20250220</date>
     <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29794_2024_2_22_01ca6461-2f07-403f-8834-295a51103928_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250602105242 +0000" stop="20250602111849 +0000">
-    <title>Flour Power</title>
-    <sub-title>Desserts You Can Eat with Your Fingers</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>Host Jessica McGovern shows us how to make glorious desserts that you can eat with your fingers!</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m41323_2024_2_21_901a3f86-afb3-421c-987d-12aed397dfc1_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250602111849 +0000" stop="20250602114454 +0000">
-    <title>Flour Power</title>
-    <sub-title>All About Eggs</sub-title>
-    <episode-num system="onscreen">S01E13</episode-num>
-    <desc>Baking expert Jessica McGovern demonstrates the versatility of this wonder ingredient.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m41323_2024_2_21_901a3f86-afb3-421c-987d-12aed397dfc1_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250602114454 +0000" stop="20250602121102 +0000">
-    <title>Flour Power</title>
-    <sub-title>DIY Wedding</sub-title>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <desc>Host Jessica McGovern bakes up do-it-yourself recipes that will spice up any wedding.</desc>
-    <date>20240408</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m41323_2024_2_21_901a3f86-afb3-421c-987d-12aed397dfc1_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250603120000 +0000" stop="20250603123000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250602121102 +0000" stop="20250602123708 +0000">
     <title>Flour Power</title>
@@ -2422,17 +2396,21 @@
     <date>20240408</date>
     <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m41323_2024_2_21_901a3f86-afb3-421c-987d-12aed397dfc1_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250602102011 +0000" stop="20250602112224 +0000">
-    <title>Dust Storm</title>
-    <category>Movie</category>
-    <desc>We investigate dust storm causes, and how to predict them and lessen their impact.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU1719EMQE5GKD6_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250603114158 +0000" stop="20250603120804 +0000">
+    <title>Flour Power</title>
+    <sub-title>Paris</sub-title>
+    <episode-num system="onscreen">S02E10</episode-num>
+    <desc>Flour Power is a fun, stylish and playful series that is all about sharing the love and joy of baking.</desc>
+    <date>20240408</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m41323_2024_2_21_901a3f86-afb3-421c-987d-12aed397dfc1_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250602112224 +0000" stop="20250602121902 +0000">
-    <title>Solar Superstorms: Journey to the Center of the Sun</title>
-    <category>Movie</category>
-    <desc>As technology and electrical grids have spread, big solar storms pose a threat equal to the worst hurricanes.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRMHLGJUDY5858BY_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250603120804 +0000" stop="20250603123410 +0000">
+    <title>Flour Power</title>
+    <sub-title>Country Fair</sub-title>
+    <episode-num system="onscreen">S02E11</episode-num>
+    <desc>Jessica makes fair-inspired desserts, including classic funnel cake.</desc>
+    <date>20240408</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m41323_2024_2_21_901a3f86-afb3-421c-987d-12aed397dfc1_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250602121902 +0000" stop="20250602132343 +0000">
     <title>Asteroid Mining: The New El Dorado</title>
@@ -2605,12 +2583,12 @@
     <desc>Scientists are studying root growth. Roots may help solve climate change and protect the environment.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171APT7P9W94B_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250602105540 +0000" stop="20250602115550 +0000">
-    <title>Facing Forces of Nature</title>
-    <sub-title>Asteroids</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>An asteroid could be barreling toward Earth at any time, now or in the future. Only science can save us.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171CM82POYQJZ_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250603114515 +0000" stop="20250603124825 +0000">
+    <title>Voyage of the Continents</title>
+    <sub-title>Asia: The Tectonics of Life and Death</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>First Asia hurtled into Europe. They remain bound together by the Urals.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRD9MNQD2MO_16_9.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250602115550 +0000" stop="20250602125546 +0000">
     <title>Facing Forces of Nature</title>
@@ -2926,11 +2904,19 @@
     <desc>In this episode, we examine how every animal has what could be called a sense of rhythm.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU17194HRQ8GZM9_16_9.jpeg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250602110000 +0000" stop="20250602120000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250603113020 +0000" stop="20250603120211 +0000">
+    <title>Super Senses: Wild Feats of Evolution</title>
+    <sub-title>Underwater</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>While all life began in the oceans, human beings now rely on technology to navigate the seven seas.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU17194HRQ8GZM9_16_9.jpeg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250603120211 +0000" stop="20250603123421 +0000">
+    <title>Super Senses: Wild Feats of Evolution</title>
+    <sub-title>Sky</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>While all life began in the oceans, human beings now rely on technology to navigate the seven seas.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU17194HRQ8GZM9_16_9.jpeg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250602120000 +0000" stop="20250602130000 +0000">
     <title>Evolution Earth</title>
@@ -3076,21 +3062,11 @@
     <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250602102011 +0000" stop="20250602112058 +0000">
-    <title>The marvellous World of French Rivers</title>
-    <sub-title>Marvellous french Rivers - Dordogne</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>The Dordogne consists of a visible and an invisible system of flowing water. Caves and basins under the earth's surface store the excess water and return it to the river when it is dry. A perfect management of a precious resource, not invented by humans, but by the complex nature itself. The result is an ever life-giving river.</desc>
-    <date>20210425</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/MARVELLOUS%2520FRENCH%2520RIVERS%2520-%2520GIRONDE%2520%2526%2520DORDOGNE%2520EPISODE%25202_Landscape_V1.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250602112058 +0000" stop="20250602121602 +0000">
-    <title>One Year in Norway's Lofoten</title>
-    <sub-title>One Year in Norway's Lofoten: Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Winter means more than just the beginning of the year for the people of Lofoten: For more than a thousand years, Lofoten has been a hub for cod fishing, with seasons lasting from February to April as huge shoals migrate from the Barents Sea to these waters. During these hectic months, more than 65,000 tons of fish are brought to shore, securing the income for the whole of Lofoten for years to come. Around a quarter of the fish caught ends up on lines to dry upon racks. From a young age, the children from the fishing villages get to earn some pocket money by cutting cod tongues and selling the produce as a delicacy appreciated by the locals.</desc>
-    <date>20200821</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/ONE%2520YEAR%2520IN%2520NORWAY%25E2%2580%2598S%2520LOFOTEN%2520EPISODE%25201_Landscape_V1.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250603120000 +0000" stop="20250603130000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250602121602 +0000" stop="20250602131027 +0000">
     <title>One Year in Norway's Lofoten</title>
@@ -3281,12 +3257,12 @@
     <date>20151001</date>
     <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/30633-32681/62781734-Plex-Portrait_v1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250602110121 +0000" stop="20250602120025 +0000">
-    <title>Megeti</title>
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250603114128 +0000" stop="20250603124213 +0000">
+    <title>King of the Seas - Sea Eagle</title>
     <category>Movie</category>
-    <desc>A lone Ethiopian Wolf battles the elements and other predators as she tries to unite with a pack.</desc>
-    <date>20160101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+    <desc>The times where eagles have been seen as varmints are over. They are now perceived as an integral part of the food cycle. Due to the fact that the habitats of the sea eagles in Germany are largely found in the north-eastern regions that are rich in water, the movie accompanies the eagles to an island, home to hundreds of sea ravens, where they rob the baby sea ravens of their food. They seem to always profit from the successes of the fellow creatures in their habitats. This film introduces you to the expert poachers of the animal kingdom.</desc>
+    <date>20160215</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/30633-32681/62781688-Plex-Portrait_v1.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250602120025 +0000" stop="20250602130031 +0000">
     <title>Wild Faces Of Switzerland</title>
@@ -3479,5 +3455,13 @@
     <desc>Deep in the snowy forests of Scandinavia, a mother bear raises her cubs, guiding them through their first year in the wild.</desc>
     <date>20150101</date>
     <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/ALBBOBS001EP002.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250603120054 +0000" stop="20250603124055 +0000">
+    <title>The Secret Lives Of Big Cats</title>
+    <sub-title>The Secret Lives of Tigers</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Siberian tigers, the largest cats, have experienced a population crash in the last century</desc>
+    <date>20200101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/CS1TSLS001EP001.jpg" />
   </programme>
   </tv>
