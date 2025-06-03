@@ -1950,12 +1950,6 @@
     <display-name>Real Wild</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/09e8c6b6-368e-4275-b974-fe5e1921f64d/RealWild_Logo_White_-_Simon_Tuquabo.png" />
   </channel>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250603160000 +0000" stop="20250603163000 +0000">
-    <title>About That</title>
-    <sub-title>About That</sub-title>
-    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
-    <date>20250603</date>
-  </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250603163000 +0000" stop="20250603200000 +0000">
     <title>Today's Top Stories</title>
     <sub-title>Today's Top Stories</sub-title>
@@ -2094,45 +2088,11 @@
     <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
     <date>20250604</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250603160000 +0000" stop="20250603163000 +0000">
-    <title>CTV National News with Omar Sachedina</title>
-    <sub-title>CTV National News for Monday, June 2, 2025</sub-title>
-    <episode-num system="onscreen">S2025E87</episode-num>
-    <desc>CTV National News with Omar Sachedina is Canada's #1 national newscast</desc>
-    <date>20250603</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29593_2024_2_22_a0b77432-b521-4b92-8fd6-df17c3828c96_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250603163000 +0000" stop="20250603170000 +0000">
-    <title>CTV News: Your Canada</title>
-    <sub-title>for Tuesday, June 3, 2025</sub-title>
-    <episode-num system="onscreen">S2025E130</episode-num>
-    <desc>Stories that showcase what makes Canada unique.</desc>
-    <date>20250603</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250603170000 +0000" stop="20250603180000 +0000">
-    <title>Question Period</title>
-    <sub-title>for Sunday, June 1, 2025</sub-title>
-    <episode-num system="onscreen">S54E36</episode-num>
-    <desc>Question Period, the national political landmark program, is a must-see for political junkies.</desc>
-    <date>20250602</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29715_2024_2_22_942b978d-6939-46d6-84d6-0963a4db113b_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250603180000 +0000" stop="20250603183000 +0000">
-    <title>CTV National News with Omar Sachedina</title>
-    <sub-title>CTV National News for Monday, June 2, 2025</sub-title>
-    <episode-num system="onscreen">S2025E87</episode-num>
-    <desc>CTV National News with Omar Sachedina is Canada's #1 national newscast</desc>
-    <date>20250603</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29593_2024_2_22_a0b77432-b521-4b92-8fd6-df17c3828c96_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250603183000 +0000" stop="20250603190000 +0000">
-    <title>CTV News: Across Canada</title>
-    <sub-title>for Tuesday, June 3, 2025</sub-title>
-    <episode-num system="onscreen">S2025E118</episode-num>
-    <desc>Top stories from coast-to-coast as reported by CTV News local journalists across Canada.</desc>
-    <date>20250530</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55945_2024_8_9_9f6270cc-d7b3-48b4-a0cc-902adc5a6152_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250604163000 +0000" stop="20250604200000 +0000">
+    <title>Today's Top Stories</title>
+    <sub-title>Today's Top Stories</sub-title>
+    <desc>What's happening across Canada and around the world.</desc>
+    <date>20250604</date>
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250603190000 +0000" stop="20250603200000 +0000">
     <title>W5</title>
@@ -2368,37 +2328,37 @@
     <desc>CTV National News</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250603153352 +0000" stop="20250603162850 +0000">
-    <title>The Marilyn Denis Show</title>
-    <sub-title>Monday, September 19, 2011</sub-title>
-    <episode-num system="onscreen">S02E06</episode-num>
-    <desc>Washing laundry; real estate guru Scott McGillivray.</desc>
-    <date>20240424</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m29995_2024_2_19_78d3f68c-8f87-4b12-a352-7a478eefae20_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250604163000 +0000" stop="20250604170000 +0000">
+    <title>CTV News: Your Canada</title>
+    <category>Movie</category>
+    <desc>CTV News: Your Canada</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250603162850 +0000" stop="20250603172201 +0000">
-    <title>The Marilyn Denis Show</title>
-    <sub-title>Thursday, September 22, 2011</sub-title>
-    <episode-num system="onscreen">S02E09</episode-num>
-    <desc>CTV News anchor Lisa LaFlamme.</desc>
-    <date>20240424</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m29995_2024_2_19_78d3f68c-8f87-4b12-a352-7a478eefae20_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250604170000 +0000" stop="20250604180000 +0000">
+    <title>Power Play</title>
+    <category>Movie</category>
+    <desc>Power Play</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250603172201 +0000" stop="20250603181451 +0000">
-    <title>The Marilyn Denis Show</title>
-    <sub-title>Thursday, October 6, 2011</sub-title>
-    <episode-num system="onscreen">S02E19</episode-num>
-    <desc>Lynda Reeves; tech expert Nicholas Montgomery.</desc>
-    <date>20240424</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m29995_2024_2_19_78d3f68c-8f87-4b12-a352-7a478eefae20_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250604180000 +0000" stop="20250604183000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250603181451 +0000" stop="20250603190414 +0000">
-    <title>The Marilyn Denis Show</title>
-    <sub-title>Wednesday, October 12, 2011</sub-title>
-    <episode-num system="onscreen">S02E23</episode-num>
-    <desc>Chef Rocco Dispirito; hair stylist Marc Anthony.</desc>
-    <date>20240424</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m29995_2024_2_19_78d3f68c-8f87-4b12-a352-7a478eefae20_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250604183000 +0000" stop="20250604190000 +0000">
+    <title>CTV News: Across Canada</title>
+    <category>Movie</category>
+    <desc>CTV News: Across Canada</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250604190000 +0000" stop="20250604200000 +0000">
+    <title>W5</title>
+    <sub-title>Where's Dylan?</sub-title>
+    <episode-num system="onscreen">S56E28</episode-num>
+    <desc>A boy's disappearance leads to a community turning on his parents.</desc>
+    <date>20250220</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29794_2024_2_22_01ca6461-2f07-403f-8834-295a51103928_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250603190414 +0000" stop="20250603195308 +0000">
     <title>The Marilyn Denis Show</title>
@@ -2672,24 +2632,61 @@
     <date>20250529</date>
     <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54775_2025_4_4_582bd9bf-59ae-4419-9c55-c32dd46adf0a_JPG_1920x1080.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250603160614 +0000" stop="20250603171733 +0000">
-    <title>Order and Disorder</title>
-    <sub-title>The Story of Information</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Jim learns that information isn't just about human communication; it's woven into the very fabric of reality.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRMHLGKBM4OW205V_16_9.jpeg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250604163207 +0000" stop="20250604165729 +0000">
+    <title>Mary Makes It Easy</title>
+    <sub-title>Livin’ in the Past-a</sub-title>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <desc>Make your own checkered tablecloth magic with Mary’s recipes for Italian-American restaurant night.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250603171733 +0000" stop="20250603181112 +0000">
-    <title>China's Long March Into Space</title>
-    <category>Movie</category>
-    <desc>Three men sit atop 500 tons of liquid fuel in China's Shenzhou 7 ship, ready to blast 185 miles into space.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/5N1HJZ69IH6XN9X9KXRYDV_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250604165729 +0000" stop="20250604172252 +0000">
+    <title>Mary Makes It Easy</title>
+    <sub-title>Cast Away</sub-title>
+    <episode-num system="onscreen">S02E08</episode-num>
+    <desc>Hosted by chef and two-time Canadian Screen Award-winner Mary Berg, follows Berg as she takes viewers step-by-step through recipes.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250603181112 +0000" stop="20250603191555 +0000">
-    <title>The Saturn V Story</title>
-    <category>Movie</category>
-    <desc>This is the story of the most powerful machine ever built and a nation who watched on with hope, together.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU1719DHWBZRDPF_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250604172252 +0000" stop="20250604174613 +0000">
+    <title>Mary Makes It Easy</title>
+    <sub-title>Make and Take</sub-title>
+    <episode-num system="onscreen">S02E09</episode-num>
+    <desc>Impress pals with recipes that are great to make and easier to take, and they just might steal the show at the next potluck.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250604174613 +0000" stop="20250604181133 +0000">
+    <title>Mary Makes It Easy</title>
+    <sub-title>Bare Bones Baking</sub-title>
+    <episode-num system="onscreen">S02E10</episode-num>
+    <desc>Mary shows how to up the baking game without breaking the bank on fancy gadgets. There’s no specialty equipment here!</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250604181133 +0000" stop="20250604183456 +0000">
+    <title>Mary Makes It Easy</title>
+    <sub-title>The Short List</sub-title>
+    <episode-num system="onscreen">S02E11</episode-num>
+    <desc>Mary keeps shopping lists short with flavourful dishes made up of just a few ingredients.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250604183456 +0000" stop="20250604190019 +0000">
+    <title>Mary Makes It Easy</title>
+    <sub-title>Livin' on the Veg</sub-title>
+    <episode-num system="onscreen">S02E12</episode-num>
+    <desc>Celebrate the veg life with Mary’s meatless recipes that are so much more than just a bowl of greens.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250604190019 +0000" stop="20250604192541 +0000">
+    <title>Mary Makes It Easy</title>
+    <sub-title>Wine and Dine</sub-title>
+    <episode-num system="onscreen">S02E13</episode-num>
+    <desc>Mary shakes up a cocktail of recipes that use beer and wine to load up on flavor.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250603191555 +0000" stop="20250603201531 +0000">
     <title>Faster Than Light: the Dream of Interstellar Flight</title>
@@ -2855,25 +2852,25 @@
     <desc>NASA’s Juno mission to Jupiter is revealing the origins of our solar system, when Earth's fate was uncertain.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRN2P7PQXHB3E8FX_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250603161546 +0000" stop="20250603171828 +0000">
-    <title>Mega Disaster</title>
-    <sub-title>Tornado</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>From the tremendous, to the terrifying, to the tragic, this is a countdown to a mega tornado.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/5N1HJZ69IH6XNUB0QKJMTG_16_9.jpeg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250603171828 +0000" stop="20250603182111 +0000">
-    <title>Mega Disaster</title>
-    <sub-title>Earthquake</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Earthquakes baffle experts as they try to gather the information necessary to predict the next big one.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/5N1HJZ69IH6XNUB0QKJMTG_16_9.jpeg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250603182111 +0000" stop="20250603191934 +0000">
-    <title>Earth in 1000 years</title>
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250604171139 +0000" stop="20250604181606 +0000">
+    <title>Our Roots, Our Future</title>
     <category>Movie</category>
-    <desc>Earth's stores of ice on Greenland and Antarctica are melting, and sea levels rising. Where is Earth headed?</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRMHLGKBR8G610GS_2_3.jpg" />
+    <desc>Scientists are studying root growth. Roots may help solve climate change and protect the environment.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171APT7P9W94B_2_3.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250604181606 +0000" stop="20250604191916 +0000">
+    <title>Voyage of the Continents</title>
+    <sub-title>Europe: A Turbulent Future</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Over time, the Atlantic Ocean widened. Then Africa moved north, struck Europe and birthed the Alps.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRD9MNQD2MO_16_9.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250604191916 +0000" stop="20250604202333 +0000">
+    <title>Voyage of the Continents</title>
+    <sub-title>The Origins of Africa</sub-title>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <desc>Gondwana, the first, single, landmass broke apart into today’s continents, but its heart was Africa.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRD9MNQD2MO_16_9.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250603191934 +0000" stop="20250603202325 +0000">
     <title>Antarctica</title>
@@ -3019,23 +3016,33 @@
     <desc>This episode focuses on Ticino, reaching from the Tessin Alps down to the charming Muggio Valley.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171AFHVCCICM7_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250603160000 +0000" stop="20250603170000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250604165543 +0000" stop="20250604175908 +0000">
+    <title>Wild Faces of Switzerland</title>
+    <sub-title>Water and Ice</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Take an amazing journey from the highest peaks of the Bernese Alps to a spectacular finish at the Rhine Falls.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171AFHVCCICM7_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250603170000 +0000" stop="20250603180000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250604175908 +0000" stop="20250604190153 +0000">
+    <title>Wild Faces of Switzerland</title>
+    <sub-title>Winter in the Swiss Alps</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>The ibex, marmot, and European adder have all developed strategies to survive the harsh alpine winter.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171AFHVCCICM7_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250603180000 +0000" stop="20250603190000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250604190153 +0000" stop="20250604191955 +0000">
+    <title>Fascinating Places</title>
+    <sub-title>The Wild West Coast</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>The West Coast of Madagascar is remote and inhospitable but home to an astonishing array of animals.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171AE5DNAME14_16_9.jpeg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250604191955 +0000" stop="20250604193850 +0000">
+    <title>Fascinating Places</title>
+    <sub-title>The Forest of the Northeast</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>The Northeast of Madagascar is a major trading center and one of the most species-rich regions in the world.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171AE5DNAME14_16_9.jpeg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250603190000 +0000" stop="20250603200000 +0000">
     <title>Evolution Earth</title>
@@ -3169,34 +3176,23 @@
     <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250603154346 +0000" stop="20250603164450 +0000">
-    <title>Children of the Sun</title>
-    <sub-title>Children of the Sun - Butterflies</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Butterflies surely are the most fancied species inside the insect world. Their beautiful colouring and their graceful flight appeal to everyone. There are close to 4000 types of Butterflies – today many of them are endangered due to the loss of their habitat.</desc>
-    <date>20170520</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/CHILDREN%2520OF%2520THE%2520SUN%2520-%2520WILD%2520BEES%2520%2526%2520BUTTERFLIES%2520EPISODE%25201_V1_Landscape.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250603164450 +0000" stop="20250603173456 +0000">
-    <title>Missing Butterflies</title>
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250604170000 +0000" stop="20250604180000 +0000">
+    <title>Evolution Earth</title>
     <category>Movie</category>
-    <desc>Its miraculous transformation from caterpillar to remarkable winged beauty has been a point of constant intrigue. However, in the last few years, many have observed a decrease in the butterfly population. A much-discussed topic in the entomological society is the decline of the insect populace, but to what extent is this topic relevant to our beloved butterflies? For years, a teacher from lower Bavaria and a biologist from Munich have dedicated themselves to studying the butterfly and their presence in Bavaria. The results of their studies tell an enlightening story that is sure to entertain.</desc>
-    <date>20180301</date>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/19824-21872/40599728-Samsung-Thumbnail_v1.jpg" />
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250603173456 +0000" stop="20250603180924 +0000">
-    <title>Mantises - Masters of Deception</title>
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250604180000 +0000" stop="20250604190000 +0000">
+    <title>Evolution Earth</title>
     <category>Movie</category>
-    <desc>They are killers. They kill with unbelievable precision. They fight Kung Fu style and are seen in Japan as a symbol of vigilance - the mantises. Their triangular head with its unique flexibility is conspicuous. Two overdimensioned eyes fixate the distance to their prey rapidly and three-dimensionally. The chest segment of the mantis is prolonged and equipped with spiny appendages that can spear their prey as fast as a jack knife. The mysterious aura that surrounds the praying mantis has a lot to do with the fact that they are rarely seen. They have adapted to their surroundings perfectly. No matter whether leaves, blossoms, tree bark, sandy floors or even orchids - the mantis adjusts to all environments.</desc>
-    <date>20190819</date>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/::episodes/33584-35632/68780888-Samsung-Thumbnail_v1.jpg" />
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250603180924 +0000" stop="20250603191101 +0000">
-    <title>Hummingbirds: Jewelled Messengers</title>
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250604190000 +0000" stop="20250604200000 +0000">
+    <title>Evolution Earth</title>
     <category>Movie</category>
-    <desc>Hummingbirds live at the limits of what is possible. They have the highest metabolism with a heart rate of 1,200 beats per minute of any vertebrate. Their wings beat 50 times a second. They can hover on the spot, and even fly backwards. To our eyes, they are just a blur. But with the aid of high-speed cameras we can slow down their hyperactive lives and look into their secret world.</desc>
-    <date>20120606</date>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/20542-22590/42070927-Plex-Portrait-1000x1500_v1.jpg" />
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250603191101 +0000" stop="20250603201125 +0000">
     <title>The Secret of Migrating Birds - Tryst at the Red Sea</title>
@@ -3365,29 +3361,37 @@
     <date>20210501</date>
     <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/BosniaHerzegovina_E02.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250603154400 +0000" stop="20250603164059 +0000">
-    <title>The Unknown Snake Of Bolivia</title>
-    <sub-title>Episode 01</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Herpetologists Juan Tims and Hiram Cuevas explore Bolivia to find venomous snakes and a new viper.</desc>
-    <date>20180101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250604162633 +0000" stop="20250604171628 +0000">
+    <title>Wilderness in Europe: The Bohemian Forest</title>
+    <sub-title>Boundary Experiences in Mühlviertel</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Pavel Hubeny, whose life would be unthinkable without the forest, is the head of the Šumava National Park. He is committed to ensuring that a primeval forest can grow for future generations, in which man does not interfere. This vision of a primeval forest is also shared by the forester Claus Bässler, who wants to counteract the extinction of species by having trees felled to create artificial deadwood and thus a new habitat for rare beetles and fungi. On the Vltava River lies the small town of Krumlov, the "Pearl of the Bohemian Forest" with its Baroque theater and fully preserved stage technology from the 17th century. Here the director Zuzana Vrbová enchants people from all over the world with her productions. Apart from agriculture, it was mainly the abundance of forests that ensured the livelihood of the inhabitants of the Bohemian Forest - including that of the carpenter Philipp von Manz, who processed local wood for his customers all over Germany. Veterinarian Judith Gollner, who grew up in the Austrian part of the Bohemian Forest, lived in Vienna for a long time and made a conscious decision to return. She likes the people and is proud of "her farmers' wives" who share her love of the Bohemian Forest.</desc>
+    <date>20180327</date>
+    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/WildernessInEurope_E02.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250603164059 +0000" stop="20250603174028 +0000">
-    <title>Addos Elephants</title>
-    <sub-title>Addo's Elephants</sub-title>
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250604171628 +0000" stop="20250604180644 +0000">
+    <title>Wilderness in Europe: The Bohemian Forest</title>
+    <sub-title>The Psychogramm of a Spiritual Landscape</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Protected elephants live and thrive in Addo Elephant National Park.</desc>
-    <date>20060101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/TVFAELS001EP001.jpg" />
+    <desc>The Bohemian Forest is the source of the Vltava River, home to primeval forests, untouched high moors and bubbling torrents. This archaic stretch of land, which includes the Bavarian Forest, was long considered impenetrable and mysterious. Since the fall of the Iron Curtain, Bavarian border residents have rediscovered new references to this unusual forest landscape for themselves. This is also the case with photo artist Bastian Kalous, who has been documenting his homeland for years with nostalgic-looking Polaroid photographs and is dealing with its eventful history for an illustrated book. Or Elisa Belotti and Marco Heurich, who have dedicated their lives to the lynxes. In order for Europe's largest wild cat to survive in the Bohemian Forest, the lynx researchers fight for every single animal. Iryna Rudenko came to Zwiesel from Ukraine out of a passion for glass as a material to study at the glass school. After graduation, she would like to stay in Bavaria, Anna Hones grew up in Horská Kvilda, the smallest and highest village in the Czech Republic. The village lies just under 1100 meters above sea level, directly on the former border. The farmer, who experienced communism, the fall of the Iron Curtain and the subsequent changes, is now trying to find ways of surviving in this barren region with her children.</desc>
+    <date>20180327</date>
+    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/WildernessInEurope_E01.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250603174028 +0000" stop="20250603183919 +0000">
-    <title>Wild Galapagos Series 01 Episode 01</title>
-    <sub-title>Episode 1</sub-title>
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250604180644 +0000" stop="20250604185728 +0000">
+    <title>Wild Bavaria</title>
+    <sub-title>Wild Bavaria - Berchtesgaden</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>The Galapagos Archipelago's diverse biodiversity is attributed to the Pacific's Humboldt</desc>
-    <date>20170101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/ALBWGAS001EP001.jpg" />
+    <desc>The moon disappears behind the horizon and the stage is set for a new day in the Alps of Berchtesgaden.</desc>
+    <date>20120103</date>
+    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/Bavaria1.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250604185728 +0000" stop="20250604194806 +0000">
+    <title>Wild Bavaria</title>
+    <sub-title>Wild Bavaria - In The Shadow of the Watzmann.</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Mighty and mysterious, King Watzmann sits above Germany's only alpine national park.</desc>
+    <date>20120103</date>
+    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/Bavaria2.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250603183919 +0000" stop="20250603193809 +0000">
     <title>Wild Galapagos Series 01 Episode 02</title>
@@ -3554,5 +3558,26 @@
     <desc>Peregrine falcons and Herring gull have settled in the center of Rome, now nesting in large numbers.</desc>
     <date>20180101</date>
     <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250604164803 +0000" stop="20250604174653 +0000">
+    <title>Germany's Wild Wolves</title>
+    <category>Movie</category>
+    <desc>Germany's Wild Wolves challenges modern myths about wolves, revealing their social structures</desc>
+    <date>20100101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250604174653 +0000" stop="20250604183713 +0000">
+    <title>Raccoons - The New Europeans</title>
+    <category>Movie</category>
+    <desc>Raccoons, once brought to Germany for fur, pose a threat to Europe, with half a million living in the country</desc>
+    <date>20120101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250604183713 +0000" stop="20250604193448 +0000">
+    <title>Wild Slovakia</title>
+    <category>Movie</category>
+    <desc>Wild Slovakia is a documentary film showcasing Slovakia's diverse wildlife, habitats, and ecosystems</desc>
+    <date>20150101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
   </programme>
   </tv>
