@@ -20307,24 +20307,6 @@
     <display-name>Real Wild</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/09e8c6b6-368e-4275-b974-fe5e1921f64d/RealWild_Logo_White_-_Simon_Tuquabo.png" />
   </channel>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250614140000 +0000" stop="20250614150000 +0000">
-    <title>The National</title>
-    <sub-title>The National</sub-title>
-    <desc>CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.</desc>
-    <date>20250614</date>
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250614150000 +0000" stop="20250614153000 +0000">
-    <title>About That</title>
-    <sub-title>About That</sub-title>
-    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
-    <date>20250614</date>
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250614153000 +0000" stop="20250614160000 +0000">
-    <title>About That</title>
-    <sub-title>About That</sub-title>
-    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
-    <date>20250614</date>
-  </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250614160000 +0000" stop="20250614190000 +0000">
     <title>This Week's Top Stories</title>
     <sub-title>This Week's Top Stories</sub-title>
@@ -20457,44 +20439,17 @@
     <desc>The top-notch team of hosts Bob McKeown, Gillian Findlay, Mark Kelley and Habiba Nosheen provides unique and engaging documentaries from Canada and beyond. "The Fifth Estate" is a reference to the term Fourth Estate, and was chosen to highlight the program's determination to go beyond everyday news into original journalism. The series has won numerous awards for its reporting, including Gemini Awards, International Emmys, the Michener Award, and even an Academy Award for a 1981 episode that was released in theaters the following year. Since September 1975, Canadians have tuned in to experience interesting stories that are always well-crafted and thought-provoking.</desc>
     <date>20250615</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250614140000 +0000" stop="20250614143000 +0000">
-    <title>CTV National News with Omar Sachedina</title>
-    <sub-title>CTV National News for Thursday, June 12, 2025</sub-title>
-    <episode-num system="onscreen">S2025E94</episode-num>
-    <desc>CTV National News with Omar Sachedina is Canada's #1 national newscast</desc>
-    <date>20250613</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29593_2024_2_22_a0b77432-b521-4b92-8fd6-df17c3828c96_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250615150000 +0000" stop="20250615160000 +0000">
+    <title>Rosemary Barton Live</title>
+    <sub-title>Rosemary Barton Live</sub-title>
+    <desc>Rosemary Barton delivers a weekly dose of compelling conversations and need-to-know political news and issues affecting Canadians.</desc>
+    <date>20250615</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250614143000 +0000" stop="20250614150000 +0000">
-    <title>CTV News: Across Canada</title>
-    <sub-title>for Saturday, June 14, 2025</sub-title>
-    <episode-num system="onscreen">S2025E127</episode-num>
-    <desc>Top stories from coast-to-coast as reported by CTV News local journalists across Canada.</desc>
-    <date>20250614</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55945_2024_8_9_9f6270cc-d7b3-48b4-a0cc-902adc5a6152_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250614150000 +0000" stop="20250614160000 +0000">
-    <title>CTV News Special: I’m Sandie Rinaldo</title>
-    <category>Movie</category>
-    <desc>Celebrating 50 years with CTV News, Sandie Rinaldo marks this historic milestone in Canadian broadcasting by revealing her family history.</desc>
-    <date>20241011</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250614160000 +0000" stop="20250614163000 +0000">
-    <title>CTV National News with Omar Sachedina</title>
-    <sub-title>CTV National News for Thursday, June 12, 2025</sub-title>
-    <episode-num system="onscreen">S2025E94</episode-num>
-    <desc>CTV National News with Omar Sachedina is Canada's #1 national newscast</desc>
-    <date>20250613</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29593_2024_2_22_a0b77432-b521-4b92-8fd6-df17c3828c96_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250614163000 +0000" stop="20250614170000 +0000">
-    <title>CTV News: Your Canada</title>
-    <sub-title>Weekend for June 14-15, 2025</sub-title>
-    <episode-num system="onscreen">S2025E140</episode-num>
-    <desc>Stories that showcase what makes Canada unique.</desc>
-    <date>20250613</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250615160000 +0000" stop="20250615180000 +0000">
+    <title>This Week's Top Stories</title>
+    <sub-title>This Week's Top Stories</sub-title>
+    <desc>Making sense of the big stories that made news across Canada and around the world from this past week.</desc>
+    <date>20250615</date>
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250614170000 +0000" stop="20250614180000 +0000">
     <title>Power Play with Vassy Kapelos</title>
@@ -20710,61 +20665,42 @@
     <desc>CTV National News</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250614141335 +0000" stop="20250614143940 +0000">
-    <title>Spencer's Big 30</title>
-    <sub-title>Curry in a Hurry Night</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Chef Spencer Watts makes a full, family-style Indian meal in around 30 minutes.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250615143000 +0000" stop="20250615150000 +0000">
+    <title>CTV News: Your Canada</title>
+    <sub-title>Weekend for June 14-15, 2025</sub-title>
+    <episode-num system="onscreen">S2025E140</episode-num>
+    <desc>Stories that showcase what makes Canada unique.</desc>
+    <date>20250613</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250614143940 +0000" stop="20250614150547 +0000">
-    <title>Spencer's Big 30</title>
-    <sub-title>Chinese Take-Out Night</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Why order take-out when you can make it fresher, faster, and even healthier at home?</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250615150000 +0000" stop="20250615160000 +0000">
+    <title>CTV News Special: Rick Hansen: Unbreakable 50 Years Later</title>
+    <category>Movie</category>
+    <desc>Rick Hansen returns to the scene of the accident that changed his life forever. CTV’s Sandie Rinaldo talks to the Canadian icon.</desc>
+    <date>20241011</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250614150547 +0000" stop="20250614153153 +0000">
-    <title>Spencer's Big 30</title>
-    <sub-title>Lasagna Night</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>It’s all about lasagna with Chef Spencer Watts’ delicious and nutritious 30-minute meal.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250615160000 +0000" stop="20250615163000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250614153153 +0000" stop="20250614155800 +0000">
-    <title>Spencer's Big 30</title>
-    <sub-title>Chicken Bake Night</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Chef Spencer Watts cooks up a quick and nutritious chicken bake meal for four.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250615163000 +0000" stop="20250615170000 +0000">
+    <title>CTV News: Your Canada</title>
+    <sub-title>Weekend for June 14-15, 2025</sub-title>
+    <episode-num system="onscreen">S2025E140</episode-num>
+    <desc>Stories that showcase what makes Canada unique.</desc>
+    <date>20250613</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250614155800 +0000" stop="20250614162405 +0000">
-    <title>Spencer's Big 30</title>
-    <sub-title>Breakfast for Dinner Night</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>The best way to do a fast, inexpensive dinner for four? Make breakfast for dinner.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250614162405 +0000" stop="20250614165011 +0000">
-    <title>Spencer's Big 30</title>
-    <sub-title>Meatless Monday Night</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>Chef Spencer Watts cooks up a filling vegetarian meal in around 30 minutes.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250614165011 +0000" stop="20250614171617 +0000">
-    <title>Spencer's Big 30</title>
-    <sub-title>Taco Night</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>Chef Spencer Watts throws a fun and fresh fiesta for a delicious taco night.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250615170000 +0000" stop="20250615180000 +0000">
+    <title>W5: Avery Haines Investigates</title>
+    <sub-title>Narco Jungle: The Death Train</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Avery rides atop Mexico’s “death train” through narco territory, documenting the harrowing journey migrants take in search of a better life.</desc>
+    <date>20250612</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m56981_2024_12_12_4297b12a-4f93-4977-8f84-d338aac8a1b0_JPG_1920x1080.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250614171617 +0000" stop="20250614174223 +0000">
     <title>Spencer's Big 30</title>
@@ -21126,23 +21062,53 @@
     <date>20250228</date>
     <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54408_2024_2_28_224a5c78-5dd1-4881-b2c8-d943a4a16b7a_JPG_1920x1080.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250614135718 +0000" stop="20250614145138 +0000">
-    <title>SuperTornado: Anatomy of a Megadisaster</title>
-    <category>Movie</category>
-    <desc>A look at Joplin, Missouri five years after one of the worst natural disasters in U.S. history razed the town.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRMHLGK7E9WIMAL9_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250615144545 +0000" stop="20250615151108 +0000">
+    <title>Staying Inn: Hotel Julie</title>
+    <sub-title>Dark and Stormy</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>Autumn and Jillian want to be edgier and moodier than ever for Suite 3, tapping into all things repurposed, vintage, and dramatic.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54408_2024_2_28_224a5c78-5dd1-4881-b2c8-d943a4a16b7a_JPG_1920x1080.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250614145138 +0000" stop="20250614155649 +0000">
-    <title>Tsunami: Facing the Global Threat</title>
-    <category>Movie</category>
-    <desc>Tsunamis are so sudden and powerful that in a matter of minutes, they can wipe out a coastline.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRN2P7QECZ8IXNPY_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250615151108 +0000" stop="20250615153633 +0000">
+    <title>Staying Inn: Hotel Julie</title>
+    <sub-title>Honeymoon Suite</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>On their final suite, Autumn lives out a design dream, while the duo pulls out all the stops to create their most romantic suite yet.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54408_2024_2_28_224a5c78-5dd1-4881-b2c8-d943a4a16b7a_JPG_1920x1080.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250614155649 +0000" stop="20250614170501 +0000">
-    <title>Planet Rethink</title>
-    <category>Movie</category>
-    <desc>Pollution is everywhere. But all is not dire. We need to increase resource efficiency to preserve our planet.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/3SKVQ99AX6YK1QWMN8RE1F_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250615153633 +0000" stop="20250615160158 +0000">
+    <title>Staying Inn: Hotel Julie</title>
+    <sub-title>Everything's Coming Up Julie!</sub-title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <desc>The entire team comes together to complete the guest experience, and finalize the redesign for the grand reveal of Hotel Julie.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54408_2024_2_28_224a5c78-5dd1-4881-b2c8-d943a4a16b7a_JPG_1920x1080.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250615160158 +0000" stop="20250615163017 +0000">
+    <title>Country House Hunters</title>
+    <sub-title>Warrnambool</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>After living in Portland for the past few years, Brian &amp; Gina are looking to relocate to Warrnambool on Victoria East Coast.</desc>
+    <date>20240401</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m51930_2024_2_28_9431fc67-252e-415e-9bb2-db79e3779845_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250615163017 +0000" stop="20250615165830 +0000">
+    <title>Country House Hunters</title>
+    <sub-title>Mount Macedon</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Wendy and Gary are looking to buy a house in beautiful Mount Macedon, Victoria.</desc>
+    <date>20240401</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m51930_2024_2_28_9431fc67-252e-415e-9bb2-db79e3779845_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250615165830 +0000" stop="20250615172506 +0000">
+    <title>Country House Hunters</title>
+    <sub-title>Torquay</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>After living in Melbourne for the past few years, Craig is looking to bring his family back to the surf coast where grew up.</desc>
+    <date>20240401</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m51930_2024_2_28_9431fc67-252e-415e-9bb2-db79e3779845_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250614170501 +0000" stop="20250614173950 +0000">
     <title>Planet E: Fixing Earth from your Backyard</title>
@@ -21307,26 +21273,19 @@
     <desc>Pollution is everywhere. But all is not dire. We need to increase resource efficiency to preserve our planet.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/3SKVQ99AX6YK1QWMN8RE1F_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250614132318 +0000" stop="20250614142328 +0000">
-    <title>Facing Forces of Nature</title>
-    <sub-title>Asteroids</sub-title>
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250615152956 +0000" stop="20250615163342 +0000">
+    <title>Living with Volcanoes</title>
+    <sub-title>Sacred Volcanoes</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>An asteroid could be barreling toward Earth at any time, now or in the future. Only science can save us.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171CM82POYQJZ_16_9.jpg" />
+    <desc>All around the earth, crowds pray and worship volcanoes that are sacred to them.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/5N1HJZ69IH6XRLZWP5H1FS_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250614142328 +0000" stop="20250614152324 +0000">
-    <title>Facing Forces of Nature</title>
-    <sub-title>Tornadoes</sub-title>
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250615163342 +0000" stop="20250615173824 +0000">
+    <title>Living with Volcanoes</title>
+    <sub-title>Benevolent Volcanoes</sub-title>
     <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Tornadoes: Can we use modern technology to predict the emergence and path of this violent force of nature?</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171CM82POYQJZ_16_9.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250614152324 +0000" stop="20250614162335 +0000">
-    <title>Facing Forces of Nature</title>
-    <sub-title>Volcanoes</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Volcanoes: How successful can we be in the fight against this violent, destructive, elemental force of nature?</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171CM82POYQJZ_16_9.jpg" />
+    <desc>Japanese fertile lands all attest of the immeasurable wealth hidden beneath the brimstone giants.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/5N1HJZ69IH6XRLZWP5H1FS_16_9.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250614162335 +0000" stop="20250614172345 +0000">
     <title>Facing Forces of Nature</title>
@@ -21476,23 +21435,19 @@
     <desc>Pacific and Australian tectonic plates clash across the South Pacific causing intense volcanic activity</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRD9MNQD2MO_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250614140000 +0000" stop="20250614150000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250615152428 +0000" stop="20250615162738 +0000">
+    <title>Voyage of the Continents</title>
+    <sub-title>Asia: The Tectonics of Life and Death</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>First Asia hurtled into Europe. They remain bound together by the Urals.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRD9MNQD2MO_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250614150000 +0000" stop="20250614160000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250614160000 +0000" stop="20250614170000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250615162738 +0000" stop="20250615173048 +0000">
+    <title>Voyage of the Continents</title>
+    <sub-title>Asia: Rising Mountains and Sinking Countries</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>As the Indo-Asian collision continued into the rest of Asia, the deforming pressure created islands.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRD9MNQD2MO_16_9.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250614170000 +0000" stop="20250614180000 +0000">
     <title>Evolution Earth</title>
@@ -21626,29 +21581,23 @@
     <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250614135941 +0000" stop="20250614145350 +0000">
-    <title>Wildlife Diaries Australia</title>
-    <sub-title>Of Koalas and Drones</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Lone Pine Koala Sanctuary was opened in 1927 at a time when Koalas were still being killed on a large scale for the fur trade. Today, hardly anything threatens the natural habitats of these animals as much as the desertification of the forests. We let the drones fly and are there when a new tree is planted.</desc>
-    <date>20210701</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/WildlifeDiariesAustralia_E04.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250615150000 +0000" stop="20250615160000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250614145350 +0000" stop="20250614154811 +0000">
-    <title>Wildlife Diaries Australia</title>
-    <sub-title>wOf Kangaroos and Conservation</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Visiting the fenced nature reserve Arid Recovery in southern Australia, we witness the care of an injured kangaroo and follow researchers at the Hidden Vale Wildlife Centre near Brisbane as they train native animals to detect tracks of threatening predators and then move to safety.</desc>
-    <date>20210701</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/WildlifeDiariesAustralia_E05.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250615160000 +0000" stop="20250615170000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250614154811 +0000" stop="20250614164136 +0000">
-    <title>Wildlife Diaries Australia</title>
-    <sub-title>Of Fairy Penguins and GPS Trackers</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Australia's largest fur seal colony is located on Phillip Island. Night after night, a breathtaking spectacle takes place here: At sunset, countless fairy penguins return from their hunt for fish. In the station near the penguin colony, pioneering scientific research is conducted around the cute animals. We learn how dedicated scientists are trying to secure the future of the fairy penguins with the help of GPS trackers.</desc>
-    <date>20210701</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/WildlifeDiariesAustralia_E06.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250615170000 +0000" stop="20250615180000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250614164136 +0000" stop="20250614174225 +0000">
     <title>Leap Of The Lynx</title>
@@ -21830,29 +21779,26 @@
     <date>20130117</date>
     <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/13390-15438/27424503-Plex-Portrait-1000x1500_v2.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250614135814 +0000" stop="20250614145449 +0000">
-    <title>Deadly Game</title>
-    <sub-title>Killers in the Making</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Some of the cutest mini-monsters can grow to be the most ferocious predators.</desc>
-    <date>20160101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/ZD1DGAS001EP001.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250615150051 +0000" stop="20250615155119 +0000">
+    <title>mareTV: Mexico's Caribbean Coast</title>
+    <category>Movie</category>
+    <desc>The palm tree laden beaches on Mexico's Riviera Maya on the Yucatan peninsula are endless, and the turquoise sea with its gentle Caribbean surf is a warm 25 degrees during the mild winter in this part of the world. Between Cancún and Punta Allen, where once there was little more than bushland and a few sleepy fishing villages, vibrant life has evolved during the past three decades. Richard Sowa has lived on a floating island for the past 15 years: an island he built himself out of empty plastic bottles. The bon vivant him-self sees it as a "solution for our planet's refuse problem". Off Punta Allen, a village in the bay of Sian Ka'an, Mexican Mara Coral Ley and her cousin Kim, continue to catch lobsters by adhering to the traditional method and were awarded an "Eco seal for sustainable fishing" for their trouble. It is silent under water off Isla Mujeres and it is here that the artist Jason deCaires has constructed a sculpture park. Hundreds of lifesize figures form an artificial reef at a depth of 12 metres. Fish and plants complete his work of art. The master himself is convinced: "Mother Nature is the true artist".</desc>
+    <date>20130418</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/14685-16733/30075327-Plex-Portrait-1000x1500_v1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250614145449 +0000" stop="20250614154919 +0000">
-    <title>Deadly Game</title>
-    <sub-title>Great Escapes</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Life's about taking chances, but for some creatures it's just about getting from point A to B in one piece.</desc>
-    <date>20160101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/ZD1DGAS001EP002.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250615155119 +0000" stop="20250615164151 +0000">
+    <title>Caribbean sisters: The Lesser Antilles St. Kitts &amp; Nevis</title>
+    <category>Movie</category>
+    <desc>In the centre of the Caribbean, volcanoes rise steeply from the sea, thus shaping the sister islands of St. Kitts &amp; Nevis. Their slopes, covered in lush rainforests, snow-white, sandy beaches and the surrounding tur-quoise tinted waters provide the ultimate setting for this record-breaking, albeit tiny island paradise: Both islets are the smallest of the Caribbean dwarf states and also rank among the world’s ten smallest states. A hot pepper sauce, made of a creative mixture of ginger, garlic, thyme and extraordinarily hot chillies that thrive in the hot and humid climate of Nevis, is simmering on the stove of Violet and Llewellyn’s house. Lemmy Pemberton digs up abandoned turtle nests with his bare hands, as he wants to be certain that all of the babies have indeed managed to make it. Members of the Turtle Group catch sea turtles in order to take their measurements and fit them with transmitters. Taxi bus-es are not only the main means of transport on St. Kitts &amp; Nevis, they are also an artistic expression of each driver’s personality. Colourfully embellished, each taxi represents island art on wheels.</desc>
+    <date>20220603</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/20951-22999/42908914-Plex-Portrait-1000x1500_v1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250614154919 +0000" stop="20250614164350 +0000">
-    <title>Deadly Game</title>
-    <sub-title>Seconds from Disaster</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>What ultimately decides an animal's fate? Is it already predetermined who lives or dies, is it in our hands?</desc>
-    <date>20160101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/ZD1DGAS001EP003.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250615164151 +0000" stop="20250615173218 +0000">
+    <title>Cuba - Brilliantly Caribbean</title>
+    <category>Movie</category>
+    <desc>Even anyone who has not yet been to Cuba can conjure up certain images of American vintage street cruisers, imposing buildings that have seen better days, white sandy beaches full of palms and loving couples on the Malecón against a backdrop of crashing waves. This island is somewhat of a myth and its people generate a special joie de vivre. The legendary Hershey Train departs for Matanzas from the capital, Havana. On the oldest electrified railway line in the Caribbean, 60-year-old Spanish carriages make their way along al-most 100 kilometres of coastline in the most relaxed way possible. The Salvavidas on Varadero, probably the most famous beach on the island, have a particular-ly beautiful workplace. The lifeguards' territory ex-tends for more than 20 kilometres. In order to protect the coasts of Cuba, mangroves have been replanted here for many years. The project is supported by the UN and planting is often carried out by schoolchildren. In doing so, Cuban children learn how to treat their maritime habitat in a sustainable fashion. The former colonial city of Trinidad on Cuba's south coast is gen-erally considered to be one of the most beautiful places in the entire Caribbean. The houses here are particular-ly colourful. A plethora of magnificent buildings can be seen at the Plaza Mayor, the neo-baroque main square.</desc>
+    <date>20220603</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/20951-22999/42908860-Plex-Portrait-1000x1500_v1.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250614164350 +0000" stop="20250614174447 +0000">
     <title>Animal Armoury</title>
@@ -22014,5 +21960,29 @@
     <desc>The poster boys for Australia's deadly reputation are, of course, its big predators.</desc>
     <date>20150101</date>
     <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/NENDAUS001EP001.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250615145444 +0000" stop="20250615154630 +0000">
+    <title>Deadly Australia</title>
+    <sub-title>Unlikely Candidates</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>A visit to David Fleay National Park to get close to a Platypus whose poison could teach us about pain relief.</desc>
+    <date>20150101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/NENDAUS001EP002.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250615154630 +0000" stop="20250615163820 +0000">
+    <title>Deadly Australia</title>
+    <sub-title>Creepy Crawlies</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>In the final episode Kelly gets a crash course in snake handling and grapples with three deadly serpents.</desc>
+    <date>20150101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/NENDAUS001EP003.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250615163820 +0000" stop="20250615173914 +0000">
+    <title>Animal Armoury</title>
+    <sub-title>Lethal Poison</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Animals like toads, moths, snakes, and spiders have poison glands</desc>
+    <date>20160101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/BMEAARS001EP004.jpg" />
   </programme>
   </tv>
