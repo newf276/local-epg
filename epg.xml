@@ -20343,18 +20343,6 @@
     <display-name>Real Wild</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/09e8c6b6-368e-4275-b974-fe5e1921f64d/RealWild_Logo_White_-_Simon_Tuquabo.png" />
   </channel>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250614110000 +0000" stop="20250614120000 +0000">
-    <title>The National</title>
-    <sub-title>The National</sub-title>
-    <desc>CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.</desc>
-    <date>20250614</date>
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250614120000 +0000" stop="20250614130000 +0000">
-    <title>The National</title>
-    <sub-title>The National</sub-title>
-    <desc>CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.</desc>
-    <date>20250614</date>
-  </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250614130000 +0000" stop="20250614140000 +0000">
     <title>The National</title>
     <sub-title>The National</sub-title>
@@ -20481,42 +20469,47 @@
     <desc>Making sense of the big stories that made news across Canada and around the world from this past week.</desc>
     <date>20250615</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250614110000 +0000" stop="20250614120000 +0000">
-    <title>CTV News Special: Sandie Rinaldo's 50/50</title>
-    <category>Movie</category>
-    <desc>Sandie Rinaldo reflects on 50 years as a Canadian broadcaster by revisiting a remarkable list of memorable interviews over that span.</desc>
-    <date>20240920</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250615120000 +0000" stop="20250615123000 +0000">
+    <title>At Issue</title>
+    <sub-title>At Issue</sub-title>
+    <desc>CBC News Chief Political Correspondent Rosemary Barton and leading journalists tackle the week's stories.</desc>
+    <date>20250615</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250614120000 +0000" stop="20250614123000 +0000">
-    <title>CTV National News</title>
-    <category>Movie</category>
-    <desc>CTV National News</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250615123000 +0000" stop="20250615130000 +0000">
+    <title>About That</title>
+    <sub-title>About That</sub-title>
+    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
+    <date>20250615</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250614123000 +0000" stop="20250614130000 +0000">
-    <title>CTV News: Your Canada</title>
-    <category>Movie</category>
-    <desc>CTV News: Your Canada</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250615130000 +0000" stop="20250615133000 +0000">
+    <title>Marketplace</title>
+    <sub-title>Marketplace</sub-title>
+    <desc>Canada's consumer watchdog series since 1972, this news program uncovers wrongdoings in the marketplace. With the help of hidden cameras, correspondents dish out the dirt on not so "clean" business practices. Once they get the evidence they need on tape, they apply pressure on businesses to change policies vis-a-vis the products and services they provide to the public.</desc>
+    <date>20250615</date>
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250614130000 +0000" stop="20250614140000 +0000">
-    <title>Power Play</title>
-    <category>Movie</category>
-    <desc>Power Play</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+    <title>Power Play with Vassy Kapelos</title>
+    <sub-title>Power Play for Friday, June 13, 2025</sub-title>
+    <episode-num system="onscreen">S2025E190</episode-num>
+    <desc>CTV News Channel's daily marquee political program, Power Play.</desc>
+    <date>20250614</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29798_2024_2_22_42dbc6b2-bee6-4555-bcc6-aa46ecdb9674_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250614140000 +0000" stop="20250614143000 +0000">
-    <title>CTV National News</title>
-    <category>Movie</category>
-    <desc>CTV National News</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+    <title>CTV National News with Omar Sachedina</title>
+    <sub-title>CTV National News for Thursday, June 12, 2025</sub-title>
+    <episode-num system="onscreen">S2025E94</episode-num>
+    <desc>CTV National News with Omar Sachedina is Canada's #1 national newscast</desc>
+    <date>20250613</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29593_2024_2_22_a0b77432-b521-4b92-8fd6-df17c3828c96_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250614143000 +0000" stop="20250614150000 +0000">
     <title>CTV News: Across Canada</title>
-    <category>Movie</category>
-    <desc>CTV News: Across Canada</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+    <sub-title>for Saturday, June 14, 2025</sub-title>
+    <episode-num system="onscreen">S2025E127</episode-num>
+    <desc>Top stories from coast-to-coast as reported by CTV News local journalists across Canada.</desc>
+    <date>20250614</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55945_2024_8_9_9f6270cc-d7b3-48b4-a0cc-902adc5a6152_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250614150000 +0000" stop="20250614160000 +0000">
     <title>CTV News Special: I’m Sandie Rinaldo</title>
@@ -20526,34 +20519,44 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250614160000 +0000" stop="20250614163000 +0000">
-    <title>CTV National News</title>
-    <category>Movie</category>
-    <desc>CTV National News</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+    <title>CTV National News with Omar Sachedina</title>
+    <sub-title>CTV National News for Thursday, June 12, 2025</sub-title>
+    <episode-num system="onscreen">S2025E94</episode-num>
+    <desc>CTV National News with Omar Sachedina is Canada's #1 national newscast</desc>
+    <date>20250613</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29593_2024_2_22_a0b77432-b521-4b92-8fd6-df17c3828c96_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250614163000 +0000" stop="20250614170000 +0000">
     <title>CTV News: Your Canada</title>
-    <category>Movie</category>
-    <desc>CTV News: Your Canada</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+    <sub-title>Weekend for June 14-15, 2025</sub-title>
+    <episode-num system="onscreen">S2025E140</episode-num>
+    <desc>Stories that showcase what makes Canada unique.</desc>
+    <date>20250613</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250614170000 +0000" stop="20250614180000 +0000">
-    <title>Power Play</title>
-    <category>Movie</category>
-    <desc>Power Play</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+    <title>Power Play with Vassy Kapelos</title>
+    <sub-title>Power Play for Friday, June 13, 2025</sub-title>
+    <episode-num system="onscreen">S2025E190</episode-num>
+    <desc>CTV News Channel's daily marquee political program, Power Play.</desc>
+    <date>20250614</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29798_2024_2_22_42dbc6b2-bee6-4555-bcc6-aa46ecdb9674_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250614180000 +0000" stop="20250614183000 +0000">
-    <title>CTV National News</title>
-    <category>Movie</category>
-    <desc>CTV National News</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+    <title>CTV National News with Omar Sachedina</title>
+    <sub-title>CTV National News for Thursday, June 12, 2025</sub-title>
+    <episode-num system="onscreen">S2025E94</episode-num>
+    <desc>CTV National News with Omar Sachedina is Canada's #1 national newscast</desc>
+    <date>20250613</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29593_2024_2_22_a0b77432-b521-4b92-8fd6-df17c3828c96_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250614183000 +0000" stop="20250614190000 +0000">
     <title>CTV News: Across Canada</title>
-    <category>Movie</category>
-    <desc>CTV News: Across Canada</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+    <sub-title>for Saturday, June 14, 2025</sub-title>
+    <episode-num system="onscreen">S2025E127</episode-num>
+    <desc>Top stories from coast-to-coast as reported by CTV News local journalists across Canada.</desc>
+    <date>20250614</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55945_2024_8_9_9f6270cc-d7b3-48b4-a0cc-902adc5a6152_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250614190000 +0000" stop="20250614200000 +0000">
     <title>CTV News Special: I’m Sandie Rinaldo</title>
@@ -20563,34 +20566,44 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250614200000 +0000" stop="20250614203000 +0000">
-    <title>CTV National News</title>
-    <category>Movie</category>
-    <desc>CTV National News</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+    <title>CTV National News with Omar Sachedina</title>
+    <sub-title>CTV National News for Thursday, June 12, 2025</sub-title>
+    <episode-num system="onscreen">S2025E94</episode-num>
+    <desc>CTV National News with Omar Sachedina is Canada's #1 national newscast</desc>
+    <date>20250613</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29593_2024_2_22_a0b77432-b521-4b92-8fd6-df17c3828c96_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250614203000 +0000" stop="20250614210000 +0000">
     <title>CTV News: Your Canada</title>
-    <category>Movie</category>
-    <desc>CTV News: Your Canada</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+    <sub-title>Weekend for June 14-15, 2025</sub-title>
+    <episode-num system="onscreen">S2025E140</episode-num>
+    <desc>Stories that showcase what makes Canada unique.</desc>
+    <date>20250613</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250614210000 +0000" stop="20250614220000 +0000">
-    <title>Power Play</title>
-    <category>Movie</category>
-    <desc>Power Play</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+    <title>Power Play with Vassy Kapelos</title>
+    <sub-title>Power Play for Friday, June 13, 2025</sub-title>
+    <episode-num system="onscreen">S2025E190</episode-num>
+    <desc>CTV News Channel's daily marquee political program, Power Play.</desc>
+    <date>20250614</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29798_2024_2_22_42dbc6b2-bee6-4555-bcc6-aa46ecdb9674_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250614220000 +0000" stop="20250614223000 +0000">
-    <title>CTV National News</title>
-    <category>Movie</category>
-    <desc>CTV National News</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+    <title>CTV National News with Omar Sachedina</title>
+    <sub-title>CTV National News for Thursday, June 12, 2025</sub-title>
+    <episode-num system="onscreen">S2025E94</episode-num>
+    <desc>CTV National News with Omar Sachedina is Canada's #1 national newscast</desc>
+    <date>20250613</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29593_2024_2_22_a0b77432-b521-4b92-8fd6-df17c3828c96_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250614223000 +0000" stop="20250614230000 +0000">
     <title>CTV News: Across Canada</title>
-    <category>Movie</category>
-    <desc>CTV News: Across Canada</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+    <sub-title>for Saturday, June 14, 2025</sub-title>
+    <episode-num system="onscreen">S2025E127</episode-num>
+    <desc>Top stories from coast-to-coast as reported by CTV News local journalists across Canada.</desc>
+    <date>20250614</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55945_2024_8_9_9f6270cc-d7b3-48b4-a0cc-902adc5a6152_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250614230000 +0000" stop="20250615000000 +0000">
     <title>CTV News Special: I’m Sandie Rinaldo</title>
@@ -20600,34 +20613,44 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250615000000 +0000" stop="20250615003000 +0000">
-    <title>CTV National News</title>
-    <category>Movie</category>
-    <desc>CTV National News</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+    <title>CTV National News with Omar Sachedina</title>
+    <sub-title>CTV National News for Thursday, June 12, 2025</sub-title>
+    <episode-num system="onscreen">S2025E94</episode-num>
+    <desc>CTV National News with Omar Sachedina is Canada's #1 national newscast</desc>
+    <date>20250613</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29593_2024_2_22_a0b77432-b521-4b92-8fd6-df17c3828c96_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250615003000 +0000" stop="20250615010000 +0000">
     <title>CTV News: Your Canada</title>
-    <category>Movie</category>
-    <desc>CTV News: Your Canada</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+    <sub-title>Weekend for June 14-15, 2025</sub-title>
+    <episode-num system="onscreen">S2025E140</episode-num>
+    <desc>Stories that showcase what makes Canada unique.</desc>
+    <date>20250613</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250615010000 +0000" stop="20250615020000 +0000">
-    <title>Power Play</title>
-    <category>Movie</category>
-    <desc>Power Play</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+    <title>Power Play with Vassy Kapelos</title>
+    <sub-title>Power Play for Friday, June 13, 2025</sub-title>
+    <episode-num system="onscreen">S2025E190</episode-num>
+    <desc>CTV News Channel's daily marquee political program, Power Play.</desc>
+    <date>20250614</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29798_2024_2_22_42dbc6b2-bee6-4555-bcc6-aa46ecdb9674_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250615020000 +0000" stop="20250615023000 +0000">
     <title>CTV News: Across Canada</title>
-    <category>Movie</category>
-    <desc>CTV News: Across Canada</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+    <sub-title>for Saturday, June 14, 2025</sub-title>
+    <episode-num system="onscreen">S2025E127</episode-num>
+    <desc>Top stories from coast-to-coast as reported by CTV News local journalists across Canada.</desc>
+    <date>20250614</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55945_2024_8_9_9f6270cc-d7b3-48b4-a0cc-902adc5a6152_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250615023000 +0000" stop="20250615030000 +0000">
     <title>CTV News: Your Canada</title>
-    <category>Movie</category>
-    <desc>CTV News: Your Canada</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+    <sub-title>Weekend for June 14-15, 2025</sub-title>
+    <episode-num system="onscreen">S2025E140</episode-num>
+    <desc>Stories that showcase what makes Canada unique.</desc>
+    <date>20250613</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250615030000 +0000" stop="20250615040000 +0000">
     <title>W5</title>
@@ -20645,10 +20668,12 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250615050000 +0000" stop="20250615060000 +0000">
-    <title>Power Play</title>
-    <category>Movie</category>
-    <desc>Power Play</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+    <title>Power Play with Vassy Kapelos</title>
+    <sub-title>Power Play for Friday, June 13, 2025</sub-title>
+    <episode-num system="onscreen">S2025E190</episode-num>
+    <desc>CTV News Channel's daily marquee political program, Power Play.</desc>
+    <date>20250614</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29798_2024_2_22_42dbc6b2-bee6-4555-bcc6-aa46ecdb9674_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250615060000 +0000" stop="20250615070000 +0000">
     <title>CTV News Special: Rick Hansen: Unbreakable 50 Years Later</title>
@@ -20658,10 +20683,12 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250615070000 +0000" stop="20250615080000 +0000">
-    <title>Power Play</title>
-    <category>Movie</category>
-    <desc>Power Play</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+    <title>Power Play with Vassy Kapelos</title>
+    <sub-title>Power Play for Friday, June 13, 2025</sub-title>
+    <episode-num system="onscreen">S2025E190</episode-num>
+    <desc>CTV News Channel's daily marquee political program, Power Play.</desc>
+    <date>20250614</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29798_2024_2_22_42dbc6b2-bee6-4555-bcc6-aa46ecdb9674_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250615080000 +0000" stop="20250615090000 +0000">
     <title>CTV News Special: Rick Hansen: Unbreakable 50 Years Later</title>
@@ -20671,10 +20698,12 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250615090000 +0000" stop="20250615095959 +0000">
-    <title>Power Play</title>
-    <category>Movie</category>
-    <desc>Power Play</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+    <title>Power Play with Vassy Kapelos</title>
+    <sub-title>Power Play for Friday, June 13, 2025</sub-title>
+    <episode-num system="onscreen">S2025E190</episode-num>
+    <desc>CTV News Channel's daily marquee political program, Power Play.</desc>
+    <date>20250614</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29798_2024_2_22_42dbc6b2-bee6-4555-bcc6-aa46ecdb9674_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250615095959 +0000" stop="20250615110000 +0000">
     <title>W5: Avery Haines Investigates</title>
@@ -20691,45 +20720,27 @@
     <date>20241011</date>
     <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250614111049 +0000" stop="20250614113655 +0000">
-    <title>Pressure's On</title>
-    <sub-title>Hearty Weeknight Multi-Cooker Dishes</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Host Vanessa Gianfrancesco cooks up a Vegetarian Chili, Salted Caramel Cheesecake and other recipes in her multi-cooker.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m44463_2024_2_28_3f97fd24-755c-45f1-babe-504653772fac_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250615120000 +0000" stop="20250615123000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250614113655 +0000" stop="20250614120300 +0000">
-    <title>Pressure's On</title>
-    <sub-title>Classic Sunday Dishes Made in Weeknight Time</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Get inspired with fast weeknight meals, including Classic Lasagna and Thai Green Curry, with host Vanessa Gianfrancesco.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m44463_2024_2_28_3f97fd24-755c-45f1-babe-504653772fac_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250615123000 +0000" stop="20250615130000 +0000">
+    <title>CTV News: Your Canada</title>
+    <sub-title>Weekend for June 14-15, 2025</sub-title>
+    <episode-num system="onscreen">S2025E140</episode-num>
+    <desc>Stories that showcase what makes Canada unique.</desc>
+    <date>20250613</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250614120300 +0000" stop="20250614122907 +0000">
-    <title>Pressure's On</title>
-    <sub-title>Four Fresh Dinners that are Always on Time</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Vanessa prepares teriyaki salmon and quiche Lorraine in a multi-cooker.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m44463_2024_2_28_3f97fd24-755c-45f1-babe-504653772fac_JPG_1920x1080.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250614122907 +0000" stop="20250614125515 +0000">
-    <title>Up The Dish</title>
-    <sub-title>Spaghetti</sub-title>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250615130000 +0000" stop="20250615140000 +0000">
+    <title>W5: Avery Haines Investigates</title>
+    <sub-title>Narco Jungle: The Death Train</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Up the Dish's four chefs put their spin on noodles worldwide, starting in Italy and ending in China!</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50922_2024_2_28_bf420118-99d3-4d50-8972-a65d9afed81b_JPG_1920x1080.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250614125515 +0000" stop="20250614132122 +0000">
-    <title>Up The Dish</title>
-    <sub-title>Moules Frites</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Up the Dish's four chefs swim with the shellfish and switch up a classic Belgian dish.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/BellMedia-2263115-S1E2UpTheDish_2021_9_14_67bf40fa-8563-47fa-b8cb-99e96ea69d9e_jpg_2000x1125.jpg" />
+    <desc>Avery rides atop Mexico’s “death train” through narco territory, documenting the harrowing journey migrants take in search of a better life.</desc>
+    <date>20250612</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m56981_2024_12_12_4297b12a-4f93-4977-8f84-d338aac8a1b0_JPG_1920x1080.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250614132122 +0000" stop="20250614134729 +0000">
     <title>Up The Dish</title>
@@ -21123,19 +21134,29 @@
     <date>20250408</date>
     <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m53718_2024_2_21_85a8c3e4-ba04-4831-8f14-3b3ca1e186e5_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250614104856 +0000" stop="20250614115205 +0000">
-    <title>Voyage of the Continents</title>
-    <sub-title>North America</sub-title>
-    <episode-num system="onscreen">S02E03</episode-num>
-    <desc>Here we travel across the continent to understand the geological forces at play.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRD9MNQD2MO_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250615112807 +0000" stop="20250615121706 +0000">
+    <title>Cross Country Cake Off</title>
+    <sub-title>Western Spring Playoffs</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Bakers from the West present their best cakes to judges Mary Berg and Andrew Han. The top four bake Outdoor Adventure cakes to continue on.</desc>
+    <date>20250408</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m53718_2024_2_21_85a8c3e4-ba04-4831-8f14-3b3ca1e186e5_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250614115205 +0000" stop="20250614125334 +0000">
-    <title>Voyage of the Continents</title>
-    <sub-title>Central America</sub-title>
-    <episode-num system="onscreen">S02E04</episode-num>
-    <desc>Central America takes us back to when the world was young.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRD9MNQD2MO_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250615121706 +0000" stop="20250615130602 +0000">
+    <title>Cross Country Cake Off</title>
+    <sub-title>The Prairies’ Spring Playoffs</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>The Prairies’ top cake makers meet the judges in Edmonton and four are chosen to bring a “Water World” to life for a spot in the finale.</desc>
+    <date>20250408</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m53718_2024_2_21_85a8c3e4-ba04-4831-8f14-3b3ca1e186e5_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250615130602 +0000" stop="20250615135457 +0000">
+    <title>Cross Country Cake Off</title>
+    <sub-title>Mid-Canada Spring Playoffs</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>Mid-Canada’s cake makers present their edible art. The best move on to bake a “Child’s Play” cake in the Cross Country Cake Off kitchen.</desc>
+    <date>20250408</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m53718_2024_2_21_85a8c3e4-ba04-4831-8f14-3b3ca1e186e5_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250614125334 +0000" stop="20250614135718 +0000">
     <title>Voyage of the Continents</title>
@@ -21307,11 +21328,17 @@
     <desc>We investigate dust storm causes, and how to predict them and lessen their impact.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU1719EMQE5GKD6_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250614112058 +0000" stop="20250614121808 +0000">
-    <title>China Quake</title>
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250615122213 +0000" stop="20250615131633 +0000">
+    <title>SuperTornado: Anatomy of a Megadisaster</title>
     <category>Movie</category>
-    <desc>In 2008, China’s monster quake claimed 80,000 lives and destroyed five million buildings.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRN2P7OLMTX9C8US_2_3.jpg" />
+    <desc>A look at Joplin, Missouri five years after one of the worst natural disasters in U.S. history razed the town.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRMHLGK7E9WIMAL9_2_3.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250615131633 +0000" stop="20250615142144 +0000">
+    <title>Tsunami: Facing the Global Threat</title>
+    <category>Movie</category>
+    <desc>Tsunamis are so sudden and powerful that in a matter of minutes, they can wipe out a coastline.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRN2P7QECZ8IXNPY_2_3.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250614121808 +0000" stop="20250614132318 +0000">
     <title>Tsunami: Facing the Global Threat</title>
@@ -21467,17 +21494,19 @@
     <desc>Japanese fertile lands all attest of the immeasurable wealth hidden beneath the brimstone giants.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/5N1HJZ69IH6XRLZWP5H1FS_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250614110000 +0000" stop="20250614120000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250615121253 +0000" stop="20250615131705 +0000">
+    <title>Living with Volcanoes</title>
+    <sub-title>Destructive Volcanoes</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Volcanoes have been ripping the earth apart. Are we on the verge of the next Pompeii tragedy?</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/5N1HJZ69IH6XRLZWP5H1FS_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250614120000 +0000" stop="20250614130000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250615131705 +0000" stop="20250615142118 +0000">
+    <title>Living with Volcanoes</title>
+    <sub-title>Volcano Wardens</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Volcanologists are ready to face any challenge to quench their thirst for knowledge</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/5N1HJZ69IH6XRLZWP5H1FS_16_9.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250614130000 +0000" stop="20250614140000 +0000">
     <title>Evolution Earth</title>
@@ -21617,21 +21646,17 @@
     <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250614111839 +0000" stop="20250614121219 +0000">
-    <title>Wildlife Diaries Australia</title>
-    <sub-title>Of Flying Foxes and Heat Waves</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>While the Tolga Bat Hospital is looking after endangered flying foxes, researchers are using thermographic cameras to search for flying foxes and koalas. But they can also detect bush and wildfire more quickly.</desc>
-    <date>20210701</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/WildlifeDiariesAustralia_E01.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250615120000 +0000" stop="20250615130000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250614121219 +0000" stop="20250614130429 +0000">
-    <title>Wildlife Diaries Australia</title>
-    <sub-title>Of Sea Turtles and Coral Reefs</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>The Cairns Turtle Rehabilitation Center (CTRC) raises and cares for sick, or injured turtles, while the Schmidt Ocean Institute goes on a diving mission with a high-tech underwater rover. In this way, we learn firsthand about the state of Australia's sensitive marine animals' natural habitat and what needs to be done to ensure their survival.</desc>
-    <date>20210701</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/WildlifeDiariesAustralia_E02.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250615130000 +0000" stop="20250615140000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250614130429 +0000" stop="20250614135941 +0000">
     <title>Wildlife Diaries Australia</title>
@@ -21823,20 +21848,20 @@
     <date>20110714</date>
     <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/overtheislandsofafrica.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250614102030 +0000" stop="20250614120103 +0000">
-    <title>The Real Lost World</title>
-    <category>Movie</category>
-    <desc>Follow a team of adventurers on an epic journey to the plateau of Roraima, Venezuela, to The Real Lost World.</desc>
-    <date>20060101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250615121938 +0000" stop="20250615132027 +0000">
+    <title>Over the Islands of Africa</title>
+    <sub-title>Over the Islands of Africa, Cape Verde</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Cape Verde – the islands of Saudade, of longing. For Stéphane and Richard it was a journey full of adventure, unforgettable encounters and magnificent photographs. Director Christian Schidlowski and his team accompanied them on their trip.</desc>
+    <date>20110715</date>
+    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/overtheislandsofafrica.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250614120103 +0000" stop="20250614125939 +0000">
-    <title>Wild Galapagos Series 01 Episode 01</title>
-    <sub-title>Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>The Galapagos Archipelago's diverse biodiversity is attributed to the Pacific's Humboldt</desc>
-    <date>20170101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/ALBWGAS001EP001.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250615132027 +0000" stop="20250615141028 +0000">
+    <title>mareTV: Martinique</title>
+    <category>Movie</category>
+    <desc>The island of Martinique is a piece of France in the Caribbean, between Florida and South America. And of course, Savoir-vivre applies just as it does on the other side of the Atlantic, between the English Channel and the Mediterranean. Jacky Pascault is the first and only man to cultivate mushrooms in the Caribbean. Everywhere else, they grow on artificially fertilised soil, but Jacky's Champignons Tropicaux flourish on sugar cane fibres. Nicole Vilo tailors hats and dresses out of coconut palms. Of course, the catwalk for the models wearing her first collection is one of the countless dream beaches. The Martiniquais sail on boats they call Yole, which have no keel and are therefore difficult to navigate. The crew members hang over the water in breakneck fashion on long wooden poles. Just the job for Yole-boss Max' "problem kids": they not only learn complicated handling, but also team spirit.</desc>
+    <date>20150115</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/19478-21526/39892414-Plex-Portrait-1000x1500_v1.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250614125939 +0000" stop="20250614135814 +0000">
     <title>Wild Galapagos Series 01 Episode 02</title>
@@ -22006,5 +22031,21 @@
     <desc>Animals adapt to hostile landscapes using specialized bodies, diets, and behaviors, such as scorpions</desc>
     <date>20140101</date>
     <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250615120015 +0000" stop="20250615130123 +0000">
+    <title>Equator Specials</title>
+    <sub-title>Power of the Sun</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>The Equatorial sun burns deep into the lives of animals across three continents</desc>
+    <date>20060401</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/BL1EQSS001EP001.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250615130123 +0000" stop="20250615140247 +0000">
+    <title>Equator Specials</title>
+    <sub-title>Challenge of the Cold</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>In three vastly different equatorial zones life is a finely balanced between extremes of heat and cold.</desc>
+    <date>20060401</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/BL1EQSS001EP002.jpg" />
   </programme>
   </tv>
