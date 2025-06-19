@@ -20633,18 +20633,6 @@
     <display-name>Real Wild</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/09e8c6b6-368e-4275-b974-fe5e1921f64d/RealWild_Logo_White_-_Simon_Tuquabo.png" />
   </channel>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250618230000 +0000" stop="20250618233000 +0000">
-    <title>About That</title>
-    <sub-title>About That</sub-title>
-    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
-    <date>20250618</date>
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250618233000 +0000" stop="20250619000000 +0000">
-    <title>Today's Top Stories</title>
-    <sub-title>Today's Top Stories</sub-title>
-    <desc>What's happening across Canada and around the world.</desc>
-    <date>20250618</date>
-  </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250619000000 +0000" stop="20250619010000 +0000">
     <title>Today's Top Stories</title>
     <sub-title>Today's Top Stories</sub-title>
@@ -20777,13 +20765,17 @@
     <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
     <date>20250619</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250618230000 +0000" stop="20250619000000 +0000">
-    <title>W5</title>
-    <sub-title>Where's Dylan?</sub-title>
-    <episode-num system="onscreen">S56E28</episode-num>
-    <desc>A boy's disappearance leads to a community turning on his parents.</desc>
-    <date>20250220</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29794_2024_2_22_01ca6461-2f07-403f-8834-295a51103928_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250619233000 +0000" stop="20250620000000 +0000">
+    <title>Today's Top Stories</title>
+    <sub-title>Today's Top Stories</sub-title>
+    <desc>What's happening across Canada and around the world.</desc>
+    <date>20250619</date>
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250620000000 +0000" stop="20250620010000 +0000">
+    <title>Today's Top Stories</title>
+    <sub-title>Today's Top Stories</sub-title>
+    <desc>What's happening across Canada and around the world.</desc>
+    <date>20250620</date>
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250619000000 +0000" stop="20250619003000 +0000">
     <title>CTV National News with Omar Sachedina</title>
@@ -21033,13 +21025,11 @@
     <date>20250220</date>
     <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29794_2024_2_22_01ca6461-2f07-403f-8834-295a51103928_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250618224815 +0000" stop="20250618233957 +0000">
-    <title>The Good Stuff with Mary Berg</title>
-    <sub-title>Tuesday, June 10, 2025</sub-title>
-    <episode-num system="onscreen">S02E151</episode-num>
-    <desc>Alexis Honce &amp; Leigh-Ann Allaire Perrault faceoff in a thrifting challenge; organizing your keepsakes; Mary makes fresh strawberry pie.</desc>
-    <date>20250610</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54775_2025_4_4_582bd9bf-59ae-4419-9c55-c32dd46adf0a_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250620000000 +0000" stop="20250620003000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250618233957 +0000" stop="20250619003145 +0000">
     <title>The Good Stuff with Mary Berg</title>
@@ -21473,19 +21463,21 @@
     <date>20250616</date>
     <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250618225219 +0000" stop="20250618232250 +0000">
-    <title>Cosmic Journeys</title>
-    <sub-title>Black Holes and the High-Energy Universe</sub-title>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250619233345 +0000" stop="20250619235905 +0000">
+    <title>Mary Makes It Easy</title>
+    <sub-title>Get Ahead</sub-title>
     <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Astronomers are probing the cosmic frontier to find out how the Universe works on a fundamental level.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/1JAIHT965NB3R81HC09J62W_16_9.jpg" />
+    <desc>Mary shows how versatile meal planning can be with four recipes that future-you will thank you for.</desc>
+    <date>20250616</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250618232250 +0000" stop="20250618235327 +0000">
-    <title>Cosmic Journeys</title>
-    <sub-title>Voyager: Journey to the Stars</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>What will we learn about our Universe from the Voyager spacecraft's epic journey to the stars?</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/1JAIHT965NB3R81HC09J62W_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250619235905 +0000" stop="20250620002427 +0000">
+    <title>Mary Makes It Easy</title>
+    <sub-title>Love Letter to Leftovers</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Leftovers can seem uninspiring, but Mary gives them new life by showing how to use them as ingredients in brand new recipes.</desc>
+    <date>20250616</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250618235327 +0000" stop="20250619002431 +0000">
     <title>Cosmic Journeys</title>
@@ -21644,12 +21636,11 @@
     <desc>A hardy research crew seeks clues about the fate of our planet beneath the icy waters of the Antarctic Ocean.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRN2P7PRGMEDSH43_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250618230134 +0000" stop="20250619000546 +0000">
-    <title>Living with Volcanoes</title>
-    <sub-title>Volcano Wardens</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Volcanologists are ready to face any challenge to quench their thirst for knowledge</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/5N1HJZ69IH6XRLZWP5H1FS_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250619232037 +0000" stop="20250620002519 +0000">
+    <title>The Saturn V Story</title>
+    <category>Movie</category>
+    <desc>This is the story of the most powerful machine ever built and a nation who watched on with hope, together.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU1719DHWBZRDPF_2_3.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250619000546 +0000" stop="20250619003653 +0000">
     <title>World's Wildest City: Anchorage</title>
@@ -21860,11 +21851,12 @@
     <desc>Ngorongoro is a land full of wildlife, from proud lions to vast herds of wildebeest and elephants.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRDQ7VDGV23_16_9.jpeg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250618230000 +0000" stop="20250619000000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250620000820 +0000" stop="20250620011232 +0000">
+    <title>Wildest Africa</title>
+    <sub-title>Zambezi: Wild Water</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Zambezi’s long and winding journey destroys, as well as creates.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRDQ7VDGV23_16_9.jpeg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250619000000 +0000" stop="20250619010000 +0000">
     <title>Evolution Earth</title>
@@ -22010,12 +22002,11 @@
     <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250618222630 +0000" stop="20250618232015 +0000">
-    <title>Symphony of the Seas - Underwater Wonders of Australia's Ocean</title>
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250620000000 +0000" stop="20250620010000 +0000">
+    <title>Evolution Earth</title>
     <category>Movie</category>
-    <desc>Our journeys take us all around the world from Patagonia to the USA, from Greenland to South Africa and from Cambodia to Australia and leads us to the most fascinating places where landscapes animals and humans are the main focus of our documentaries. Whether on land or at sea – the last paradises of the world are our destination.</desc>
-    <date>20150501</date>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/14441-16489/29576562-Plex-Portrait-1000x1500_v1.jpg" />
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250618232015 +0000" stop="20250619002112 +0000">
     <title>Bosnia Herzegovina</title>
@@ -22213,6 +22204,20 @@
     <date>20211215</date>
     <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/EuropesForgottenPilgrimRoutes_E03.jpg" />
   </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250619232815 +0000" stop="20250620001904 +0000">
+    <title>mareTV: Scotland's Mild West - On The Inner Hebrides</title>
+    <category>Movie</category>
+    <desc>The Inner Hebrides surprise with green hills, fine sandy beaches and a mild climate, at least as far as Scottish conditions allow. This is ensured by the currents of the Gulf Stream, as well as the Scottish archipelago being protected by its sister islands, which belong to the Outer Hebrides. More than half of the almost 80 islands are uninhabited. Loneliness has made the people rather inventive. On Tiree Island, mathematics, history and physics from the mainland arrive in the classroom per mouseclick. Dr Mauvis Gore and Prof. Rupert Ormond cast off from the island of Mull, after setting a course to encounter a basking shark. The cetohinus maximus is the world's second largest fish and the two scientists are absolutely convinced that the waters surrounding the Mull constitute the mating grounds for the basking sharks. A logistical challenge takes place on the Isle of Easdale each September. Then, around 400 people populate the tiny slate island. Donals "Mellon" Melville organises the World Skimming Championships, a World Cup in jumping stones. This is all about the distance they are thrown and they must only hop above the water twice.</desc>
+    <date>20191121</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/24426-26474/50036985-Plex-Portrait-1000x1500_v1.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250620001904 +0000" stop="20250620011924 +0000">
+    <title>Follow Your Cat</title>
+    <category>Movie</category>
+    <desc>Follow us while we follow cats on their hunting grounds for mice and birds. Experience the double life of your domestic tiger... she will lead you on adventures that you never thought were possible. With a behavioural scientist that specializes in cats and modern technology we follow the cat on their wanderings into the wild. She maps their routes, unveils their secret favourite places, chronicles their territorial conquests, and shows us the entertaining habits of this enigmatic creature.</desc>
+    <date>20160921</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/29648-31696/60757534-Samsung-Thumbnail_v1.jpg" />
+  </programme>
   <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250618231038 +0000" stop="20250619005119 +0000">
     <title>Chandani - The Daughter Of The Elephant Whisperer</title>
     <category>Movie</category>
@@ -22378,6 +22383,13 @@
     <category>Movie</category>
     <desc>Documentary highlights Morocco's unique wildlife, featuring Barbary apes &amp; rare reptiles in their habitats.</desc>
     <date>20220101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250619234222 +0000" stop="20250620003926 +0000">
+    <title>Aerial Assassins</title>
+    <category>Movie</category>
+    <desc>James Currie is embarking on a mission to witness the majestic Harris Hawk</desc>
+    <date>20110101</date>
     <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
   </programme>
   </tv>
