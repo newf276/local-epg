@@ -20212,24 +20212,6 @@
     <display-name>Real Wild</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/09e8c6b6-368e-4275-b974-fe5e1921f64d/RealWild_Logo_White_-_Simon_Tuquabo.png" />
   </channel>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250630120000 +0000" stop="20250630130000 +0000">
-    <title>The National</title>
-    <sub-title>The National</sub-title>
-    <desc>CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.</desc>
-    <date>20250630</date>
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250630130000 +0000" stop="20250630140000 +0000">
-    <title>The National</title>
-    <sub-title>The National</sub-title>
-    <desc>CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.</desc>
-    <date>20250630</date>
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250630140000 +0000" stop="20250630150000 +0000">
-    <title>CBC News: Morning</title>
-    <sub-title>CBC News: Morning</sub-title>
-    <desc>What do you need to know about the world around you? Heather Hiscox takes the helm as the anchor for this weekday-morning news program to tell you. Joining her is Colleen Jones with weather and sports info., and Danielle Bochove with all you need to know about the business world.</desc>
-    <date>20250630</date>
-  </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250630150000 +0000" stop="20250630153000 +0000">
     <title>About That</title>
     <sub-title>About That</sub-title>
@@ -20356,51 +20338,39 @@
     <desc>CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.</desc>
     <date>20250701</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250630120000 +0000" stop="20250630123000 +0000">
-    <title>CTV National News</title>
-    <category>Movie</category>
-    <desc>CTV National News</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250701130000 +0000" stop="20250701140000 +0000">
+    <title>The National</title>
+    <sub-title>The National</sub-title>
+    <desc>CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.</desc>
+    <date>20250701</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250630123000 +0000" stop="20250630130000 +0000">
-    <title>CTV News: Your Canada</title>
-    <sub-title>for Monday, June 30, 2025</sub-title>
-    <episode-num system="onscreen">S2025E153</episode-num>
-    <desc>Stories that showcase what makes Canada unique.</desc>
-    <date>20250628</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250701140000 +0000" stop="20250701150000 +0000">
+    <title>CBC News: Morning</title>
+    <sub-title>CBC News: Morning</sub-title>
+    <desc>What do you need to know about the world around you? Heather Hiscox takes the helm as the anchor for this weekday-morning news program to tell you. Joining her is Colleen Jones with weather and sports info., and Danielle Bochove with all you need to know about the business world.</desc>
+    <date>20250701</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250630130000 +0000" stop="20250630140000 +0000">
-    <title>CTV News Toronto at Six</title>
-    <category>Movie</category>
-    <desc>CTV News Toronto at Six</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250630140000 +0000" stop="20250630143000 +0000">
-    <title>CTV National News</title>
-    <category>Movie</category>
-    <desc>CTV National News</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250630143000 +0000" stop="20250630150000 +0000">
-    <title>CTV News: Your Canada</title>
-    <sub-title>for Monday, June 30, 2025</sub-title>
-    <episode-num system="onscreen">S2025E153</episode-num>
-    <desc>Stories that showcase what makes Canada unique.</desc>
-    <date>20250628</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250701150000 +0000" stop="20250701153000 +0000">
+    <title>About That</title>
+    <sub-title>About That</sub-title>
+    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
+    <date>20250701</date>
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250630150000 +0000" stop="20250630160000 +0000">
     <title>CTV News Montreal at Six</title>
-    <category>Movie</category>
+    <sub-title>for Friday, June 27, 2025</sub-title>
+    <episode-num system="onscreen">S2025E243</episode-num>
     <desc>CTV News Montreal at Six</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+    <date>20250628</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29873_2024_6_13_09cee8e5-1b7b-4f0e-ac21-c4395fbbb044_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250630160000 +0000" stop="20250630163000 +0000">
-    <title>CTV National News</title>
-    <category>Movie</category>
-    <desc>CTV National News</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+    <title>CTV National News with Heather Butts</title>
+    <sub-title>CTV National News for Sunday, June 29, 2025</sub-title>
+    <episode-num system="onscreen">S2025E78</episode-num>
+    <desc>Watch CTV National News with Heather Butts</desc>
+    <date>20250630</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m30424_2024_8_16_2bf829f5-734f-456b-b8b7-785d70e3afd0_JPG_1920x1080.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250630163000 +0000" stop="20250630170000 +0000">
     <title>CTV News: Your Canada</title>
@@ -20412,15 +20382,19 @@
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250630170000 +0000" stop="20250630180000 +0000">
     <title>CTV News Ottawa at Six</title>
-    <category>Movie</category>
+    <sub-title>for Saturday, June 28, 2025</sub-title>
+    <episode-num system="onscreen">S2025E293</episode-num>
     <desc>CTV News Ottawa at Six</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+    <date>20250629</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29884_2024_6_13_ee9988fa-1dc2-42f1-b909-8b2cba4cb0ac_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250630180000 +0000" stop="20250630183000 +0000">
-    <title>CTV National News</title>
-    <category>Movie</category>
-    <desc>CTV National News</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+    <title>CTV National News with Heather Butts</title>
+    <sub-title>CTV National News for Sunday, June 29, 2025</sub-title>
+    <episode-num system="onscreen">S2025E78</episode-num>
+    <desc>Watch CTV National News with Heather Butts</desc>
+    <date>20250630</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m30424_2024_8_16_2bf829f5-734f-456b-b8b7-785d70e3afd0_JPG_1920x1080.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250630183000 +0000" stop="20250630190000 +0000">
     <title>CTV News: Your Canada</title>
@@ -20432,15 +20406,19 @@
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250630190000 +0000" stop="20250630200000 +0000">
     <title>CTV News Toronto at Six</title>
-    <category>Movie</category>
+    <sub-title>for Saturday, June 28, 2025</sub-title>
+    <episode-num system="onscreen">S2025E286</episode-num>
     <desc>CTV News Toronto at Six</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+    <date>20250629</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29736_2024_6_13_80514d3f-90ee-4070-a6ba-398ec3f8081a_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250630200000 +0000" stop="20250630203000 +0000">
-    <title>CTV National News</title>
-    <category>Movie</category>
-    <desc>CTV National News</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+    <title>CTV National News with Heather Butts</title>
+    <sub-title>CTV National News for Sunday, June 29, 2025</sub-title>
+    <episode-num system="onscreen">S2025E78</episode-num>
+    <desc>Watch CTV National News with Heather Butts</desc>
+    <date>20250630</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m30424_2024_8_16_2bf829f5-734f-456b-b8b7-785d70e3afd0_JPG_1920x1080.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250630203000 +0000" stop="20250630210000 +0000">
     <title>CTV News: Your Canada</title>
@@ -20452,15 +20430,19 @@
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250630210000 +0000" stop="20250630220000 +0000">
     <title>CTV News Montreal at Six</title>
-    <category>Movie</category>
+    <sub-title>for Friday, June 27, 2025</sub-title>
+    <episode-num system="onscreen">S2025E243</episode-num>
     <desc>CTV News Montreal at Six</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+    <date>20250628</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29873_2024_6_13_09cee8e5-1b7b-4f0e-ac21-c4395fbbb044_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250630220000 +0000" stop="20250630223000 +0000">
-    <title>CTV National News</title>
-    <category>Movie</category>
-    <desc>CTV National News</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+    <title>CTV National News with Heather Butts</title>
+    <sub-title>CTV National News for Sunday, June 29, 2025</sub-title>
+    <episode-num system="onscreen">S2025E78</episode-num>
+    <desc>Watch CTV National News with Heather Butts</desc>
+    <date>20250630</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m30424_2024_8_16_2bf829f5-734f-456b-b8b7-785d70e3afd0_JPG_1920x1080.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250630223000 +0000" stop="20250630230000 +0000">
     <title>CTV News: Your Canada</title>
@@ -20472,15 +20454,19 @@
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250630230000 +0000" stop="20250701000000 +0000">
     <title>CTV News Ottawa at Six</title>
-    <category>Movie</category>
+    <sub-title>for Saturday, June 28, 2025</sub-title>
+    <episode-num system="onscreen">S2025E293</episode-num>
     <desc>CTV News Ottawa at Six</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+    <date>20250629</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29884_2024_6_13_ee9988fa-1dc2-42f1-b909-8b2cba4cb0ac_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250701000000 +0000" stop="20250701003000 +0000">
-    <title>CTV National News</title>
-    <category>Movie</category>
-    <desc>CTV National News</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+    <title>CTV National News with Heather Butts</title>
+    <sub-title>CTV National News for Sunday, June 29, 2025</sub-title>
+    <episode-num system="onscreen">S2025E78</episode-num>
+    <desc>Watch CTV National News with Heather Butts</desc>
+    <date>20250630</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m30424_2024_8_16_2bf829f5-734f-456b-b8b7-785d70e3afd0_JPG_1920x1080.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250701003000 +0000" stop="20250701010000 +0000">
     <title>CTV News: Your Canada</title>
@@ -20492,15 +20478,19 @@
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250701010000 +0000" stop="20250701020000 +0000">
     <title>CTV News Toronto at Six</title>
-    <category>Movie</category>
+    <sub-title>for Saturday, June 28, 2025</sub-title>
+    <episode-num system="onscreen">S2025E286</episode-num>
     <desc>CTV News Toronto at Six</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+    <date>20250629</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29736_2024_6_13_80514d3f-90ee-4070-a6ba-398ec3f8081a_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250701020000 +0000" stop="20250701023000 +0000">
-    <title>CTV National News</title>
-    <category>Movie</category>
-    <desc>CTV National News</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+    <title>CTV National News with Heather Butts</title>
+    <sub-title>CTV National News for Sunday, June 29, 2025</sub-title>
+    <episode-num system="onscreen">S2025E78</episode-num>
+    <desc>Watch CTV National News with Heather Butts</desc>
+    <date>20250630</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m30424_2024_8_16_2bf829f5-734f-456b-b8b7-785d70e3afd0_JPG_1920x1080.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250701023000 +0000" stop="20250701030000 +0000">
     <title>CTV News: Your Canada</title>
@@ -20512,15 +20502,19 @@
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250701030000 +0000" stop="20250701040000 +0000">
     <title>CTV News Montreal at Six</title>
-    <category>Movie</category>
+    <sub-title>for Friday, June 27, 2025</sub-title>
+    <episode-num system="onscreen">S2025E243</episode-num>
     <desc>CTV News Montreal at Six</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+    <date>20250628</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29873_2024_6_13_09cee8e5-1b7b-4f0e-ac21-c4395fbbb044_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250701040000 +0000" stop="20250701043000 +0000">
-    <title>CTV National News</title>
-    <category>Movie</category>
-    <desc>CTV National News</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+    <title>CTV National News with Heather Butts</title>
+    <sub-title>CTV National News for Sunday, June 29, 2025</sub-title>
+    <episode-num system="onscreen">S2025E78</episode-num>
+    <desc>Watch CTV National News with Heather Butts</desc>
+    <date>20250630</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m30424_2024_8_16_2bf829f5-734f-456b-b8b7-785d70e3afd0_JPG_1920x1080.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250701043000 +0000" stop="20250701050000 +0000">
     <title>CTV News: Your Canada</title>
@@ -20532,15 +20526,19 @@
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250701050000 +0000" stop="20250701060000 +0000">
     <title>CTV News Ottawa at Six</title>
-    <category>Movie</category>
+    <sub-title>for Saturday, June 28, 2025</sub-title>
+    <episode-num system="onscreen">S2025E293</episode-num>
     <desc>CTV News Ottawa at Six</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+    <date>20250629</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29884_2024_6_13_ee9988fa-1dc2-42f1-b909-8b2cba4cb0ac_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250701060000 +0000" stop="20250701063000 +0000">
-    <title>CTV National News</title>
-    <category>Movie</category>
-    <desc>CTV National News</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+    <title>CTV National News with Heather Butts</title>
+    <sub-title>CTV National News for Sunday, June 29, 2025</sub-title>
+    <episode-num system="onscreen">S2025E78</episode-num>
+    <desc>Watch CTV National News with Heather Butts</desc>
+    <date>20250630</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m30424_2024_8_16_2bf829f5-734f-456b-b8b7-785d70e3afd0_JPG_1920x1080.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250701063000 +0000" stop="20250701070000 +0000">
     <title>CTV News: Your Canada</title>
@@ -20552,9 +20550,11 @@
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250701070000 +0000" stop="20250701080000 +0000">
     <title>CTV News Toronto at Six</title>
-    <category>Movie</category>
+    <sub-title>for Saturday, June 28, 2025</sub-title>
+    <episode-num system="onscreen">S2025E286</episode-num>
     <desc>CTV News Toronto at Six</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+    <date>20250629</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29736_2024_6_13_80514d3f-90ee-4070-a6ba-398ec3f8081a_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250701080000 +0000" stop="20250701083000 +0000">
     <title>CTV National News</title>
@@ -20598,53 +20598,35 @@
     <desc>CTV National News</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250630115804 +0000" stop="20250630122409 +0000">
-    <title>One World Kitchen</title>
-    <sub-title>Hot and Cold Recipes</sub-title>
-    <episode-num system="onscreen">S03E03</episode-num>
-    <desc>Forget your passport and tear up the takeout menu – One World Kitchen will help you master the world’s hottest cuisines, Canadian style.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m38713_2024_2_28_408c200b-8568-4fd6-9b05-0a4ae02bdc0a_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250701123000 +0000" stop="20250701130000 +0000">
+    <title>CTV News: Your Canada</title>
+    <category>Movie</category>
+    <desc>CTV News: Your Canada</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250630122409 +0000" stop="20250630125016 +0000">
-    <title>One World Kitchen</title>
-    <sub-title>Cantonese Comfort Foods</sub-title>
-    <episode-num system="onscreen">S03E04</episode-num>
-    <desc>Mary Tang cooks up Cantonese recipes perfect for days when you need comfort food.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m38713_2024_2_28_408c200b-8568-4fd6-9b05-0a4ae02bdc0a_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250701130000 +0000" stop="20250701140000 +0000">
+    <title>CTV News Toronto at Six</title>
+    <category>Movie</category>
+    <desc>CTV News Toronto at Six</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250630125016 +0000" stop="20250630131623 +0000">
-    <title>One World Kitchen</title>
-    <sub-title>A Banquet Fit for an Emperor</sub-title>
-    <episode-num system="onscreen">S03E05</episode-num>
-    <desc>Vietnamese expert Lisa Nguyen shows us recipes that are fit for a royal dinner party.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m38713_2024_2_28_408c200b-8568-4fd6-9b05-0a4ae02bdc0a_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250701140000 +0000" stop="20250701143000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250630131623 +0000" stop="20250630134229 +0000">
-    <title>One World Kitchen</title>
-    <sub-title>From the Island of Crete</sub-title>
-    <episode-num system="onscreen">S03E06</episode-num>
-    <desc>Joanna Chery shows us intriguing recipes from the Greek island of Crete.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m38713_2024_2_28_408c200b-8568-4fd6-9b05-0a4ae02bdc0a_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250701143000 +0000" stop="20250701150000 +0000">
+    <title>CTV News: Across Canada</title>
+    <category>Movie</category>
+    <desc>CTV News: Across Canada</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250630134229 +0000" stop="20250630140834 +0000">
-    <title>One World Kitchen</title>
-    <sub-title>Nuts about Walnuts, Pine Nuts and Pistachios</sub-title>
-    <episode-num system="onscreen">S03E07</episode-num>
-    <desc>Host Jasmin Ibrahim shares her favourite nutty recipes.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m38713_2024_2_28_408c200b-8568-4fd6-9b05-0a4ae02bdc0a_JPG_1920x1080.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250630140834 +0000" stop="20250630150150 +0000">
-    <title>The Marilyn Denis Show</title>
-    <sub-title>Episode 16</sub-title>
-    <episode-num system="onscreen">S10E16</episode-num>
-    <desc>Vegetable lasagna; what to plant in fall; tips on how to throw a zero waste party; stylish DIY storage solutions; best fall travel deals.</desc>
-    <date>20250626</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m29995_2024_2_19_78d3f68c-8f87-4b12-a352-7a478eefae20_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250701150000 +0000" stop="20250701160000 +0000">
+    <title>CTV News Montreal at Six</title>
+    <category>Movie</category>
+    <desc>CTV News Montreal at Six</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250630150150 +0000" stop="20250630155237 +0000">
     <title>The Marilyn Denis Show</title>
@@ -20886,24 +20868,53 @@
     <date>20250228</date>
     <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m38713_2024_2_28_408c200b-8568-4fd6-9b05-0a4ae02bdc0a_JPG_1920x1080.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250630115523 +0000" stop="20250630125232 +0000">
-    <title>China Quake</title>
-    <category>Movie</category>
-    <desc>In 2008, China’s monster quake claimed 80,000 lives and destroyed five million buildings.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRN2P7OLMTX9C8US_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250701121937 +0000" stop="20250701124544 +0000">
+    <title>One World Kitchen</title>
+    <sub-title>Hanoi Specialties</sub-title>
+    <episode-num system="onscreen">S03E13</episode-num>
+    <desc>Lisa Nguyen shows us recipes from Vietnam's capital city of Hanoi.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m38713_2024_2_28_408c200b-8568-4fd6-9b05-0a4ae02bdc0a_JPG_1920x1080.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250630125232 +0000" stop="20250630135441 +0000">
-    <title>Apollo's New Moon</title>
-    <category>Movie</category>
-    <desc>This film shows how collected evidence revolutionized our understanding of the origin of the solar system.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRN2P7QFPGXL0VGL_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250701124544 +0000" stop="20250701131150 +0000">
+    <title>One World Kitchen</title>
+    <sub-title>Classic Greek Recipes</sub-title>
+    <episode-num system="onscreen">S03E14</episode-num>
+    <desc>Joanna Chery shows us recipes that pays homage to traditional Greek cuisine.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m38713_2024_2_28_408c200b-8568-4fd6-9b05-0a4ae02bdc0a_JPG_1920x1080.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250630135441 +0000" stop="20250630145906 +0000">
-    <title>Megafires: The Global Threat</title>
-    <sub-title>How To Survive on a Burning Planet</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Learn how ancient and newly-discovered fire prevention techniques help make communities fire resistant.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU1719AIPFAFVLT_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250701131150 +0000" stop="20250701133758 +0000">
+    <title>One World Kitchen</title>
+    <sub-title>Lebanese Culinary Favourites</sub-title>
+    <episode-num system="onscreen">S03E15</episode-num>
+    <desc>Host Jasmin Ibrahim cooks up popular Lebanese dishes.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m38713_2024_2_28_408c200b-8568-4fd6-9b05-0a4ae02bdc0a_JPG_1920x1080.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250701133758 +0000" stop="20250701140403 +0000">
+    <title>One World Kitchen</title>
+    <sub-title>Hong Kong Foodie Favourites</sub-title>
+    <episode-num system="onscreen">S03E16</episode-num>
+    <desc>Home cook Mary Tang shows us popular Hong Kong culinary delights.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m38713_2024_2_28_408c200b-8568-4fd6-9b05-0a4ae02bdc0a_JPG_1920x1080.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250701140403 +0000" stop="20250701143010 +0000">
+    <title>One World Kitchen</title>
+    <sub-title>No Cutlery Required</sub-title>
+    <episode-num system="onscreen">S03E17</episode-num>
+    <desc>Cooking instructor Lisa Nguyen shows us four delectable Vietnamese finger food recipes.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m38713_2024_2_28_408c200b-8568-4fd6-9b05-0a4ae02bdc0a_JPG_1920x1080.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250701143010 +0000" stop="20250701152315 +0000">
+    <title>The Marilyn Denis Show</title>
+    <sub-title>Episode 33</sub-title>
+    <episode-num system="onscreen">S01E33</episode-num>
+    <desc>Reno dilemmas; a family’s drab front yard; getting your yard in perfect shape; Mother’s Day brunch, picnic &amp; high tea; French toast.</desc>
+    <date>20250626</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m29995_2024_2_19_78d3f68c-8f87-4b12-a352-7a478eefae20_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250630145906 +0000" stop="20250630160252 +0000">
     <title>Living with Volcanoes</title>
@@ -21038,26 +21049,23 @@
     <desc>Earth's stores of ice on Greenland and Antarctica are melting, and sea levels rising. Where is Earth headed?</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRMHLGKBR8G610GS_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250630114517 +0000" stop="20250630124513 +0000">
-    <title>Facing Forces of Nature</title>
-    <sub-title>Tornadoes</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Tornadoes: Can we use modern technology to predict the emergence and path of this violent force of nature?</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171CM82POYQJZ_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250701123512 +0000" stop="20250701134158 +0000">
+    <title>Moon Shots</title>
+    <category>Movie</category>
+    <desc>With rare archive footage, this stunning one-hour special brings scientific history to life.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRMHLGKAVBYPC8GZ_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250630124513 +0000" stop="20250630134523 +0000">
-    <title>Facing Forces of Nature</title>
-    <sub-title>Volcanoes</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Volcanoes: How successful can we be in the fight against this violent, destructive, elemental force of nature?</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171CM82POYQJZ_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250701134158 +0000" stop="20250701144846 +0000">
+    <title>Voyage of Curiosity</title>
+    <category>Movie</category>
+    <desc>Curiosity's robot rover exploring Mars is now known as one of the greatest achievements in space exploration.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KREXLT8T8JV_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250630134523 +0000" stop="20250630144534 +0000">
-    <title>Facing Forces of Nature</title>
-    <sub-title>Melting Ice</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Melting ice at Earth's poles: Do we still have a chance to stop it from melting and prevent its repercussions?</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171CM82POYQJZ_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250701144846 +0000" stop="20250701155057 +0000">
+    <title>Atlas of a Changing Earth</title>
+    <category>Movie</category>
+    <desc>This documentary reveals the processes melting glaciers, and explores how rising seas may threaten coastlines.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171BD9ZKWFDG5_2_3.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250630144534 +0000" stop="20250630154901 +0000">
     <title>Wild Faces of Switzerland</title>
@@ -21366,23 +21374,32 @@
     <desc>While all life began in the oceans, human beings now rely on technology to navigate the seven seas.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU17194HRQ8GZM9_16_9.jpeg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250630120000 +0000" stop="20250630130000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250701122348 +0000" stop="20250701125540 +0000">
+    <title>Super Senses: Wild Feats of Evolution</title>
+    <sub-title>Night</sub-title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <desc>In this episode we find out more about the animals that live in the shadows.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU17194HRQ8GZM9_16_9.jpeg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250630130000 +0000" stop="20250630140000 +0000">
-    <title>Evolution Earth</title>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250701125540 +0000" stop="20250701135948 +0000">
+    <title>Earth's Survival: Decoding the Science</title>
     <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+    <desc>This documentary explains how we may be in the middle of the most crucial moment of Earth’s history.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRN2P7OL4YRT6D4Y_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250630140000 +0000" stop="20250630150000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250701135948 +0000" stop="20250701150230 +0000">
+    <title>Mega Disaster</title>
+    <sub-title>Volcano</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Volcanoes can bury entire cities in clouds of ash and gas, or turn rivers into torrents of mud and debris.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/5N1HJZ69IH6XNUB0QKJMTG_16_9.jpeg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250701150230 +0000" stop="20250701160513 +0000">
+    <title>Mega Disaster</title>
+    <sub-title>Tsunami</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>There is no stopping these massive and deadly phenomena, the only thing to do is run to higher ground.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/5N1HJZ69IH6XNUB0QKJMTG_16_9.jpeg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250630150000 +0000" stop="20250630160000 +0000">
     <title>Evolution Earth</title>
@@ -21516,29 +21533,23 @@
     <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250630113054 +0000" stop="20250630123142 +0000">
-    <title>The marvellous World of French Rivers</title>
-    <sub-title>Marvellous french Rivers - Girone</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>The Gironde is the largest and most powerful tidal current in Europe. When the Gironde flows into the Atlantic, it is 15 kilometers wide and in the rhythm of the tides, it brings the waters from the Pyrenees and the Massif Central into the ocean. This often pushes its waters far out into the Gironde at high tide.This creates a world of its own that has shaped everything uniquely and intensely for tens of thousands of years. The water surface of the river is so large that the evaporation has created its own microclimate, which is stable and, together with the brackish waters, has influenced flora and fauna on the right and left of the bank for a long time.</desc>
-    <date>20210425</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/MARVELLOUS%2520FRENCH%2520RIVERS%2520-%2520GIRONDE%2520%2526%2520DORDOGNE%2520EPISODE%25201_Landscape_V1.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250701130000 +0000" stop="20250701140000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250630123142 +0000" stop="20250630133229 +0000">
-    <title>The marvellous World of French Rivers</title>
-    <sub-title>Marvellous french Rivers - Dordogne</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>The Dordogne consists of a visible and an invisible system of flowing water. Caves and basins under the earth's surface store the excess water and return it to the river when it is dry. A perfect management of a precious resource, not invented by humans, but by the complex nature itself. The result is an ever life-giving river.</desc>
-    <date>20210425</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/MARVELLOUS%2520FRENCH%2520RIVERS%2520-%2520GIRONDE%2520%2526%2520DORDOGNE%2520EPISODE%25202_Landscape_V1.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250701140000 +0000" stop="20250701150000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250630133229 +0000" stop="20250630142732 +0000">
-    <title>One Year in Norway's Lofoten</title>
-    <sub-title>One Year in Norway's Lofoten: Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Winter means more than just the beginning of the year for the people of Lofoten: For more than a thousand years, Lofoten has been a hub for cod fishing, with seasons lasting from February to April as huge shoals migrate from the Barents Sea to these waters. During these hectic months, more than 65,000 tons of fish are brought to shore, securing the income for the whole of Lofoten for years to come. Around a quarter of the fish caught ends up on lines to dry upon racks. From a young age, the children from the fishing villages get to earn some pocket money by cutting cod tongues and selling the produce as a delicacy appreciated by the locals.</desc>
-    <date>20200821</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/ONE%2520YEAR%2520IN%2520NORWAY%25E2%2580%2598S%2520LOFOTEN%2520EPISODE%25201_Landscape_V1.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250701150000 +0000" stop="20250701160000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250630142732 +0000" stop="20250630152157 +0000">
     <title>One Year in Norway's Lofoten</title>
@@ -21718,29 +21729,26 @@
     <date>20200707</date>
     <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/20392-22440/41763679-Plex-Portrait-1000x1500_v1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250630120400 +0000" stop="20250630130151 +0000">
-    <title>Animal Special Forces</title>
-    <sub-title>Elite Corps</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Certain animals possess advanced senses beyond basic ones</desc>
-    <date>20170101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/BMEASFS001EP001.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250701125447 +0000" stop="20250701135118 +0000">
+    <title>Jacques Cousteau's Legacy - Return To The Undersea World</title>
+    <category>Movie</category>
+    <desc>A composition of wildlife footage, archive material and elaborate re-enactments results in a brilliant reconstruction of the life of famed marine biologist and environmental pioneer Jacques Cousteau. On the trail of the most famous oceanographer of the 20th Century, the team spent two years filming original locations on three different continents, in four different oceans. The film charts how Cousteau’s outlook on the environment changed throughout his many decades at sea around the globe. On his personal journey to enlightenment, he changed from a man who killed sharks in hate and thoughtlessly blew up coral reefs, to a radical environmentalist.</desc>
+    <date>20121219</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/30633-32681/62781739-Samsung-Thumbnail_v1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250630130151 +0000" stop="20250630135951 +0000">
-    <title>Animal Special Forces</title>
-    <sub-title>Navy Seals</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Life originated in water, and some species, like the Navy Seals, are highly adapted to their environment</desc>
-    <date>20170101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/BMEASFS001EP002.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250701135118 +0000" stop="20250701145149 +0000">
+    <title>Predators of a Different Kind - In the World of the Unknown Sharks</title>
+    <category>Movie</category>
+    <desc>With the aid of modern technology, reveal the unknown behaviour of some unusual species of shark: lemon sharks and their white-tip reef counterparts. Our film trip begins on the Bahamas. To be more precise: in the turquoise-blue waters of the Grand Bahama Bank, in an exactly fixed location. In the spring, 70 – 80 pregnant lemon sharks arrive here. This huge shark population was first discovered just a few years ago by shark researcher, Professor Sam Gruber. Many of the females are tired and rest on the seabed. Pregnant tiger sharks swim in the midst of this group. Without any protection whatsoever, our cameramen shoot their footage, surrounded by sharks and succeed in capturing images hitherto unseen. We continue our journey to Gainesville, Florida, to meet Gordon Hubbell, the leading shark denture expert with the world’s largest shark denture collection. He knows everything about the evolutionary history of the lemon sharks, in addition to those of the white-tip reef variety off Cocos Island, Costa Rica. Here, we encounter large schools of fish, unprecedented numbers of stingrays, as well as hammerhead sharks. However, it is the white-tip reek sharks that make the biggest impression. Their performance begins late at night. Marauding, they patrol in large groups through the reefs and hunt everything that moves. Scales and dead prey fish float above the reef – a welcoming change of diet for the ubiquitous barracudas.</desc>
+    <date>20160906</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/18963-21011/38838248-Samsung-Thumbnail_v1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250630135951 +0000" stop="20250630150103 +0000">
-    <title>Equator</title>
-    <sub-title>Power of an Ocean</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>The harsh desert islands of the Galapagos but are home to diverse set of animals.</desc>
-    <date>20030101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/BL1EQUS001EP001.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250701145149 +0000" stop="20250701155236 +0000">
+    <title>Giants of Fortune - The Whale Sharks of Oslob</title>
+    <category>Movie</category>
+    <desc>In the little Filipino village of Oslob on the Cebu Island, people suffer from typhoons and overfishing. Until the world’s biggest fish and the Internet change everything.Fisherman Zosimo’s dearest wish is for his children to graduate from high school one day. Yet the chance that this wish will come true is tiny, since at times Zosimo doesn’t even manage to feed the family. Typhoons and overfishing make the lives of Oslob fishermen difficult.</desc>
+    <date>20140301</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/19607-21655/40156342-Samsung-Thumbnail_v2.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250630150103 +0000" stop="20250630160226 +0000">
     <title>Equator</title>
@@ -21907,5 +21915,29 @@
     <desc>Learn about four different regions of Switzerland.</desc>
     <date>20171120</date>
     <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/ALBWFOS001EP003.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250701130044 +0000" stop="20250701135954 +0000">
+    <title>Wild Faces Of Switzerland</title>
+    <sub-title>Episode 04</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>The river Aare offers important habitat for flora and fauna.</desc>
+    <date>20171120</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/ALBWFOS001EP004.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250701135954 +0000" stop="20250701145747 +0000">
+    <title>Germany's Underworld</title>
+    <sub-title>From the Alps to the River Rhine</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>In this episode, we meet powerful hunters like the pike and sinister meat-eating plants like the bladderwort.</desc>
+    <date>20150101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/ZD1AGUS001EP001.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250701145747 +0000" stop="20250701155620 +0000">
+    <title>Germany's Underworld</title>
+    <sub-title>From the Harz Mountain to the North Sea</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>In this episode meet the ancient Atlantic sturgeon, the ground beetle, the sea eagle, and a family of beavers.</desc>
+    <date>20150101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/ZD1AGUS001EP002.jpg" />
   </programme>
   </tv>
