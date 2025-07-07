@@ -20510,12 +20510,6 @@
     <display-name>Real Wild</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/09e8c6b6-368e-4275-b974-fe5e1921f64d/RealWild_Logo_White_-_Simon_Tuquabo.png" />
   </channel>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250707160000 +0000" stop="20250707163000 +0000">
-    <title>About That</title>
-    <sub-title>About That</sub-title>
-    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
-    <date>20250707</date>
-  </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250707163000 +0000" stop="20250707200000 +0000">
     <title>Today's Top Stories</title>
     <sub-title>Today's Top Stories</sub-title>
@@ -20654,45 +20648,11 @@
     <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
     <date>20250708</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250707160000 +0000" stop="20250707163000 +0000">
-    <title>CTV National News with Heather Butts</title>
-    <sub-title>CTV National News for Sunday, July 6, 2025</sub-title>
-    <episode-num system="onscreen">S2025E81</episode-num>
-    <desc>Watch CTV National News with Heather Butts</desc>
-    <date>20250707</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m30424_2024_8_16_2bf829f5-734f-456b-b8b7-785d70e3afd0_JPG_1920x1080.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250707163000 +0000" stop="20250707170000 +0000">
-    <title>CTV News: Your Canada</title>
-    <sub-title>for Monday, July 7, 2025</sub-title>
-    <episode-num system="onscreen">S2025E158</episode-num>
-    <desc>Stories that showcase what makes Canada unique.</desc>
-    <date>20250705</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250707170000 +0000" stop="20250707180000 +0000">
-    <title>CTV News Ottawa at Six</title>
-    <sub-title>for Sunday, July 6, 2025</sub-title>
-    <episode-num system="onscreen">S2025E287</episode-num>
-    <desc>CTV News Ottawa at Six</desc>
-    <date>20250707</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29884_2024_6_13_ee9988fa-1dc2-42f1-b909-8b2cba4cb0ac_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250707180000 +0000" stop="20250707183000 +0000">
-    <title>CTV National News with Heather Butts</title>
-    <sub-title>CTV National News for Sunday, July 6, 2025</sub-title>
-    <episode-num system="onscreen">S2025E81</episode-num>
-    <desc>Watch CTV National News with Heather Butts</desc>
-    <date>20250707</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m30424_2024_8_16_2bf829f5-734f-456b-b8b7-785d70e3afd0_JPG_1920x1080.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250707183000 +0000" stop="20250707190000 +0000">
-    <title>CTV News: Your Canada</title>
-    <sub-title>for Monday, July 7, 2025</sub-title>
-    <episode-num system="onscreen">S2025E158</episode-num>
-    <desc>Stories that showcase what makes Canada unique.</desc>
-    <date>20250705</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250708163000 +0000" stop="20250708200000 +0000">
+    <title>Today's Top Stories</title>
+    <sub-title>Today's Top Stories</sub-title>
+    <desc>What's happening across Canada and around the world.</desc>
+    <date>20250708</date>
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250707190000 +0000" stop="20250707200000 +0000">
     <title>CTV News Toronto at Six</title>
@@ -20928,29 +20888,35 @@
     <desc>CTV National News</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250707161011 +0000" stop="20250707170338 +0000">
-    <title>The Marilyn Denis Show</title>
-    <sub-title>Episode 66</sub-title>
-    <episode-num system="onscreen">S01E66</episode-num>
-    <desc>How to wear your fave summer pieces in fall; extending the life of your herbs, fruits &amp; veg; warming up your patio; actor Milo Ventimiglia.</desc>
-    <date>20250626</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m29995_2024_2_19_78d3f68c-8f87-4b12-a352-7a478eefae20_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250708163000 +0000" stop="20250708170000 +0000">
+    <title>CTV News: Your Canada</title>
+    <category>Movie</category>
+    <desc>CTV News: Your Canada</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250707170338 +0000" stop="20250707175705 +0000">
-    <title>The Marilyn Denis Show</title>
-    <sub-title>Episode 69</sub-title>
-    <episode-num system="onscreen">S01E69</episode-num>
-    <desc>Reno survival guide; laying out a 100 sq ft, 200 sq ft &amp; 300 sq ft living space; perfect kids’ play space; DIY bedroom projects under $25.</desc>
-    <date>20250626</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m29995_2024_2_19_78d3f68c-8f87-4b12-a352-7a478eefae20_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250708170000 +0000" stop="20250708180000 +0000">
+    <title>CTV News Ottawa at Six</title>
+    <category>Movie</category>
+    <desc>CTV News Ottawa at Six</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250707175705 +0000" stop="20250707184827 +0000">
-    <title>The Marilyn Denis Show</title>
-    <sub-title>Episode 71</sub-title>
-    <episode-num system="onscreen">S01E71</episode-num>
-    <desc>The etiquette of keeping &amp; sharing secrets; one woman gets a total closet makeover; closet organizing secrets; French cooking secrets.</desc>
-    <date>20250626</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m29995_2024_2_19_78d3f68c-8f87-4b12-a352-7a478eefae20_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250708180000 +0000" stop="20250708183000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250708183000 +0000" stop="20250708190000 +0000">
+    <title>CTV News: Across Canada</title>
+    <category>Movie</category>
+    <desc>CTV News: Across Canada</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250708190000 +0000" stop="20250708200000 +0000">
+    <title>CTV News Calgary at Six</title>
+    <category>Movie</category>
+    <desc>CTV News Calgary at Six</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250707184827 +0000" stop="20250707193912 +0000">
     <title>The Marilyn Denis Show</title>
@@ -21192,26 +21158,29 @@
     <date>20250626</date>
     <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m29995_2024_2_19_78d3f68c-8f87-4b12-a352-7a478eefae20_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250707153342 +0000" stop="20250707163846 +0000">
-    <title>Life in Outer Space</title>
-    <sub-title>The Solar System</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Scientists are exploring planets and moons that may once have supported life. Saturn's moon, Europa, is one.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU1719E656J0U7X_16_9.jpeg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250708164111 +0000" stop="20250708173154 +0000">
+    <title>The Marilyn Denis Show</title>
+    <sub-title>Episode 4</sub-title>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <desc>Body confident makeovers; perfect handshake guide; flavour boosters to increase confidence in the kitchen; how to raise a confident teen.</desc>
+    <date>20250626</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m29995_2024_2_19_78d3f68c-8f87-4b12-a352-7a478eefae20_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250707163846 +0000" stop="20250707174351 +0000">
-    <title>Life in Outer Space</title>
-    <sub-title>The Exoplanets</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>The necessary qualities for life may exist on planets outside our Solar System. These are called exoplanets,</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU1719E656J0U7X_16_9.jpeg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250708173154 +0000" stop="20250708182653 +0000">
+    <title>The Marilyn Denis Show</title>
+    <sub-title>Episode 6</sub-title>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <desc>Butternut squash two ways; how to shop like a designer for flooring; reno-free ways to give a traditional space modern flair on a budget.</desc>
+    <date>20250626</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m29995_2024_2_19_78d3f68c-8f87-4b12-a352-7a478eefae20_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250707174351 +0000" stop="20250707184844 +0000">
-    <title>Space Colonies</title>
-    <sub-title>The Next Milestone</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Asteroids represent one off-Earth option for human colonization. They may be viable, but would be dangerous.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU1719EB8XSP2ID_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250708182653 +0000" stop="20250708192003 +0000">
+    <title>The Marilyn Denis Show</title>
+    <sub-title>Episode 9</sub-title>
+    <episode-num system="onscreen">S02E09</episode-num>
+    <desc>A delicious fall pasta &amp; dessert; a chaotic garage into a rustic dream space; Jessica Matten &amp; Alun Armstrong; a scream park visit.</desc>
+    <date>20250626</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m29995_2024_2_19_78d3f68c-8f87-4b12-a352-7a478eefae20_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250707184844 +0000" stop="20250707194706 +0000">
     <title>Earth in 1000 years</title>
@@ -21365,26 +21334,29 @@
     <desc>Earth's stores of ice on Greenland and Antarctica are melting, and sea levels rising. Where is Earth headed?</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRMHLGKBR8G610GS_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250707154120 +0000" stop="20250707164430 +0000">
-    <title>Voyage of the Continents</title>
-    <sub-title>Asia: The Tectonics of Life and Death</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>First Asia hurtled into Europe. They remain bound together by the Urals.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRD9MNQD2MO_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250708162248 +0000" stop="20250708172258 +0000">
+    <title>Killer Asteroid</title>
+    <category>Movie</category>
+    <desc>Can a new generation of cutting-edge space missions face the ultimate natural disaster?</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171B5IIULZARR_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250707164430 +0000" stop="20250707174740 +0000">
-    <title>Voyage of the Continents</title>
-    <sub-title>Asia: Rising Mountains and Sinking Countries</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>As the Indo-Asian collision continued into the rest of Asia, the deforming pressure created islands.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRD9MNQD2MO_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250708172258 +0000" stop="20250708182741 +0000">
+    <title>The Saturn V Story</title>
+    <category>Movie</category>
+    <desc>This is the story of the most powerful machine ever built and a nation who watched on with hope, together.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU1719DHWBZRDPF_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250707174740 +0000" stop="20250707185049 +0000">
-    <title>Voyage of the Continents</title>
-    <sub-title>Europe: Tropical Beginnings</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>One billion years ago there was just one great continent on earth. Then, it began to break apart.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRD9MNQD2MO_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250708182741 +0000" stop="20250708190327 +0000">
+    <title>Hubble: Eye in the Sky</title>
+    <category>Movie</category>
+    <desc>In this beautiful show, viewers get an inside look at the challenges of operating the Hubble telescope.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU1719SPCBP47WB_2_3.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250708190327 +0000" stop="20250708195706 +0000">
+    <title>China's Long March Into Space</title>
+    <category>Movie</category>
+    <desc>Three men sit atop 500 tons of liquid fuel in China's Shenzhou 7 ship, ready to blast 185 miles into space.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/5N1HJZ69IH6XN9X9KXRYDV_2_3.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250707185049 +0000" stop="20250707195400 +0000">
     <title>Voyage of the Continents</title>
@@ -21525,23 +21497,24 @@
     <desc>Volcanoes: How successful can we be in the fight against this violent, destructive, elemental force of nature?</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171CM82POYQJZ_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250707160000 +0000" stop="20250707170000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250708162901 +0000" stop="20250708172912 +0000">
+    <title>Facing Forces of Nature</title>
+    <sub-title>Melting Ice</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Melting ice at Earth's poles: Do we still have a chance to stop it from melting and prevent its repercussions?</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171CM82POYQJZ_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250707170000 +0000" stop="20250707180000 +0000">
-    <title>Evolution Earth</title>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250708172912 +0000" stop="20250708182239 +0000">
+    <title>The Dark Side of the Ocean</title>
     <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+    <desc>One man plans to do what no man has done before. His aim, to unlock the secrets of the dark ocean.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRN2P7PHGRHQLNJZ_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250707180000 +0000" stop="20250707190000 +0000">
-    <title>Evolution Earth</title>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250708182239 +0000" stop="20250708192415 +0000">
+    <title>Freaks of the Sea</title>
     <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+    <desc>In the oceans of our planet lurk creatures weirder than our wildest dreams and our scariest nightmares.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/MHY11D9N2QJ9W6XQ2G4Z36_2_3.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250707190000 +0000" stop="20250707200000 +0000">
     <title>Evolution Earth</title>
@@ -21675,29 +21648,23 @@
     <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250707153206 +0000" stop="20250707163252 +0000">
-    <title>Europe`s Forgotten Pilgrim Routes</title>
-    <sub-title>Europe`s Forgotten Pilgrim Routes: Switzerland, Italy: The VIA FRANCIGENA to Rome</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>For centuries, pilgrims have set off on the Via Francigena in the hopes of reaching the tombs of the apostles Peter and Paul in Rome. The ancient pilgrimage route leads through the imposing Alps to the Great St Bernard Pass and from there cross-country through Italy.</desc>
-    <date>20211215</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/EuropesForgottenPilgrimRoutes_E03.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250708170000 +0000" stop="20250708180000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250707163252 +0000" stop="20250707173338 +0000">
-    <title>Portugal's Nature Parks</title>
-    <sub-title>Peneda-Gerês National Park</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>The Parque Nacional Peneda-Gerês is the only national park in Portugal. An area of almost 700 square kilometers, located in the extreme north of Portugal. Barren and rocky ridges in the plateaus, contrast with large forests and lush ground vegetation in deep valleys, crossed by lakes and rivers. The park is known for its oak forests, which are predominantly pedunculate and Pyrenean oaks. Among the typical animals of the park are the small Garrano ponies, a very old breed of horse and the only one in Europe that still lives in the wild.</desc>
-    <date>20220301</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/PortugalsNatureParks_E01.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250708180000 +0000" stop="20250708190000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250707173338 +0000" stop="20250707183420 +0000">
-    <title>Portugal's Nature Parks</title>
-    <sub-title>Serra da Estrela</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>The highest mountain range in Portugal is the Serra da Estrela. The episode embarks on a voyage of discovery to adventurous rock formations and villages steeped in tradition. The nature park is the largest protected area on the Iberian peninsula. In the mountain range we accompany the young scientist Ana Matos, who wants to breathe new life into old traditions, and cheese maker Maria Natália Lopes. She watches over more than 350 sheeps.</desc>
-    <date>20220301</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/PortugalsNatureParks_E02.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250708190000 +0000" stop="20250708200000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250707183420 +0000" stop="20250707193501 +0000">
     <title>Portugal's Nature Parks</title>
@@ -21870,26 +21837,19 @@
     <date>20120401</date>
     <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/20392-22440/41763662-Plex-Portrait-1000x1500_v1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250707155148 +0000" stop="20250707165244 +0000">
-    <title>Secrets Of The Great White Shark</title>
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250708171946 +0000" stop="20250708181725 +0000">
+    <title>Penguin City - South Georgia</title>
     <category>Movie</category>
-    <desc>Sharks: Ancient guardians of the ocean now face extinction. It's time to fight for their survival.</desc>
-    <date>20240101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+    <desc>In the middle of the Antarctic Ocean, an entire mountain range arises from the water: South Georgia, the nursery of the Antarctic. Hundreds of thousands of penguins, elephant seals, fur seals and their young overcrowd the beaches. The rough weather and the extremely difficult access to the island cause filmmaking to be an endeavor requiring much of the film crew around Roland Gockel and Rosie Koch and the state of the art cameras. A lot of patience and sensitivity over a period spanning some five years now offers unknown and poignant insights into the life of the King Penguins on South Georgia Island</desc>
+    <date>20150301</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/14685-16733/30075307-Samsung-Thumbnail_v1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250707165244 +0000" stop="20250707174920 +0000">
-    <title>Our Nature: Call of the Wild</title>
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250708181725 +0000" stop="20250708191911 +0000">
+    <title>Strandwolf</title>
     <category>Movie</category>
-    <desc>This film highlights the vital role of animals in our ecosystem and their treatment throughout the centuries.</desc>
-    <date>20190101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250707174920 +0000" stop="20250707190950 +0000">
-    <title>The Gentle Bear Man of Emo</title>
-    <category>Movie</category>
-    <desc>Michael's connection with wild animals on his Emo property helped him heal his soul after a tragic event</desc>
-    <date>20130101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+    <desc>She moves through the seal colony on Namibia’s wild Skeleton Coast with purpose and focus, gingerly stepping around the adults who snap at her heels. She’s searching for smaller prey. Following her is a young German field scientist, Ingrid Wiesel, who has now spent 17 years with Tosca’s clan; tracking, observing, and learning everything she can about one of the world’s least understood and most unusual predators.</desc>
+    <date>20120606</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/20392-22440/41763599-Plex-Portrait-1000x1500_v1.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250707190950 +0000" stop="20250707200741 +0000">
     <title>The Global Whale Shark Mystery</title>
@@ -22062,5 +22022,20 @@
     <desc>From wild oceans to aquariums, see how whale sharks captured the world’s imagination.</desc>
     <date>20040101</date>
     <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250708171019 +0000" stop="20250708180122 +0000">
+    <title>Blue Realm</title>
+    <sub-title>The Shipsinkers</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>Sharks face global threats from overfishing and demand for fins and liver oil. Bahamas' protected population</desc>
+    <date>20040101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250708180122 +0000" stop="20250708194119 +0000">
+    <title>The Real Lost World</title>
+    <category>Movie</category>
+    <desc>Follow a team of adventurers on an epic journey to the plateau of Roraima, Venezuela, to The Real Lost World.</desc>
+    <date>20060101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
   </programme>
   </tv>
