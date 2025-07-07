@@ -19931,18 +19931,6 @@
     <display-name>Real Wild</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/09e8c6b6-368e-4275-b974-fe5e1921f64d/RealWild_Logo_White_-_Simon_Tuquabo.png" />
   </channel>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250707150000 +0000" stop="20250707153000 +0000">
-    <title>About That</title>
-    <sub-title>About That</sub-title>
-    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
-    <date>20250707</date>
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250707153000 +0000" stop="20250707160000 +0000">
-    <title>Today's Top Stories</title>
-    <sub-title>Today's Top Stories</sub-title>
-    <desc>What's happening across Canada and around the world.</desc>
-    <date>20250707</date>
-  </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250707160000 +0000" stop="20250707163000 +0000">
     <title>About That</title>
     <sub-title>About That</sub-title>
@@ -20075,13 +20063,17 @@
     <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
     <date>20250708</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250707150000 +0000" stop="20250707160000 +0000">
-    <title>CTV News Montreal at Six</title>
-    <sub-title>for Sunday, July 6, 2025</sub-title>
-    <episode-num system="onscreen">S2025E287</episode-num>
-    <desc>CTV News Montreal at Six</desc>
-    <date>20250707</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29873_2024_6_13_09cee8e5-1b7b-4f0e-ac21-c4395fbbb044_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250708153000 +0000" stop="20250708160000 +0000">
+    <title>Today's Top Stories</title>
+    <sub-title>Today's Top Stories</sub-title>
+    <desc>What's happening across Canada and around the world.</desc>
+    <date>20250708</date>
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250708160000 +0000" stop="20250708163000 +0000">
+    <title>About That</title>
+    <sub-title>About That</sub-title>
+    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
+    <date>20250708</date>
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250707160000 +0000" stop="20250707163000 +0000">
     <title>CTV National News with Heather Butts</title>
@@ -20351,21 +20343,11 @@
     <desc>CTV News Montreal at Six</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250707142556 +0000" stop="20250707151903 +0000">
-    <title>The Marilyn Denis Show</title>
-    <sub-title>Episode 58</sub-title>
-    <episode-num system="onscreen">S01E58</episode-num>
-    <desc>Marilyn takes Chef Lynn Crawford &amp; Tommy Smythe back to her hometown of Pittsburgh, PA to meet her best friend!</desc>
-    <date>20250626</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m29995_2024_2_19_78d3f68c-8f87-4b12-a352-7a478eefae20_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250707151903 +0000" stop="20250707161011 +0000">
-    <title>The Marilyn Denis Show</title>
-    <sub-title>Episode 60</sub-title>
-    <episode-num system="onscreen">S01E60</episode-num>
-    <desc>Advice I Would Give My Younger Self! Stars &amp; successful experts share the advice they would give their younger selves.</desc>
-    <date>20250626</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m29995_2024_2_19_78d3f68c-8f87-4b12-a352-7a478eefae20_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250708160000 +0000" stop="20250708163000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250707161011 +0000" stop="20250707170338 +0000">
     <title>The Marilyn Denis Show</title>
@@ -20623,12 +20605,13 @@
     <date>20250626</date>
     <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m29995_2024_2_19_78d3f68c-8f87-4b12-a352-7a478eefae20_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250707145905 +0000" stop="20250707153342 +0000">
-    <title>Planet E: Fixing Earth from your Backyard</title>
-    <sub-title>Animal Testing on Trial</sub-title>
-    <episode-num system="onscreen">S01E15</episode-num>
-    <desc>More than 2 million animals are used for experiments in Germany annually. Is there no alternative to this?</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRN2P7QT1A4W5XDU_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250708155033 +0000" stop="20250708164111 +0000">
+    <title>The Marilyn Denis Show</title>
+    <sub-title>Episode 3</sub-title>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <desc>The best game day feast; James Cunningham shares over-the-top arena snack food; game day style with Natalie Sexton; game day party décor.</desc>
+    <date>20250626</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m29995_2024_2_19_78d3f68c-8f87-4b12-a352-7a478eefae20_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250707153342 +0000" stop="20250707163846 +0000">
     <title>Life in Outer Space</title>
@@ -20797,12 +20780,11 @@
     <desc>A look at Joplin, Missouri five years after one of the worst natural disasters in U.S. history razed the town.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRMHLGK7E9WIMAL9_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250707143810 +0000" stop="20250707154120 +0000">
-    <title>Voyage of the Continents</title>
-    <sub-title>Oceania: The Tectonic Ring of Fire</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Pacific and Australian tectonic plates clash across the South Pacific causing intense volcanic activity</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRD9MNQD2MO_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250708152425 +0000" stop="20250708162248 +0000">
+    <title>Earth in 1000 years</title>
+    <category>Movie</category>
+    <desc>Earth's stores of ice on Greenland and Antarctica are melting, and sea levels rising. Where is Earth headed?</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRMHLGKBR8G610GS_2_3.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250707154120 +0000" stop="20250707164430 +0000">
     <title>Voyage of the Continents</title>
@@ -20957,11 +20939,12 @@
     <desc>Tornadoes: Can we use modern technology to predict the emergence and path of this violent force of nature?</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171CM82POYQJZ_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250707150000 +0000" stop="20250707160000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250708152850 +0000" stop="20250708162901 +0000">
+    <title>Facing Forces of Nature</title>
+    <sub-title>Volcanoes</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Volcanoes: How successful can we be in the fight against this violent, destructive, elemental force of nature?</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171CM82POYQJZ_16_9.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250707160000 +0000" stop="20250707170000 +0000">
     <title>Evolution Earth</title>
@@ -21107,13 +21090,11 @@
     <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250707143120 +0000" stop="20250707153206 +0000">
-    <title>Europe`s Forgotten Pilgrim Routes</title>
-    <sub-title>Europe`s Forgotten Pilgrim Routes: France: The Mont-Saint-Michel Way</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>In honour of the Archangel Michael, thousands of medieval Christians set off on pilgrimages to the famous mountain monastery of the Mont-Saint-Michel in the Atlantic Ocean. Today it continues to enchant millions of visitors each year. But the pilgrimage route from Rouen to the mountain abbey seems to have been forgotten: it leads through the depths of Normandy into rural France.</desc>
-    <date>20211215</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/EuropesForgottenPilgrimRoutes_E02.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250708160000 +0000" stop="20250708170000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250707153206 +0000" stop="20250707163252 +0000">
     <title>Europe`s Forgotten Pilgrim Routes</title>
@@ -21296,13 +21277,19 @@
     <date>20130301</date>
     <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/17060-19108/34940816-Samsung-Thumbnail_v1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250707145121 +0000" stop="20250707155148 +0000">
-    <title>Equator</title>
-    <sub-title>Rivers of the Sun</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>For half the year the land is dry, then the rains come, and Amazonia is transformed into an aquatic world.</desc>
-    <date>20030101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/BL1EQUS001EP002.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250708152759 +0000" stop="20250708161905 +0000">
+    <title>Mysterious Oceanic Oases - Hotspots of Life</title>
+    <category>Movie</category>
+    <desc>Countless marine animals frolic on the steep slopes of underwater volcanoes. In many cases, several are rare species not found elsewhere. This is in part due to the fact that plankton clings to the wall and provides the fish with food in abundance. This documentary shows several of these oases and also examines the impact dive tourism has and whether preventive measures can help to maintain them. Nature and underwater filmmaker Rolf Möltgen undertakes dives into the mysterious underwater mountain landscapes with marine scientists from all corners of the globe. This journey takes us to Mexico, to snappers, white-tip reef sharks, Galapagos sharks and giant mantas. We visit the Maldives, Colombia and Costa Rica, where the team documents rare species such as deep sea burbots, small tooth sand tiger and dogfish sharks, in depths of more than 3 metres. The eerie underwater mountain world proves: everyone plays a part in the network of life. Thanks to consistent protective regulations, it has been possible to retain the underwater diversity - especially in the unique oases of the high seas</desc>
+    <date>20190207</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/22864-24912/46827092-Plex-Portrait-1000x1500_v1.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250708161905 +0000" stop="20250708171946 +0000">
+    <title>Billion Dollar Fish</title>
+    <category>Movie</category>
+    <desc>They are virtually unchanged from their ancestors, who swam in ancient rivers when the dinosaurs still ruled the planet. Their unfertilised eggs became black gold, served in only the most expensive restaurants as caviar. This ancient giant is the Beluga Sturgeon, considered by some to be the largest freshwater fish in the world. Sturgeons are now at the very edge of extinction because of the exclusive market for their eggs, but only the eggs can allow the species to live. Paradoxically, the desire for caviar may now be the only chance they have for their future existence.</desc>
+    <date>20120401</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/20392-22440/41763662-Plex-Portrait-1000x1500_v1.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250707155148 +0000" stop="20250707165244 +0000">
     <title>Secrets Of The Great White Shark</title>
@@ -21488,5 +21475,13 @@
     <desc>In this episode of Wild Lives, explore natural environments in Norway, Nigeria, Bavaria, Cuba and Scotland.</desc>
     <date>20210101</date>
     <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/PA1WLIS001EP003.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250708161137 +0000" stop="20250708171019 +0000">
+    <title>Blue Realm</title>
+    <sub-title>Whale Sharks</sub-title>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <desc>From wild oceans to aquariums, see how whale sharks captured the world’s imagination.</desc>
+    <date>20040101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
   </programme>
   </tv>
