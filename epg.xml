@@ -20285,18 +20285,6 @@
     <display-name>Real Wild</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/09e8c6b6-368e-4275-b974-fe5e1921f64d/RealWild_Logo_White_-_Simon_Tuquabo.png" />
   </channel>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250708200000 +0000" stop="20250708203000 +0000">
-    <title>About That</title>
-    <sub-title>About That</sub-title>
-    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
-    <date>20250708</date>
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250708203000 +0000" stop="20250708230000 +0000">
-    <title>Today's Top Stories</title>
-    <sub-title>Today's Top Stories</sub-title>
-    <desc>What's happening across Canada and around the world.</desc>
-    <date>20250708</date>
-  </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250708230000 +0000" stop="20250708233000 +0000">
     <title>About That</title>
     <sub-title>About That</sub-title>
@@ -20429,45 +20417,17 @@
     <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
     <date>20250709</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250708200000 +0000" stop="20250708203000 +0000">
-    <title>CTV National News with Omar Sachedina</title>
-    <sub-title>CTV National News for Monday, July 7, 2025</sub-title>
-    <episode-num system="onscreen">S2025E107</episode-num>
-    <desc>CTV National News with Omar Sachedina is Canada's #1 national newscast</desc>
-    <date>20250708</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29593_2024_2_22_a0b77432-b521-4b92-8fd6-df17c3828c96_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250709203000 +0000" stop="20250709230000 +0000">
+    <title>Today's Top Stories</title>
+    <sub-title>Today's Top Stories</sub-title>
+    <desc>What's happening across Canada and around the world.</desc>
+    <date>20250709</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250708203000 +0000" stop="20250708210000 +0000">
-    <title>CTV News: Your Canada</title>
-    <sub-title>for Tuesday, July 8, 2025</sub-title>
-    <episode-num system="onscreen">S2025E159</episode-num>
-    <desc>Stories that showcase what makes Canada unique.</desc>
-    <date>20250708</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250708210000 +0000" stop="20250708220000 +0000">
-    <title>CTV News Edmonton at Six</title>
-    <sub-title>for Friday, July 4, 2025</sub-title>
-    <episode-num system="onscreen">S2025E175</episode-num>
-    <desc>CTV News Edmonton at Six</desc>
-    <date>20250705</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/CTVNews_LG_FAST_default.png" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250708220000 +0000" stop="20250708223000 +0000">
-    <title>CTV National News with Omar Sachedina</title>
-    <sub-title>CTV National News for Monday, July 7, 2025</sub-title>
-    <episode-num system="onscreen">S2025E107</episode-num>
-    <desc>CTV National News with Omar Sachedina is Canada's #1 national newscast</desc>
-    <date>20250708</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29593_2024_2_22_a0b77432-b521-4b92-8fd6-df17c3828c96_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250708223000 +0000" stop="20250708230000 +0000">
-    <title>CTV News: Across Canada</title>
-    <sub-title>for Tuesday, July 8, 2025</sub-title>
-    <episode-num system="onscreen">S2025E142</episode-num>
-    <desc>Top stories from coast-to-coast as reported by CTV News local journalists across Canada.</desc>
-    <date>20250708</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55945_2024_8_9_9f6270cc-d7b3-48b4-a0cc-902adc5a6152_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250709230000 +0000" stop="20250709233000 +0000">
+    <title>About That</title>
+    <sub-title>About That</sub-title>
+    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
+    <date>20250709</date>
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250708230000 +0000" stop="20250709000000 +0000">
     <title>CTV News Vancouver at Six</title>
@@ -20689,29 +20649,35 @@
     <desc>CTV National News</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250708201831 +0000" stop="20250708210754 +0000">
-    <title>The Marilyn Denis Show</title>
-    <sub-title>Episode 23</sub-title>
-    <episode-num system="onscreen">S02E23</episode-num>
-    <desc>A sunroom into a stunning bedroom; essential fall gardening checklist; how to inject colour into black &amp; white décor; custom mustard blends.</desc>
-    <date>20250626</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m29995_2024_2_19_78d3f68c-8f87-4b12-a352-7a478eefae20_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250709203000 +0000" stop="20250709210000 +0000">
+    <title>CTV News: Your Canada</title>
+    <category>Movie</category>
+    <desc>CTV News: Your Canada</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250708210754 +0000" stop="20250708215649 +0000">
-    <title>The Marilyn Denis Show</title>
-    <sub-title>Episode 25</sub-title>
-    <episode-num system="onscreen">S02E25</episode-num>
-    <desc>Viewers’ cleaning &amp; etiquette questions; the latest time-saving tech; home office DIY projects; healthier takes on weeknight dinners.</desc>
-    <date>20250626</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m29995_2024_2_19_78d3f68c-8f87-4b12-a352-7a478eefae20_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250709210000 +0000" stop="20250709220000 +0000">
+    <title>CTV News Edmonton at Six</title>
+    <category>Movie</category>
+    <desc>CTV News Edmonton at Six</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250708215649 +0000" stop="20250708224708 +0000">
-    <title>The Marilyn Denis Show</title>
-    <sub-title>Episode 28</sub-title>
-    <episode-num system="onscreen">S02E28</episode-num>
-    <desc>Top reno mistakes &amp; how you can avoid them; how to properly tackle painting, wallpapering &amp; lighting DIYs; avoiding party planning mistakes.</desc>
-    <date>20250626</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m29995_2024_2_19_78d3f68c-8f87-4b12-a352-7a478eefae20_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250709220000 +0000" stop="20250709223000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250709223000 +0000" stop="20250709230000 +0000">
+    <title>CTV News: Across Canada</title>
+    <category>Movie</category>
+    <desc>CTV News: Across Canada</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250709230000 +0000" stop="20250710000000 +0000">
+    <title>CTV News Vancouver at Six</title>
+    <category>Movie</category>
+    <desc>CTV News Vancouver at Six</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250708224708 +0000" stop="20250708233916 +0000">
     <title>The Marilyn Denis Show</title>
@@ -20945,26 +20911,53 @@
     <date>20250616</date>
     <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250708195706 +0000" stop="20250708210149 +0000">
-    <title>Space Colonies</title>
-    <sub-title>The Moon</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Space colonization may start with the Moon. Getting material there may be relatively simple. But risks exist.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU1719EB8XSP2ID_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250709202401 +0000" stop="20250709204928 +0000">
+    <title>Mary Makes It Easy</title>
+    <sub-title>Doughn't Go Bakin' My Heart</sub-title>
+    <episode-num system="onscreen">S03E18</episode-num>
+    <desc>Mary would live on bread if she could, and these straightforward bread recipes make it pretty darn close.</desc>
+    <date>20250613</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250708210149 +0000" stop="20250708220710 +0000">
-    <title>Space Colonies</title>
-    <sub-title>Mars</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>SpaceX believes that humanity can colonize Mars within our lifetime. Is this goal reasonable? Is it doable?</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU1719EB8XSP2ID_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250709204928 +0000" stop="20250709211256 +0000">
+    <title>Mary Makes It Easy</title>
+    <sub-title>Whatever Ails Ya</sub-title>
+    <episode-num system="onscreen">S03E19</episode-num>
+    <desc>Mary showcases her go-to recipes for when you’re not feeling 100%, whether ailing from a tummy- or heart-ache. Her Ginger Cinnamon...</desc>
+    <date>20250616</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250708220710 +0000" stop="20250708230131 +0000">
-    <title>Sun and Man</title>
-    <sub-title>The Beginning</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Relive history, from the birth of the Sun to the blossoming of its relationship with man, and beyond to today.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRN2P7QURT60URF7_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250709211256 +0000" stop="20250709213824 +0000">
+    <title>Mary Makes It Easy</title>
+    <sub-title>Toot, Toot. We're Going to Beantown!</sub-title>
+    <episode-num system="onscreen">S03E20</episode-num>
+    <desc>When it comes to versatility, beans slap! Board the bean train with recipes like Black Bean Brownies or Linguini with White Bean Cream Sauce</desc>
+    <date>20250616</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250709213824 +0000" stop="20250709220352 +0000">
+    <title>Mary Makes It Easy</title>
+    <sub-title>Sandwich Bored</sub-title>
+    <episode-num system="onscreen">S03E21</episode-num>
+    <desc>Never get bored by a  ammy again with Mary’s stacked recipe lineup of sandwich possibilities, like Classic Muffuletta or Turkey Patty Melts.</desc>
+    <date>20250613</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250709220352 +0000" stop="20250709225341 +0000">
+    <title>The Good Stuff with Mary Berg</title>
+    <sub-title>Tuesday, July 1, 2025</sub-title>
+    <episode-num system="onscreen">S02E164</episode-num>
+    <desc>Strawberry Rhubarb Pavlova; Canadian beauty finds; Canadian coastal adventures; Vancouver’s foodie hotspots; Shawn Desman &amp; Jamie Fine.</desc>
+    <date>20250701</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54775_2025_4_4_582bd9bf-59ae-4419-9c55-c32dd46adf0a_JPG_1920x1080.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250709225341 +0000" stop="20250709234530 +0000">
+    <title>The Good Stuff with Mary Berg</title>
+    <sub-title>Wednesday, July 2, 2025</sub-title>
+    <episode-num system="onscreen">S02E165</episode-num>
+    <desc>Andrea Buckett, Vijaya Selvaraju, Shahir Massoud help Mary make delicious summer potluck dishes guests will want to eat on repeat!</desc>
+    <date>20250702</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54775_2025_4_4_582bd9bf-59ae-4419-9c55-c32dd46adf0a_JPG_1920x1080.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250708230131 +0000" stop="20250708235949 +0000">
     <title>Sun and Man</title>
@@ -21121,25 +21114,23 @@
     <desc>Asteroids represent one off-Earth option for human colonization. They may be viable, but would be dangerous.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU1719EB8XSP2ID_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250708192415 +0000" stop="20250708202531 +0000">
-    <title>Global Whale Shark Mystery</title>
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250709210529 +0000" stop="20250709220352 +0000">
+    <title>Earth in 1000 years</title>
     <category>Movie</category>
-    <desc>Despite its size, the greatest shark in the planet’s oceans, the whale shark, remains an enigma to scientists.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/MHY11D9N2QJ9W6Z009K0YG_2_3.jpg" />
+    <desc>Earth's stores of ice on Greenland and Antarctica are melting, and sea levels rising. Where is Earth headed?</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRMHLGKBR8G610GS_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250708202531 +0000" stop="20250708213028 +0000">
-    <title>Disaster Diaries</title>
-    <sub-title>Rising Temperatures, Rising Seas (2015)</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>2015 was marked by many exceptional natural disasters. Is this the result of global warming?</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRN2P7PIHRQH9LZJ_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250709220352 +0000" stop="20250709230402 +0000">
+    <title>Killer Asteroid</title>
+    <category>Movie</category>
+    <desc>Can a new generation of cutting-edge space missions face the ultimate natural disaster?</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171B5IIULZARR_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250708213028 +0000" stop="20250708223450 +0000">
-    <title>Disaster Diaries</title>
-    <sub-title>A Year of Floods and Fire (2016)</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>2016 marked the end of one of the strongest events ever recorded.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRN2P7PIHRQH9LZJ_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250709230402 +0000" stop="20250710000613 +0000">
+    <title>Expedition Antarctica</title>
+    <category>Movie</category>
+    <desc>A hardy research crew seeks clues about the fate of our planet beneath the icy waters of the Antarctic Ocean.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRN2P7PRGMEDSH43_2_3.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250708223450 +0000" stop="20250708234105 +0000">
     <title>Disaster Diaries</title>
@@ -21284,23 +21275,23 @@
     <desc>Climate change is now a crisis, and our world is crying out. Examine some possible remedies to the emergency.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171CJX4NJCPMK_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250708200000 +0000" stop="20250708210000 +0000">
-    <title>Evolution Earth</title>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250709204715 +0000" stop="20250709214929 +0000">
+    <title>Dust Storm</title>
     <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+    <desc>We investigate dust storm causes, and how to predict them and lessen their impact.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU1719EMQE5GKD6_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250708210000 +0000" stop="20250708220000 +0000">
-    <title>Evolution Earth</title>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250709214929 +0000" stop="20250709224638 +0000">
+    <title>China Quake</title>
     <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+    <desc>In 2008, China’s monster quake claimed 80,000 lives and destroyed five million buildings.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRN2P7OLMTX9C8US_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250708220000 +0000" stop="20250708230000 +0000">
-    <title>Evolution Earth</title>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250709224638 +0000" stop="20250709235148 +0000">
+    <title>Tsunami: Facing the Global Threat</title>
     <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+    <desc>Tsunamis are so sudden and powerful that in a matter of minutes, they can wipe out a coastline.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRN2P7QECZ8IXNPY_2_3.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250708230000 +0000" stop="20250709000000 +0000">
     <title>Evolution Earth</title>
@@ -21434,26 +21425,23 @@
     <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250708201758 +0000" stop="20250708211645 +0000">
-    <title>Animal Homes</title>
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250709210000 +0000" stop="20250709220000 +0000">
+    <title>Evolution Earth</title>
     <category>Movie</category>
-    <desc>Everyone needs a place to live, but some aren't happy with the great outdoors, they look for some home comforts - they use extraordinary specialist building skills to construct the perfect home. Homes have many uses. They can prove a bolthole to escape predators, a safe nursery in which to raise young, a food store and a shelter from bad weather.</desc>
-    <date>20150301</date>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/13340-15388/27321051-Plex-Portrait-1000x1500_v2.jpg" />
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250708211645 +0000" stop="20250708221547 +0000">
-    <title>Realm of the robber - Christmas Island</title>
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250709220000 +0000" stop="20250709230000 +0000">
+    <title>Evolution Earth</title>
     <category>Movie</category>
-    <desc>Thievery and treachery are second nature for the world's largest land crab. This documentary explores the untold story of Christmas Island's iconic robber crabs. Armed with claws that deliver more force than a lion's bite, they can grow a metre across and are relentless in their search for food. However, the brash crustaceans have surprisingly complex private lives and often find themselves in precarious situations, whether escaping from frenzied ants or risking their life to deposit fertilised eggs into a raging ocean. To tell the story of the robber crab's life cycle, directors Moritz Katz and Braydon Moloney spent a year in the field, following their subjects in minute detail. The tragedies, trials and triumphs paint a fresh, humorous portrait of Christmas Island and its nefarious denizens.</desc>
-    <date>20200707</date>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/20392-22440/41763679-Plex-Portrait-1000x1500_v1.jpg" />
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250708221547 +0000" stop="20250708231217 +0000">
-    <title>Jacques Cousteau's Legacy - Return To The Undersea World</title>
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250709230000 +0000" stop="20250710000000 +0000">
+    <title>Evolution Earth</title>
     <category>Movie</category>
-    <desc>A composition of wildlife footage, archive material and elaborate re-enactments results in a brilliant reconstruction of the life of famed marine biologist and environmental pioneer Jacques Cousteau. On the trail of the most famous oceanographer of the 20th Century, the team spent two years filming original locations on three different continents, in four different oceans. The film charts how Cousteau’s outlook on the environment changed throughout his many decades at sea around the globe. On his personal journey to enlightenment, he changed from a man who killed sharks in hate and thoughtlessly blew up coral reefs, to a radical environmentalist.</desc>
-    <date>20121219</date>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/30633-32681/62781739-Samsung-Thumbnail_v1.jpg" />
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250708231217 +0000" stop="20250709001249 +0000">
     <title>Predators of a Different Kind - In the World of the Unknown Sharks</title>
@@ -21636,26 +21624,29 @@
     <date>20180401</date>
     <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/15thMeridianEast_E04.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250708194119 +0000" stop="20250708204038 +0000">
-    <title>Sharks (3D)</title>
-    <category>Movie</category>
-    <desc>3D images of white, hammerhead, and whale sharks highlight their survival skills and long ocean presence.</desc>
-    <date>20120101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250709205328 +0000" stop="20250709215414 +0000">
+    <title>15th Meridian East - Similarity in Difference</title>
+    <sub-title>Sow, Harvest, Eat – Our Conservatory</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>This episode focuses on people from five countries who share a common passion: The production of their own food and food. What culinary treasures are hidden in the different regions, from Spitsbergen to Sweden, Austria, Poland and Chad?</desc>
+    <date>20180401</date>
+    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/15thMeridianEast_E03.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250708204038 +0000" stop="20250708214104 +0000">
-    <title>Giants Of Fortune - The Whale Sharks Of Oslob</title>
-    <category>Movie</category>
-    <desc>Typhoons and overfishing in Oslob, a Filipino village, have severely affected fishermen</desc>
-    <date>20140101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250709215414 +0000" stop="20250709225501 +0000">
+    <title>15th Meridian East - Similarity in Difference</title>
+    <sub-title>The Raw Wilderness</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Almost 11000 kilometres lie between the northernmost and southernmost point of the 15th meridian east. Here you will find extreme landscapes such as the shimmering heat of Africa or the eternal cold of northern Scandinavia. Five people from Spitsbergen, Namibia, Slovenia, Germany and Poland dedicate their lives to environmental protection.</desc>
+    <date>20180104</date>
+    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/15thMeridianEast_E02.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250708214104 +0000" stop="20250708224536 +0000">
-    <title>Great White Shark: New Perspectives on an Ancient Predator</title>
-    <category>Movie</category>
-    <desc>Top divers and shark scientists come to a pivotal moment in the understanding of the Great White.</desc>
-    <date>20190101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250709225501 +0000" stop="20250709235611 +0000">
+    <title>15th Meridian East - Similarity in Difference</title>
+    <sub-title>Wild Life, Gentle Nature</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>As contrasting as the landscapes of the 15th meridian east, so different are its animal inhabitants. What are the living conditions like in the heat of the Namibian Damaraland, in Lusatia or on the coast of Norway? Which challenges do elephants, whales or kingfishers have to master together with their companions from north to south?</desc>
+    <date>20180104</date>
+    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/15thMeridianEast_E01.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250708224536 +0000" stop="20250709000549 +0000">
     <title>The Gentle Bear Man of Emo</title>
@@ -21822,5 +21813,28 @@
     <desc>New Caledonia's lagoon is a shark paradise, where they scavenge feathers, fins, and fur for prey.</desc>
     <date>20030101</date>
     <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250709210334 +0000" stop="20250709215859 +0000">
+    <title>Myths of the Great White</title>
+    <category>Movie</category>
+    <desc>The great white shark is one of the world's most vilified predators. Its maligned public image arises from occasionally attacking humans, but more importantly by its popular portrayal as a man-eater.</desc>
+    <date>20060101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250709215859 +0000" stop="20250709230044 +0000">
+    <title>Lions On The Move</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Kevin Richardson must transport 28 lions and 14 hyenas to a sanctuary, ensuring their welfare.</desc>
+    <date>20240101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250709230044 +0000" stop="20250710000305 +0000">
+    <title>Lions On The Move</title>
+    <sub-title>Episode 2</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Kevin Richardson must transport 28 lions and 14 hyenas to a sanctuary, ensuring their welfare.</desc>
+    <date>20240101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
   </programme>
   </tv>
