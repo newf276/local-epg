@@ -20256,6 +20256,30 @@
     <display-name>Real Wild</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/09e8c6b6-368e-4275-b974-fe5e1921f64d/RealWild_Logo_White_-_Simon_Tuquabo.png" />
   </channel>
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250711160000 +0000" stop="20250711163000 +0000">
+    <title>About That</title>
+    <sub-title>About That</sub-title>
+    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
+    <date>20250711</date>
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250711163000 +0000" stop="20250711200000 +0000">
+    <title>Today's Top Stories</title>
+    <sub-title>Today's Top Stories</sub-title>
+    <desc>What's happening across Canada and around the world.</desc>
+    <date>20250711</date>
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250711200000 +0000" stop="20250711203000 +0000">
+    <title>About That</title>
+    <sub-title>About That</sub-title>
+    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
+    <date>20250711</date>
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250711203000 +0000" stop="20250711230000 +0000">
+    <title>Today's Top Stories</title>
+    <sub-title>Today's Top Stories</sub-title>
+    <desc>What's happening across Canada and around the world.</desc>
+    <date>20250711</date>
+  </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250711230000 +0000" stop="20250711233000 +0000">
     <title>About That</title>
     <sub-title>About That</sub-title>
@@ -20364,13 +20388,17 @@
     <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
     <date>20250712</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250711150000 +0000" stop="20250711160000 +0000">
-    <title>CTV News Montreal at Six</title>
-    <sub-title>for Thursday, July 10, 2025</sub-title>
-    <episode-num system="onscreen">S2025E130</episode-num>
-    <desc>CTV News Montreal at Six</desc>
-    <date>20250711</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29873_2024_6_13_09cee8e5-1b7b-4f0e-ac21-c4395fbbb044_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250712153000 +0000" stop="20250712160000 +0000">
+    <title>About That</title>
+    <sub-title>About That</sub-title>
+    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
+    <date>20250712</date>
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250712160000 +0000" stop="20250712170000 +0000">
+    <title>This Week's Top Stories</title>
+    <sub-title>This Week's Top Stories</sub-title>
+    <desc>Making sense of the big stories that made news across Canada and around the world from this past week.</desc>
+    <date>20250712</date>
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250711160000 +0000" stop="20250711163000 +0000">
     <title>CTV National News with Omar Sachedina</title>
@@ -20642,29 +20670,11 @@
     <desc>CTV News Montreal at Six</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250711145737 +0000" stop="20250711152342 +0000">
-    <title>Spencer's Big 30</title>
-    <sub-title>That's Amore</sub-title>
-    <episode-num system="onscreen">S02E06</episode-num>
-    <desc>It'll only take you around 30 minutes to impress your loved ones with chef Spencer Watts's budget-friendly Italian feast.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250711152342 +0000" stop="20250711154948 +0000">
-    <title>Spencer's Big 30</title>
-    <sub-title>Night at the Pub</sub-title>
-    <episode-num system="onscreen">S02E07</episode-num>
-    <desc>Stay in with celebrity chef Spencer Watts as he prepares traditional pub dishes in under 30 minutes, for around 30 dollars.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250711154948 +0000" stop="20250711161554 +0000">
-    <title>Spencer's Big 30</title>
-    <sub-title>French Canadian</sub-title>
-    <episode-num system="onscreen">S02E08</episode-num>
-    <desc>In under 30 minutes, chef Spencer Watts cooks up four hearty, rich, and mouth-watering French-Canadian dishes.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250712160000 +0000" stop="20250712163000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250711161554 +0000" stop="20250711164159 +0000">
     <title>Spencer's Big 30</title>
@@ -21090,11 +21100,29 @@
     <date>20250228</date>
     <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54738_2024_2_28_6b74e44d-2097-4c0e-9a24-0ef9766c8a9e_JPG_1920x1080.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250711144440 +0000" stop="20250711154923 +0000">
-    <title>The Saturn V Story</title>
-    <category>Movie</category>
-    <desc>This is the story of the most powerful machine ever built and a nation who watched on with hope, together.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU1719DHWBZRDPF_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250712151941 +0000" stop="20250712154544 +0000">
+    <title>Fun'Q with Spencer Watts</title>
+    <sub-title>Sun's Out Buns Out</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>The sun is shining and Spencer is turning up the heat, cooking delicious grilled food perfect to be served on a bun.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54738_2024_2_28_6b74e44d-2097-4c0e-9a24-0ef9766c8a9e_JPG_1920x1080.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250712154544 +0000" stop="20250712161147 +0000">
+    <title>Fun'Q with Spencer Watts</title>
+    <sub-title>The Pepper Show</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Spencer is inspired by all the fun different flavours you can bring to food with peppers.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54738_2024_2_28_6b74e44d-2097-4c0e-9a24-0ef9766c8a9e_JPG_1920x1080.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250712161147 +0000" stop="20250712163551 +0000">
+    <title>Fun'Q with Spencer Watts</title>
+    <sub-title>BBQ On Boards</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>Big platters of food, lots of smiling faces, sharing and laughter - who doesn't love a great grilled feast?</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/BellMedia-2699994-S1E7FunQwithSpencerWatts_2023_7_18_9a7d60da-a13a-4e8e-843a-0e3c8d73e917_jpg_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250711154923 +0000" stop="20250711162508 +0000">
     <title>Hubble: Eye in the Sky</title>
@@ -21275,12 +21303,19 @@
     <desc>Older nuclear power stations are still allowed to continue running. Are we sitting on a nuclear powder keg?</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRN2P7QT1A4W5XDU_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250711141519 +0000" stop="20250711151829 +0000">
-    <title>Voyage of the Continents</title>
-    <sub-title>Oceania: The Tectonic Ring of Fire</sub-title>
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250712154136 +0000" stop="20250712161613 +0000">
+    <title>Planet E: Fixing Earth from your Backyard</title>
+    <sub-title>Animal Testing on Trial</sub-title>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <desc>More than 2 million animals are used for experiments in Germany annually. Is there no alternative to this?</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRN2P7QT1A4W5XDU_16_9.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250712161613 +0000" stop="20250712172116 +0000">
+    <title>Life in Outer Space</title>
+    <sub-title>The Solar System</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Pacific and Australian tectonic plates clash across the South Pacific causing intense volcanic activity</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRD9MNQD2MO_16_9.jpg" />
+    <desc>Scientists are exploring planets and moons that may once have supported life. Saturn's moon, Europa, is one.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU1719E656J0U7X_16_9.jpeg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250711151829 +0000" stop="20250711162139 +0000">
     <title>Voyage of the Continents</title>
@@ -21442,11 +21477,12 @@
     <desc>Volcanoes: How successful can we be in the fight against this violent, destructive, elemental force of nature?</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171CM82POYQJZ_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250711150000 +0000" stop="20250711160000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250712160610 +0000" stop="20250712170621 +0000">
+    <title>Facing Forces of Nature</title>
+    <sub-title>Melting Ice</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Melting ice at Earth's poles: Do we still have a chance to stop it from melting and prevent its repercussions?</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171CM82POYQJZ_16_9.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250711160000 +0000" stop="20250711170000 +0000">
     <title>Evolution Earth</title>
@@ -21592,13 +21628,11 @@
     <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250711151201 +0000" stop="20250711160857 +0000">
-    <title>North America's National Parks</title>
-    <sub-title>America's National Parks - Saguaro</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Saguaro National Park is an American national park in Pima County, southeastern Arizona. The 92,000-acre (37,000 ha) park consists of two separate areas—the Tucson Mountain District (TMD) about 10 miles west of the city of Tucson and the Rincon Mountain District (RMD) about 10 miles east of the city—that preserve Sonoran Desert landscapes, fauna, and flora, including the giant saguaro cactus.An inventory of medium and large mammals in the park confirmed the presence of 30 species in Saguaro National Park between 1999 and 2008. Of these, 21 were found in the Tucson Mountain District and 29 in the Rincon Mountain District. A partial list of the park's mammals includes cougars, coyotes, bobcats, white-tailed deer, mule deer, javelinas, gray foxes, black-tailed jackrabbits, desert cottontails, ring-tailed cats, white-nosed coatis, ground squirrels, and packrats. One endangered mammal, the lesser long-nosed bat, lives part of the year in the park and part of the year in Mexico.</desc>
-    <date>20150526</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/americas_national_parks_saguaro_screenshot_16x9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250712160000 +0000" stop="20250712170000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250711160857 +0000" stop="20250711170546 +0000">
     <title>North America's National Parks</title>
@@ -21796,12 +21830,13 @@
     <date>20210501</date>
     <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/BosniaHerzegovina_E01.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250711150809 +0000" stop="20250711160847 +0000">
-    <title>Secrets Of The Great White Shark</title>
-    <category>Movie</category>
-    <desc>Sharks: Ancient guardians of the ocean now face extinction. It's time to fight for their survival.</desc>
-    <date>20240101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250712161015 +0000" stop="20250712171047 +0000">
+    <title>Bosnia Herzegovina</title>
+    <sub-title>Bosnia &amp; Herzegovina: The Karstic South</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>The barren, karstic south of the country, Herzegovina, also impresses with its natural landscapes. One of them is the Livno field. Not only is it the largest wetland in the country, it is also the largest regularly flooded karst field in the world. About 700 wild horses live in this unique landscape. Their ancestors were working horses that were abandoned here more than 50 years ago. Another special feature of the karst landscape are the rivers with their tufa barriers. The countless waterfalls that pour over it are a unique natural phenomenon.</desc>
+    <date>20210501</date>
+    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/BosniaHerzegovina_E02.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250711160847 +0000" stop="20250711175402 +0000">
     <title>Lions On The Move</title>
@@ -21975,5 +22010,13 @@
     <desc>Filmed in Yellowstone National Park, this film follows the packs of two rare alpha female White Wolves.</desc>
     <date>20170101</date>
     <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/HEWWWOS001EP001.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250712160610 +0000" stop="20250712170749 +0000">
+    <title>White Wolf</title>
+    <sub-title>Canyon Pack</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Filmed in Yellowstone National Park, this film follows the packs of two rare alpha female White Wolves.</desc>
+    <date>20170101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/HEWWWOS001EP002.jpg" />
   </programme>
   </tv>
