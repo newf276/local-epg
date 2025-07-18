@@ -19674,6 +19674,10 @@
     <display-name>CBC News</display-name>
     <icon src="https://provider-static.plex.tv/e/epg/channels/logos/gracenote/edb4a846dfbdd0fd06dc3c64ef89da22.png" />
   </channel>
+  <channel id="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d">
+    <display-name>CTV News</display-name>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/0d95aadb-10dc-41d5-a7b5-614f03e88853/CTVNews_Logo_ForDarkBackgrounds_1500x1000.png" />
+  </channel>
   <channel id="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f">
     <display-name>CTV @Home</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/0470001c-71cf-4a1a-aa32-00b192093b6d/CTVatHome_Logo_ForDarkBackgrounds_1500x1000.png" />
@@ -19698,28 +19702,6 @@
     <display-name>Real Wild</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/09e8c6b6-368e-4275-b974-fe5e1921f64d/RealWild_Logo_White_-_Simon_Tuquabo.png" />
   </channel>
-  <channel id="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d">
-    <display-name>CTV News</display-name>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/0d95aadb-10dc-41d5-a7b5-614f03e88853/CTVNews_Logo_ForDarkBackgrounds_1500x1000.png" />
-  </channel>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250718150000 +0000" stop="20250718153000 +0000">
-    <title>About That</title>
-    <sub-title>About That</sub-title>
-    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
-    <date>20250718</date>
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250718153000 +0000" stop="20250718160000 +0000">
-    <title>Today's Top Stories</title>
-    <sub-title>Today's Top Stories</sub-title>
-    <desc>What's happening across Canada and around the world.</desc>
-    <date>20250718</date>
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250718160000 +0000" stop="20250718163000 +0000">
-    <title>About That</title>
-    <sub-title>About That</sub-title>
-    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
-    <date>20250718</date>
-  </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250718163000 +0000" stop="20250718200000 +0000">
     <title>Today's Top Stories</title>
     <sub-title>Today's Top Stories</sub-title>
@@ -19846,61 +19828,293 @@
     <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
     <date>20250719</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250718151549 +0000" stop="20250718154153 +0000">
-    <title>Comfort Food With Spencer Watts</title>
-    <sub-title>For the Love of Spuds</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>Three recipes including a decadent potato pie with a camembert center and a parsley butter drizzle.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m55061_2024_2_28_f2919a27-22bb-4f04-a18a-d83df069e9bd_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250719153000 +0000" stop="20250719160000 +0000">
+    <title>About That</title>
+    <sub-title>About That</sub-title>
+    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
+    <date>20250719</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250718154153 +0000" stop="20250718160755 +0000">
-    <title>Comfort Food With Spencer Watts</title>
-    <sub-title>Special Occasion Comfort</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>Learning how to whip up Spencer's burgundy chicken stew with porcini mushroom grits and pancetta.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m55061_2024_2_28_f2919a27-22bb-4f04-a18a-d83df069e9bd_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250719160000 +0000" stop="20250719170000 +0000">
+    <title>O Canada</title>
+    <sub-title>O Canada</sub-title>
+    <desc>A CBC News special celebrating Canada and its unique stories.</desc>
+    <date>20250719</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250718160755 +0000" stop="20250718163358 +0000">
-    <title>Comfort Food With Spencer Watts</title>
-    <sub-title>Street Food Comfort</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>Spencer makes a spicy Korean fried chicken "dog" with sesame ketchup and gochugang ketchup.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m55061_2024_2_28_f2919a27-22bb-4f04-a18a-d83df069e9bd_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250719170000 +0000" stop="20250719190000 +0000">
+    <title>This Week's Top Stories</title>
+    <sub-title>This Week's Top Stories</sub-title>
+    <desc>Making sense of the big stories that made news across Canada and around the world from this past week.</desc>
+    <date>20250719</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250718163358 +0000" stop="20250718170001 +0000">
-    <title>Comfort Food With Spencer Watts</title>
-    <sub-title>Warm My Belly</sub-title>
-    <episode-num system="onscreen">S01E13</episode-num>
-    <desc>Spencer makes his corned beef stew with horseradish mashed and Thai curry with garlic shrimp.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m55061_2024_2_28_f2919a27-22bb-4f04-a18a-d83df069e9bd_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250718180000 +0000" stop="20250718183000 +0000">
+    <title>CTV National News with Omar Sachedina</title>
+    <sub-title>CTV National News for Thursday, July 17, 2025</sub-title>
+    <episode-num system="onscreen">S2025E114</episode-num>
+    <desc>CTV National News with Omar Sachedina is Canada's #1 national newscast</desc>
+    <date>20250718</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29593_2024_2_22_a0b77432-b521-4b92-8fd6-df17c3828c96_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250718170001 +0000" stop="20250718172605 +0000">
-    <title>Comfort Food With Spencer Watts</title>
-    <sub-title>Comforting Family Faves</sub-title>
-    <episode-num system="onscreen">S01E14</episode-num>
-    <desc>Moussaka crown; Italian herb half-chickens with sun-dried tomato cream sauce.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m55061_2024_2_28_f2919a27-22bb-4f04-a18a-d83df069e9bd_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250718183000 +0000" stop="20250718190000 +0000">
+    <title>CTV News: Across Canada</title>
+    <sub-title>for Friday, July 18, 2025</sub-title>
+    <episode-num system="onscreen">S2025E150</episode-num>
+    <desc>Top stories from coast-to-coast as reported by CTV News local journalists across Canada.</desc>
+    <date>20250718</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55945_2024_8_9_9f6270cc-d7b3-48b4-a0cc-902adc5a6152_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250718172605 +0000" stop="20250718175208 +0000">
-    <title>Comfort Food With Spencer Watts</title>
-    <sub-title>Canadian Comfort</sub-title>
-    <episode-num system="onscreen">S01E15</episode-num>
-    <desc>Meat tourtiere pies; Newfoundland-inspired bunt pan figgy duff with maple syrup liqueur.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m55061_2024_2_28_f2919a27-22bb-4f04-a18a-d83df069e9bd_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250718190000 +0000" stop="20250718200000 +0000">
+    <title>CTV News Calgary at Six</title>
+    <sub-title>for Thursday, July 17, 2025</sub-title>
+    <episode-num system="onscreen">S2025E174</episode-num>
+    <desc>CTV News Calgary at Six</desc>
+    <date>20250718</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/CTVNews_LG_FAST_default.png" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250718175208 +0000" stop="20250718181811 +0000">
-    <title>Comfort Food With Spencer Watts</title>
-    <sub-title>Noodles</sub-title>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <desc>Chef Spencer Watts prepares hearty, healthy meals.</desc>
-    <date>20250228</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m55061_2024_2_28_f2919a27-22bb-4f04-a18a-d83df069e9bd_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250718200000 +0000" stop="20250718203000 +0000">
+    <title>CTV National News with Omar Sachedina</title>
+    <sub-title>CTV National News for Thursday, July 17, 2025</sub-title>
+    <episode-num system="onscreen">S2025E114</episode-num>
+    <desc>CTV National News with Omar Sachedina is Canada's #1 national newscast</desc>
+    <date>20250718</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29593_2024_2_22_a0b77432-b521-4b92-8fd6-df17c3828c96_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250718203000 +0000" stop="20250718210000 +0000">
+    <title>CTV News: Your Canada</title>
+    <sub-title>for Friday, July 18, 2025</sub-title>
+    <episode-num system="onscreen">S2025E168</episode-num>
+    <desc>Stories that showcase what makes Canada unique.</desc>
+    <date>20250718</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250718210000 +0000" stop="20250718220000 +0000">
+    <title>CTV News Edmonton at Six</title>
+    <sub-title>for Thursday, July 17, 2025</sub-title>
+    <episode-num system="onscreen">S2025E174</episode-num>
+    <desc>CTV News Edmonton at Six</desc>
+    <date>20250718</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/CTVNews_LG_FAST_default.png" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250718220000 +0000" stop="20250718223000 +0000">
+    <title>CTV National News with Omar Sachedina</title>
+    <sub-title>CTV National News for Thursday, July 17, 2025</sub-title>
+    <episode-num system="onscreen">S2025E114</episode-num>
+    <desc>CTV National News with Omar Sachedina is Canada's #1 national newscast</desc>
+    <date>20250718</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29593_2024_2_22_a0b77432-b521-4b92-8fd6-df17c3828c96_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250718223000 +0000" stop="20250718230000 +0000">
+    <title>CTV News: Across Canada</title>
+    <sub-title>for Friday, July 18, 2025</sub-title>
+    <episode-num system="onscreen">S2025E150</episode-num>
+    <desc>Top stories from coast-to-coast as reported by CTV News local journalists across Canada.</desc>
+    <date>20250718</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55945_2024_8_9_9f6270cc-d7b3-48b4-a0cc-902adc5a6152_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250718230000 +0000" stop="20250719000000 +0000">
+    <title>CTV News Vancouver at Six</title>
+    <sub-title>for Thursday, July 17, 2025</sub-title>
+    <episode-num system="onscreen">S2025E174</episode-num>
+    <desc>CTV News Vancouver at Six</desc>
+    <date>20250718</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29940_2024_6_13_de70b883-f511-4ea7-8a64-751d764c2bfb_JPG_1920x1080.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719000000 +0000" stop="20250719003000 +0000">
+    <title>CTV National News with Omar Sachedina</title>
+    <sub-title>CTV National News for Thursday, July 17, 2025</sub-title>
+    <episode-num system="onscreen">S2025E114</episode-num>
+    <desc>CTV National News with Omar Sachedina is Canada's #1 national newscast</desc>
+    <date>20250718</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29593_2024_2_22_a0b77432-b521-4b92-8fd6-df17c3828c96_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719003000 +0000" stop="20250719010000 +0000">
+    <title>CTV News: Your Canada</title>
+    <sub-title>for Friday, July 18, 2025</sub-title>
+    <episode-num system="onscreen">S2025E168</episode-num>
+    <desc>Stories that showcase what makes Canada unique.</desc>
+    <date>20250718</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719010000 +0000" stop="20250719020000 +0000">
+    <title>CTV News Toronto at Six</title>
+    <sub-title>for Thursday, July 17, 2025</sub-title>
+    <episode-num system="onscreen">S2025E130</episode-num>
+    <desc>CTV News Toronto at Six</desc>
+    <date>20250718</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29736_2024_6_13_80514d3f-90ee-4070-a6ba-398ec3f8081a_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719020000 +0000" stop="20250719023000 +0000">
+    <title>CTV National News with Omar Sachedina</title>
+    <sub-title>CTV National News for Thursday, July 17, 2025</sub-title>
+    <episode-num system="onscreen">S2025E114</episode-num>
+    <desc>CTV National News with Omar Sachedina is Canada's #1 national newscast</desc>
+    <date>20250718</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29593_2024_2_22_a0b77432-b521-4b92-8fd6-df17c3828c96_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719023000 +0000" stop="20250719030000 +0000">
+    <title>CTV News: Across Canada</title>
+    <sub-title>for Friday, July 18, 2025</sub-title>
+    <episode-num system="onscreen">S2025E150</episode-num>
+    <desc>Top stories from coast-to-coast as reported by CTV News local journalists across Canada.</desc>
+    <date>20250718</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55945_2024_8_9_9f6270cc-d7b3-48b4-a0cc-902adc5a6152_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719030000 +0000" stop="20250719040000 +0000">
+    <title>CTV News Montreal at Six</title>
+    <sub-title>for Thursday, July 17, 2025</sub-title>
+    <episode-num system="onscreen">S2025E130</episode-num>
+    <desc>CTV News Montreal at Six</desc>
+    <date>20250718</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29873_2024_6_13_09cee8e5-1b7b-4f0e-ac21-c4395fbbb044_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719040000 +0000" stop="20250719043000 +0000">
+    <title>CTV National News with Omar Sachedina</title>
+    <sub-title>CTV National News for Thursday, July 17, 2025</sub-title>
+    <episode-num system="onscreen">S2025E114</episode-num>
+    <desc>CTV National News with Omar Sachedina is Canada's #1 national newscast</desc>
+    <date>20250718</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29593_2024_2_22_a0b77432-b521-4b92-8fd6-df17c3828c96_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719043000 +0000" stop="20250719050000 +0000">
+    <title>CTV News: Your Canada</title>
+    <sub-title>for Friday, July 18, 2025</sub-title>
+    <episode-num system="onscreen">S2025E168</episode-num>
+    <desc>Stories that showcase what makes Canada unique.</desc>
+    <date>20250718</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719050000 +0000" stop="20250719060000 +0000">
+    <title>CTV News Ottawa at Six</title>
+    <sub-title>for Thursday, July 17, 2025</sub-title>
+    <episode-num system="onscreen">S2025E130</episode-num>
+    <desc>CTV News Ottawa at Six</desc>
+    <date>20250718</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29884_2024_6_13_ee9988fa-1dc2-42f1-b909-8b2cba4cb0ac_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719060000 +0000" stop="20250719063000 +0000">
+    <title>CTV National News with Omar Sachedina</title>
+    <sub-title>CTV National News for Thursday, July 17, 2025</sub-title>
+    <episode-num system="onscreen">S2025E114</episode-num>
+    <desc>CTV National News with Omar Sachedina is Canada's #1 national newscast</desc>
+    <date>20250718</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29593_2024_2_22_a0b77432-b521-4b92-8fd6-df17c3828c96_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719063000 +0000" stop="20250719070000 +0000">
+    <title>CTV News: Across Canada</title>
+    <sub-title>for Friday, July 18, 2025</sub-title>
+    <episode-num system="onscreen">S2025E150</episode-num>
+    <desc>Top stories from coast-to-coast as reported by CTV News local journalists across Canada.</desc>
+    <date>20250718</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55945_2024_8_9_9f6270cc-d7b3-48b4-a0cc-902adc5a6152_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719070000 +0000" stop="20250719080000 +0000">
+    <title>CTV News Calgary at Six</title>
+    <sub-title>for Thursday, July 17, 2025</sub-title>
+    <episode-num system="onscreen">S2025E174</episode-num>
+    <desc>CTV News Calgary at Six</desc>
+    <date>20250718</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/CTVNews_LG_FAST_default.png" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719080000 +0000" stop="20250719083000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719083000 +0000" stop="20250719090000 +0000">
+    <title>CTV News: Your Canada</title>
+    <sub-title>for Friday, July 18, 2025</sub-title>
+    <episode-num system="onscreen">S2025E168</episode-num>
+    <desc>Stories that showcase what makes Canada unique.</desc>
+    <date>20250718</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719090000 +0000" stop="20250719095959 +0000">
+    <title>CTV News Edmonton at Six</title>
+    <sub-title>for Thursday, July 17, 2025</sub-title>
+    <episode-num system="onscreen">S2025E174</episode-num>
+    <desc>CTV News Edmonton at Six</desc>
+    <date>20250718</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/CTVNews_LG_FAST_default.png" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719095959 +0000" stop="20250719103000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719103000 +0000" stop="20250719110000 +0000">
+    <title>CTV News: Across Canada</title>
+    <category>Movie</category>
+    <desc>CTV News: Across Canada</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719110000 +0000" stop="20250719120000 +0000">
+    <title>CTV News Vancouver at Six</title>
+    <sub-title>for Thursday, July 17, 2025</sub-title>
+    <episode-num system="onscreen">S2025E174</episode-num>
+    <desc>CTV News Vancouver at Six</desc>
+    <date>20250718</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29940_2024_6_13_de70b883-f511-4ea7-8a64-751d764c2bfb_JPG_1920x1080.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719120000 +0000" stop="20250719123000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719123000 +0000" stop="20250719130000 +0000">
+    <title>CTV News: Your Canada</title>
+    <category>Movie</category>
+    <desc>CTV News: Your Canada</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719130000 +0000" stop="20250719140000 +0000">
+    <title>CTV News Toronto at Six</title>
+    <category>Movie</category>
+    <desc>CTV News Toronto at Six</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719140000 +0000" stop="20250719143000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719143000 +0000" stop="20250719150000 +0000">
+    <title>CTV News: Across Canada</title>
+    <category>Movie</category>
+    <desc>CTV News: Across Canada</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719150000 +0000" stop="20250719160000 +0000">
+    <title>CTV News Montreal at Six</title>
+    <category>Movie</category>
+    <desc>CTV News Montreal at Six</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719160000 +0000" stop="20250719163000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719163000 +0000" stop="20250719170000 +0000">
+    <title>CTV News: Your Canada</title>
+    <category>Movie</category>
+    <desc>CTV News: Your Canada</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719170000 +0000" stop="20250719180000 +0000">
+    <title>CTV News Ottawa at Six</title>
+    <category>Movie</category>
+    <desc>CTV News Ottawa at Six</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719180000 +0000" stop="20250719183000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250718181811 +0000" stop="20250718184415 +0000">
     <title>Comfort Food With Spencer Watts</title>
@@ -20294,39 +20508,61 @@
     <date>20250228</date>
     <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m55061_2024_2_28_f2919a27-22bb-4f04-a18a-d83df069e9bd_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250718141608 +0000" stop="20250718152255 +0000">
-    <title>Moon Shots</title>
-    <category>Movie</category>
-    <desc>With rare archive footage, this stunning one-hour special brings scientific history to life.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRMHLGKAVBYPC8GZ_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250719153546 +0000" stop="20250719160150 +0000">
+    <title>Comfort Food With Spencer Watts</title>
+    <sub-title>Inspired Comfort</sub-title>
+    <episode-num system="onscreen">S02E14</episode-num>
+    <desc>Spencer shares some comfort food faves inspired by those around him starting with: a weeknight version of Mom’s holiday turkey dinner.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m55061_2024_2_28_f2919a27-22bb-4f04-a18a-d83df069e9bd_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250718152255 +0000" stop="20250718162737 +0000">
-    <title>Space Colonies</title>
-    <sub-title>The Moon</sub-title>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250719160150 +0000" stop="20250719162752 +0000">
+    <title>Comfort Food With Spencer Watts</title>
+    <sub-title>Comfort for a Crowd</sub-title>
+    <episode-num system="onscreen">S02E15</episode-num>
+    <desc>Spencer makes a s'more-inspired no-bake cheesecake with a s'more-inspired dessert cocktail.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m55061_2024_2_28_f2919a27-22bb-4f04-a18a-d83df069e9bd_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250719162752 +0000" stop="20250719165359 +0000">
+    <title>Watts on the Grill</title>
+    <sub-title>Lamb Four Ways</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Rock your next dinner party with some fresh, succulent lamb. Host Spencer Watts shows us how to stuff it, grill it, smoke it, and roast it.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m43082_2024_2_28_201c3d22-6fcb-475c-aae2-78e264a3f645_JPG_1920x1080.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250719165359 +0000" stop="20250719172006 +0000">
+    <title>Watts on the Grill</title>
+    <sub-title>Sides &amp; Sweets with Heat</sub-title>
     <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Space colonization may start with the Moon. Getting material there may be relatively simple. But risks exist.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU1719EB8XSP2ID_16_9.jpg" />
+    <desc>Host Spencer Watts grills up the perfect sides and treats for your next barbeque.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m43082_2024_2_28_201c3d22-6fcb-475c-aae2-78e264a3f645_JPG_1920x1080.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250718162737 +0000" stop="20250718165541 +0000">
-    <title>Space: The New Frontier</title>
-    <sub-title>Return to the Moon</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>The moon is our closest celestial companion. Few have walked on her surface, but her allure remains strong.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KQRKNR0QG5E_16_9.jpeg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250719172006 +0000" stop="20250719174613 +0000">
+    <title>Watts on the Grill</title>
+    <sub-title>Sweet, Salty and Spicy Salsas</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Host Spencer Watts grills up the perfect sweet, salty, and spicy salsas for your next barbeque.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m43082_2024_2_28_201c3d22-6fcb-475c-aae2-78e264a3f645_JPG_1920x1080.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250718165541 +0000" stop="20250718172648 +0000">
-    <title>Cosmic Journeys</title>
-    <sub-title>Crashing Into the Moon</sub-title>
-    <episode-num system="onscreen">S01E15</episode-num>
-    <desc>There are plans to send spacecraft to the Moon to find resources that may one day allow humans to live there.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/1JAIHT965NB3R81HC09J62W_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250719174613 +0000" stop="20250719181219 +0000">
+    <title>Watts on the Grill</title>
+    <sub-title>Barbeque Sides</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Chef Spencer Watts shows how to grill fruits and vegetables like a pro.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m43082_2024_2_28_201c3d22-6fcb-475c-aae2-78e264a3f645_JPG_1920x1080.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250718172648 +0000" stop="20250718175755 +0000">
-    <title>Cosmic Journeys</title>
-    <sub-title>Birth of the Moon</sub-title>
-    <episode-num system="onscreen">S01E16</episode-num>
-    <desc>What are scientists learning about the history of the Moon and its relationship to the development of Earth?</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/1JAIHT965NB3R81HC09J62W_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250719181219 +0000" stop="20250719183827 +0000">
+    <title>Watts on the Grill</title>
+    <sub-title>Grilled, Roasted &amp; Charred Chicken</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Chef Spencer Watts creates four irresistible chicken recipes.</desc>
+    <date>20250228</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m43082_2024_2_28_201c3d22-6fcb-475c-aae2-78e264a3f645_JPG_1920x1080.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250718175755 +0000" stop="20250718182632 +0000">
     <title>Secrets of the Universe</title>
@@ -20477,17 +20713,19 @@
     <desc>Take an intimate and personal look at Apollo through the lives and experiences of its most inspiring figures.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171BD4VTL1SND_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250718151201 +0000" stop="20250718162013 +0000">
-    <title>Planet Rethink</title>
-    <category>Movie</category>
-    <desc>Pollution is everywhere. But all is not dire. We need to increase resource efficiency to preserve our planet.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/3SKVQ99AX6YK1QWMN8RE1F_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250719162808 +0000" stop="20250719173229 +0000">
+    <title>13 Factors that Saved Apollo 13</title>
+    <sub-title>Earth to Moon</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Apollo 13 suffers an oxygen leak that leaves the spacecraft with limited power.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU1719DYHJMIEZA_16_9.jpeg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250718162013 +0000" stop="20250718172224 +0000">
-    <title>Atlas of a Changing Earth</title>
-    <category>Movie</category>
-    <desc>This documentary reveals the processes melting glaciers, and explores how rising seas may threaten coastlines.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171BD9ZKWFDG5_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250719173229 +0000" stop="20250719183637 +0000">
+    <title>13 Factors that Saved Apollo 13</title>
+    <sub-title>Safely to the Earth</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>As the NASA team keeps an eye on Apollo 13's trajectory, they are faced with more challenges.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU1719DYHJMIEZA_16_9.jpeg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250718172224 +0000" stop="20250718182610 +0000">
     <title>Living with Volcanoes</title>
@@ -20687,23 +20925,23 @@
     <desc>Anchorage has a large porcupine population, twice the species' average size, living in its parks and gardens.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/Q1OI2LFD7SBH3LR57UPHG8_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250718150000 +0000" stop="20250718160000 +0000">
-    <title>Evolution Earth</title>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250719152246 +0000" stop="20250719162456 +0000">
+    <title>Wonderful Wetlands</title>
     <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+    <desc>Wetlands serve as essential ecosystems as varied as nurseries, migration stopovers, and homes for life-forms.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/MHY11D9N2QJ9WAU3EF3ZAC_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250718160000 +0000" stop="20250718170000 +0000">
-    <title>Evolution Earth</title>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250719162456 +0000" stop="20250719172707 +0000">
+    <title>Coasts: Rolling with the Waves</title>
     <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+    <desc>Learn about surf zones, where open ocean meets coastal habitats. Wildlife treasure these lively meeting spots.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/MHY11D9N2QJ9W9WWZ68N5A_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250718170000 +0000" stop="20250718180000 +0000">
-    <title>Evolution Earth</title>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250719172707 +0000" stop="20250719182918 +0000">
+    <title>Coasts: Life's a Beach</title>
     <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+    <desc>Examine beaches, the complex ecosystems where humans, seals, turtles, and birds coexist and thrive naturally.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/MHY11D9N2QJ9W9VN1CTLAS_2_3.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250718180000 +0000" stop="20250718190000 +0000">
     <title>Evolution Earth</title>
@@ -20837,29 +21075,23 @@
     <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250718143224 +0000" stop="20250718152914 +0000">
-    <title>North America's National Parks</title>
-    <sub-title>America's National Parks - Great Smoky Mountains</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Great Smoky Mountains National Park is an American national park in the southeastern United States, with parts in Tennessee and North Carolina. The park straddles the ridgeline of the Great Smoky Mountains, part of the Blue Ridge Mountains, which are a division of the larger Appalachian Mountain chain. The park contains some of the highest mountains in eastern North America, including Clingmans Dome, Mount Guyot, and Mount Le Conte. The border between the two states runs northeast to southwest through the center of the park. The Appalachian Trail passes through the center of the park on its route from Georgia to Maine. With 12.5 million visitors in 2019, the Great Smoky Mountains National Park is the most visited national park in the United States.</desc>
-    <date>20150521</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/americas_national_parks_great_smokey_mountains_screenshot_16x9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250719160000 +0000" stop="20250719170000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250718152914 +0000" stop="20250718162607 +0000">
-    <title>North America's National Parks</title>
-    <sub-title>America's National Parks - Olympic</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Olympic National Park is an American national park located in the State of Washington, on the Olympic Peninsula. The park has four regions: the Pacific coastline, alpine areas, the west side temperate rainforest and the forests of the drier east side. Within the park there are three distinct ecosystems which are subalpine forest and wildflower meadow, temperate forest, and the rugged Pacific coast. President Theodore Roosevelt originally designated Mount Olympus National Monument on 2 March 1909. The monument was redesignated as a national park by Congress and President Franklin Roosevelt on June 29, 1938. In 1976, Olympic National Park was designated by UNESCO as an International Biosphere Reserve, and in 1981 as a World Heritage Site. In 1988, Congress designated 95 percent of the park as the Olympic Wilderness.</desc>
-    <date>20150525</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/americas_national_parks_olympic_screenshot_16x9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250719170000 +0000" stop="20250719180000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250718162607 +0000" stop="20250718172253 +0000">
-    <title>North America's National Parks</title>
-    <sub-title>America's National Parks - Yosemite</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Yosemite National Park is a place of superlatives: with towering cliffs and giant sequoias, home to coyotes, black bears and the most elusive of all: the bobcat. Watch this documentary with ist spectacular shots, aerial views and time-lapse shots and learn some new facts about the biodiversity in one of North Americas most spectacular National Parks.</desc>
-    <date>20150522</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/americas_national_parks_yosemite_screenshot_16x9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250719180000 +0000" stop="20250719190000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250718172253 +0000" stop="20250718182339 +0000">
     <title>The U.S. East Coast</title>
@@ -21049,28 +21281,29 @@
     <date>20150920</date>
     <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/30633-32681/62781615-Plex-Portrait_v1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250718145105 +0000" stop="20250718155331 +0000">
-    <title>Lions On The Move</title>
-    <sub-title>Episode 1</sub-title>
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250719161259 +0000" stop="20250719171355 +0000">
+    <title>Over the Islands of Africa</title>
+    <sub-title>Over the Islands of Africa, Zanzibar</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Kevin Richardson must transport 28 lions and 14 hyenas to a sanctuary, ensuring their welfare.</desc>
-    <date>20240101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
+    <desc>Photographer Matthias Ziegler is an Africa specialist. He has visited nearly every country on the continent on assignments for international agencies. Zanzibar, however, is new territory for him. He's come to the former slave island for a photo book – and this time he's not alone. To see the Tanzanian archipelago from the air, he has enlisted the services of ultralight pilot Richard Meredith-Hardy of England to fly him around in his FIB, or flying inflatable boat. Perfect conditions for an adventurous journey: as a world champion ultralight pilot, Richard and his FIB can take off and land practically anywhere – in theory.</desc>
+    <date>20110711</date>
+    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/overtheislandsofafrica.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250718155331 +0000" stop="20250718165602 +0000">
-    <title>Lions On The Move</title>
-    <sub-title>Episode 2</sub-title>
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250719171355 +0000" stop="20250719181505 +0000">
+    <title>Over the Islands of Africa</title>
+    <sub-title>Over the Islands of Africa, Mauritius</sub-title>
     <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Kevin Richardson must transport 28 lions and 14 hyenas to a sanctuary, ensuring their welfare.</desc>
-    <date>20240101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
+    <desc>Renaud Van Der Meeren is a photographer and paramotor pilot. With his motorised parachute he goes on expeditions to the remotest corners on earth to photograph people and landscapes from the air. Renaud wanted to be a jet pilot, studied music at the Sorbonne, became a ski instructor, model and photographer's assistant before he found happiness in his current vocation. He especially likes to do his job in Mauritius – nowhere else does he find so many motifs as on the "sweetest pearl in the Indian Ocean". This time he's working on a photo book about Mauritius – by land, by water and in the air.</desc>
+    <date>20110712</date>
+    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/overtheislandsofafrica.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250718165602 +0000" stop="20250718175316 +0000">
-    <title>Saliega's Lineage, The Return Of The Iberian Lynx</title>
-    <category>Movie</category>
-    <desc>The Iberian lynx was saved by captive females San Diego and Ora, and their newborns.</desc>
-    <date>20190101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250719181505 +0000" stop="20250719191605 +0000">
+    <title>Over the Islands of Africa</title>
+    <sub-title>Over the Islands of Africa, Madagascar</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Spirits, Kings, Lemurs – Madagascar treats Ami to a multitude of new impressions and spectacular pictures. Director Christian Schidlowski and his team accompanied her on her trip.</desc>
+    <date>20110713</date>
+    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/overtheislandsofafrica.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250718175316 +0000" stop="20250718185439 +0000">
     <title>Leap Of The Lynx</title>
@@ -21269,186 +21502,28 @@
     <date>20180101</date>
     <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250718230000 +0000" stop="20250719000000 +0000">
-    <title>CTV News Vancouver at Six</title>
-    <sub-title>for Thursday, July 17, 2025</sub-title>
-    <episode-num system="onscreen">S2025E174</episode-num>
-    <desc>CTV News Vancouver at Six</desc>
-    <date>20250718</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29940_2024_6_13_de70b883-f511-4ea7-8a64-751d764c2bfb_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250719154542 +0000" stop="20250719164448 +0000">
+    <title>Python Hunters</title>
+    <sub-title>The Perfect Storm</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>As pythons threaten to take over the Everglades, follow three charismatic python hunters on a risky mission to stop over 10,000 snakes.</desc>
+    <date>20100101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/CMAPHUS001EP001.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719000000 +0000" stop="20250719003000 +0000">
-    <title>CTV National News with Omar Sachedina</title>
-    <sub-title>CTV National News for Thursday, July 17, 2025</sub-title>
-    <episode-num system="onscreen">S2025E114</episode-num>
-    <desc>CTV National News with Omar Sachedina is Canada's #1 national newscast</desc>
-    <date>20250718</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29593_2024_2_22_a0b77432-b521-4b92-8fd6-df17c3828c96_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250719164448 +0000" stop="20250719174355 +0000">
+    <title>Python Hunters</title>
+    <sub-title>The Big Freeze</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Python Hunters are exploring the Florida Everglades to evaluate the effects of cold weather</desc>
+    <date>20100101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/CMAPHUS001EP002.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719003000 +0000" stop="20250719010000 +0000">
-    <title>CTV News: Your Canada</title>
-    <sub-title>for Friday, July 18, 2025</sub-title>
-    <episode-num system="onscreen">S2025E168</episode-num>
-    <desc>Stories that showcase what makes Canada unique.</desc>
-    <date>20250718</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719010000 +0000" stop="20250719020000 +0000">
-    <title>CTV News Toronto at Six</title>
-    <sub-title>for Thursday, July 17, 2025</sub-title>
-    <episode-num system="onscreen">S2025E130</episode-num>
-    <desc>CTV News Toronto at Six</desc>
-    <date>20250718</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29736_2024_6_13_80514d3f-90ee-4070-a6ba-398ec3f8081a_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719020000 +0000" stop="20250719023000 +0000">
-    <title>CTV National News with Omar Sachedina</title>
-    <sub-title>CTV National News for Thursday, July 17, 2025</sub-title>
-    <episode-num system="onscreen">S2025E114</episode-num>
-    <desc>CTV National News with Omar Sachedina is Canada's #1 national newscast</desc>
-    <date>20250718</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29593_2024_2_22_a0b77432-b521-4b92-8fd6-df17c3828c96_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719023000 +0000" stop="20250719030000 +0000">
-    <title>CTV News: Across Canada</title>
-    <sub-title>for Friday, July 18, 2025</sub-title>
-    <episode-num system="onscreen">S2025E150</episode-num>
-    <desc>Top stories from coast-to-coast as reported by CTV News local journalists across Canada.</desc>
-    <date>20250718</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55945_2024_8_9_9f6270cc-d7b3-48b4-a0cc-902adc5a6152_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719030000 +0000" stop="20250719040000 +0000">
-    <title>CTV News Montreal at Six</title>
-    <sub-title>for Thursday, July 17, 2025</sub-title>
-    <episode-num system="onscreen">S2025E130</episode-num>
-    <desc>CTV News Montreal at Six</desc>
-    <date>20250718</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29873_2024_6_13_09cee8e5-1b7b-4f0e-ac21-c4395fbbb044_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719040000 +0000" stop="20250719043000 +0000">
-    <title>CTV National News with Omar Sachedina</title>
-    <sub-title>CTV National News for Thursday, July 17, 2025</sub-title>
-    <episode-num system="onscreen">S2025E114</episode-num>
-    <desc>CTV National News with Omar Sachedina is Canada's #1 national newscast</desc>
-    <date>20250718</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29593_2024_2_22_a0b77432-b521-4b92-8fd6-df17c3828c96_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719043000 +0000" stop="20250719050000 +0000">
-    <title>CTV News: Your Canada</title>
-    <sub-title>for Friday, July 18, 2025</sub-title>
-    <episode-num system="onscreen">S2025E168</episode-num>
-    <desc>Stories that showcase what makes Canada unique.</desc>
-    <date>20250718</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719050000 +0000" stop="20250719060000 +0000">
-    <title>CTV News Ottawa at Six</title>
-    <sub-title>for Thursday, July 17, 2025</sub-title>
-    <episode-num system="onscreen">S2025E130</episode-num>
-    <desc>CTV News Ottawa at Six</desc>
-    <date>20250718</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29884_2024_6_13_ee9988fa-1dc2-42f1-b909-8b2cba4cb0ac_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719060000 +0000" stop="20250719063000 +0000">
-    <title>CTV National News with Omar Sachedina</title>
-    <sub-title>CTV National News for Thursday, July 17, 2025</sub-title>
-    <episode-num system="onscreen">S2025E114</episode-num>
-    <desc>CTV National News with Omar Sachedina is Canada's #1 national newscast</desc>
-    <date>20250718</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29593_2024_2_22_a0b77432-b521-4b92-8fd6-df17c3828c96_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719063000 +0000" stop="20250719070000 +0000">
-    <title>CTV News: Across Canada</title>
-    <sub-title>for Friday, July 18, 2025</sub-title>
-    <episode-num system="onscreen">S2025E150</episode-num>
-    <desc>Top stories from coast-to-coast as reported by CTV News local journalists across Canada.</desc>
-    <date>20250718</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55945_2024_8_9_9f6270cc-d7b3-48b4-a0cc-902adc5a6152_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719070000 +0000" stop="20250719080000 +0000">
-    <title>CTV News Calgary at Six</title>
-    <sub-title>for Thursday, July 17, 2025</sub-title>
-    <episode-num system="onscreen">S2025E174</episode-num>
-    <desc>CTV News Calgary at Six</desc>
-    <date>20250718</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/CTVNews_LG_FAST_default.png" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719080000 +0000" stop="20250719083000 +0000">
-    <title>CTV National News</title>
-    <category>Movie</category>
-    <desc>CTV National News</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719083000 +0000" stop="20250719090000 +0000">
-    <title>CTV News: Your Canada</title>
-    <sub-title>for Friday, July 18, 2025</sub-title>
-    <episode-num system="onscreen">S2025E168</episode-num>
-    <desc>Stories that showcase what makes Canada unique.</desc>
-    <date>20250718</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719090000 +0000" stop="20250719095959 +0000">
-    <title>CTV News Edmonton at Six</title>
-    <sub-title>for Thursday, July 17, 2025</sub-title>
-    <episode-num system="onscreen">S2025E174</episode-num>
-    <desc>CTV News Edmonton at Six</desc>
-    <date>20250718</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/CTVNews_LG_FAST_default.png" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719095959 +0000" stop="20250719103000 +0000">
-    <title>CTV National News</title>
-    <category>Movie</category>
-    <desc>CTV National News</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719103000 +0000" stop="20250719110000 +0000">
-    <title>CTV News: Across Canada</title>
-    <category>Movie</category>
-    <desc>CTV News: Across Canada</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719110000 +0000" stop="20250719120000 +0000">
-    <title>CTV News Vancouver at Six</title>
-    <sub-title>for Thursday, July 17, 2025</sub-title>
-    <episode-num system="onscreen">S2025E174</episode-num>
-    <desc>CTV News Vancouver at Six</desc>
-    <date>20250718</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29940_2024_6_13_de70b883-f511-4ea7-8a64-751d764c2bfb_JPG_1920x1080.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719120000 +0000" stop="20250719123000 +0000">
-    <title>CTV National News</title>
-    <category>Movie</category>
-    <desc>CTV National News</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719123000 +0000" stop="20250719130000 +0000">
-    <title>CTV News: Your Canada</title>
-    <category>Movie</category>
-    <desc>CTV News: Your Canada</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719130000 +0000" stop="20250719140000 +0000">
-    <title>CTV News Toronto at Six</title>
-    <category>Movie</category>
-    <desc>CTV News Toronto at Six</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719140000 +0000" stop="20250719143000 +0000">
-    <title>CTV National News</title>
-    <category>Movie</category>
-    <desc>CTV National News</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719143000 +0000" stop="20250719150000 +0000">
-    <title>CTV News: Across Canada</title>
-    <category>Movie</category>
-    <desc>CTV News: Across Canada</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250719150000 +0000" stop="20250719160000 +0000">
-    <title>CTV News Montreal at Six</title>
-    <category>Movie</category>
-    <desc>CTV News Montreal at Six</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250719174355 +0000" stop="20250719184302 +0000">
+    <title>Python Hunters</title>
+    <sub-title>Episode #1.3</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>The Python Hunters venture into a sawgrass marsh's edge</desc>
+    <date>20100101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/CMAPHUS001EP003.jpg" />
   </programme>
   </tv>
