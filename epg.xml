@@ -19774,30 +19774,6 @@ From Ronald Reagan’s first campaign for the White House in ...</desc>
     <display-name>Real Wild</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/09e8c6b6-368e-4275-b974-fe5e1921f64d/RealWild_Logo_White_-_Simon_Tuquabo.png" />
   </channel>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250722130000 +0000" stop="20250722140000 +0000">
-    <title>The National</title>
-    <sub-title>The National</sub-title>
-    <desc>CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.</desc>
-    <date>20250722</date>
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250722140000 +0000" stop="20250722150000 +0000">
-    <title>CBC News: Morning</title>
-    <sub-title>CBC News: Morning</sub-title>
-    <desc>What do you need to know about the world around you? Heather Hiscox takes the helm as the anchor for this weekday-morning news program to tell you. Joining her is Colleen Jones with weather and sports info., and Danielle Bochove with all you need to know about the business world.</desc>
-    <date>20250722</date>
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250722150000 +0000" stop="20250722153000 +0000">
-    <title>About That</title>
-    <sub-title>About That</sub-title>
-    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
-    <date>20250722</date>
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250722153000 +0000" stop="20250722160000 +0000">
-    <title>Today's Top Stories</title>
-    <sub-title>Today's Top Stories</sub-title>
-    <desc>What's happening across Canada and around the world.</desc>
-    <date>20250722</date>
-  </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250722160000 +0000" stop="20250722163000 +0000">
     <title>About That</title>
     <sub-title>About That</sub-title>
@@ -19918,37 +19894,29 @@ From Ronald Reagan’s first campaign for the White House in ...</desc>
     <desc>CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.</desc>
     <date>20250723</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250722130000 +0000" stop="20250722140000 +0000">
-    <title>CTV News Toronto at Six</title>
-    <sub-title>for Monday, July 21, 2025</sub-title>
-    <episode-num system="onscreen">S2025E274</episode-num>
-    <desc>CTV News Toronto at Six</desc>
-    <date>20250722</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29736_2024_6_13_80514d3f-90ee-4070-a6ba-398ec3f8081a_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250723140000 +0000" stop="20250723150000 +0000">
+    <title>CBC News: Morning</title>
+    <sub-title>CBC News: Morning</sub-title>
+    <desc>What do you need to know about the world around you? Heather Hiscox takes the helm as the anchor for this weekday-morning news program to tell you. Joining her is Colleen Jones with weather and sports info., and Danielle Bochove with all you need to know about the business world.</desc>
+    <date>20250723</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250722140000 +0000" stop="20250722143000 +0000">
-    <title>CTV National News with Sandie Rinaldo</title>
-    <sub-title>for Monday, July 21, 2025</sub-title>
-    <episode-num system="onscreen">S2025E140</episode-num>
-    <desc>Watch CTV National News with Sandie Rinaldo</desc>
-    <date>20250722</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55373_2024_2_22_4ed6902f-672f-4fc5-83f4-d013fa03684a_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250723150000 +0000" stop="20250723153000 +0000">
+    <title>About That</title>
+    <sub-title>About That</sub-title>
+    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
+    <date>20250723</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250722143000 +0000" stop="20250722150000 +0000">
-    <title>CTV News: Across Canada</title>
-    <sub-title>for Tuesday, July 22, 2025</sub-title>
-    <episode-num system="onscreen">S2025E152</episode-num>
-    <desc>Top stories from coast-to-coast as reported by CTV News local journalists across Canada.</desc>
-    <date>20250722</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55945_2024_8_9_9f6270cc-d7b3-48b4-a0cc-902adc5a6152_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250723153000 +0000" stop="20250723160000 +0000">
+    <title>Today's Top Stories</title>
+    <sub-title>Today's Top Stories</sub-title>
+    <desc>What's happening across Canada and around the world.</desc>
+    <date>20250723</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250722150000 +0000" stop="20250722160000 +0000">
-    <title>CTV News Montreal at Six</title>
-    <sub-title>for Monday, July 21, 2025</sub-title>
-    <episode-num system="onscreen">S2025E274</episode-num>
-    <desc>CTV News Montreal at Six</desc>
-    <date>20250722</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29873_2024_6_13_09cee8e5-1b7b-4f0e-ac21-c4395fbbb044_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250723160000 +0000" stop="20250723163000 +0000">
+    <title>About That</title>
+    <sub-title>About That</sub-title>
+    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
+    <date>20250723</date>
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250722160000 +0000" stop="20250722163000 +0000">
     <title>CTV National News with Omar Sachedina</title>
@@ -20202,37 +20170,29 @@ From Ronald Reagan’s first campaign for the White House in ...</desc>
     <desc>CTV News Toronto at Six</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250722130805 +0000" stop="20250722133412 +0000">
-    <title>One World Kitchen</title>
-    <sub-title>Fresh Pasta</sub-title>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <desc>Vanessa Gianfrancesco teaches us how to make fresh pasta like an Italian.</desc>
-    <date>20250719</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m38713_2024_2_28_408c200b-8568-4fd6-9b05-0a4ae02bdc0a_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250723140000 +0000" stop="20250723143000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250722133412 +0000" stop="20250722140020 +0000">
-    <title>One World Kitchen</title>
-    <sub-title>Japanese Comfort Food</sub-title>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <desc>Hana Etsuko Dethlefsen fixes Japanese comfort food.</desc>
-    <date>20250719</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m38713_2024_2_28_408c200b-8568-4fd6-9b05-0a4ae02bdc0a_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250723143000 +0000" stop="20250723150000 +0000">
+    <title>CTV News: Across Canada</title>
+    <category>Movie</category>
+    <desc>CTV News: Across Canada</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250722140020 +0000" stop="20250722144935 +0000">
-    <title>The Marilyn Denis Show</title>
-    <sub-title>Episode 53</sub-title>
-    <episode-num system="onscreen">S03E53</episode-num>
-    <desc>Scott McGillivray co-hosts; microwavable &amp; pressure cooker meals; family summer vacation ideas; Marilyn’s son &amp; daughter-in-law surprise her</desc>
-    <date>20250626</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m29995_2024_2_19_78d3f68c-8f87-4b12-a352-7a478eefae20_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250723150000 +0000" stop="20250723160000 +0000">
+    <title>CTV News Montreal at Six</title>
+    <category>Movie</category>
+    <desc>CTV News Montreal at Six</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250722144935 +0000" stop="20250722153935 +0000">
-    <title>The Marilyn Denis Show</title>
-    <sub-title>Episode 56</sub-title>
-    <episode-num system="onscreen">S03E56</episode-num>
-    <desc>Snow day loungewear; indoor snow day comfort food; fun indoor snow day hacks; innovative tech to keep you warm; snow day toys.</desc>
-    <date>20250626</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m29995_2024_2_19_78d3f68c-8f87-4b12-a352-7a478eefae20_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250723160000 +0000" stop="20250723163000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250722153935 +0000" stop="20250722163053 +0000">
     <title>The Marilyn Denis Show</title>
@@ -20456,40 +20416,12 @@ From Ronald Reagan’s first campaign for the White House in ...</desc>
     <date>20250101</date>
     <icon src="https://provider-static.plex.tv/epg/cms/production/082f7c96-fa0e-4f40-80de-d9a961270682/CTVatHome_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250722123318 +0000" stop="20250722133630 +0000">
-    <title>Asteroids: A New Horizon</title>
-    <sub-title>The New Frontier</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Top space resource companies all vie for competitive advantage. The new space race is just getting started.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU1719E2BD2RKK0_16_9.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250722133630 +0000" stop="20250722140230 +0000">
-    <title>House Hazards</title>
-    <sub-title>Freak Accidents</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Witness a septic tank explosion, a grease fire, and what happens when you knock the neck off a helium tank.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRHP530M8JG_16_9.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250722140230 +0000" stop="20250722142829 +0000">
-    <title>House Hazards</title>
-    <sub-title>Cleanliness</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Brendan stresses a washer, Dan sets fire to a dryer and is a toilet really dirtier than a kitchen sink?</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRHP530M8JG_16_9.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250722142829 +0000" stop="20250722145428 +0000">
-    <title>House Hazards</title>
-    <sub-title>Party Peril</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Brendan turns his amp up to get the music popping, but the result could shatter the party vibe.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRHP530M8JG_16_9.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250722145428 +0000" stop="20250722152023 +0000">
-    <title>House Hazards</title>
-    <sub-title>Reckless Abandon</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Dan teaches Francesca about bathtub electrocution, then she creates fireworks of her own in the bedroom.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRHP530M8JG_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250723150000 +0000" stop="20250723180000 +0000">
+    <title>To Be Announced</title>
+    <category>Movie</category>
+    <desc>Program information is not yet available</desc>
+    <date>20250101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/082f7c96-fa0e-4f40-80de-d9a961270682/CTVatHome_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250722152023 +0000" stop="20250722162732 +0000">
     <title>Searching for Planet 9</title>
@@ -20684,33 +20616,24 @@ From Ronald Reagan’s first campaign for the White House in ...</desc>
     <desc>Climate change is now a crisis, and our world is crying out. Examine some possible remedies to the emergency.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171CJX4NJCPMK_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250722132017 +0000" stop="20250722135123 +0000">
-    <title>World's Wildest City: Anchorage</title>
-    <sub-title>Moose Mayhem</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>Anchorage is home to over 2,000 moose! These notorious animals are running riot on highways and in yards.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/Q1OI2LFD7SBH3LR57UPHG8_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250723140926 +0000" stop="20250723151139 +0000">
+    <title>Dust Storm</title>
+    <category>Movie</category>
+    <desc>We investigate dust storm causes, and how to predict them and lessen their impact.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU1719EMQE5GKD6_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250722135123 +0000" stop="20250722142030 +0000">
-    <title>World's Wildest City: Anchorage</title>
-    <sub-title>Baked Alaska</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>Anchorage bursts into summer life. Animals and plants this far north work fast to thrive in the short season.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/Q1OI2LFD7SBH3LR57UPHG8_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250723151139 +0000" stop="20250723161606 +0000">
+    <title>Our Roots, Our Future</title>
+    <category>Movie</category>
+    <desc>Scientists are studying root growth. Roots may help solve climate change and protect the environment.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171APT7P9W94B_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250722142030 +0000" stop="20250722144936 +0000">
-    <title>World's Wildest City: Anchorage</title>
-    <sub-title>Arctic Refuge</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>Alaska is one of the last true wildernesses on earth. In Anchorage, the wildlife is closer than you think.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/Q1OI2LFD7SBH3LR57UPHG8_16_9.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250722144936 +0000" stop="20250722152042 +0000">
-    <title>World's Wildest City: Anchorage</title>
-    <sub-title>Wild Rescue</sub-title>
-    <episode-num system="onscreen">S01E13</episode-num>
-    <desc>As Anchorage grows larger, the area wildlife has many new challenges to overcome, some requiring human help.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/Q1OI2LFD7SBH3LR57UPHG8_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250723161606 +0000" stop="20250723164205 +0000">
+    <title>House Hazards</title>
+    <sub-title>Security Overload</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>After Brendan and Francesca break into his home, Dan's panic room is no match for the well-equipped intruders.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRHP530M8JG_16_9.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250722152042 +0000" stop="20250722162326 +0000">
     <title>Saved From Extinction</title>
@@ -20866,23 +20789,26 @@ From Ronald Reagan’s first campaign for the White House in ...</desc>
     <desc>Beneath the waves, sharks, jellyfish, and sea anemones strike silently, fatally, without warning.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/MHY11D9N25FISVSP6M4MSI_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250722130000 +0000" stop="20250722140000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250723134221 +0000" stop="20250723143929 +0000">
+    <title>Wild Assassins</title>
+    <sub-title>Tropical Rainforest</sub-title>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <desc>Rainforest predators like tigers and crocodiles are masters of stealth, strength, and surprise.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/MHY11D9N25FISVSP6M4MSI_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250722140000 +0000" stop="20250722150000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250723143929 +0000" stop="20250723153632 +0000">
+    <title>Wild Assassins</title>
+    <sub-title>Desert</sub-title>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <desc>Dingos howl, snakes strike, and raptors dive: desert predators are evolved to survive extremes.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/MHY11D9N25FISVSP6M4MSI_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250722150000 +0000" stop="20250722160000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250723153632 +0000" stop="20250723164137 +0000">
+    <title>Wonders of Northern Europe</title>
+    <sub-title>Finland</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Finland is a country of geographic and cultural transition; at the same time with a very distinct identity.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU1719BM9JMG0SC_16_9.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250722160000 +0000" stop="20250722170000 +0000">
     <title>Evolution Earth</title>
@@ -21016,26 +20942,23 @@ From Ronald Reagan’s first campaign for the White House in ...</desc>
     <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250722123945 +0000" stop="20250722134132 +0000">
-    <title>Strandwolf</title>
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250723140000 +0000" stop="20250723150000 +0000">
+    <title>Evolution Earth</title>
     <category>Movie</category>
-    <desc>She moves through the seal colony on Namibia’s wild Skeleton Coast with purpose and focus, gingerly stepping around the adults who snap at her heels. She’s searching for smaller prey. Following her is a young German field scientist, Ingrid Wiesel, who has now spent 17 years with Tosca’s clan; tracking, observing, and learning everything she can about one of the world’s least understood and most unusual predators.</desc>
-    <date>20120606</date>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/20392-22440/41763599-Plex-Portrait-1000x1500_v1.jpg" />
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250722134132 +0000" stop="20250722144019 +0000">
-    <title>Red Panda - World's Cutest Animal</title>
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250723150000 +0000" stop="20250723160000 +0000">
+    <title>Evolution Earth</title>
     <category>Movie</category>
-    <desc>The Red Panda is undoubtedly one of the most beautiful animals on earth and this is the first ever intimate portrait ever made.</desc>
-    <date>20180101</date>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/23236-25284/47591020-Samsung-Thumbnail_v1.jpg" />
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250722144019 +0000" stop="20250722153906 +0000">
-    <title>Animal Homes</title>
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250723160000 +0000" stop="20250723170000 +0000">
+    <title>Evolution Earth</title>
     <category>Movie</category>
-    <desc>Everyone needs a place to live, but some aren't happy with the great outdoors, they look for some home comforts - they use extraordinary specialist building skills to construct the perfect home. Homes have many uses. They can prove a bolthole to escape predators, a safe nursery in which to raise young, a food store and a shelter from bad weather.</desc>
-    <date>20150301</date>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/13340-15388/27321051-Plex-Portrait-1000x1500_v2.jpg" />
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250722153906 +0000" stop="20250722163807 +0000">
     <title>Realm of the robber - Christmas Island</title>
@@ -21211,27 +21134,29 @@ From Ronald Reagan’s first campaign for the White House in ...</desc>
     <date>20120601</date>
     <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/20392-22440/41763659-Plex-Portrait-1000x1500_v2.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250722130934 +0000" stop="20250722140755 +0000">
-    <title>One In A Thousand</title>
-    <category>Movie</category>
-    <desc>One in a Thousand' portrays the diverse wildlife inside a stream.</desc>
-    <date>20190101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250722140755 +0000" stop="20250722150658 +0000">
-    <title>Biebrza - The European Amazon</title>
-    <category>Movie</category>
-    <desc>A unique story about Biebrza - the European Amazon</desc>
-    <date>20160101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250722150658 +0000" stop="20250722160506 +0000">
-    <title>Germany's Underworld</title>
-    <sub-title>From the Alps to the River Rhine</sub-title>
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250723132650 +0000" stop="20250723142801 +0000">
+    <title>15th Meridian East - Similarity in Difference</title>
+    <sub-title>Wild Life, Gentle Nature</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>In this episode, we meet powerful hunters like the pike and sinister meat-eating plants like the bladderwort.</desc>
-    <date>20150101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/ZD1AGUS001EP001.jpg" />
+    <desc>As contrasting as the landscapes of the 15th meridian east, so different are its animal inhabitants. What are the living conditions like in the heat of the Namibian Damaraland, in Lusatia or on the coast of Norway? Which challenges do elephants, whales or kingfishers have to master together with their companions from north to south?</desc>
+    <date>20180104</date>
+    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/15thMeridianEast_E01.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250723142801 +0000" stop="20250723152847 +0000">
+    <title>15th Meridian East - Similarity in Difference</title>
+    <sub-title>The Raw Wilderness</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Almost 11000 kilometres lie between the northernmost and southernmost point of the 15th meridian east. Here you will find extreme landscapes such as the shimmering heat of Africa or the eternal cold of northern Scandinavia. Five people from Spitsbergen, Namibia, Slovenia, Germany and Poland dedicate their lives to environmental protection.</desc>
+    <date>20180104</date>
+    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/15thMeridianEast_E02.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250723152847 +0000" stop="20250723162933 +0000">
+    <title>15th Meridian East - Similarity in Difference</title>
+    <sub-title>Sow, Harvest, Eat – Our Conservatory</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>This episode focuses on people from five countries who share a common passion: The production of their own food and food. What culinary treasures are hidden in the different regions, from Spitsbergen to Sweden, Austria, Poland and Chad?</desc>
+    <date>20180401</date>
+    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/15thMeridianEast_E03.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250722160506 +0000" stop="20250722170354 +0000">
     <title>Germany's Underworld</title>
@@ -21397,5 +21322,26 @@ From Ronald Reagan’s first campaign for the White House in ...</desc>
     <desc>Pat meets with Lindy and 8 year old Sedona. Sedona has recently become more dominant, pushy, and uncooperative, making him feel unsafe for Lindy to ride. Pat hopes to help Lindy feel confident again.</desc>
     <date>20230101</date>
     <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250723133653 +0000" stop="20250723143756 +0000">
+    <title>Secrets Of The Great White Shark</title>
+    <category>Movie</category>
+    <desc>Sharks: Ancient guardians of the ocean now face extinction. It's time to fight for their survival.</desc>
+    <date>20240101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250723143756 +0000" stop="20250723153724 +0000">
+    <title>Sharks (3D)</title>
+    <category>Movie</category>
+    <desc>3D images of white, hammerhead, and whale sharks highlight their survival skills and long ocean presence.</desc>
+    <date>20120101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250723153724 +0000" stop="20250723163746 +0000">
+    <title>Ibex: Acrobats On The Rocks</title>
+    <category>Movie</category>
+    <desc>The film follows Buck, an Alpine Ibex from Italy's Gran Paradiso, highlighting his life and majestic beauty.</desc>
+    <date>20200101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
   </programme>
   </tv>
