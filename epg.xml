@@ -19853,24 +19853,6 @@
     <display-name>Real Wild</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/09e8c6b6-368e-4275-b974-fe5e1921f64d/RealWild_Logo_White_-_Simon_Tuquabo.png" />
   </channel>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250725150000 +0000" stop="20250725153000 +0000">
-    <title>About That</title>
-    <sub-title>About That</sub-title>
-    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
-    <date>20250725</date>
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250725153000 +0000" stop="20250725160000 +0000">
-    <title>Today's Top Stories</title>
-    <sub-title>Today's Top Stories</sub-title>
-    <desc>What's happening across Canada and around the world.</desc>
-    <date>20250725</date>
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250725160000 +0000" stop="20250725163000 +0000">
-    <title>About That</title>
-    <sub-title>About That</sub-title>
-    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
-    <date>20250725</date>
-  </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250725163000 +0000" stop="20250725200000 +0000">
     <title>Today's Top Stories</title>
     <sub-title>Today's Top Stories</sub-title>
@@ -19996,6 +19978,82 @@
     <sub-title>About That</sub-title>
     <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
     <date>20250726</date>
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250726153000 +0000" stop="20250726160000 +0000">
+    <title>About That</title>
+    <sub-title>About That</sub-title>
+    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
+    <date>20250726</date>
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250726160000 +0000" stop="20250726190000 +0000">
+    <title>This Week's Top Stories</title>
+    <sub-title>This Week's Top Stories</sub-title>
+    <desc>Making sense of the big stories that made news across Canada and around the world from this past week.</desc>
+    <date>20250726</date>
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250725180000 +0000" stop="20250725183000 +0000">
+    <title>CTV National News with Omar Sachedina</title>
+    <sub-title>CTV National News for Thursday, July 24, 2025</sub-title>
+    <episode-num system="onscreen">S2025E118</episode-num>
+    <desc>CTV National News with Omar Sachedina is Canada's #1 national newscast</desc>
+    <date>20250725</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29593_2024_2_22_a0b77432-b521-4b92-8fd6-df17c3828c96_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250725183000 +0000" stop="20250725190000 +0000">
+    <title>CTV News: Across Canada</title>
+    <sub-title>for Friday, July 25, 2025</sub-title>
+    <episode-num system="onscreen">S2025E155</episode-num>
+    <desc>Top stories from coast-to-coast as reported by CTV News local journalists across Canada.</desc>
+    <date>20250725</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55945_2024_8_9_9f6270cc-d7b3-48b4-a0cc-902adc5a6152_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250725190000 +0000" stop="20250725200000 +0000">
+    <title>CTV News Calgary at Six</title>
+    <sub-title>for Thursday, July 24, 2025</sub-title>
+    <episode-num system="onscreen">S2025E174</episode-num>
+    <desc>CTV News Calgary at Six</desc>
+    <date>20250725</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/CTVNews_LG_FAST_default.png" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250725200000 +0000" stop="20250725203000 +0000">
+    <title>CTV National News with Omar Sachedina</title>
+    <sub-title>CTV National News for Thursday, July 24, 2025</sub-title>
+    <episode-num system="onscreen">S2025E118</episode-num>
+    <desc>CTV National News with Omar Sachedina is Canada's #1 national newscast</desc>
+    <date>20250725</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29593_2024_2_22_a0b77432-b521-4b92-8fd6-df17c3828c96_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250725203000 +0000" stop="20250725210000 +0000">
+    <title>CTV News: Your Canada</title>
+    <sub-title>for Friday, July 25, 2025</sub-title>
+    <episode-num system="onscreen">S2025E174</episode-num>
+    <desc>Stories that showcase what makes Canada unique.</desc>
+    <date>20250725</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250725210000 +0000" stop="20250725220000 +0000">
+    <title>CTV News Edmonton at Six</title>
+    <sub-title>for Thursday, July 24, 2025</sub-title>
+    <episode-num system="onscreen">S2025E174</episode-num>
+    <desc>CTV News Edmonton at Six</desc>
+    <date>20250725</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/CTVNews_LG_FAST_default.png" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250725220000 +0000" stop="20250725223000 +0000">
+    <title>CTV National News with Omar Sachedina</title>
+    <sub-title>CTV National News for Thursday, July 24, 2025</sub-title>
+    <episode-num system="onscreen">S2025E118</episode-num>
+    <desc>CTV National News with Omar Sachedina is Canada's #1 national newscast</desc>
+    <date>20250725</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29593_2024_2_22_a0b77432-b521-4b92-8fd6-df17c3828c96_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250725223000 +0000" stop="20250725230000 +0000">
+    <title>CTV News: Across Canada</title>
+    <sub-title>for Friday, July 25, 2025</sub-title>
+    <episode-num system="onscreen">S2025E155</episode-num>
+    <desc>Top stories from coast-to-coast as reported by CTV News local journalists across Canada.</desc>
+    <date>20250725</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55945_2024_8_9_9f6270cc-d7b3-48b4-a0cc-902adc5a6152_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250725230000 +0000" stop="20250726000000 +0000">
     <title>CTV News Vancouver at Six</title>
@@ -20179,61 +20237,29 @@
     <desc>CTV News Montreal at Six</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250725151840 +0000" stop="20250725154447 +0000">
-    <title>Watts on the Grill</title>
-    <sub-title>Grilled Veggies</sub-title>
-    <episode-num system="onscreen">S02E05</episode-num>
-    <desc>Chef Spencer Watts creates four veggie dishes for the BBQ.</desc>
-    <date>20250722</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m43082_2024_2_28_201c3d22-6fcb-475c-aae2-78e264a3f645_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250726160000 +0000" stop="20250726163000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250725154447 +0000" stop="20250725161053 +0000">
-    <title>Watts on the Grill</title>
-    <sub-title>Handheld Party Foods</sub-title>
-    <episode-num system="onscreen">S02E06</episode-num>
-    <desc>Chef Spencer Watts gets the party started with mouth-watering grilled recipes!</desc>
-    <date>20250722</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m43082_2024_2_28_201c3d22-6fcb-475c-aae2-78e264a3f645_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250726163000 +0000" stop="20250726170000 +0000">
+    <title>CTV News: Your Canada</title>
+    <category>Movie</category>
+    <desc>CTV News: Your Canada</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250725161053 +0000" stop="20250725163700 +0000">
-    <title>Watts on the Grill</title>
-    <sub-title>Fire &amp; Spice</sub-title>
-    <episode-num system="onscreen">S02E07</episode-num>
-    <desc>Chef Spencer Watts kicks things up a notch with four spicy recipes on the grill.</desc>
-    <date>20250722</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m43082_2024_2_28_201c3d22-6fcb-475c-aae2-78e264a3f645_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250726170000 +0000" stop="20250726180000 +0000">
+    <title>CTV News Ottawa at Six</title>
+    <category>Movie</category>
+    <desc>CTV News Ottawa at Six</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250725163700 +0000" stop="20250725170306 +0000">
-    <title>Watts on the Grill</title>
-    <sub-title>Spanish Flare</sub-title>
-    <episode-num system="onscreen">S02E08</episode-num>
-    <desc>Chef Spencer Watts explores the barbeque culture of Spain with classic recipes.</desc>
-    <date>20250722</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m43082_2024_2_28_201c3d22-6fcb-475c-aae2-78e264a3f645_JPG_1920x1080.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250725170306 +0000" stop="20250725172913 +0000">
-    <title>Watts on the Grill</title>
-    <sub-title>The Butter Did It</sub-title>
-    <episode-num system="onscreen">S02E09</episode-num>
-    <desc>Chef Spencer Watts butters up with a menu featuring some of his favourite recipes.</desc>
-    <date>20250722</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m43082_2024_2_28_201c3d22-6fcb-475c-aae2-78e264a3f645_JPG_1920x1080.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250725172913 +0000" stop="20250725175520 +0000">
-    <title>Watts on the Grill</title>
-    <sub-title>Salt Rocks!</sub-title>
-    <episode-num system="onscreen">S02E10</episode-num>
-    <desc>Chef Spencer Watts gets creative on the grill with salt.</desc>
-    <date>20250722</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m43082_2024_2_28_201c3d22-6fcb-475c-aae2-78e264a3f645_JPG_1920x1080.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250725175520 +0000" stop="20250725182125 +0000">
-    <title>Watts on the Grill</title>
-    <sub-title>Cocoa-Q</sub-title>
-    <episode-num system="onscreen">S02E11</episode-num>
-    <desc>Chef Spencer Watts shows his sweet side with four decadent desserts.</desc>
-    <date>20250722</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m43082_2024_2_28_201c3d22-6fcb-475c-aae2-78e264a3f645_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250726180000 +0000" stop="20250726183000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250725182125 +0000" stop="20250725184732 +0000">
     <title>Watts on the Grill</title>
@@ -20619,23 +20645,61 @@
     <date>20250718</date>
     <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m38712_2024_2_28_62ffcb3b-6f13-4421-961e-f38adb31d81b_JPG_1920x1080.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250725145805 +0000" stop="20250725160245 +0000">
-    <title>Our World is on Fire</title>
-    <category>Movie</category>
-    <desc>Climate change is now a crisis, and our world is crying out. Examine some possible remedies to the emergency.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171CJX4NJCPMK_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250726153928 +0000" stop="20250726160535 +0000">
+    <title>Fish The Dish</title>
+    <sub-title>Tart</sub-title>
+    <episode-num system="onscreen">S02E12</episode-num>
+    <desc>Chef Spencer Watts creates recipes that combine sour and tart flavors with grouper clams.</desc>
+    <date>20250718</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m38712_2024_2_28_62ffcb3b-6f13-4421-961e-f38adb31d81b_JPG_1920x1080.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250725160245 +0000" stop="20250725170459 +0000">
-    <title>Dust Storm</title>
-    <category>Movie</category>
-    <desc>We investigate dust storm causes, and how to predict them and lessen their impact.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU1719EMQE5GKD6_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250726160535 +0000" stop="20250726163141 +0000">
+    <title>Fish The Dish</title>
+    <sub-title>Coffee/Tea</sub-title>
+    <episode-num system="onscreen">S02E13</episode-num>
+    <desc>Chef Spencer Watts demonstrates how a little caffeinated flavour can bring your fish dish to the next level.</desc>
+    <date>20250718</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m38712_2024_2_28_62ffcb3b-6f13-4421-961e-f38adb31d81b_JPG_1920x1080.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250725170459 +0000" stop="20250725180925 +0000">
-    <title>Our Roots, Our Future</title>
-    <category>Movie</category>
-    <desc>Scientists are studying root growth. Roots may help solve climate change and protect the environment.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171APT7P9W94B_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250726163141 +0000" stop="20250726165747 +0000">
+    <title>Fish The Dish</title>
+    <sub-title>Surf &amp; Turf</sub-title>
+    <episode-num system="onscreen">S02E14</episode-num>
+    <desc>Chef Spencer Watts shows how you can blend meat and seafood flavours to create tantalizing surf and turf dishes.</desc>
+    <date>20250718</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m38712_2024_2_28_62ffcb3b-6f13-4421-961e-f38adb31d81b_JPG_1920x1080.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250726165747 +0000" stop="20250726172354 +0000">
+    <title>Fish The Dish</title>
+    <sub-title>Whole</sub-title>
+    <episode-num system="onscreen">S02E15</episode-num>
+    <desc>Chef Spencer Watts shows how cooking with whole fish and shellfish is an opportunity for fantastic flavour.</desc>
+    <date>20250718</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m38712_2024_2_28_62ffcb3b-6f13-4421-961e-f38adb31d81b_JPG_1920x1080.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250726172354 +0000" stop="20250726175000 +0000">
+    <title>Spencer's Big 30</title>
+    <sub-title>Roast Beef Night</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Chef Spencer Watts makes a delicious family-style roast beef dinner in around 30 minutes.</desc>
+    <date>20250719</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250726175000 +0000" stop="20250726181605 +0000">
+    <title>Spencer's Big 30</title>
+    <sub-title>Fish &amp; Chips Night</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Fish and chips are always great for a quick, inexpensive family dinner.</desc>
+    <date>20250719</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250726181605 +0000" stop="20250726184212 +0000">
+    <title>Spencer's Big 30</title>
+    <sub-title>Pizza Night</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Pizza night is quick and budget-friendly as Chef Spencer Watts offers up his favourite recipes.</desc>
+    <date>20250719</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250725180925 +0000" stop="20250725183524 +0000">
     <title>House Hazards</title>
@@ -20807,19 +20871,33 @@
     <desc>Oumuamua, the first interstellar object detected from another star system to come this close to the Earth.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU1719E2BD2RKK0_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250725151731 +0000" stop="20250725162133 +0000">
-    <title>Wildest Africa</title>
-    <sub-title>Sahara: Life on the Edge</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>The Sahara is the largest desert in the world. Unique creatures adapted to one of the harshest environments.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRDQ7VDGV23_16_9.jpeg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250726161802 +0000" stop="20250726172114 +0000">
+    <title>Asteroids: A New Horizon</title>
+    <sub-title>The New Frontier</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Top space resource companies all vie for competitive advantage. The new space race is just getting started.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU1719E2BD2RKK0_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250725162133 +0000" stop="20250725172544 +0000">
-    <title>Wildest Africa</title>
-    <sub-title>Lake Turkana: Land of the Crocodile</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>Lake Turkana is at the heart of one of the harshest landscapes on the planet.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRDQ7VDGV23_16_9.jpeg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250726172114 +0000" stop="20250726174714 +0000">
+    <title>House Hazards</title>
+    <sub-title>Freak Accidents</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Witness a septic tank explosion, a grease fire, and what happens when you knock the neck off a helium tank.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRHP530M8JG_16_9.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250726174714 +0000" stop="20250726181313 +0000">
+    <title>House Hazards</title>
+    <sub-title>Cleanliness</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Brendan stresses a washer, Dan sets fire to a dryer and is a toilet really dirtier than a kitchen sink?</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRHP530M8JG_16_9.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250726181313 +0000" stop="20250726183912 +0000">
+    <title>House Hazards</title>
+    <sub-title>Party Peril</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Brendan turns his amp up to get the music popping, but the result could shatter the party vibe.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRHP530M8JG_16_9.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250725172544 +0000" stop="20250725182954 +0000">
     <title>Wildest Africa</title>
@@ -20968,23 +21046,26 @@
     <desc>Ngorongoro is a land full of wildlife, from proud lions to vast herds of wildebeest and elephants.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRDQ7VDGV23_16_9.jpeg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250725150000 +0000" stop="20250725160000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250726155319 +0000" stop="20250726165730 +0000">
+    <title>Wildest Africa</title>
+    <sub-title>Zambezi: Wild Water</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Zambezi’s long and winding journey destroys, as well as creates.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRDQ7VDGV23_16_9.jpeg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250725160000 +0000" stop="20250725170000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250726165730 +0000" stop="20250726180140 +0000">
+    <title>Wildest Africa</title>
+    <sub-title>Nile: An African Odyssey</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Ancient Egypt, one of the history’s most powerful civilizations, depended on the Nile.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRDQ7VDGV23_16_9.jpeg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250725170000 +0000" stop="20250725180000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250726180140 +0000" stop="20250726190551 +0000">
+    <title>Wildest Africa</title>
+    <sub-title>Virungas: Land of Ice and Fire</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>The Virunga Mountains are the embodiment of western fantasies about deep, dark, Africa.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRDQ7VDGV23_16_9.jpeg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250725180000 +0000" stop="20250725190000 +0000">
     <title>Evolution Earth</title>
@@ -21118,29 +21199,23 @@
     <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250725144901 +0000" stop="20250725154946 +0000">
-    <title>The U.S. East Coast</title>
-    <sub-title>The U.S. East Coast, The City and the Sea</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>The journey up the coast continues through Delaware to suburban New Jersey, and onwards into the heart of Manhattan. In Delaware, famous as a corporate tax haven, we visit a winery. In New York City we zip around with a bicycle courier and then head out to Long Island for oysters.</desc>
-    <date>20140521</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/useastcoast_e3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250726160000 +0000" stop="20250726170000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250725154946 +0000" stop="20250725165027 +0000">
-    <title>The U.S. East Coast</title>
-    <sub-title>The U.S. East Coast, Florida - The Sunshine State</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Nowhere is the American way of life as relaxed as on Florida's beaches. The Keys, a chain of islands at the far southern end of the state, reveal a more laid-back side of the USA. But all of Florida amazes -- with secluded beaches, unspoiled nature, and the legacy of the early European settlers.</desc>
-    <date>20140519</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/useastcoast_e1.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250726170000 +0000" stop="20250726180000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250725165027 +0000" stop="20250725175112 +0000">
-    <title>The U.S. East Coast</title>
-    <sub-title>The U.S. East Coast, The Heart of New England</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>From New York, the journey up the coast leads into the heart of New England. We visit Yale; spend some time in the 19th century mansions at Newport, RI; tour the coastal fishing and vacation towns of Massachusetts, and then meet a modern entrepreneur in Boston and see her rooftop gardens.</desc>
-    <date>20140522</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/useastcoast_e4.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250726180000 +0000" stop="20250726190000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250725175112 +0000" stop="20250725185158 +0000">
     <title>The U.S. East Coast</title>
@@ -21323,29 +21398,29 @@
     <date>20110712</date>
     <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/overtheislandsofafrica.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250725150316 +0000" stop="20250725160026 +0000">
-    <title>Bear Whisperer</title>
-    <sub-title>Big, Bad and Bold</sub-title>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <desc>In this episode, big black bears are rumbling into town, but even they must respect the Bear Whisperer.</desc>
-    <date>20100101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/CFXBWHS002EP001.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250726154606 +0000" stop="20250726164706 +0000">
+    <title>Over the Islands of Africa</title>
+    <sub-title>Over the Islands of Africa, Madagascar</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Spirits, Kings, Lemurs – Madagascar treats Ami to a multitude of new impressions and spectacular pictures. Director Christian Schidlowski and his team accompanied her on her trip.</desc>
+    <date>20110713</date>
+    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/overtheislandsofafrica.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250725160026 +0000" stop="20250725165733 +0000">
-    <title>Bear Whisperer</title>
-    <sub-title>You Bad Bear</sub-title>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <desc>In this episode, three young bears show up in the town of Mammoth Lakes without their mothers.</desc>
-    <date>20100101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/CFXBWHS002EP002.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250726164706 +0000" stop="20250726174819 +0000">
+    <title>Over the Islands of Africa</title>
+    <sub-title>Over the Islands of Africa, Sao Tome and Principe</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Along with photographer Rui Camilo, we travel to the West African island nation of Sao Tomé and Príncipe - in search of images that will capture the soul of this small and beautiful country.</desc>
+    <date>20110714</date>
+    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/overtheislandsofafrica.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250725165733 +0000" stop="20250725175442 +0000">
-    <title>Bear Whisperer</title>
-    <sub-title>Breaking and Entering</sub-title>
-    <episode-num system="onscreen">S02E03</episode-num>
-    <desc>The Bear Whisperer uses aversion therapy to teach the bears that bad behavior results in punishment.</desc>
-    <date>20100101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/CFXBWHS002EP003.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250726174819 +0000" stop="20250726184907 +0000">
+    <title>Over the Islands of Africa</title>
+    <sub-title>Over the Islands of Africa, Cape Verde</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Cape Verde – the islands of Saudade, of longing. For Stéphane and Richard it was a journey full of adventure, unforgettable encounters and magnificent photographs. Director Christian Schidlowski and his team accompanied them on their trip.</desc>
+    <date>20110715</date>
+    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/overtheislandsofafrica.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250725175442 +0000" stop="20250725185440 +0000">
     <title>Otters: River Masters of Yellowstone</title>
@@ -21506,6 +21581,27 @@
     <category>Movie</category>
     <desc>Scientists aim to uncover a lost, extinct world hidden in sandstone for over 140 million years.</desc>
     <date>20100101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250726160554 +0000" stop="20250726165846 +0000">
+    <title>Vanishing Dragons</title>
+    <category>Movie</category>
+    <desc>This film investigates the decline in marine iguanas and tries to determine what can stop their extinction.</desc>
+    <date>20180101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250726165846 +0000" stop="20250726175710 +0000">
+    <title>Myths of the Great White</title>
+    <category>Movie</category>
+    <desc>The great white shark is one of the world's most vilified predators. Its maligned public image arises from occasionally attacking humans, but more importantly by its popular portrayal as a man-eater.</desc>
+    <date>20060101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250726175710 +0000" stop="20250726185618 +0000">
+    <title>Sharks, Scavengers Of The Sea</title>
+    <category>Movie</category>
+    <desc>New Caledonia's lagoon is a shark paradise, where they scavenge feathers, fins, and fur for prey.</desc>
+    <date>20030101</date>
     <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
   </programme>
   </tv>
