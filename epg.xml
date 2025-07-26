@@ -19544,12 +19544,6 @@
     <display-name>Real Wild</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/09e8c6b6-368e-4275-b974-fe5e1921f64d/RealWild_Logo_White_-_Simon_Tuquabo.png" />
   </channel>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250726070000 +0000" stop="20250726080000 +0000">
-    <title>The National</title>
-    <sub-title>The National</sub-title>
-    <desc>CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.</desc>
-    <date>20250726</date>
-  </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250726080000 +0000" stop="20250726090000 +0000">
     <title>The National</title>
     <sub-title>The National</sub-title>
@@ -19705,14 +19699,6 @@
     <sub-title>This Week's Top Stories</sub-title>
     <desc>Making sense of the big stories that made news across Canada and around the world from this past week.</desc>
     <date>20250727</date>
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250726070000 +0000" stop="20250726080000 +0000">
-    <title>CTV News Calgary at Six</title>
-    <sub-title>for Thursday, July 24, 2025</sub-title>
-    <episode-num system="onscreen">S2025E174</episode-num>
-    <desc>CTV News Calgary at Six</desc>
-    <date>20250725</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/CTVNews_LG_FAST_default.png" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250726080000 +0000" stop="20250726083000 +0000">
     <title>CTV National News</title>
@@ -19936,21 +19922,11 @@
     <desc>CTV News Calgary at Six</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250726065832 +0000" stop="20250726074932 +0000">
-    <title>One World Kitchen</title>
-    <sub-title>Thai Food Inspired by Other Cultures</sub-title>
-    <episode-num system="onscreen">S02E25</episode-num>
-    <desc>Thai chef Pailin Chongchitnant shows us some Thai dishes that were inspired by food from other cultures.</desc>
-    <date>20250719</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m38713_2024_2_28_408c200b-8568-4fd6-9b05-0a4ae02bdc0a_JPG_1920x1080.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250726074932 +0000" stop="20250726081539 +0000">
-    <title>One World Kitchen</title>
-    <sub-title>Vietnamese Street Food</sub-title>
-    <episode-num system="onscreen">S03E01</episode-num>
-    <desc>It’s all about street food in this Vietnamese episode.</desc>
-    <date>20250722</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m38713_2024_2_28_408c200b-8568-4fd6-9b05-0a4ae02bdc0a_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250727080000 +0000" stop="20250727083000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250726081539 +0000" stop="20250726084146 +0000">
     <title>One World Kitchen</title>
@@ -20376,11 +20352,29 @@
     <date>20250722</date>
     <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m38713_2024_2_28_408c200b-8568-4fd6-9b05-0a4ae02bdc0a_JPG_1920x1080.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250726064304 +0000" stop="20250726074815 +0000">
-    <title>Tsunami: Facing the Global Threat</title>
-    <category>Movie</category>
-    <desc>Tsunamis are so sudden and powerful that in a matter of minutes, they can wipe out a coastline.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRN2P7QECZ8IXNPY_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250727071910 +0000" stop="20250727074517 +0000">
+    <title>One World Kitchen</title>
+    <sub-title>Vietnam's Love for Noodles</sub-title>
+    <episode-num system="onscreen">S03E09</episode-num>
+    <desc>Fun host Lisa Nguyen shows us just how versatile noodles are.</desc>
+    <date>20250722</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m38713_2024_2_28_408c200b-8568-4fd6-9b05-0a4ae02bdc0a_JPG_1920x1080.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250727074517 +0000" stop="20250727081123 +0000">
+    <title>One World Kitchen</title>
+    <sub-title>Hearty Greek Fare</sub-title>
+    <episode-num system="onscreen">S03E10</episode-num>
+    <desc>Joanna Chery warms up kitchen with three hearty Greek recipes.</desc>
+    <date>20250722</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m38713_2024_2_28_408c200b-8568-4fd6-9b05-0a4ae02bdc0a_JPG_1920x1080.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250727081123 +0000" stop="20250727083729 +0000">
+    <title>One World Kitchen</title>
+    <sub-title>Stuffed</sub-title>
+    <episode-num system="onscreen">S03E11</episode-num>
+    <desc>Lebanese home cook Jasmin Ibrahim shows us a meal is best served stuffed.</desc>
+    <date>20250722</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m38713_2024_2_28_408c200b-8568-4fd6-9b05-0a4ae02bdc0a_JPG_1920x1080.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250726074815 +0000" stop="20250726084622 +0000">
     <title>The Next Great Extinction Event</title>
@@ -20581,12 +20575,12 @@
     <desc>Scientists are building a new type of rocket engine using plasma to revolutionize space travel.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/JE96NYKYDMKRQ5ZI75NU5U_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250726061552 +0000" stop="20250726072002 +0000">
-    <title>Wildest Africa</title>
-    <sub-title>Mount Kenya: African Heart of Ice</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Mount Kenya soars over 5km into the air. It is the second highest mountain in Africa.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRDQ7VDGV23_16_9.jpeg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250727073846 +0000" stop="20250727084329 +0000">
+    <title>Space Colonies</title>
+    <sub-title>The Moon</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Space colonization may start with the Moon. Getting material there may be relatively simple. But risks exist.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU1719EB8XSP2ID_16_9.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250726072002 +0000" stop="20250726082413 +0000">
     <title>Wildest Africa</title>
@@ -20749,11 +20743,12 @@
     <desc>Ancient Egypt, one of the history’s most powerful civilizations, depended on the Nile.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRDQ7VDGV23_16_9.jpeg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250726070000 +0000" stop="20250726080000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250727075551 +0000" stop="20250727090001 +0000">
+    <title>Wildest Africa</title>
+    <sub-title>Virungas: Land of Ice and Fire</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>The Virunga Mountains are the embodiment of western fantasies about deep, dark, Africa.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRDQ7VDGV23_16_9.jpeg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250726080000 +0000" stop="20250726090000 +0000">
     <title>Evolution Earth</title>
@@ -20899,12 +20894,11 @@
     <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250726070943 +0000" stop="20250726080831 +0000">
-    <title>Bavaria's Alpine Kingdom</title>
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250727080000 +0000" stop="20250727090000 +0000">
+    <title>Evolution Earth</title>
     <category>Movie</category>
-    <desc>There are sparkling palaces from ice and snow, like those found in a fairytale. The icy castles are the phenomenal work of Mother Nature but man had a hand in the magnificent stone castles of the region. The spectacular and histrionic mountains of the Bavarian Alps challenge wildlife and the people who live there and the rocky ramparts of this mountain kingdom are built of limestone and fossil rocks that tell of its origins beneath the sea. Millions of visitors from all over the world come to Bavaria every year to witness the mysticism of the landscape. Kings and Queens, tourist and locals, all are welcomed in the fantastic alpine kingdom. Early summer often comes with the threat of storms that bring floods that scour the land and threaten many creatures. But farmers risk these dangers to take their herds to the highest pastures, where they can graze on the sweetest flower-filled meadows. And later from the high-quality milk produced by their herds, the famers make highly prized cheese. Humankind lives among eagle owls, chamoix, wild cats, stoats and ravens up in these mountains.</desc>
-    <date>20130708</date>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/30633-32681/62781844-Plex-Portrait_v1.jpg" />
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250726080831 +0000" stop="20250726090100 +0000">
     <title>Treasure of Lima - Buried Exhibition</title>
@@ -21091,12 +21085,13 @@
     <date>20090506</date>
     <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/underthespellofhorses.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250726062641 +0000" stop="20250726072803 +0000">
-    <title>Giants Of Fortune - The Whale Sharks Of Oslob</title>
-    <category>Movie</category>
-    <desc>Typhoons and overfishing in Oslob, a Filipino village, have severely affected fishermen</desc>
-    <date>20140101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250727073418 +0000" stop="20250727083508 +0000">
+    <title>Under the Spell of Horses</title>
+    <sub-title>Under the Spell of the Horses - Morocco</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Once a year the royal city of Meknes is transformed into an oriental camp. Two thousand curious onlookers gather round the square. More than five hundred riders are expected to take part in this major Fantasia, a warlike display of horsemanship. 56-year old Lachsen Slimani is also obsessed with riding games. He lives with his family on a remote highland plateau in the Middle Atlas. Lachsen is proud because his 18-year old son Mohammed wants to follow in his father’s footsteps. For that he needs his own horse, so the tradition goes. Lachsen wants to fulfil this dream for his son. So, in order to get the money together for the horse, he takes off on an adventure and is travelling to Quarzazate, which is also called the Hollywood of the desert.</desc>
+    <date>20090504</date>
+    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/underthespellofhorses.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250726072803 +0000" stop="20250726083300 +0000">
     <title>Great White Shark: New Perspectives on an Ancient Predator</title>
@@ -21274,5 +21269,13 @@
     <desc>Filmed in Yellowstone National Park, this film follows the packs of two rare alpha female White Wolves.</desc>
     <date>20170101</date>
     <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/HEWWWOS001EP001.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250727075953 +0000" stop="20250727090146 +0000">
+    <title>White Wolf</title>
+    <sub-title>Canyon Pack</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Filmed in Yellowstone National Park, this film follows the packs of two rare alpha female White Wolves.</desc>
+    <date>20170101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/HEWWWOS001EP002.jpg" />
   </programme>
   </tv>
