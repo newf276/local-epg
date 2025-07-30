@@ -19619,18 +19619,6 @@
     <display-name>Real Wild</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/09e8c6b6-368e-4275-b974-fe5e1921f64d/RealWild_Logo_White_-_Simon_Tuquabo.png" />
   </channel>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250730163000 +0000" stop="20250730200000 +0000">
-    <title>Today's Top Stories</title>
-    <sub-title>Today's Top Stories</sub-title>
-    <desc>What's happening across Canada and around the world.</desc>
-    <date>20250730</date>
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250730200000 +0000" stop="20250730203000 +0000">
-    <title>About That</title>
-    <sub-title>About That</sub-title>
-    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
-    <date>20250730</date>
-  </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250730203000 +0000" stop="20250730230000 +0000">
     <title>Today's Top Stories</title>
     <sub-title>Today's Top Stories</sub-title>
@@ -19763,45 +19751,17 @@
     <desc>What's happening across Canada and around the world.</desc>
     <date>20250731</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250730180000 +0000" stop="20250730183000 +0000">
-    <title>CTV National News with Omar Sachedina</title>
-    <sub-title>CTV National News for Tuesday, July 29, 2025</sub-title>
-    <episode-num system="onscreen">S2025E120</episode-num>
-    <desc>CTV National News with Omar Sachedina is Canada's #1 national newscast</desc>
-    <date>20250730</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29593_2024_2_22_a0b77432-b521-4b92-8fd6-df17c3828c96_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250731200000 +0000" stop="20250731203000 +0000">
+    <title>About That</title>
+    <sub-title>About That</sub-title>
+    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
+    <date>20250731</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250730183000 +0000" stop="20250730190000 +0000">
-    <title>CTV News: Across Canada</title>
-    <sub-title>for Wednesday, July 30, 2025</sub-title>
-    <episode-num system="onscreen">S2025E158</episode-num>
-    <desc>Top stories from coast-to-coast as reported by CTV News local journalists across Canada.</desc>
-    <date>20250730</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55945_2024_8_9_9f6270cc-d7b3-48b4-a0cc-902adc5a6152_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250730190000 +0000" stop="20250730200000 +0000">
-    <title>CTV News Calgary at Six</title>
-    <sub-title>for Tuesday, July 29, 2025</sub-title>
-    <episode-num system="onscreen">S2025E227</episode-num>
-    <desc>CTV News Calgary at Six</desc>
-    <date>20250730</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/CTVNews_LG_FAST_default.png" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250730200000 +0000" stop="20250730203000 +0000">
-    <title>CTV National News with Omar Sachedina</title>
-    <sub-title>CTV National News for Tuesday, July 29, 2025</sub-title>
-    <episode-num system="onscreen">S2025E120</episode-num>
-    <desc>CTV National News with Omar Sachedina is Canada's #1 national newscast</desc>
-    <date>20250730</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29593_2024_2_22_a0b77432-b521-4b92-8fd6-df17c3828c96_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250730203000 +0000" stop="20250730210000 +0000">
-    <title>CTV News: Your Canada</title>
-    <sub-title>for Wednesday, July 30, 2025</sub-title>
-    <episode-num system="onscreen">S2025E178</episode-num>
-    <desc>Stories that showcase what makes Canada unique.</desc>
-    <date>20250730</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250731203000 +0000" stop="20250731230000 +0000">
+    <title>Today's Top Stories</title>
+    <sub-title>Today's Top Stories</sub-title>
+    <desc>What's happening across Canada and around the world.</desc>
+    <date>20250731</date>
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250730210000 +0000" stop="20250730220000 +0000">
     <title>CTV News Edmonton at Six</title>
@@ -20033,61 +19993,35 @@
     <desc>CTV National News</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250730173501 +0000" stop="20250730182445 +0000">
-    <title>The Good Stuff with Mary Berg</title>
-    <sub-title>Friday, April 11, 2025</sub-title>
-    <episode-num system="onscreen">S02E117</episode-num>
-    <desc>From fashion and hair makeovers to recipes and DIY projects, viewers vote on how they want each segment to turn out.</desc>
-    <date>20250711</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54775_2025_4_4_582bd9bf-59ae-4419-9c55-c32dd46adf0a_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250731183000 +0000" stop="20250731190000 +0000">
+    <title>CTV News: Across Canada</title>
+    <category>Movie</category>
+    <desc>CTV News: Across Canada</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250730182445 +0000" stop="20250730185006 +0000">
-    <title>Mary Makes It Easy</title>
-    <sub-title>Pie in the Sky</sub-title>
-    <episode-num system="onscreen">S01E19</episode-num>
-    <desc>Pie making can be daunting, but Mary provides a pastry crash course with three different types of dough.</desc>
-    <date>20250616</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250731190000 +0000" stop="20250731200000 +0000">
+    <title>CTV News Calgary at Six</title>
+    <category>Movie</category>
+    <desc>CTV News Calgary at Six</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250730185006 +0000" stop="20250730191527 +0000">
-    <title>Mary Makes It Easy</title>
-    <sub-title>Desk Lunch</sub-title>
-    <episode-num system="onscreen">S01E20</episode-num>
-    <desc>Whether you’re working from home or at the office, Mary’s recipes mean you don’t have to sacrifice a tasty lunch for convenience.</desc>
-    <date>20250616</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250731200000 +0000" stop="20250731203000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250730191527 +0000" stop="20250730194048 +0000">
-    <title>Mary Makes It Easy</title>
-    <sub-title>May Contain</sub-title>
-    <episode-num system="onscreen">S01E21</episode-num>
-    <desc>Mary shows you how to cater to food intolerances and allergies by amping up the flavour instead of using blah ingredient substitutions.</desc>
-    <date>20250613</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250731203000 +0000" stop="20250731210000 +0000">
+    <title>CTV News: Your Canada</title>
+    <category>Movie</category>
+    <desc>CTV News: Your Canada</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250730194048 +0000" stop="20250730200608 +0000">
-    <title>Mary Makes It Easy</title>
-    <sub-title>Spice, Spice, Baby</sub-title>
-    <episode-num system="onscreen">S01E22</episode-num>
-    <desc>Mary takes a spice-fueled adventure around the world and helps you navigate the grocery store spice aisle.</desc>
-    <date>20250616</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250730200608 +0000" stop="20250730203129 +0000">
-    <title>Mary Makes It Easy</title>
-    <sub-title>Picky Eaters</sub-title>
-    <episode-num system="onscreen">S01E23</episode-num>
-    <desc>Whether you’re cooking for finicky friends or tricky tots, Mary’s got it covered with strategies to feed even the pickiest eaters.</desc>
-    <date>20250613</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250730203129 +0000" stop="20250730205649 +0000">
-    <title>Mary Makes It Easy</title>
-    <sub-title>Guests to Impress</sub-title>
-    <episode-num system="onscreen">S01E24</episode-num>
-    <desc>Mary recommends a retro theme for impressing guests, and these old-school recipes with a special Mary twist.</desc>
-    <date>20250616</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250731210000 +0000" stop="20250731220000 +0000">
+    <title>CTV News Edmonton at Six</title>
+    <category>Movie</category>
+    <desc>CTV News Edmonton at Six</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250730205649 +0000" stop="20250730212209 +0000">
     <title>Mary Makes It Easy</title>
@@ -20457,26 +20391,61 @@
     <date>20250616</date>
     <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250730175827 +0000" stop="20250730190337 +0000">
-    <title>Voyage of Darwin's Beagle: On The Future of Species</title>
-    <sub-title>The Final Countdown</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>After crossing the Strait of Magellan, Sarah Darwin retraces her ancestor’s journey into the Andes Mountains.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRGJ131569J_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250731184240 +0000" stop="20250731190802 +0000">
+    <title>Mary Makes It Easy</title>
+    <sub-title>Wine and Dine</sub-title>
+    <episode-num system="onscreen">S02E13</episode-num>
+    <desc>Mary shakes up a cocktail of recipes that use beer and wine to load up on flavor.</desc>
+    <date>20250613</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250730190337 +0000" stop="20250730200759 +0000">
-    <title>Voyage of Darwin's Beagle: On The Future of Species</title>
-    <sub-title>The Paradise of Competition</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Sarah arrives at the Galapagos Islands and meets the islands' most famous reptilian and feathered inhabitants.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRGJ131569J_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250731190802 +0000" stop="20250731193325 +0000">
+    <title>Mary Makes It Easy</title>
+    <sub-title>My Fave Missed Steak</sub-title>
+    <episode-num system="onscreen">S02E14</episode-num>
+    <desc>Mary's veg versions of meaty classics include burgers, nugs and even bacon.</desc>
+    <date>20250613</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250730200759 +0000" stop="20250730211305 +0000">
-    <title>Voyage of Darwin's Beagle: On The Future of Species</title>
-    <sub-title>Toolbox of Survival</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Sarah examines the effects that human habitation, invasive species, and climate change have had in Australia.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRGJ131569J_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250731193325 +0000" stop="20250731195847 +0000">
+    <title>Mary Makes It Easy</title>
+    <sub-title>Batch Made in Heaven</sub-title>
+    <episode-num system="onscreen">S02E15</episode-num>
+    <desc>Taking cooking off the to-do list with Mary's batch-made meals to fill the freezer.</desc>
+    <date>20250613</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250731195847 +0000" stop="20250731202410 +0000">
+    <title>Mary Makes It Easy</title>
+    <sub-title>Overnight Guests</sub-title>
+    <episode-num system="onscreen">S02E16</episode-num>
+    <desc>Mary Berg takes viewers step-by-step through recipes that solve everyday cooking conundrums.</desc>
+    <date>20250616</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250731202410 +0000" stop="20250731204932 +0000">
+    <title>Mary Makes It Easy</title>
+    <sub-title>Scrap Cooking</sub-title>
+    <episode-num system="onscreen">S02E17</episode-num>
+    <desc>Making Parmesan corn chowder, twice baked potato casserole and cinnamon oat pancakes with scraps.</desc>
+    <date>20250613</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250731204932 +0000" stop="20250731211454 +0000">
+    <title>Mary Makes It Easy</title>
+    <sub-title>Side Show</sub-title>
+    <episode-num system="onscreen">S02E18</episode-num>
+    <desc>Mary Berg takes it step by step through recipes guaranteed to impress without the stress.</desc>
+    <date>20250616</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250731211454 +0000" stop="20250731214017 +0000">
+    <title>Mary Makes It Easy</title>
+    <sub-title>Comfort Cooking</sub-title>
+    <episode-num system="onscreen">S02E19</episode-num>
+    <desc>Mary Berg takes it step by step through recipes guaranteed to impress without the stress.</desc>
+    <date>20250616</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250730211305 +0000" stop="20250730221517 +0000">
     <title>Megastructures</title>
@@ -20632,68 +20601,23 @@
     <desc>Sarah Darwin visits the remaining members of a native tribe wiped out following contact with European disease.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRGJ131569J_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250730173138 +0000" stop="20250730183423 +0000">
-    <title>Wild Faces of Switzerland</title>
-    <sub-title>Winter in the Swiss Alps</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>The ibex, marmot, and European adder have all developed strategies to survive the harsh alpine winter.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171AFHVCCICM7_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250731185953 +0000" stop="20250731195745 +0000">
+    <title>The Age of Hubble</title>
+    <category>Movie</category>
+    <desc>The Hubble Space Telescope has delivered unprecedented discoveries about the nature of our Universe, and more.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/JE96NYKYDMKRQ43VESJC65_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250730183423 +0000" stop="20250730185225 +0000">
-    <title>Fascinating Places</title>
-    <sub-title>The Wild West Coast</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>The West Coast of Madagascar is remote and inhospitable but home to an astonishing array of animals.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171AE5DNAME14_16_9.jpeg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250731195745 +0000" stop="20250731202925 +0000">
+    <title>Search for the Cosmic Dawn: The James Webb Space Telescope</title>
+    <category>Movie</category>
+    <desc>The James Webb Space telescope: on the hunt for the events that gave the universe its start</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171BA6YUNQWIY_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250730185225 +0000" stop="20250730191119 +0000">
-    <title>Fascinating Places</title>
-    <sub-title>The Forest of the Northeast</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>The Northeast of Madagascar is a major trading center and one of the most species-rich regions in the world.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171AE5DNAME14_16_9.jpeg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250730191119 +0000" stop="20250730192942 +0000">
-    <title>Fascinating Places</title>
-    <sub-title>The Multifaceted Inland</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Madagascar is an island paradise in the Indian Ocean, home to fun-loving folk and a unique natural landscape.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171AE5DNAME14_16_9.jpeg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250730192942 +0000" stop="20250730194822 +0000">
-    <title>Fascinating Places</title>
-    <sub-title>Black Forest</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>The Black Forest captivates all who visit and has a reputation for its unique landscape and inhabitants.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171AE5DNAME14_16_9.jpeg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250730194822 +0000" stop="20250730200650 +0000">
-    <title>Fascinating Places</title>
-    <sub-title>Wilderness In the Heart of Europe</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>The Vosges are home to countless species, encompassing mountains, valleys, forests, and fields.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171AE5DNAME14_16_9.jpeg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250730200650 +0000" stop="20250730202551 +0000">
-    <title>Fascinating Places</title>
-    <sub-title>In the Valley of the Storks</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>The emblem of The Vosges is the stork. Once gone almost entirely, there are now 400 resident breeding pairs.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171AE5DNAME14_16_9.jpeg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250730202551 +0000" stop="20250730204437 +0000">
-    <title>Fascinating Places</title>
-    <sub-title>On Safari in Kenya’s Nature Paradise</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>The Maasai Mara is one of the most breathtaking animal habitats in the world.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171AE5DNAME14_16_9.jpeg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250730204437 +0000" stop="20250730210336 +0000">
-    <title>Fascinating Places</title>
-    <sub-title>Andes</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>There are few places on earth that are closer to the stars than the high Andes.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171AE5DNAME14_16_9.jpeg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250731202925 +0000" stop="20250731213633 +0000">
+    <title>The Mystery of Dark Matter</title>
+    <category>Movie</category>
+    <desc>Scientists studying the infinitely large and the infinitely small join forces to discover what dark matter is.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRMHLGJURZH81IEA_2_3.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250730210336 +0000" stop="20250730212238 +0000">
     <title>Fascinating Places</title>
@@ -20965,23 +20889,25 @@
     <desc>Earth's stores of ice on Greenland and Antarctica are melting, and sea levels rising. Where is Earth headed?</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRMHLGKBR8G610GS_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250730180000 +0000" stop="20250730190000 +0000">
-    <title>Evolution Earth</title>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250731184536 +0000" stop="20250731194927 +0000">
+    <title>Antarctica</title>
     <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+    <desc>Explore Antarctica, one of the world's most beautiful, yet inhospitable, landscapes.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171ACXZPIENJB_2_3.jpeg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250730190000 +0000" stop="20250730200000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250731194927 +0000" stop="20250731204937 +0000">
+    <title>Facing Forces of Nature</title>
+    <sub-title>Asteroids</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>An asteroid could be barreling toward Earth at any time, now or in the future. Only science can save us.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171CM82POYQJZ_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250730200000 +0000" stop="20250730210000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250731204937 +0000" stop="20250731214933 +0000">
+    <title>Facing Forces of Nature</title>
+    <sub-title>Tornadoes</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Tornadoes: Can we use modern technology to predict the emergence and path of this violent force of nature?</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171CM82POYQJZ_16_9.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250730210000 +0000" stop="20250730220000 +0000">
     <title>Evolution Earth</title>
@@ -21115,29 +21041,23 @@
     <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250730181032 +0000" stop="20250730190535 +0000">
-    <title>One Year in Norway's Lofoten</title>
-    <sub-title>One Year in Norway's Lofoten: Episode 1</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Winter means more than just the beginning of the year for the people of Lofoten: For more than a thousand years, Lofoten has been a hub for cod fishing, with seasons lasting from February to April as huge shoals migrate from the Barents Sea to these waters. During these hectic months, more than 65,000 tons of fish are brought to shore, securing the income for the whole of Lofoten for years to come. Around a quarter of the fish caught ends up on lines to dry upon racks. From a young age, the children from the fishing villages get to earn some pocket money by cutting cod tongues and selling the produce as a delicacy appreciated by the locals.</desc>
-    <date>20200821</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/ONE%2520YEAR%2520IN%2520NORWAY%25E2%2580%2598S%2520LOFOTEN%2520EPISODE%25201_Landscape_V1.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250731190000 +0000" stop="20250731200000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250730190535 +0000" stop="20250730200000 +0000">
-    <title>One Year in Norway's Lofoten</title>
-    <sub-title>One Year in Norway's Lofoten: Episode 2</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Almost unnoticeably, spring turns into summer. The days become longer and longer, with a never-setting sun. People who have spent their winter and spring working hard can finally enjoy their own nature, even though the temperature is only slightly warmer. Lofoten is sparsely populated, just 24,000 people live here. Unstad is one of its smallest communities with only 15 inhabitants, but despite that, it has become a hotspot for arctic surf and is host to the northern-most surf center in the world. Surfers from all over the globe come to surf in the arctic water.</desc>
-    <date>20200821</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/ONE%2520YEAR%2520IN%2520NORWAY%25E2%2580%2598S%2520LOFOTEN%2520EPISODE%25202_Landscape_V1.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250731200000 +0000" stop="20250731210000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250730200000 +0000" stop="20250730205103 +0000">
-    <title>The Secret world of Herbs</title>
-    <sub-title>The Secret World of Herbs - In Provence</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Its native fragrant flowers and aromatic herbs have made the Provence a brand known worldwide. The wealth of flora found in this region, between the French Alps and the Mediterranean, is unequalled among the French provinces. Around Sault, near Mont Ventoux, the valleys and high plains are carpeted with bright violet: In the hot climate of the South of France, lavender blooms and exudes its fragrance. Monastic healers have been using its aromatic medicinal oil since the Middle Ages. And today an entire industry is based on the trade with this fragrant flower. Yet the livelihood of Provençal lavender farmers is imperiled. In France’s major lavender-growing region, the “Plateau de Valensole”, our viewers encounter Gérard Blanc, who has been hit particularly hard. The lavender farmer lost sixty percent of his harvest to one tiny insect: the leafhopper. This insect has already destroyed half of the lavender acreage, bumping France from its market position as the world’s top producer of lavender oil. The film visits a resolute farmer who, not about to give up, is testing methods to fend off the voracious insect.</desc>
-    <date>20160101</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/SecretWorldOfHerbs_e01.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250731210000 +0000" stop="20250731220000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250730205103 +0000" stop="20250730214209 +0000">
     <title>The Secret world of Herbs</title>
@@ -21307,26 +21227,27 @@
     <date>20170520</date>
     <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/CHILDREN%2520OF%2520THE%2520SUN%2520-%2520WILD%2520BEES%2520%2526%2520BUTTERFLIES%2520EPISODE%25201_V1_Landscape.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250730174731 +0000" stop="20250730184845 +0000">
-    <title>Giant Sea Serpent, Meet The Myth</title>
-    <category>Movie</category>
-    <desc>Scientific boys off French Riviera uncover secrets of the giant oarfish, likely the sea serpent myth's source.</desc>
-    <date>20210101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250731190404 +0000" stop="20250731200544 +0000">
+    <title>Children of the Sun</title>
+    <sub-title>Children of the Sun - Wild Bees</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Most people associate honey producing insects with the name “BEE“. Few realize that there are over 560 different species of bees - most of them live their lives “busy as a bee“ but some “abuse“ other insects and others are even known to be murderers. The film “Wild Bees” shows the incredible diversity and the stunning adaptations of our “BEES” to various habitats and diverse living conditions. Fascinating fights, sensational performances, imposing structures and colorful individuals – the world of “Wild Bees” offers all of this and more.</desc>
+    <date>20170520</date>
+    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/CHILDREN%2520OF%2520THE%2520SUN%2520-%2520WILD%2520BEES%2520%2526%2520BUTTERFLIES%2520EPISODE%25202_V1_Landscape.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250730184845 +0000" stop="20250730195000 +0000">
-    <title>Saving the Dinosaur Fish</title>
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250731200544 +0000" stop="20250731204013 +0000">
+    <title>Mantises - Masters of Deception</title>
     <category>Movie</category>
-    <desc>Rory Moore fights to save the endangered sturgeon, protecting its future in the Caspian Sea.</desc>
-    <date>20200101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+    <desc>They are killers. They kill with unbelievable precision. They fight Kung Fu style and are seen in Japan as a symbol of vigilance - the mantises. Their triangular head with its unique flexibility is conspicuous. Two overdimensioned eyes fixate the distance to their prey rapidly and three-dimensionally. The chest segment of the mantis is prolonged and equipped with spiny appendages that can spear their prey as fast as a jack knife. The mysterious aura that surrounds the praying mantis has a lot to do with the fact that they are rarely seen. They have adapted to their surroundings perfectly. No matter whether leaves, blossoms, tree bark, sandy floors or even orchids - the mantis adjusts to all environments.</desc>
+    <date>20190819</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/::episodes/33584-35632/68780888-Samsung-Thumbnail_v1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250730195000 +0000" stop="20250730204811 +0000">
-    <title>River Jaws</title>
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250731204013 +0000" stop="20250731214033 +0000">
+    <title>Follow Your Cat</title>
     <category>Movie</category>
-    <desc>Since 1950, Europe's largest freshwater fish, the catfish, has harmed pikes, pigeons, and bathers.</desc>
-    <date>20150101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+    <desc>Follow us while we follow cats on their hunting grounds for mice and birds. Experience the double life of your domestic tiger... she will lead you on adventures that you never thought were possible. With a behavioural scientist that specializes in cats and modern technology we follow the cat on their wanderings into the wild. She maps their routes, unveils their secret favourite places, chronicles their territorial conquests, and shows us the entertaining habits of this enigmatic creature.</desc>
+    <date>20160921</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/29648-31696/60757534-Samsung-Thumbnail_v1.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250730204811 +0000" stop="20250730221836 +0000">
     <title>In The Land Of The Moose</title>
@@ -21484,5 +21405,29 @@
     <desc>The Galapagos Archipelago's diverse biodiversity is attributed to the Pacific's Humboldt</desc>
     <date>20170101</date>
     <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/ALBWGAS001EP001.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250731191656 +0000" stop="20250731201517 +0000">
+    <title>Wild Galapagos Series 01 Episode 02</title>
+    <sub-title>Episode 2</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>home to diverse creatures, inspired Charles Darwin's evolution theory due to their unique adaptations</desc>
+    <date>20170101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/ALBWGAS001EP002.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250731201517 +0000" stop="20250731211555 +0000">
+    <title>Equator Specials</title>
+    <sub-title>Power of the Sun</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>The Equatorial sun burns deep into the lives of animals across three continents</desc>
+    <date>20060401</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/BL1EQSS001EP001.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250731211555 +0000" stop="20250731221619 +0000">
+    <title>Equator Specials</title>
+    <sub-title>Challenge of the Cold</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>In three vastly different equatorial zones life is a finely balanced between extremes of heat and cold.</desc>
+    <date>20060401</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/BL1EQSS001EP002.jpg" />
   </programme>
   </tv>
