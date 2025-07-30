@@ -19660,30 +19660,6 @@
     <display-name>Real Wild</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/09e8c6b6-368e-4275-b974-fe5e1921f64d/RealWild_Logo_White_-_Simon_Tuquabo.png" />
   </channel>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250730130000 +0000" stop="20250730140000 +0000">
-    <title>The National</title>
-    <sub-title>The National</sub-title>
-    <desc>CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.</desc>
-    <date>20250730</date>
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250730140000 +0000" stop="20250730150000 +0000">
-    <title>CBC News: Morning</title>
-    <sub-title>CBC News: Morning</sub-title>
-    <desc>What do you need to know about the world around you? Heather Hiscox takes the helm as the anchor for this weekday-morning news program to tell you. Joining her is Colleen Jones with weather and sports info., and Danielle Bochove with all you need to know about the business world.</desc>
-    <date>20250730</date>
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250730150000 +0000" stop="20250730153000 +0000">
-    <title>About That</title>
-    <sub-title>About That</sub-title>
-    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
-    <date>20250730</date>
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250730153000 +0000" stop="20250730160000 +0000">
-    <title>Today's Top Stories</title>
-    <sub-title>Today's Top Stories</sub-title>
-    <desc>What's happening across Canada and around the world.</desc>
-    <date>20250730</date>
-  </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250730160000 +0000" stop="20250730163000 +0000">
     <title>About That</title>
     <sub-title>About That</sub-title>
@@ -19804,37 +19780,29 @@
     <desc>CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.</desc>
     <date>20250731</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250730130000 +0000" stop="20250730140000 +0000">
-    <title>CTV News Toronto at Six</title>
-    <sub-title>for Tuesday, July 29, 2025</sub-title>
-    <episode-num system="onscreen">S2025E317</episode-num>
-    <desc>CTV News Toronto at Six</desc>
-    <date>20250730</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29736_2024_6_13_80514d3f-90ee-4070-a6ba-398ec3f8081a_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250731140000 +0000" stop="20250731150000 +0000">
+    <title>CBC News: Morning</title>
+    <sub-title>CBC News: Morning</sub-title>
+    <desc>What do you need to know about the world around you? Heather Hiscox takes the helm as the anchor for this weekday-morning news program to tell you. Joining her is Colleen Jones with weather and sports info., and Danielle Bochove with all you need to know about the business world.</desc>
+    <date>20250731</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250730140000 +0000" stop="20250730143000 +0000">
-    <title>CTV National News with Sandie Rinaldo</title>
-    <sub-title>for Tuesday, July 29, 2025</sub-title>
-    <episode-num system="onscreen">S2025E146</episode-num>
-    <desc>Watch CTV National News with Sandie Rinaldo</desc>
-    <date>20250730</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55373_2024_2_22_4ed6902f-672f-4fc5-83f4-d013fa03684a_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250731150000 +0000" stop="20250731153000 +0000">
+    <title>About That</title>
+    <sub-title>About That</sub-title>
+    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
+    <date>20250731</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250730143000 +0000" stop="20250730150000 +0000">
-    <title>CTV News: Across Canada</title>
-    <sub-title>for Wednesday, July 30, 2025</sub-title>
-    <episode-num system="onscreen">S2025E158</episode-num>
-    <desc>Top stories from coast-to-coast as reported by CTV News local journalists across Canada.</desc>
-    <date>20250730</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55945_2024_8_9_9f6270cc-d7b3-48b4-a0cc-902adc5a6152_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250731153000 +0000" stop="20250731160000 +0000">
+    <title>Today's Top Stories</title>
+    <sub-title>Today's Top Stories</sub-title>
+    <desc>What's happening across Canada and around the world.</desc>
+    <date>20250731</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250730150000 +0000" stop="20250730160000 +0000">
-    <title>CTV News Ottawa at Six</title>
-    <sub-title>for Tuesday, July 29, 2025</sub-title>
-    <episode-num system="onscreen">S2025E317</episode-num>
-    <desc>CTV News Ottawa at Six</desc>
-    <date>20250730</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29884_2024_6_13_ee9988fa-1dc2-42f1-b909-8b2cba4cb0ac_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250731160000 +0000" stop="20250731163000 +0000">
+    <title>About That</title>
+    <sub-title>About That</sub-title>
+    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
+    <date>20250731</date>
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250730160000 +0000" stop="20250730163000 +0000">
     <title>CTV National News with Omar Sachedina</title>
@@ -20088,37 +20056,29 @@
     <desc>CTV News Toronto at Six</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250730131724 +0000" stop="20250730134331 +0000">
-    <title>Cook Like a Chef</title>
-    <sub-title>Soup</sub-title>
-    <episode-num system="onscreen">S01E13</episode-num>
-    <desc>Chef Craig Wong shares his secrets to delicious restaurant worthy soups.</desc>
-    <date>20240408</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m47040_2024_2_28_81d05199-71d4-445d-b2c9-86b0c222dc58_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250731140000 +0000" stop="20250731143000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250730134331 +0000" stop="20250730140937 +0000">
-    <title>Cook Like a Chef</title>
-    <sub-title>Dairy</sub-title>
-    <episode-num system="onscreen">S01E14</episode-num>
-    <desc>Chef Natalia Machado demonstrates techniques for making your own yogurts and cheese.</desc>
-    <date>20240408</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m47040_2024_2_28_81d05199-71d4-445d-b2c9-86b0c222dc58_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250731143000 +0000" stop="20250731150000 +0000">
+    <title>CTV News: Across Canada</title>
+    <category>Movie</category>
+    <desc>CTV News: Across Canada</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250730140937 +0000" stop="20250730150127 +0000">
-    <title>The Good Stuff with Mary Berg</title>
-    <sub-title>Monday, July 21, 2025</sub-title>
-    <episode-num system="onscreen">S02E178</episode-num>
-    <desc>Mary's hot dogs 3 ways; cooling outfits and outdoor products for pets; pet-friendly dining in Canada; Stephanie Beatriz chats Twisted Metal.</desc>
-    <date>20250721</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54775_2025_4_4_582bd9bf-59ae-4419-9c55-c32dd46adf0a_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250731150000 +0000" stop="20250731160000 +0000">
+    <title>CTV News Montreal at Six</title>
+    <category>Movie</category>
+    <desc>CTV News Montreal at Six</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250730150127 +0000" stop="20250730155317 +0000">
-    <title>The Good Stuff with Mary Berg</title>
-    <sub-title>Tuesday, July 22, 2025</sub-title>
-    <episode-num system="onscreen">S02E179</episode-num>
-    <desc>Mary's sheetpan shrimp tacos; elevate drinks with fancy ice cubes; summer gardening dilemmas; summer hair dilemmas.</desc>
-    <date>20250722</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54775_2025_4_4_582bd9bf-59ae-4419-9c55-c32dd46adf0a_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250731160000 +0000" stop="20250731163000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250730155317 +0000" stop="20250730164509 +0000">
     <title>The Good Stuff with Mary Berg</title>
@@ -20464,23 +20424,61 @@
     <date>20250719</date>
     <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m46144_2024_2_28_0517a8ec-01a6-4ac7-8dc9-4c1d57e1d54a_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250730131107 +0000" stop="20250730134217 +0000">
-    <title>Day of the Asteroid</title>
-    <category>Movie</category>
-    <desc>Armed with new defensive technologies, scientists are getting ready for the Day of the Asteroid.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/1JAIHT965NB3R818EFJJJZF_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250731134129 +0000" stop="20250731140736 +0000">
+    <title>Let's Brunch</title>
+    <sub-title>Champagne Brunch</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>Champagne, lobster, and homemade scones, oh my! Vanessa Gianfrancesco cooks up an indulgent brunch.</desc>
+    <date>20250719</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m46144_2024_2_28_0517a8ec-01a6-4ac7-8dc9-4c1d57e1d54a_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250730134217 +0000" stop="20250730144659 +0000">
-    <title>The Saturn V Story</title>
-    <category>Movie</category>
-    <desc>This is the story of the most powerful machine ever built and a nation who watched on with hope, together.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU1719DHWBZRDPF_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250731140736 +0000" stop="20250731143258 +0000">
+    <title>Mary Makes It Easy</title>
+    <sub-title>Made to Hors D’oeuvres</sub-title>
+    <episode-num system="onscreen">S02E02</episode-num>
+    <desc>Prepare your party platters! Mary’s handy hors d’oeuvres elevate classic recipes while keeping it simple.</desc>
+    <date>20250616</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250730144659 +0000" stop="20250730154910 +0000">
-    <title>Expedition Antarctica</title>
-    <category>Movie</category>
-    <desc>A hardy research crew seeks clues about the fate of our planet beneath the icy waters of the Antarctic Ocean.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRN2P7PRGMEDSH43_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250731143258 +0000" stop="20250731145821 +0000">
+    <title>Mary Makes It Easy</title>
+    <sub-title>Supermarket Swap</sub-title>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <desc>Mary is all about cooking smarter, not harder. She shares no-sweat supermarket shortcuts to save you from kitchen time and stress.</desc>
+    <date>20250616</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250731145821 +0000" stop="20250731152343 +0000">
+    <title>Mary Makes It Easy</title>
+    <sub-title>Herb Your Enthusiasm</sub-title>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <desc>Save your abundance of fresh herbs from wilting away with Mary’s recipes to use ‘em up in a jiff.</desc>
+    <date>20250616</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250731152343 +0000" stop="20250731154906 +0000">
+    <title>Mary Makes It Easy</title>
+    <sub-title>Summer’s Bounty</sub-title>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <desc>Celebrate the season with Mary’s recipes that take advantage of limited-edition produce, including tomatoes, zucchini, peppers and berries.</desc>
+    <date>20250613</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250731154906 +0000" stop="20250731161428 +0000">
+    <title>Mary Makes It Easy</title>
+    <sub-title>Fake It ‘Til You Bake It</sub-title>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <desc>Whether you’re a newbie baker or a pro who wants to take it easy, these recipes are all about supermarket hacks to raise your baking game.</desc>
+    <date>20250616</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250731161428 +0000" stop="20250731163951 +0000">
+    <title>Mary Makes It Easy</title>
+    <sub-title>Livin’ in the Past-a</sub-title>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <desc>Make your own checkered tablecloth magic with Mary’s recipes for Italian-American restaurant night.</desc>
+    <date>20250616</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250730154910 +0000" stop="20250730165119 +0000">
     <title>Apollo's New Moon</title>
@@ -20634,26 +20632,26 @@
     <desc>The House Hazards domestic scientists put a buzz kill on the handiness of table saws.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRHP530M8JG_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250730122147 +0000" stop="20250730132158 +0000">
-    <title>Facing Forces of Nature</title>
-    <sub-title>Volcanoes</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Volcanoes: How successful can we be in the fight against this violent, destructive, elemental force of nature?</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171CM82POYQJZ_16_9.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250730132158 +0000" stop="20250730142208 +0000">
-    <title>Facing Forces of Nature</title>
-    <sub-title>Melting Ice</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Melting ice at Earth's poles: Do we still have a chance to stop it from melting and prevent its repercussions?</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171CM82POYQJZ_16_9.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250730142208 +0000" stop="20250730152535 +0000">
-    <title>Wild Faces of Switzerland</title>
-    <sub-title>The Jura Mountains</sub-title>
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250731133750 +0000" stop="20250731144231 +0000">
+    <title>Battle For the Moon</title>
+    <sub-title>Mercury</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Take an exciting journey of discovery into an almost untouched wilderness: The Jura Mountains.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171AFHVCCICM7_16_9.jpg" />
+    <desc>After a string of successful space flights by the USSR, The United States responded by forming NASA.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRN2P7Q9LZCXM826_16_9.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250731144231 +0000" stop="20250731154709 +0000">
+    <title>Battle For the Moon</title>
+    <sub-title>Gemini and Apollo</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>After the Gemini program, America embarked on the Apollo program.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRN2P7Q9LZCXM826_16_9.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250731154709 +0000" stop="20250731165148 +0000">
+    <title>Voyage of Darwin's Beagle: On The Future of Species</title>
+    <sub-title>One Small Step for Man</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>About 180 years after Darwin, his great-granddaughter follows his path, traveling from Tenerife to the Amazon.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRGJ131569J_16_9.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250730152535 +0000" stop="20250730162813 +0000">
     <title>Wild Faces of Switzerland</title>
@@ -20968,23 +20966,26 @@
     <desc>This documentary explains how we may be in the middle of the most crucial moment of Earth’s history.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRN2P7OL4YRT6D4Y_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250730130000 +0000" stop="20250730140000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250731133623 +0000" stop="20250731143905 +0000">
+    <title>Mega Disaster</title>
+    <sub-title>Volcano</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Volcanoes can bury entire cities in clouds of ash and gas, or turn rivers into torrents of mud and debris.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/5N1HJZ69IH6XNUB0QKJMTG_16_9.jpeg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250730140000 +0000" stop="20250730150000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250731143905 +0000" stop="20250731154147 +0000">
+    <title>Mega Disaster</title>
+    <sub-title>Tsunami</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>There is no stopping these massive and deadly phenomena, the only thing to do is run to higher ground.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/5N1HJZ69IH6XNUB0QKJMTG_16_9.jpeg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250730150000 +0000" stop="20250730160000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250731154147 +0000" stop="20250731164430 +0000">
+    <title>Mega Disaster</title>
+    <sub-title>Tornado</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>From the tremendous, to the terrifying, to the tragic, this is a countdown to a mega tornado.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/5N1HJZ69IH6XNUB0QKJMTG_16_9.jpeg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250730160000 +0000" stop="20250730170000 +0000">
     <title>Evolution Earth</title>
@@ -21118,29 +21119,23 @@
     <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250730130636 +0000" stop="20250730140722 +0000">
-    <title>15th Meridian East - Similarity in Difference</title>
-    <sub-title>Sow, Harvest, Eat – Our Conservatory</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>This episode focuses on people from five countries who share a common passion: The production of their own food and food. What culinary treasures are hidden in the different regions, from Spitsbergen to Sweden, Austria, Poland and Chad?</desc>
-    <date>20180401</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/15thMeridianEast_E03.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250731140000 +0000" stop="20250731150000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250730140722 +0000" stop="20250730150813 +0000">
-    <title>15th Meridian East - Similarity in Difference</title>
-    <sub-title>From Generation to Generation</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>The journey leads from the Norwegian Vesterålen to Chad, the Aeolian Islands and the Polish Giant Mountains. As different as the landscapes and cultures may be, all people are united in their love for their children and their desire to give something to tomorrow's generation.</desc>
-    <date>20180401</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/15thMeridianEast_E04.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250731150000 +0000" stop="20250731160000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250730150813 +0000" stop="20250730160857 +0000">
-    <title>15th Meridian East - Similarity in Difference</title>
-    <sub-title>Our Future</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>What ideas are people on the 15th meridian east developing to shape the future and leave tomorrow's generations a home worth living in? This consequence leads us to four future designers. From the barren Namib Desert to the glacier worlds of Spitsbergen, Sicily and the Croatian Mediterranean.</desc>
-    <date>20180401</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/15thMeridianEast_E05.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250731160000 +0000" stop="20250731170000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250730160857 +0000" stop="20250730170945 +0000">
     <title>The marvellous World of French Rivers</title>
@@ -21314,27 +21309,26 @@
     <date>20131216</date>
     <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/20479-22527/41942765-Samsung-Thumbnail_v1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250730130138 +0000" stop="20250730135414 +0000">
-    <title>Vanishing Dragons</title>
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250731135924 +0000" stop="20250731150240 +0000">
+    <title>Wild Prairie Man</title>
     <category>Movie</category>
-    <desc>This film investigates the decline in marine iguanas and tries to determine what can stop their extinction.</desc>
-    <date>20180101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+    <desc>Located in the Northern Great Plains of Canada, Grasslands National Park has been a 20 year odyssey for wildlife photographer James R. Page. For James, critters are more interesting than people and he shares some of his iconic images and experiences from this endangered ecosystem. We showcase the parks wilderness that is dominated by prairie light and dark sky, the wildlife, prairie dogs, mesmerizing landscapes, and bisons. We immerse ourselves in the wild habitat of Grasslands National Park for over a year capturing some never before scenes in the Wild Prairie. James R. Page's connection to the land and the wildlife provides an unforgettable journey into the heart of this endangered ecosystem, while Park experts help us understand its complexity.</desc>
+    <date>20220112</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/20529-22577/42044840-Plex-Portrait-1000x1500_v1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250730135414 +0000" stop="20250730144516 +0000">
-    <title>Primeval New Zealand</title>
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250731150240 +0000" stop="20250731160322 +0000">
+    <title>Survival of the Fittest in the Alps</title>
     <category>Movie</category>
-    <desc>Peter Elliott reveals new information about the origins New Zealands 'evolutionary mutants'.</desc>
-    <date>20120101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+    <desc>The documentary shows the survival strategies of various animal species in the high mountains of the Alps in winter. Despite freezing temperatures and limited food supply, chamois, red deer and snow hares manage to survive the cold months. Latest research reveals the amazing abilities the animals have developed to adapt to the extreme conditions and also how climate change is altering the behaviour of the alpine inhabitants.</desc>
+    <date>20211001</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/9987327f-62c4-4083-a425-21b7f49f0894/AdventureEarth_VertikalDefaultArt_1000x1500_Tilman.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250730144516 +0000" stop="20250730154520 +0000">
-    <title>A New Prehistory</title>
-    <sub-title>What Killed the Giant Insects?</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>320 million years ago, dragonflies and centipedes were human-sized, unlike today's tiny insects.</desc>
-    <date>20160101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250731160322 +0000" stop="20250731170412 +0000">
+    <title>Leap Of The Lynx</title>
+    <category>Movie</category>
+    <desc>On the Iberian Peninsula, primeval landscapes are practically non-existent, so the Iberian lynx has lived on cultivated land for centuries – cattle, horse and pig pastures, cork oak forests, timberland, and even holy sites of pilgrimage. The diversity and beauty of these locations are truly stunning and their character and history as relevant to this story as that of the big cat itself. Until five years ago, both populations of Iberian lynx were quickly fading away. Their fragmented habitats were shrinking even further, they were starved by lack of prey and reduced by epidemics. But now, local authorities, scientists, landowners, and other groups have finally begun to act in unison.</desc>
+    <date>20121201</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/20392-22440/41763668-Plex-Portrait-1000x1500_v1.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250730154520 +0000" stop="20250730164639 +0000">
     <title>A New Prehistory</title>
@@ -21431,6 +21425,28 @@
     <date>20160101</date>
     <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
   </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250731060840 +0000" stop="20250731070932 +0000">
+    <title>A New Prehistory</title>
+    <sub-title>The Dawn of Mammals</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>China fossils show prehistoric mammals evolved 35 million years ago, with more diversity and abundance.</desc>
+    <date>20160101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250731070932 +0000" stop="20250731081045 +0000">
+    <title>Giant Sea Serpent, Meet The Myth</title>
+    <category>Movie</category>
+    <desc>Scientific boys off French Riviera uncover secrets of the giant oarfish, likely the sea serpent myth's source.</desc>
+    <date>20210101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250731081045 +0000" stop="20250731091200 +0000">
+    <title>Saving the Dinosaur Fish</title>
+    <category>Movie</category>
+    <desc>Rory Moore fights to save the endangered sturgeon, protecting its future in the Caspian Sea.</desc>
+    <date>20200101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  </programme>
   <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250731091200 +0000" stop="20250731104225 +0000">
     <title>In The Land Of The Moose</title>
     <category>Movie</category>
@@ -21457,6 +21473,37 @@
     <category>Movie</category>
     <desc>The Iberian lynx was saved by captive females San Diego and Ora, and their newborns.</desc>
     <date>20190101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250731140002 +0000" stop="20250731142756 +0000">
+    <title>Epic Safari Destinations</title>
+    <sub-title>Amalinda Camp</sub-title>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <desc>Kristina visits Camp Amalinda, exploring Matopos' history and rock paintings with guide Dardley.</desc>
+    <date>20180101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250731142756 +0000" stop="20250731145500 +0000">
+    <title>Epic Safari Destinations</title>
+    <sub-title>Ivory &amp; Khulu Lodge</sub-title>
+    <episode-num system="onscreen">S01E13</episode-num>
+    <desc>Kristina and Dardley visit Ivory Lodge, witnessing a thrilling cheetah hunt and close encounter.</desc>
+    <date>20180101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250731145500 +0000" stop="20250731152308 +0000">
+    <title>Epic Safari Destinations</title>
+    <sub-title>Kavinga Safari Lodge</sub-title>
+    <episode-num system="onscreen">S01E14</episode-num>
+    <desc>Kristina and guide Andy explore riverbeds, meet lion Juno, and encounter night predators at Kavinga.</desc>
+    <date>20180101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250731152308 +0000" stop="20250731162129 +0000">
+    <title>Hidden Russia</title>
+    <category>Movie</category>
+    <desc>Russia spans diverse regions, from subtropics to Arctic, with lakes, volcanoes, and vast forests.</desc>
+    <date>20200101</date>
     <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
   </programme>
   </tv>
