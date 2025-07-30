@@ -19600,12 +19600,6 @@
     <display-name>Real Wild</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/09e8c6b6-368e-4275-b974-fe5e1921f64d/RealWild_Logo_White_-_Simon_Tuquabo.png" />
   </channel>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250730160000 +0000" stop="20250730163000 +0000">
-    <title>About That</title>
-    <sub-title>About That</sub-title>
-    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
-    <date>20250730</date>
-  </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250730163000 +0000" stop="20250730200000 +0000">
     <title>Today's Top Stories</title>
     <sub-title>Today's Top Stories</sub-title>
@@ -19744,29 +19738,11 @@
     <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
     <date>20250731</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250730160000 +0000" stop="20250730163000 +0000">
-    <title>CTV National News with Omar Sachedina</title>
-    <sub-title>CTV National News for Tuesday, July 29, 2025</sub-title>
-    <episode-num system="onscreen">S2025E120</episode-num>
-    <desc>CTV National News with Omar Sachedina is Canada's #1 national newscast</desc>
-    <date>20250730</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29593_2024_2_22_a0b77432-b521-4b92-8fd6-df17c3828c96_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250730163000 +0000" stop="20250730170000 +0000">
-    <title>CTV News: Your Canada</title>
-    <sub-title>for Wednesday, July 30, 2025</sub-title>
-    <episode-num system="onscreen">S2025E178</episode-num>
-    <desc>Stories that showcase what makes Canada unique.</desc>
-    <date>20250730</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250730170000 +0000" stop="20250730180000 +0000">
-    <title>CTV News Ottawa at Six</title>
-    <sub-title>for Tuesday, July 29, 2025</sub-title>
-    <episode-num system="onscreen">S2025E317</episode-num>
-    <desc>CTV News Ottawa at Six</desc>
-    <date>20250730</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29884_2024_6_13_ee9988fa-1dc2-42f1-b909-8b2cba4cb0ac_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250731163000 +0000" stop="20250731200000 +0000">
+    <title>Today's Top Stories</title>
+    <sub-title>Today's Top Stories</sub-title>
+    <desc>What's happening across Canada and around the world.</desc>
+    <date>20250731</date>
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250730180000 +0000" stop="20250730183000 +0000">
     <title>CTV National News with Omar Sachedina</title>
@@ -20020,21 +19996,23 @@
     <desc>CTV National News</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250730155317 +0000" stop="20250730164509 +0000">
-    <title>The Good Stuff with Mary Berg</title>
-    <sub-title>Wednesday, July 23, 2025</sub-title>
-    <episode-num system="onscreen">S02E180</episode-num>
-    <desc>A food-truck battle for the best food festival eats; Mary and her guests cook up their favourite food fest eats with beer pairings.</desc>
-    <date>20250723</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54775_2025_4_4_582bd9bf-59ae-4419-9c55-c32dd46adf0a_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250731163000 +0000" stop="20250731170000 +0000">
+    <title>CTV News: Your Canada</title>
+    <category>Movie</category>
+    <desc>CTV News: Your Canada</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250730164509 +0000" stop="20250730173501 +0000">
-    <title>The Good Stuff with Mary Berg</title>
-    <sub-title>Wednesday, April 9, 2025</sub-title>
-    <episode-num system="onscreen">S02E116</episode-num>
-    <desc>Quick pasta; tiny cocktails; organizing bathroom and junk drawers; decorating small spaces; small money habits for big wins; Gabriel Luna.</desc>
-    <date>20250712</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54775_2025_4_4_582bd9bf-59ae-4419-9c55-c32dd46adf0a_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250731170000 +0000" stop="20250731180000 +0000">
+    <title>CTV News Ottawa at Six</title>
+    <category>Movie</category>
+    <desc>CTV News Ottawa at Six</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250731180000 +0000" stop="20250731183000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250730173501 +0000" stop="20250730182445 +0000">
     <title>The Good Stuff with Mary Berg</title>
@@ -20420,17 +20398,45 @@
     <date>20250616</date>
     <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250730154910 +0000" stop="20250730165119 +0000">
-    <title>Apollo's New Moon</title>
-    <category>Movie</category>
-    <desc>This film shows how collected evidence revolutionized our understanding of the origin of the solar system.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRN2P7QFPGXL0VGL_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250731163951 +0000" stop="20250731170513 +0000">
+    <title>Mary Makes It Easy</title>
+    <sub-title>Cast Away</sub-title>
+    <episode-num system="onscreen">S02E08</episode-num>
+    <desc>Hosted by chef and two-time Canadian Screen Award-winner Mary Berg, follows Berg as she takes viewers step-by-step through recipes.</desc>
+    <date>20250616</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250730165119 +0000" stop="20250730175827 +0000">
-    <title>Searching for Planet 9</title>
-    <category>Movie</category>
-    <desc>Is there a "Planet 9" five times more massive than planet Earth? There's fascinating new research out there.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171C1HK6ANJWF_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250731170513 +0000" stop="20250731172834 +0000">
+    <title>Mary Makes It Easy</title>
+    <sub-title>Make and Take</sub-title>
+    <episode-num system="onscreen">S02E09</episode-num>
+    <desc>Impress pals with recipes that are great to make and easier to take, and they just might steal the show at the next potluck.</desc>
+    <date>20250617</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250731172834 +0000" stop="20250731175355 +0000">
+    <title>Mary Makes It Easy</title>
+    <sub-title>Bare Bones Baking</sub-title>
+    <episode-num system="onscreen">S02E10</episode-num>
+    <desc>Mary shows how to up the baking game without breaking the bank on fancy gadgets. There’s no specialty equipment here!</desc>
+    <date>20250616</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250731175355 +0000" stop="20250731181718 +0000">
+    <title>Mary Makes It Easy</title>
+    <sub-title>The Short List</sub-title>
+    <episode-num system="onscreen">S02E11</episode-num>
+    <desc>Mary keeps shopping lists short with flavourful dishes made up of just a few ingredients.</desc>
+    <date>20250613</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250731181718 +0000" stop="20250731184240 +0000">
+    <title>Mary Makes It Easy</title>
+    <sub-title>Livin' on the Veg</sub-title>
+    <episode-num system="onscreen">S02E12</episode-num>
+    <desc>Celebrate the veg life with Mary’s meatless recipes that are so much more than just a bowl of greens.</desc>
+    <date>20250616</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250730175827 +0000" stop="20250730190337 +0000">
     <title>Voyage of Darwin's Beagle: On The Future of Species</title>
@@ -20593,19 +20599,19 @@
     <desc>About 180 years after Darwin, his great-granddaughter follows his path, traveling from Tenerife to the Amazon.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRGJ131569J_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250730152535 +0000" stop="20250730162813 +0000">
-    <title>Wild Faces of Switzerland</title>
-    <sub-title>Ticino</sub-title>
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250731165148 +0000" stop="20250731175618 +0000">
+    <title>Voyage of Darwin's Beagle: On The Future of Species</title>
+    <sub-title>Low Life on the Ladder of God</sub-title>
     <episode-num system="onscreen">S01E02</episode-num>
-    <desc>This episode focuses on Ticino, reaching from the Tessin Alps down to the charming Muggio Valley.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171AFHVCCICM7_16_9.jpg" />
+    <desc>Follow Darwin's journey to see remnants of slavery and to relive his discovery of fossils of extinct animals.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRGJ131569J_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250730162813 +0000" stop="20250730173138 +0000">
-    <title>Wild Faces of Switzerland</title>
-    <sub-title>Water and Ice</sub-title>
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250731175618 +0000" stop="20250731185953 +0000">
+    <title>Voyage of Darwin's Beagle: On The Future of Species</title>
+    <sub-title>The Last Frontier</sub-title>
     <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Take an amazing journey from the highest peaks of the Bernese Alps to a spectacular finish at the Rhine Falls.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171AFHVCCICM7_16_9.jpg" />
+    <desc>Sarah Darwin visits the remaining members of a native tribe wiped out following contact with European disease.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRGJ131569J_16_9.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250730173138 +0000" stop="20250730183423 +0000">
     <title>Wild Faces of Switzerland</title>
@@ -20927,17 +20933,18 @@
     <desc>From the tremendous, to the terrifying, to the tragic, this is a countdown to a mega tornado.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/5N1HJZ69IH6XNUB0QKJMTG_16_9.jpeg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250730160000 +0000" stop="20250730170000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250731164430 +0000" stop="20250731174713 +0000">
+    <title>Mega Disaster</title>
+    <sub-title>Earthquake</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Earthquakes baffle experts as they try to gather the information necessary to predict the next big one.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/5N1HJZ69IH6XNUB0QKJMTG_16_9.jpeg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250730170000 +0000" stop="20250730180000 +0000">
-    <title>Evolution Earth</title>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250731174713 +0000" stop="20250731184536 +0000">
+    <title>Earth in 1000 years</title>
     <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+    <desc>Earth's stores of ice on Greenland and Antarctica are melting, and sea levels rising. Where is Earth headed?</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRMHLGKBR8G610GS_2_3.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250730180000 +0000" stop="20250730190000 +0000">
     <title>Evolution Earth</title>
@@ -21077,21 +21084,17 @@
     <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250730160857 +0000" stop="20250730170945 +0000">
-    <title>The marvellous World of French Rivers</title>
-    <sub-title>Marvellous french Rivers - Girone</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>The Gironde is the largest and most powerful tidal current in Europe. When the Gironde flows into the Atlantic, it is 15 kilometers wide and in the rhythm of the tides, it brings the waters from the Pyrenees and the Massif Central into the ocean. This often pushes its waters far out into the Gironde at high tide.This creates a world of its own that has shaped everything uniquely and intensely for tens of thousands of years. The water surface of the river is so large that the evaporation has created its own microclimate, which is stable and, together with the brackish waters, has influenced flora and fauna on the right and left of the bank for a long time.</desc>
-    <date>20210425</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/MARVELLOUS%2520FRENCH%2520RIVERS%2520-%2520GIRONDE%2520%2526%2520DORDOGNE%2520EPISODE%25201_Landscape_V1.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250731170000 +0000" stop="20250731180000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250730170945 +0000" stop="20250730181032 +0000">
-    <title>The marvellous World of French Rivers</title>
-    <sub-title>Marvellous french Rivers - Dordogne</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>The Dordogne consists of a visible and an invisible system of flowing water. Caves and basins under the earth's surface store the excess water and return it to the river when it is dry. A perfect management of a precious resource, not invented by humans, but by the complex nature itself. The result is an ever life-giving river.</desc>
-    <date>20210425</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/MARVELLOUS%2520FRENCH%2520RIVERS%2520-%2520GIRONDE%2520%2526%2520DORDOGNE%2520EPISODE%25202_Landscape_V1.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250731180000 +0000" stop="20250731190000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250730181032 +0000" stop="20250730190535 +0000">
     <title>One Year in Norway's Lofoten</title>
@@ -21270,21 +21273,20 @@
     <date>20121201</date>
     <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/20392-22440/41763668-Plex-Portrait-1000x1500_v1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250730154520 +0000" stop="20250730164639 +0000">
-    <title>A New Prehistory</title>
-    <sub-title>Mystery of the Feathered Dragons</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>New fossils in China reveal prehistoric feathered beasts and giant insects, including large dragonflies.</desc>
-    <date>20160101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250731170412 +0000" stop="20250731180259 +0000">
+    <title>The Moor</title>
+    <category>Movie</category>
+    <desc>Moors and peatlands are oases in the cultivated landscape of Central Europe.</desc>
+    <date>20130101</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/16977-19025/34768955-Samsung-Thumbnail_v1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250730164639 +0000" stop="20250730174731 +0000">
-    <title>A New Prehistory</title>
-    <sub-title>The Dawn of Mammals</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>China fossils show prehistoric mammals evolved 35 million years ago, with more diversity and abundance.</desc>
-    <date>20160101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250731180259 +0000" stop="20250731190404 +0000">
+    <title>Children of the Sun</title>
+    <sub-title>Children of the Sun - Butterflies</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Butterflies surely are the most fancied species inside the insect world. Their beautiful colouring and their graceful flight appeal to everyone. There are close to 4000 types of Butterflies – today many of them are endangered due to the loss of their habitat.</desc>
+    <date>20170520</date>
+    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/CHILDREN%2520OF%2520THE%2520SUN%2520-%2520WILD%2520BEES%2520%2526%2520BUTTERFLIES%2520EPISODE%25201_V1_Landscape.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250730174731 +0000" stop="20250730184845 +0000">
     <title>Giant Sea Serpent, Meet The Myth</title>
@@ -21445,5 +21447,23 @@
     <desc>Russia spans diverse regions, from subtropics to Arctic, with lakes, volcanoes, and vast forests.</desc>
     <date>20200101</date>
     <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250731162129 +0000" stop="20250731172005 +0000">
+    <title>Hidden Spain</title>
+    <category>Movie</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250731172005 +0000" stop="20250731181821 +0000">
+    <title>Hidden Australia</title>
+    <category>Movie</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250731181821 +0000" stop="20250731191656 +0000">
+    <title>Wild Galapagos Series 01 Episode 01</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>The Galapagos Archipelago's diverse biodiversity is attributed to the Pacific's Humboldt</desc>
+    <date>20170101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/ALBWGAS001EP001.jpg" />
   </programme>
   </tv>
