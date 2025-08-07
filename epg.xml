@@ -19136,12 +19136,6 @@
     <display-name>Real Wild</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/09e8c6b6-368e-4275-b974-fe5e1921f64d/RealWild_Logo_White_-_Simon_Tuquabo.png" />
   </channel>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250807163000 +0000" stop="20250807200000 +0000">
-    <title>Today's Top Stories</title>
-    <sub-title>Today's Top Stories</sub-title>
-    <desc>What's happening across Canada and around the world.</desc>
-    <date>20250807</date>
-  </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250807200000 +0000" stop="20250807203000 +0000">
     <title>About That</title>
     <sub-title>About That</sub-title>
@@ -19274,37 +19268,11 @@
     <desc>What's happening across Canada and around the world.</desc>
     <date>20250808</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250807170000 +0000" stop="20250807180000 +0000">
-    <title>CTV News Ottawa at Six</title>
-    <sub-title>for Wednesday, August 6, 2025</sub-title>
-    <episode-num system="onscreen">S2025E136</episode-num>
-    <desc>CTV News Ottawa at Six</desc>
-    <date>20250807</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29884_2024_6_13_ee9988fa-1dc2-42f1-b909-8b2cba4cb0ac_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250807180000 +0000" stop="20250807183000 +0000">
-    <title>CTV National News with Omar Sachedina</title>
-    <sub-title>CTV National News for Wednesday, August 6, 2025</sub-title>
-    <episode-num system="onscreen">S2025E125</episode-num>
-    <desc>CTV National News with Omar Sachedina is Canada's #1 national newscast</desc>
-    <date>20250807</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29593_2024_2_22_a0b77432-b521-4b92-8fd6-df17c3828c96_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250807183000 +0000" stop="20250807190000 +0000">
-    <title>CTV News: Across Canada</title>
-    <sub-title>for Thursday, August 7, 2025</sub-title>
-    <episode-num system="onscreen">S2025E163</episode-num>
-    <desc>Top stories from coast-to-coast as reported by CTV News local journalists across Canada.</desc>
-    <date>20250807</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55945_2024_8_9_9f6270cc-d7b3-48b4-a0cc-902adc5a6152_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250807190000 +0000" stop="20250807200000 +0000">
-    <title>CTV News Edmonton at Six</title>
-    <sub-title>for Wednesday, August 6, 2025</sub-title>
-    <episode-num system="onscreen">S2025E98</episode-num>
-    <desc>CTV News Edmonton at Six</desc>
-    <date>20250807</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/CTVNews_LG_FAST_default.png" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250808200000 +0000" stop="20250808203000 +0000">
+    <title>About That</title>
+    <sub-title>About That</sub-title>
+    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
+    <date>20250808</date>
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250807200000 +0000" stop="20250807203000 +0000">
     <title>CTV National News with Omar Sachedina</title>
@@ -19548,61 +19516,29 @@
     <desc>CTV News Ottawa at Six</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250807170005 +0000" stop="20250807172532 +0000">
-    <title>Mary Makes It Easy</title>
-    <sub-title>Soup's On!</sub-title>
-    <episode-num system="onscreen">S03E14</episode-num>
-    <desc>Mary. Loves. Soup. Join the soup obsession with recipes that vary from cozy to chill, smooth or chunky, plus an ample dose of cheese, duh.</desc>
-    <date>20250616</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250808180000 +0000" stop="20250808183000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250807172532 +0000" stop="20250807175100 +0000">
-    <title>Mary Makes It Easy</title>
-    <sub-title>When You Fish Upon a Star</sub-title>
-    <episode-num system="onscreen">S03E15</episode-num>
-    <desc>Mary helps you master the catch of the day with recipes focused around fish, including zesty Tuna Tartare and curried Salmon en Papillote.</desc>
-    <date>20250616</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250808183000 +0000" stop="20250808190000 +0000">
+    <title>CTV News: Across Canada</title>
+    <category>Movie</category>
+    <desc>CTV News: Across Canada</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250807175100 +0000" stop="20250807181624 +0000">
-    <title>Mary Makes It Easy</title>
-    <sub-title>Steak House Sides</sub-title>
-    <episode-num system="onscreen">S03E16</episode-num>
-    <desc>Mary prepares indulgent side dishes that stand out next to a steak, like Shrimp Scampi Stuffed Potato, or Stuffed Mushrooms two ways.</desc>
-    <date>20250616</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250808190000 +0000" stop="20250808200000 +0000">
+    <title>CTV News Edmonton at Six</title>
+    <category>Movie</category>
+    <desc>CTV News Edmonton at Six</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250807181624 +0000" stop="20250807184151 +0000">
-    <title>Mary Makes It Easy</title>
-    <sub-title>Sneak Attack</sub-title>
-    <episode-num system="onscreen">S03E17</episode-num>
-    <desc>Give yourself a nutritional sneak attack with Mary’s recipes that cram in the good stuff without skimping on flavour.</desc>
-    <date>20250616</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250807184151 +0000" stop="20250807190719 +0000">
-    <title>Mary Makes It Easy</title>
-    <sub-title>Doughn't Go Bakin' My Heart</sub-title>
-    <episode-num system="onscreen">S03E18</episode-num>
-    <desc>Mary would live on bread if she could, and these straightforward bread recipes make it pretty darn close.</desc>
-    <date>20250613</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250807190719 +0000" stop="20250807193046 +0000">
-    <title>Mary Makes It Easy</title>
-    <sub-title>Whatever Ails Ya</sub-title>
-    <episode-num system="onscreen">S03E19</episode-num>
-    <desc>Mary showcases her go-to recipes for when you’re not feeling 100%, whether ailing from a tummy- or heart-ache. Her Ginger Cinnamon...</desc>
-    <date>20250616</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250807193046 +0000" stop="20250807195614 +0000">
-    <title>Mary Makes It Easy</title>
-    <sub-title>Toot, Toot. We're Going to Beantown!</sub-title>
-    <episode-num system="onscreen">S03E20</episode-num>
-    <desc>When it comes to versatility, beans slap! Board the bean train with recipes like Black Bean Brownies or Linguini with White Bean Cream Sauce</desc>
-    <date>20250616</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250808200000 +0000" stop="20250808203000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250807195614 +0000" stop="20250807202142 +0000">
     <title>Mary Makes It Easy</title>
@@ -20012,19 +19948,53 @@
     <date>20250730</date>
     <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m38712_2024_2_28_62ffcb3b-6f13-4421-961e-f38adb31d81b_JPG_1920x1080.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250807171648 +0000" stop="20250807181958 +0000">
-    <title>Voyage of the Continents</title>
-    <sub-title>Asia: The Tectonics of Life and Death</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>First Asia hurtled into Europe. They remain bound together by the Urals.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRD9MNQD2MO_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250808174559 +0000" stop="20250808181204 +0000">
+    <title>Spencer's Big 30</title>
+    <sub-title>Roast Beef Night</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Chef Spencer Watts makes a delicious family-style roast beef dinner in around 30 minutes.</desc>
+    <date>20250803</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250807181958 +0000" stop="20250807192308 +0000">
-    <title>Voyage of the Continents</title>
-    <sub-title>Asia: Rising Mountains and Sinking Countries</sub-title>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250808181204 +0000" stop="20250808183810 +0000">
+    <title>Spencer's Big 30</title>
+    <sub-title>Fish &amp; Chips Night</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Fish and chips are always great for a quick, inexpensive family dinner.</desc>
+    <date>20250803</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250808183810 +0000" stop="20250808190416 +0000">
+    <title>Spencer's Big 30</title>
+    <sub-title>Pizza Night</sub-title>
     <episode-num system="onscreen">S01E03</episode-num>
-    <desc>As the Indo-Asian collision continued into the rest of Asia, the deforming pressure created islands.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRD9MNQD2MO_16_9.jpg" />
+    <desc>Pizza night is quick and budget-friendly as Chef Spencer Watts offers up his favourite recipes.</desc>
+    <date>20250803</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250808190416 +0000" stop="20250808193022 +0000">
+    <title>Spencer's Big 30</title>
+    <sub-title>Curry in a Hurry Night</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Chef Spencer Watts makes a full, family-style Indian meal in around 30 minutes.</desc>
+    <date>20250803</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250808193022 +0000" stop="20250808195629 +0000">
+    <title>Spencer's Big 30</title>
+    <sub-title>Chinese Take-Out Night</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Why order take-out when you can make it fresher, faster, and even healthier at home?</desc>
+    <date>20250803</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250808195629 +0000" stop="20250808202235 +0000">
+    <title>Spencer's Big 30</title>
+    <sub-title>Lasagna Night</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>It’s all about lasagna with Chef Spencer Watts’ delicious and nutritious 30-minute meal.</desc>
+    <date>20250803</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250807192308 +0000" stop="20250807211124 +0000">
     <title>Shockwave</title>
@@ -20163,23 +20133,23 @@
     <desc>Three men sit atop 500 tons of liquid fuel in China's Shenzhou 7 ship, ready to blast 185 miles into space.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/5N1HJZ69IH6XN9X9KXRYDV_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250807171851 +0000" stop="20250807181218 +0000">
-    <title>The Dark Side of the Ocean</title>
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250808173457 +0000" stop="20250808183433 +0000">
+    <title>Faster Than Light: the Dream of Interstellar Flight</title>
     <category>Movie</category>
-    <desc>One man plans to do what no man has done before. His aim, to unlock the secrets of the dark ocean.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRN2P7PHGRHQLNJZ_2_3.jpg" />
+    <desc>Next-generation rocket technology is fueling the dream of traveling across the void.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRN2P7P37RUZ83H6_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250807181218 +0000" stop="20250807191354 +0000">
-    <title>Freaks of the Sea</title>
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250808183433 +0000" stop="20250808193859 +0000">
+    <title>Our Roots, Our Future</title>
     <category>Movie</category>
-    <desc>In the oceans of our planet lurk creatures weirder than our wildest dreams and our scariest nightmares.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/MHY11D9N2QJ9W6XQ2G4Z36_2_3.jpg" />
+    <desc>Scientists are studying root growth. Roots may help solve climate change and protect the environment.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171APT7P9W94B_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250807191354 +0000" stop="20250807201511 +0000">
-    <title>Global Whale Shark Mystery</title>
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250808193859 +0000" stop="20250808204341 +0000">
+    <title>The Saturn V Story</title>
     <category>Movie</category>
-    <desc>Despite its size, the greatest shark in the planet’s oceans, the whale shark, remains an enigma to scientists.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/MHY11D9N2QJ9W6Z009K0YG_2_3.jpg" />
+    <desc>This is the story of the most powerful machine ever built and a nation who watched on with hope, together.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU1719DHWBZRDPF_2_3.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250807201511 +0000" stop="20250807212007 +0000">
     <title>Disaster Diaries</title>
@@ -20318,23 +20288,25 @@
     <desc>As the Indo-Asian collision continued into the rest of Asia, the deforming pressure created islands.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRD9MNQD2MO_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250807170000 +0000" stop="20250807180000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250808172553 +0000" stop="20250808182903 +0000">
+    <title>Voyage of the Continents</title>
+    <sub-title>Europe: Tropical Beginnings</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>One billion years ago there was just one great continent on earth. Then, it began to break apart.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRD9MNQD2MO_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250807180000 +0000" stop="20250807190000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250808182903 +0000" stop="20250808193214 +0000">
+    <title>Voyage of the Continents</title>
+    <sub-title>Europe: A Turbulent Future</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Over time, the Atlantic Ocean widened. Then Africa moved north, struck Europe and birthed the Alps.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRD9MNQD2MO_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250807190000 +0000" stop="20250807200000 +0000">
-    <title>Evolution Earth</title>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250808193214 +0000" stop="20250808203654 +0000">
+    <title>Our World is on Fire</title>
     <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+    <desc>Climate change is now a crisis, and our world is crying out. Examine some possible remedies to the emergency.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171CJX4NJCPMK_2_3.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250807200000 +0000" stop="20250807210000 +0000">
     <title>Evolution Earth</title>
@@ -20468,26 +20440,23 @@
     <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250807165525 +0000" stop="20250807175706 +0000">
-    <title>Germany's Wild Amazon</title>
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250808180000 +0000" stop="20250808190000 +0000">
+    <title>Evolution Earth</title>
     <category>Movie</category>
-    <desc>As one of Germany’s beauties, the river was the gem of Germanys landscape. But with industrialization it became the country’s hardest working river and like everything that has been overworked, it lost it magnificence and charm. Due to tender love and care, the river is now a reigning example of one of the most successful and outstanding renaturation projects in the country.The film shows never before seen shots of the river now pulsing with life. We will show you the winding river bed, spawning salmon, mating crabs and still-growing anchor ice. You will see dipper birds searching for food under water, kingfishers catching fish, a family life of badgers, foxes and a wide variety of birds. Come and meet the resurrected river Wupper!</desc>
-    <date>20170830</date>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/30633-32681/62781791-Samsung-Thumbnail_v1.jpg" />
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250807175706 +0000" stop="20250807185057 +0000">
-    <title>Germany's Wild Reservoirs</title>
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250808190000 +0000" stop="20250808200000 +0000">
+    <title>Evolution Earth</title>
     <category>Movie</category>
-    <desc>One of the smallest dams in the Bergisches Land is the Panzertalsperre, with an area of just four-and-a-half football pitches. On the other hand, the Dhünntalsperre is the largest with the area of 660 football pitches. They all transform a stretch of flowing water into still and stagnant water. As a result, completely diverse ecosystems have developed there: where the dipper once dived for insect larvae, cormorants and gray herons now fish and swans and coots cavort. In recent summers, even greater challenges have emerged: the effects of climate change - from extreme drought to destructive floods. On a smaller scale, a rather industrious dam master is operating flood protection: The Beaver. However, the water masses of the Wupper tore away half of his majestic timber castle - and the four young beaver kids were not seen again afterwards. Have they survived the flood? Not everyone can cope with the constant change in the dams, but they still remain an important wonder of engineering for many: for us humans as well as for a number of animals. By combining water management, ecological requirements and tourism a worthwhile goal is possible: Because for the Bergisches Land, its dams are among the most valuable and popular infrastructures that the region has to offer.</desc>
-    <date>20210703</date>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/30835-32883/63194910-Samsung-Thumbnail_v1.jpg" />
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250807185057 +0000" stop="20250807195128 +0000">
-    <title>Germany's Mystic Forest</title>
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250808200000 +0000" stop="20250808210000 +0000">
+    <title>Evolution Earth</title>
     <category>Movie</category>
-    <desc>2.000 rivers and streams dig deep into the underground and transport their water into reservoirs or "Germany's Wild Amazon", the Wupper. These forests and rivers, together with heathlands and moors, are home to a diverse fauna. Martens, badgers, wild boars, hares, roe deer, and red deer, even black grouse and hazel deer find shelter in these parts. Wolves also have a dominant presence, not to mention those who live underground, such as lizards, bats, and snakes. Accompany us on a journey where we explore every corner of this rugged land. Climb underground into the Bergisches Land, through the vast hidden cave systems that sprawl far beneath the forests. There is also much to be discovered in the water, dive with us in crystal clear streams and rivers with their diverse flora and fauna.</desc>
-    <date>20200601</date>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodes/19824-21872/40599718-Samsung-Thumbnail_v1.jpg" />
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250807195128 +0000" stop="20250807204652 +0000">
     <title>Gronland - In the Glare of Ice</title>
@@ -20659,28 +20628,28 @@
     <date>20130101</date>
     <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/16977-19025/34768955-Samsung-Thumbnail_v1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250807165538 +0000" stop="20250807174815 +0000">
-    <title>Vanishing Dragons</title>
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250808175017 +0000" stop="20250808185138 +0000">
+    <title>Wild River Rhine</title>
     <category>Movie</category>
-    <desc>This film investigates the decline in marine iguanas and tries to determine what can stop their extinction.</desc>
-    <date>20180101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+    <desc>Alluvial forests, roaring waterfalls, steep canyons and sunny slopes flank the river Rhine. The variety of habitats is the reason for the large biodiversity along the stream.There is hardly any other river in Germany that is surrounded by as many myths and legends as the river Rhine. No other river has been the topic of songs, has been painted and travelled equally frequently. Despite this it still seems to be true today what the French poet Victor Hugo once said about this river – the Rhine is a river everybody talks about, nobody explores, everybody visits but no one really knows. The film follows the water against the stream. It starts at the river’s delta in the Netherlands, flows through six countries and ends in the Swiss Alps.</desc>
+    <date>20150920</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/30633-32681/62781615-Plex-Portrait_v1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250807174815 +0000" stop="20250807184946 +0000">
-    <title>Namoroka: A Lost World</title>
-    <sub-title>Part 1</sub-title>
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250808185138 +0000" stop="20250808194223 +0000">
+    <title>Wild Bavaria</title>
+    <sub-title>Wild Bavaria - Berchtesgaden</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Professor Challenger plans an expedition to South America to find a prehistoric pterosaur's lost world.</desc>
-    <date>20010101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
+    <desc>The moon disappears behind the horizon and the stage is set for a new day in the Alps of Berchtesgaden.</desc>
+    <date>20120103</date>
+    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/Bavaria1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250807184946 +0000" stop="20250807195111 +0000">
-    <title>Namoroka: A Lost World</title>
-    <sub-title>Part 2</sub-title>
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250808194223 +0000" stop="20250808203300 +0000">
+    <title>Wild Bavaria</title>
+    <sub-title>Wild Bavaria - In The Shadow of the Watzmann.</sub-title>
     <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Challenger and his team arrive in the lost world, helping an indigenous tribe fight hostile ape-men.</desc>
-    <date>20010101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
+    <desc>Mighty and mysterious, King Watzmann sits above Germany's only alpine national park.</desc>
+    <date>20120103</date>
+    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/Bavaria2.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250807195111 +0000" stop="20250807205114 +0000">
     <title>A New Prehistory</title>
@@ -20844,6 +20813,27 @@
   <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250808170432 +0000" stop="20250808180303 +0000">
     <title>Hidden Australia</title>
     <category>Movie</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250808180303 +0000" stop="20250808190152 +0000">
+    <title>Croc Wranglers</title>
+    <category>Movie</category>
+    <desc>Matt Wright, a wildlife expert, is adept at handling fearsome animals like snakes and crocodiles</desc>
+    <date>20110101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250808190152 +0000" stop="20250808195949 +0000">
+    <title>River Jaws</title>
+    <category>Movie</category>
+    <desc>Since 1950, Europe's largest freshwater fish, the catfish, has harmed pikes, pigeons, and bathers.</desc>
+    <date>20150101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250808195949 +0000" stop="20250808212011 +0000">
+    <title>The Gentle Bear Man of Emo</title>
+    <category>Movie</category>
+    <desc>Michael's connection with wild animals on his Emo property helped him heal his soul after a tragic event</desc>
+    <date>20130101</date>
     <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
   </programme>
   </tv>
