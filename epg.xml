@@ -19202,30 +19202,6 @@
     <display-name>Real Wild</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/09e8c6b6-368e-4275-b974-fe5e1921f64d/RealWild_Logo_White_-_Simon_Tuquabo.png" />
   </channel>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250813140000 +0000" stop="20250813150000 +0000">
-    <title>CBC News: Morning</title>
-    <sub-title>CBC News: Morning</sub-title>
-    <desc>What do you need to know about the world around you? Heather Hiscox takes the helm as the anchor for this weekday-morning news program to tell you. Joining her is Colleen Jones with weather and sports info., and Danielle Bochove with all you need to know about the business world.</desc>
-    <date>20250813</date>
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250813150000 +0000" stop="20250813153000 +0000">
-    <title>About That</title>
-    <sub-title>About That</sub-title>
-    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
-    <date>20250813</date>
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250813153000 +0000" stop="20250813160000 +0000">
-    <title>Today's Top Stories</title>
-    <sub-title>Today's Top Stories</sub-title>
-    <desc>What's happening across Canada and around the world.</desc>
-    <date>20250813</date>
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250813160000 +0000" stop="20250813163000 +0000">
-    <title>About That</title>
-    <sub-title>About That</sub-title>
-    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
-    <date>20250813</date>
-  </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250813163000 +0000" stop="20250813200000 +0000">
     <title>Today's Top Stories</title>
     <sub-title>Today's Top Stories</sub-title>
@@ -19346,11 +19322,69 @@
     <desc>What do you need to know about the world around you? Heather Hiscox takes the helm as the anchor for this weekday-morning news program to tell you. Joining her is Colleen Jones with weather and sports info., and Danielle Bochove with all you need to know about the business world.</desc>
     <date>20250814</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250813150000 +0000" stop="20250813160000 +0000">
-    <title>CTV News Vancouver at Six</title>
-    <category>Movie</category>
-    <desc>CTV News Vancouver at Six</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250814150000 +0000" stop="20250814153000 +0000">
+    <title>About That</title>
+    <sub-title>About That</sub-title>
+    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
+    <date>20250814</date>
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250814153000 +0000" stop="20250814160000 +0000">
+    <title>Today's Top Stories</title>
+    <sub-title>Today's Top Stories</sub-title>
+    <desc>What's happening across Canada and around the world.</desc>
+    <date>20250814</date>
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250814160000 +0000" stop="20250814163000 +0000">
+    <title>About That</title>
+    <sub-title>About That</sub-title>
+    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
+    <date>20250814</date>
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250814163000 +0000" stop="20250814200000 +0000">
+    <title>Today's Top Stories</title>
+    <sub-title>Today's Top Stories</sub-title>
+    <desc>What's happening across Canada and around the world.</desc>
+    <date>20250814</date>
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250813180000 +0000" stop="20250813183000 +0000">
+    <title>CTV National News with Omar Sachedina</title>
+    <sub-title>CTV National News for Tuesday, August 12, 2025</sub-title>
+    <episode-num system="onscreen">S2025E128</episode-num>
+    <desc>CTV National News with Omar Sachedina is Canada's #1 national newscast</desc>
+    <date>20250813</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29593_2024_2_22_a0b77432-b521-4b92-8fd6-df17c3828c96_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250813183000 +0000" stop="20250813190000 +0000">
+    <title>CTV News: Across Canada</title>
+    <sub-title>for Wednesday, August 13, 2025</sub-title>
+    <episode-num system="onscreen">S2025E167</episode-num>
+    <desc>Top stories from coast-to-coast as reported by CTV News local journalists across Canada.</desc>
+    <date>20250813</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55945_2024_8_9_9f6270cc-d7b3-48b4-a0cc-902adc5a6152_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250813190000 +0000" stop="20250813200000 +0000">
+    <title>CTV News Edmonton at Six</title>
+    <sub-title>for Tuesday, August 12, 2025</sub-title>
+    <episode-num system="onscreen">S2025E227</episode-num>
+    <desc>CTV News Edmonton at Six</desc>
+    <date>20250813</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29921_2025_8_12_cb023c63-1aae-4286-a9bb-aed5806eab80_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250813200000 +0000" stop="20250813203000 +0000">
+    <title>CTV National News with Omar Sachedina</title>
+    <sub-title>CTV National News for Tuesday, August 12, 2025</sub-title>
+    <episode-num system="onscreen">S2025E128</episode-num>
+    <desc>CTV National News with Omar Sachedina is Canada's #1 national newscast</desc>
+    <date>20250813</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29593_2024_2_22_a0b77432-b521-4b92-8fd6-df17c3828c96_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250813203000 +0000" stop="20250813210000 +0000">
+    <title>CTV News: Your Canada</title>
+    <sub-title>for Wednesday, August 13, 2025</sub-title>
+    <episode-num system="onscreen">S2025E189</episode-num>
+    <desc>Stories that showcase what makes Canada unique.</desc>
+    <date>20250813</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250813210000 +0000" stop="20250813220000 +0000">
     <title>CTV News Vancouver at Six</title>
@@ -19538,45 +19572,41 @@
     <desc>CTV National News</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250813135648 +0000" stop="20250813144841 +0000">
-    <title>The Good Stuff with Mary Berg</title>
-    <sub-title>Tuesday, April 22, 2025</sub-title>
-    <episode-num system="onscreen">S02E123</episode-num>
-    <desc>Mary's coconut dahl; stylish sustainable fashion; must-have sustainable beauty brands; innovative new tech trends; nutrition myth busting.</desc>
-    <date>20250808</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54775_2025_4_4_582bd9bf-59ae-4419-9c55-c32dd46adf0a_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250814143000 +0000" stop="20250814150000 +0000">
+    <title>CTV News: Across Canada</title>
+    <category>Movie</category>
+    <desc>CTV News: Across Canada</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250813144841 +0000" stop="20250813153832 +0000">
-    <title>The Good Stuff with Mary Berg</title>
-    <sub-title>Wednesday, April 23, 2025</sub-title>
-    <episode-num system="onscreen">S02E124</episode-num>
-    <desc>Mary challenges two bakers to create stunning spring cakes; Mary's classic carrot cake; miso - the magic baking ingredient.</desc>
-    <date>20250808</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54775_2025_4_4_582bd9bf-59ae-4419-9c55-c32dd46adf0a_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250814150000 +0000" stop="20250814160000 +0000">
+    <title>CTV News Vancouver at Six</title>
+    <category>Movie</category>
+    <desc>CTV News Vancouver at Six</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250813153832 +0000" stop="20250813163022 +0000">
-    <title>The Good Stuff with Mary Berg</title>
-    <sub-title>Thursday, April 24, 2025</sub-title>
-    <episode-num system="onscreen">S02E125</episode-num>
-    <desc>Long hair transformations; modern ways to decorate with vintage finds; Mary's chicken cordon bleu update; styling old clothes to feel new.</desc>
-    <date>20250808</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54775_2025_4_4_582bd9bf-59ae-4419-9c55-c32dd46adf0a_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250814160000 +0000" stop="20250814163000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250813163022 +0000" stop="20250813172213 +0000">
-    <title>The Good Stuff with Mary Berg</title>
-    <sub-title>Monday, April 28, 2025</sub-title>
-    <episode-num system="onscreen">S02E126</episode-num>
-    <desc>Chicken gyro dupe; repurposing household items as organizers; Japandi décor trend with Colin and Justin; Arkells' frontman Max Kerman.</desc>
-    <date>20250808</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54775_2025_4_4_582bd9bf-59ae-4419-9c55-c32dd46adf0a_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250814163000 +0000" stop="20250814170000 +0000">
+    <title>CTV News: Your Canada</title>
+    <category>Movie</category>
+    <desc>CTV News: Your Canada</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250813172213 +0000" stop="20250813181603 +0000">
-    <title>The Good Stuff with Mary Berg</title>
-    <sub-title>Tuesday, April 29, 2025</sub-title>
-    <episode-num system="onscreen">S02E127</episode-num>
-    <desc>Bacon and pea gnocchi; food and drink crowd-pleasers; must-have gardening gadgets; outdoor pet safety; "North of North" star Anna Lambe.</desc>
-    <date>20250808</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54775_2025_4_4_582bd9bf-59ae-4419-9c55-c32dd46adf0a_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250814170000 +0000" stop="20250814180000 +0000">
+    <title>CTV News Ottawa at Six</title>
+    <category>Movie</category>
+    <desc>CTV News Ottawa at Six</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250814180000 +0000" stop="20250814183000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250813181603 +0000" stop="20250813184124 +0000">
     <title>Mary's Kitchen Crush</title>
@@ -19914,23 +19944,85 @@
     <date>20250801</date>
     <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m44874_2024_2_19_355a5745-081a-4b4a-8aa8-fffb876e0c4c_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250813131951 +0000" stop="20250813142528 +0000">
-    <title>Exoplanets: Thousands of New Worlds</title>
-    <category>Movie</category>
-    <desc>Are we alone? Scientists challenge traditional planetary science to seek and observe worlds called exoplanets.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/33ea2872-131a-494b-963f-c34fc0ded3c7/Plex_CosmicFrontiers__VerticalArt.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250814142310 +0000" stop="20250814144833 +0000">
+    <title>Mary's Kitchen Crush</title>
+    <sub-title>Book Lunch</sub-title>
+    <episode-num system="onscreen">S01E14</episode-num>
+    <desc>Mary celebrates the birth of her first ‘cookbook baby’ with a scrumptious soup and sandwich lunch for her editor and photographer friends.</desc>
+    <date>20250801</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m44874_2024_2_19_355a5745-081a-4b4a-8aa8-fffb876e0c4c_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250813142528 +0000" stop="20250813152539 +0000">
-    <title>Killer Asteroid</title>
-    <category>Movie</category>
-    <desc>Can a new generation of cutting-edge space missions face the ultimate natural disaster?</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171B5IIULZARR_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250814144833 +0000" stop="20250814151354 +0000">
+    <title>Mary's Kitchen Crush</title>
+    <sub-title>Apply to be Nominated</sub-title>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <desc>Mary Berg transports her guests to Old Hollywood with retro-themed crab cakes and fondue at her annual award show screening party.</desc>
+    <date>20250801</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m44874_2024_2_19_355a5745-081a-4b4a-8aa8-fffb876e0c4c_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250813152539 +0000" stop="20250813163228 +0000">
-    <title>Voyage of Curiosity</title>
-    <category>Movie</category>
-    <desc>Curiosity's robot rover exploring Mars is now known as one of the greatest achievements in space exploration.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KREXLT8T8JV_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250814151354 +0000" stop="20250814153915 +0000">
+    <title>Mary's Kitchen Crush</title>
+    <sub-title>Brunch Engagement</sub-title>
+    <episode-num system="onscreen">S01E16</episode-num>
+    <desc>Mary Berg pops some champagne to celebrate her brother’s engagement with a fresh and flavourful English brunch.</desc>
+    <date>20250801</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m44874_2024_2_19_355a5745-081a-4b4a-8aa8-fffb876e0c4c_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250814153915 +0000" stop="20250814160437 +0000">
+    <title>Mary's Kitchen Crush</title>
+    <sub-title>Bon Appetit</sub-title>
+    <episode-num system="onscreen">S01E17</episode-num>
+    <desc>Mary Berg and her friend Marissa plan the perfect Parisian getaway over a French-inspired meal sprinkled with some Mary magic.</desc>
+    <date>20250801</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m44874_2024_2_19_355a5745-081a-4b4a-8aa8-fffb876e0c4c_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250814160437 +0000" stop="20250814162959 +0000">
+    <title>Mary's Kitchen Crush</title>
+    <sub-title>More is More</sub-title>
+    <episode-num system="onscreen">S01E18</episode-num>
+    <desc>Mary Berg’s friend Rob loves a good food indulgence, so she’s giving him all the guilty pleasures with a meaty, cheesy lasagna dinner.</desc>
+    <date>20250801</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m44874_2024_2_19_355a5745-081a-4b4a-8aa8-fffb876e0c4c_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250814162959 +0000" stop="20250814165519 +0000">
+    <title>Mary's Kitchen Crush</title>
+    <sub-title>A Fish Full of Flavour</sub-title>
+    <episode-num system="onscreen">S01E19</episode-num>
+    <desc>Mary Berg shows some love to her friendly MasterChef Canada rival, Jeremy, with a flavourful fish dinner.</desc>
+    <date>20250801</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m44874_2024_2_19_355a5745-081a-4b4a-8aa8-fffb876e0c4c_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250814165519 +0000" stop="20250814172040 +0000">
+    <title>Mary's Kitchen Crush</title>
+    <sub-title>Charity Dinner</sub-title>
+    <episode-num system="onscreen">S01E20</episode-num>
+    <desc>Mary Berg serves up some tasty ratatouille for her friend Kallie as they chat about charitable causes for Mary to support.</desc>
+    <date>20250801</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m44874_2024_2_19_355a5745-081a-4b4a-8aa8-fffb876e0c4c_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250814172040 +0000" stop="20250814174602 +0000">
+    <title>Mary's Kitchen Crush</title>
+    <sub-title>Raising the Bar</sub-title>
+    <episode-num system="onscreen">S01E21</episode-num>
+    <desc>Mary Berg kicks her friend Sam out of her comfort zone by putting a veggie spin on her favourite bar foods.</desc>
+    <date>20250801</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m44874_2024_2_19_355a5745-081a-4b4a-8aa8-fffb876e0c4c_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250814174602 +0000" stop="20250814181122 +0000">
+    <title>Mary's Kitchen Crush</title>
+    <sub-title>Swipe Bite</sub-title>
+    <episode-num system="onscreen">S01E22</episode-num>
+    <desc>Mary Berg inspires her mom to dive into dating with a delicious squash pasta carbonara designed to get her in the mood for love.</desc>
+    <date>20250801</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m44874_2024_2_19_355a5745-081a-4b4a-8aa8-fffb876e0c4c_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250814181122 +0000" stop="20250814183644 +0000">
+    <title>Mary's Kitchen Crush</title>
+    <sub-title>Canadian Long Weekend</sub-title>
+    <episode-num system="onscreen">S01E23</episode-num>
+    <desc>Summer long weekends are all about fun, food, and friendly hangs, so Mary and her husband host their friends with a Canadian-inspired menu.</desc>
+    <date>20250801</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m44874_2024_2_19_355a5745-081a-4b4a-8aa8-fffb876e0c4c_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250813163228 +0000" stop="20250813182043 +0000">
     <title>Shockwave</title>
@@ -20063,31 +20155,26 @@
     <desc>This film shows how collected evidence revolutionized our understanding of the origin of the solar system.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRN2P7QFPGXL0VGL_2_3.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250813141603 +0000" stop="20250813145049 +0000">
-    <title>Planet E: Fixing Earth from your Backyard</title>
-    <sub-title>The Nuclear Threat: Europe's Accident-prone Reactors</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>Older nuclear power stations are still allowed to continue running. Are we sitting on a nuclear powder keg?</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRN2P7QT1A4W5XDU_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250814151709 +0000" stop="20250814162122 +0000">
+    <title>Voyage of the Continents</title>
+    <sub-title>Africa Today</sub-title>
+    <episode-num system="onscreen">S02E02</episode-num>
+    <desc>Volcanic activity and climate change define Africa’s modern history.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRD9MNQD2MO_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250813145049 +0000" stop="20250813152525 +0000">
-    <title>Planet E: Fixing Earth from your Backyard</title>
-    <sub-title>Animal Testing on Trial</sub-title>
-    <episode-num system="onscreen">S01E15</episode-num>
-    <desc>More than 2 million animals are used for experiments in Germany annually. Is there no alternative to this?</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRN2P7QT1A4W5XDU_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250814162122 +0000" stop="20250814172431 +0000">
+    <title>Voyage of the Continents</title>
+    <sub-title>North America</sub-title>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <desc>Here we travel across the continent to understand the geological forces at play.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRD9MNQD2MO_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250813152525 +0000" stop="20250813162348 +0000">
-    <title>Earth in 1000 years</title>
-    <category>Movie</category>
-    <desc>Earth's stores of ice on Greenland and Antarctica are melting, and sea levels rising. Where is Earth headed?</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRMHLGKBR8G610GS_2_3.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250813162348 +0000" stop="20250813173200 +0000">
-    <title>Planet Rethink</title>
-    <category>Movie</category>
-    <desc>Pollution is everywhere. But all is not dire. We need to increase resource efficiency to preserve our planet.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/3SKVQ99AX6YK1QWMN8RE1F_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250814172431 +0000" stop="20250814182600 +0000">
+    <title>Voyage of the Continents</title>
+    <sub-title>Central America</sub-title>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <desc>Central America takes us back to when the world was young.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KRD9MNQD2MO_16_9.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250813173200 +0000" stop="20250813183411 +0000">
     <title>Atlas of a Changing Earth</title>
@@ -20265,29 +20352,45 @@
     <desc>In Anchorage, the bald eagle rules the roost, Adapted to tough arctic conditions, in town they live on trash.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/Q1OI2LFD7SBH3LR57UPHG8_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250813140000 +0000" stop="20250813150000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250814143208 +0000" stop="20250814150314 +0000">
+    <title>World's Wildest City: Anchorage</title>
+    <sub-title>Wolves on Main Street</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>At least four wolf packs have hunted on the edge of Anchorage. They are getting bolder as the city spreads.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/Q1OI2LFD7SBH3LR57UPHG8_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250813150000 +0000" stop="20250813160000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250814150314 +0000" stop="20250814153420 +0000">
+    <title>World's Wildest City: Anchorage</title>
+    <sub-title>Bears Behaving Badly</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Anchorage is home to hundreds of black bears. They have mastered life in this urban jungle.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/Q1OI2LFD7SBH3LR57UPHG8_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250813160000 +0000" stop="20250813170000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250814153420 +0000" stop="20250814160327 +0000">
+    <title>World's Wildest City: Anchorage</title>
+    <sub-title>Beaver Lumberjacks</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>Anchorage has a unique resident: nature’s lumberjack, the beaver. But now they live in the urban jungle.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/Q1OI2LFD7SBH3LR57UPHG8_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250813170000 +0000" stop="20250813180000 +0000">
-    <title>Evolution Earth</title>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250814160327 +0000" stop="20250814163433 +0000">
+    <title>World's Wildest City: Anchorage</title>
+    <sub-title>Downtown Porcupines</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>Anchorage has a large porcupine population, twice the species' average size, living in its parks and gardens.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/Q1OI2LFD7SBH3LR57UPHG8_16_9.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250814163433 +0000" stop="20250814173643 +0000">
+    <title>Wonderful Wetlands</title>
     <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+    <desc>Wetlands serve as essential ecosystems as varied as nurseries, migration stopovers, and homes for life-forms.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/MHY11D9N2QJ9WAU3EF3ZAC_2_3.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250814173643 +0000" stop="20250814183854 +0000">
+    <title>Coasts: Rolling with the Waves</title>
+    <category>Movie</category>
+    <desc>Learn about surf zones, where open ocean meets coastal habitats. Wildlife treasure these lively meeting spots.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/MHY11D9N2QJ9W9WWZ68N5A_2_3.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250813180000 +0000" stop="20250813190000 +0000">
     <title>Evolution Earth</title>
@@ -20415,35 +20518,29 @@
     <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250813133006 +0000" stop="20250813143157 +0000">
-    <title>White Lions: Born Wild</title>
-    <sub-title>White Lions: Born Wild - Episode 1: Against all Odds</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>The two sisters are born as white as snow in May 2009 in South Africa’s Kruger Park. Growing up in this vast, wild wilderness they must not only overcome the same survival challenges that all young lion cubs face, they must also overcome the threats their high visibility brings. In the African bush, anything unusual stands out and is often eliminated by eagle-eyed predators. Will our cubs survive? The odds are stacked against them – 80 percent of all newborn lion cubs don’t make it to adulthood.</desc>
-    <date>20120212</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/WhiteLions_EP01.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250813143157 +0000" stop="20250813153346 +0000">
-    <title>White Lions: Born Wild</title>
-    <sub-title>White Lions: Born Wild - Episode 2: Fight for Survival</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>‘White Lions – Born Wild’ is a true wildlife story, with strong characters and closely studied behaviour. We follow the cubs’ progress as they embark on the pathway to adulthood, learning to hunt, learning to avoid danger, learning to live in their white coats. This is a strong behaviour-led film, a coming-of-age story of a very rare and unusual pair of lions. Through their eyes, we learn what it is really like to be a lion in Africa.</desc>
-    <date>20120212</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/WhiteLions_EP02.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250813153346 +0000" stop="20250813163456 +0000">
-    <title>Masai Mara: The Big Hunt</title>
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250814150000 +0000" stop="20250814160000 +0000">
+    <title>Evolution Earth</title>
     <category>Movie</category>
-    <desc>When food supply in the Serengeti dwindles, the Masai Mara is a paradise for predators. As the black wildebeests, gazelles, zebras and antelopes make their yearly trip from the south of the Serengeti to the north, nature’s best laid trap, the Mara River in Kenya is waiting ahead. Captivating shots filmed under water show how crocodiles prepare for the Big Hunt while other predators lurk on the banks awaiting their bounty. The biggest problems for the migratory animals are the Mara and the Tarek River, where they have to put their lives at risk to get to the other side. A great number of them die as they jump into the river and break their legs, while others are carried away by the drift or drown. Those who are not victims of the river itself risk falling prey to the crocodiles. We entered this unchartered territory, the crocodile domain by heading under water. Follow these predators in and around their habitat and watch prides of lions map out their game plan. In slow-motion, we show you the final showdown between predator and prey. Will it be a successful hunt or will the hoofed animals persevere?</desc>
-    <date>20171130</date>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/30633-32681/62781667-Plex-Portrait_v1.jpg" />
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250813163456 +0000" stop="20250813173644 +0000">
-    <title>Namibia`s Desert Kingdom</title>
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250814160000 +0000" stop="20250814170000 +0000">
+    <title>Evolution Earth</title>
     <category>Movie</category>
-    <desc>Although the dunes are barren, the dry riverbeds show signs of growth. And out of the heat, vast shapes appear. A herd of desert elephants ambles along the dry riverbed sniffing the ground with their lazy trunks. These remarkable creatures can smell the water underground and know where to find it. An abandoned well attracts a troop of chacma baboons, followed by a small herd of oryx and springbok, and finally a group of jackals. None of them has seen the pride of desert lions lying in wait.</desc>
-    <date>20131215</date>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/20392-22440/41763670-Plex-Portrait-1000x1500_v1.jpg" />
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250814170000 +0000" stop="20250814180000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250814180000 +0000" stop="20250814190000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250813173644 +0000" stop="20250813183830 +0000">
     <title>Strandwolf</title>
@@ -20600,33 +20697,33 @@
     <date>20170830</date>
     <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/30633-32681/62781791-Samsung-Thumbnail_v1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250813140158 +0000" stop="20250813150302 +0000">
-    <title>Searching For The Coast Wolves</title>
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250814151311 +0000" stop="20250814160702 +0000">
+    <title>Germany's Wild Reservoirs</title>
     <category>Movie</category>
-    <desc>Shot in the rain forests of Canada's west coast, this documentary records the life of the rare coastal wolves.</desc>
-    <date>20060101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+    <desc>One of the smallest dams in the Bergisches Land is the Panzertalsperre, with an area of just four-and-a-half football pitches. On the other hand, the Dhünntalsperre is the largest with the area of 660 football pitches. They all transform a stretch of flowing water into still and stagnant water. As a result, completely diverse ecosystems have developed there: where the dipper once dived for insect larvae, cormorants and gray herons now fish and swans and coots cavort. In recent summers, even greater challenges have emerged: the effects of climate change - from extreme drought to destructive floods. On a smaller scale, a rather industrious dam master is operating flood protection: The Beaver. However, the water masses of the Wupper tore away half of his majestic timber castle - and the four young beaver kids were not seen again afterwards. Have they survived the flood? Not everyone can cope with the constant change in the dams, but they still remain an important wonder of engineering for many: for us humans as well as for a number of animals. By combining water management, ecological requirements and tourism a worthwhile goal is possible: Because for the Bergisches Land, its dams are among the most valuable and popular infrastructures that the region has to offer.</desc>
+    <date>20210703</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/30835-32883/63194910-Samsung-Thumbnail_v1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250813150302 +0000" stop="20250813160535 +0000">
-    <title>Great Barrier Reef 4K</title>
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250814160702 +0000" stop="20250814170733 +0000">
+    <title>Germany's Mystic Forest</title>
     <category>Movie</category>
-    <desc>Dive into the Great Barrier Reef in stunning 4K, exploring vibrant coral, turtles, and fish in one of Earth's most diverse natural wonders.</desc>
-    <date>20150101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+    <desc>2.000 rivers and streams dig deep into the underground and transport their water into reservoirs or "Germany's Wild Amazon", the Wupper. These forests and rivers, together with heathlands and moors, are home to a diverse fauna. Martens, badgers, wild boars, hares, roe deer, and red deer, even black grouse and hazel deer find shelter in these parts. Wolves also have a dominant presence, not to mention those who live underground, such as lizards, bats, and snakes. Accompany us on a journey where we explore every corner of this rugged land. Climb underground into the Bergisches Land, through the vast hidden cave systems that sprawl far beneath the forests. There is also much to be discovered in the water, dive with us in crystal clear streams and rivers with their diverse flora and fauna.</desc>
+    <date>20200601</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodes/19824-21872/40599718-Samsung-Thumbnail_v1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250813160535 +0000" stop="20250813170649 +0000">
-    <title>A Man among Orcas</title>
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250814170733 +0000" stop="20250814180258 +0000">
+    <title>Gronland - In the Glare of Ice</title>
     <category>Movie</category>
-    <desc>Filmmaker David Reichert toured the Crozet Islands, observing killer whales hunt seals and penguins.</desc>
-    <date>20060101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+    <desc>Greenland is the largest island in the world and the landmass closest to the North Pole. 80% of the country is covered by a layer of ice up to 3000 meters thick. Most of the inhabitants of the country are spread over the breathtaking landscape of the ice-free west coast. The country is mostly inhabited by Inuit, who have been feeding on what nature has provided them for thousands of years. But the original life is in a state of change. The modernisation of society and man-made global warming threaten the Arctic natural paradise that is so incredibly important for our planet. Through the eyes of locals we get to know the authentic Greenland.</desc>
+    <date>20200715</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/30633-32681/62781754-Samsung-Thumbnail_v1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250813170649 +0000" stop="20250813180128 +0000">
-    <title>Black Bear at the Edge of the World</title>
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250814180258 +0000" stop="20250814185743 +0000">
+    <title>Faroe Islands - A Secret Beauty</title>
     <category>Movie</category>
-    <desc>A nature documentary that follows the daily life and seasonal cycles of a young black bear as she survives and struggles to reproduce in the breathtaking Forillon National Park of Gaspésie, Quebec.</desc>
-    <date>20190101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+    <desc>The Faroe Islands in the North Atlantic, located in the middle of the Gulf Stream between Scotland and Iceland, are an archipelago of eighteen green volcanic islands where a unique culture has developed over the last thousand years. As direct descendants of the Vikings, the Faroese feel committed to their traditions and hold on to customs, without missing out on the advantages of the modern and globalised world - from archaic hunter and shepherd culture to contemporary art. With the highest birth rate in Europe and the lowest social inequality in the world, the just fifty thousand Faroese are a very special people living on one of the last natural paradises in Europe.</desc>
+    <date>20210917</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/30633-32681/62781825-Plex-Portrait_v1.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250813180128 +0000" stop="20250813190240 +0000">
     <title>Animal Armoury</title>
@@ -20783,6 +20880,32 @@
     <category>Movie</category>
     <desc>The California Condor population faced extinction in the 1980s until biologists allied with hunters to investigate the cause of these magnificent birds' death.</desc>
     <date>19790101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250814150608 +0000" stop="20250814160458 +0000">
+    <title>Wild Galapagos Series 01 Episode 01</title>
+    <sub-title>Episode 1</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>The Galapagos Archipelago's diverse biodiversity is attributed to the Pacific's Humboldt</desc>
+    <date>20170101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/ALBWGAS001EP001.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250814160458 +0000" stop="20250814170334 +0000">
+    <title>Wild Galapagos Series 01 Episode 02</title>
+    <sub-title>Episode 2</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>home to diverse creatures, inspired Charles Darwin's evolution theory due to their unique adaptations</desc>
+    <date>20170101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/ALBWGAS001EP002.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250814170334 +0000" stop="20250814180205 +0000">
+    <title>Hidden Australia</title>
+    <category>Movie</category>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250814180205 +0000" stop="20250814190055 +0000">
+    <title>Hidden Spain</title>
+    <category>Movie</category>
     <icon src="https://provider-static.plex.tv/epg/cms/production/f30f0173-de9a-479c-975a-0280b199f721/FallBack_Real_Wild_-_Simon_Tuquabo.jpg" />
   </programme>
   </tv>
