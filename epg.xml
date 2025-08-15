@@ -18998,6 +18998,10 @@ Rated R</desc>
     <display-name>CBC News</display-name>
     <icon src="https://provider-static.plex.tv/e/epg/channels/logos/gracenote/edb4a846dfbdd0fd06dc3c64ef89da22.png" />
   </channel>
+  <channel id="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d">
+    <display-name>CTV News</display-name>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/0d95aadb-10dc-41d5-a7b5-614f03e88853/CTVNews_Logo_ForDarkBackgrounds_1500x1000.png" />
+  </channel>
   <channel id="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f">
     <display-name>CTV @Home</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/0470001c-71cf-4a1a-aa32-00b192093b6d/CTVatHome_Logo_ForDarkBackgrounds_1500x1000.png" />
@@ -19022,34 +19026,6 @@ Rated R</desc>
     <display-name>Real Wild</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/09e8c6b6-368e-4275-b974-fe5e1921f64d/RealWild_Logo_White_-_Simon_Tuquabo.png" />
   </channel>
-  <channel id="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d">
-    <display-name>CTV News</display-name>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/0d95aadb-10dc-41d5-a7b5-614f03e88853/CTVNews_Logo_ForDarkBackgrounds_1500x1000.png" />
-  </channel>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250815140000 +0000" stop="20250815150000 +0000">
-    <title>CBC News: Morning</title>
-    <sub-title>CBC News: Morning</sub-title>
-    <desc>What do you need to know about the world around you? Heather Hiscox takes the helm as the anchor for this weekday-morning news program to tell you. Joining her is Colleen Jones with weather and sports info., and Danielle Bochove with all you need to know about the business world.</desc>
-    <date>20250815</date>
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250815150000 +0000" stop="20250815153000 +0000">
-    <title>About That</title>
-    <sub-title>About That</sub-title>
-    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
-    <date>20250815</date>
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250815153000 +0000" stop="20250815160000 +0000">
-    <title>Today's Top Stories</title>
-    <sub-title>Today's Top Stories</sub-title>
-    <desc>What's happening across Canada and around the world.</desc>
-    <date>20250815</date>
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250815160000 +0000" stop="20250815163000 +0000">
-    <title>About That</title>
-    <sub-title>About That</sub-title>
-    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
-    <date>20250815</date>
-  </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250815163000 +0000" stop="20250815200000 +0000">
     <title>Today's Top Stories</title>
     <sub-title>Today's Top Stories</sub-title>
@@ -19170,85 +19146,305 @@ Rated R</desc>
     <desc>CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.</desc>
     <date>20250816</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250815135120 +0000" stop="20250815141726 +0000">
-    <title>Flour Power</title>
-    <sub-title>Summer</sub-title>
-    <episode-num system="onscreen">S02E06</episode-num>
-    <desc>Host Jessica McGovern whips up some sweet treats that are perfect for a summer pool party.</desc>
-    <date>20240408</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m41323_2024_2_21_901a3f86-afb3-421c-987d-12aed397dfc1_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250816150000 +0000" stop="20250816153000 +0000">
+    <title>About That</title>
+    <sub-title>About That</sub-title>
+    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
+    <date>20250816</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250815141726 +0000" stop="20250815144334 +0000">
-    <title>Spencer's Big 30</title>
-    <sub-title>Pizza Take-Out</sub-title>
-    <episode-num system="onscreen">S03E04</episode-num>
-    <desc>Chef Spencer Watts cooks up a Pizza feast that’s fast, fun, and affordable.</desc>
-    <date>20240412</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250816153000 +0000" stop="20250816160000 +0000">
+    <title>About That</title>
+    <sub-title>About That</sub-title>
+    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
+    <date>20250816</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250815144334 +0000" stop="20250815150942 +0000">
-    <title>Spencer's Big 30</title>
-    <sub-title>Thai Take-Out</sub-title>
-    <episode-num system="onscreen">S03E05</episode-num>
-    <desc>Thai food is on the menu as Chef Spencer Watts cooks up an affordable dinner in around 30 minutes.</desc>
-    <date>20240412</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250816160000 +0000" stop="20250816170000 +0000">
+    <title>Cross Canada Road Trip</title>
+    <sub-title>Cross Canada Road Trip</sub-title>
+    <desc>A tour around the country exploring diverse stories through art, culture and food.</desc>
+    <date>20250816</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250815150942 +0000" stop="20250815153549 +0000">
-    <title>Spencer's Big 30</title>
-    <sub-title>Japanese Take-Out</sub-title>
-    <episode-num system="onscreen">S03E06</episode-num>
-    <desc>Chef Spencer Watts makes fast and affordable Japanese food for four, all in around 30 minutes.</desc>
-    <date>20240412</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250816170000 +0000" stop="20250816180000 +0000">
+    <title>O Canada</title>
+    <sub-title>O Canada</sub-title>
+    <desc>A CBC News special celebrating Canada and its unique stories.</desc>
+    <date>20250816</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250815153549 +0000" stop="20250815160157 +0000">
-    <title>Spencer's Big 30</title>
-    <sub-title>Vietnamese Take-Out</sub-title>
-    <episode-num system="onscreen">S03E07</episode-num>
-    <desc>Chef Spencer Watts makes a fresh and fragrant Vietnamese meal for four for around 30 dollars.</desc>
-    <date>20240412</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770" start="20250816180000 +0000" stop="20250816190000 +0000">
+    <title>This Week's Top Stories</title>
+    <sub-title>This Week's Top Stories</sub-title>
+    <desc>Making sense of the big stories that made news across Canada and around the world from this past week.</desc>
+    <date>20250816</date>
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250815160157 +0000" stop="20250815162804 +0000">
-    <title>Spencer's Big 30</title>
-    <sub-title>Food Truck Take-Out</sub-title>
-    <episode-num system="onscreen">S03E08</episode-num>
-    <desc>Chef Spencer Watts cooks up Food Tuck inspired fare for the whole family in under 30 minutes.</desc>
-    <date>20240412</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250815180000 +0000" stop="20250815183000 +0000">
+    <title>CTV National News with Sandie Rinaldo</title>
+    <sub-title>for Wednesday, August 13, 2025</sub-title>
+    <episode-num system="onscreen">S2025E156</episode-num>
+    <desc>Watch CTV National News with Sandie Rinaldo</desc>
+    <date>20250815</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55373_2024_2_22_4ed6902f-672f-4fc5-83f4-d013fa03684a_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250815162804 +0000" stop="20250815165408 +0000">
-    <title>Fun'Q with Spencer Watts</title>
-    <sub-title>Bib Worthy BBQ</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Bring on the face wiping, finger licking goodness with messy and delicious, fall off the bone, soya beef ribs with sesame mayo.</desc>
-    <date>20250731</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54738_2024_2_28_6b74e44d-2097-4c0e-9a24-0ef9766c8a9e_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250815183000 +0000" stop="20250815190000 +0000">
+    <title>CTV News: Across Canada</title>
+    <sub-title>for Friday, August 15, 2025</sub-title>
+    <episode-num system="onscreen">S2025E169</episode-num>
+    <desc>Top stories from coast-to-coast as reported by CTV News local journalists across Canada.</desc>
+    <date>20250815</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55945_2024_8_9_9f6270cc-d7b3-48b4-a0cc-902adc5a6152_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250815165408 +0000" stop="20250815172011 +0000">
-    <title>Fun'Q with Spencer Watts</title>
-    <sub-title>Big Big BBQ</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Spencer Watts is inspired to embrace big, big food for a big big barbecue feast.</desc>
-    <date>20250731</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54738_2024_2_28_6b74e44d-2097-4c0e-9a24-0ef9766c8a9e_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250815190000 +0000" stop="20250815200000 +0000">
+    <title>CTV News Edmonton at Six</title>
+    <sub-title>for Tuesday, August 12, 2025</sub-title>
+    <episode-num system="onscreen">S2025E227</episode-num>
+    <desc>CTV News Edmonton at Six</desc>
+    <date>20250813</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29921_2025_8_12_cb023c63-1aae-4286-a9bb-aed5806eab80_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250815172011 +0000" stop="20250815174615 +0000">
-    <title>Fun'Q with Spencer Watts</title>
-    <sub-title>Brunch Is Lit</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Delicious grilled food is good for morning, noon and night, so let’s Brunch.</desc>
-    <date>20250731</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54738_2024_2_28_6b74e44d-2097-4c0e-9a24-0ef9766c8a9e_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250815200000 +0000" stop="20250815203000 +0000">
+    <title>CTV National News with Sandie Rinaldo</title>
+    <sub-title>for Wednesday, August 13, 2025</sub-title>
+    <episode-num system="onscreen">S2025E156</episode-num>
+    <desc>Watch CTV National News with Sandie Rinaldo</desc>
+    <date>20250815</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55373_2024_2_22_4ed6902f-672f-4fc5-83f4-d013fa03684a_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250815174615 +0000" stop="20250815181218 +0000">
-    <title>Fun'Q with Spencer Watts</title>
-    <sub-title>Spice Is Nice</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Spencer’s feeling spicy! He makes a light chickpea salad with charred halloumi and a cumin vinaigrette.</desc>
-    <date>20250731</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m54738_2024_2_28_6b74e44d-2097-4c0e-9a24-0ef9766c8a9e_JPG_1920x1080.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250815203000 +0000" stop="20250815210000 +0000">
+    <title>CTV News: Your Canada</title>
+    <sub-title>for Friday, August 15, 2025</sub-title>
+    <episode-num system="onscreen">S2025E191</episode-num>
+    <desc>Stories that showcase what makes Canada unique.</desc>
+    <date>20250815</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250815210000 +0000" stop="20250815220000 +0000">
+    <title>CTV News Vancouver at Six</title>
+    <sub-title>for Wednesday, August 13, 2025</sub-title>
+    <episode-num system="onscreen">S2025E98</episode-num>
+    <desc>CTV News Vancouver at Six</desc>
+    <date>20250814</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29940_2024_6_13_de70b883-f511-4ea7-8a64-751d764c2bfb_JPG_1920x1080.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250815220000 +0000" stop="20250815223000 +0000">
+    <title>CTV National News with Sandie Rinaldo</title>
+    <sub-title>for Wednesday, August 13, 2025</sub-title>
+    <episode-num system="onscreen">S2025E156</episode-num>
+    <desc>Watch CTV National News with Sandie Rinaldo</desc>
+    <date>20250815</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55373_2024_2_22_4ed6902f-672f-4fc5-83f4-d013fa03684a_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250815223000 +0000" stop="20250815230000 +0000">
+    <title>CTV News: Across Canada</title>
+    <sub-title>for Friday, August 15, 2025</sub-title>
+    <episode-num system="onscreen">S2025E169</episode-num>
+    <desc>Top stories from coast-to-coast as reported by CTV News local journalists across Canada.</desc>
+    <date>20250815</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55945_2024_8_9_9f6270cc-d7b3-48b4-a0cc-902adc5a6152_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250815230000 +0000" stop="20250816000000 +0000">
+    <title>CTV News Montreal at Six</title>
+    <sub-title>for Wednesday, August 13, 2025</sub-title>
+    <episode-num system="onscreen">S2025E136</episode-num>
+    <desc>CTV News Montreal at Six</desc>
+    <date>20250814</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29873_2024_6_13_09cee8e5-1b7b-4f0e-ac21-c4395fbbb044_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816000000 +0000" stop="20250816003000 +0000">
+    <title>CTV National News with Sandie Rinaldo</title>
+    <sub-title>for Wednesday, August 13, 2025</sub-title>
+    <episode-num system="onscreen">S2025E156</episode-num>
+    <desc>Watch CTV National News with Sandie Rinaldo</desc>
+    <date>20250815</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55373_2024_2_22_4ed6902f-672f-4fc5-83f4-d013fa03684a_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816003000 +0000" stop="20250816010000 +0000">
+    <title>CTV News: Your Canada</title>
+    <sub-title>for Friday, August 15, 2025</sub-title>
+    <episode-num system="onscreen">S2025E191</episode-num>
+    <desc>Stories that showcase what makes Canada unique.</desc>
+    <date>20250815</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816010000 +0000" stop="20250816020000 +0000">
+    <title>CTV News Calgary at Six</title>
+    <sub-title>for Wednesday, August 13, 2025</sub-title>
+    <episode-num system="onscreen">S2025E98</episode-num>
+    <desc>CTV News Calgary at Six</desc>
+    <date>20250814</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29932_2025_8_12_bc23b33e-4457-42dd-847a-60e941dff61a_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816020000 +0000" stop="20250816023000 +0000">
+    <title>CTV National News with Sandie Rinaldo</title>
+    <sub-title>for Wednesday, August 13, 2025</sub-title>
+    <episode-num system="onscreen">S2025E156</episode-num>
+    <desc>Watch CTV National News with Sandie Rinaldo</desc>
+    <date>20250815</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55373_2024_2_22_4ed6902f-672f-4fc5-83f4-d013fa03684a_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816023000 +0000" stop="20250816030000 +0000">
+    <title>CTV News: Across Canada</title>
+    <sub-title>for Friday, August 15, 2025</sub-title>
+    <episode-num system="onscreen">S2025E169</episode-num>
+    <desc>Top stories from coast-to-coast as reported by CTV News local journalists across Canada.</desc>
+    <date>20250815</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55945_2024_8_9_9f6270cc-d7b3-48b4-a0cc-902adc5a6152_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816030000 +0000" stop="20250816040000 +0000">
+    <title>CTV News Vancouver at Six</title>
+    <sub-title>for Wednesday, August 13, 2025</sub-title>
+    <episode-num system="onscreen">S2025E98</episode-num>
+    <desc>CTV News Vancouver at Six</desc>
+    <date>20250814</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29940_2024_6_13_de70b883-f511-4ea7-8a64-751d764c2bfb_JPG_1920x1080.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816040000 +0000" stop="20250816043000 +0000">
+    <title>CTV National News with Sandie Rinaldo</title>
+    <sub-title>for Wednesday, August 13, 2025</sub-title>
+    <episode-num system="onscreen">S2025E156</episode-num>
+    <desc>Watch CTV National News with Sandie Rinaldo</desc>
+    <date>20250815</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55373_2024_2_22_4ed6902f-672f-4fc5-83f4-d013fa03684a_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816043000 +0000" stop="20250816050000 +0000">
+    <title>CTV News: Your Canada</title>
+    <sub-title>for Friday, August 15, 2025</sub-title>
+    <episode-num system="onscreen">S2025E191</episode-num>
+    <desc>Stories that showcase what makes Canada unique.</desc>
+    <date>20250815</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816050000 +0000" stop="20250816060000 +0000">
+    <title>CTV News Toronto at Six</title>
+    <sub-title>for Wednesday, August 13, 2025</sub-title>
+    <episode-num system="onscreen">S2025E136</episode-num>
+    <desc>CTV News Toronto at Six</desc>
+    <date>20250814</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29736_2024_6_13_80514d3f-90ee-4070-a6ba-398ec3f8081a_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816060000 +0000" stop="20250816063000 +0000">
+    <title>CTV National News with Sandie Rinaldo</title>
+    <sub-title>for Wednesday, August 13, 2025</sub-title>
+    <episode-num system="onscreen">S2025E156</episode-num>
+    <desc>Watch CTV National News with Sandie Rinaldo</desc>
+    <date>20250815</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55373_2024_2_22_4ed6902f-672f-4fc5-83f4-d013fa03684a_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816063000 +0000" stop="20250816070000 +0000">
+    <title>CTV News: Across Canada</title>
+    <sub-title>for Friday, August 15, 2025</sub-title>
+    <episode-num system="onscreen">S2025E169</episode-num>
+    <desc>Top stories from coast-to-coast as reported by CTV News local journalists across Canada.</desc>
+    <date>20250815</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55945_2024_8_9_9f6270cc-d7b3-48b4-a0cc-902adc5a6152_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816070000 +0000" stop="20250816080000 +0000">
+    <title>CTV News Edmonton at Six</title>
+    <sub-title>for Tuesday, August 12, 2025</sub-title>
+    <episode-num system="onscreen">S2025E227</episode-num>
+    <desc>CTV News Edmonton at Six</desc>
+    <date>20250813</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29921_2025_8_12_cb023c63-1aae-4286-a9bb-aed5806eab80_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816080000 +0000" stop="20250816083000 +0000">
+    <title>CTV National News with Sandie Rinaldo</title>
+    <sub-title>for Wednesday, August 13, 2025</sub-title>
+    <episode-num system="onscreen">S2025E156</episode-num>
+    <desc>Watch CTV National News with Sandie Rinaldo</desc>
+    <date>20250815</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55373_2024_2_22_4ed6902f-672f-4fc5-83f4-d013fa03684a_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816083000 +0000" stop="20250816090000 +0000">
+    <title>CTV News: Your Canada</title>
+    <sub-title>for Friday, August 15, 2025</sub-title>
+    <episode-num system="onscreen">S2025E191</episode-num>
+    <desc>Stories that showcase what makes Canada unique.</desc>
+    <date>20250815</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816090000 +0000" stop="20250816095959 +0000">
+    <title>CTV News Vancouver at Six</title>
+    <sub-title>for Wednesday, August 13, 2025</sub-title>
+    <episode-num system="onscreen">S2025E98</episode-num>
+    <desc>CTV News Vancouver at Six</desc>
+    <date>20250814</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29940_2024_6_13_de70b883-f511-4ea7-8a64-751d764c2bfb_JPG_1920x1080.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816095959 +0000" stop="20250816103000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816103000 +0000" stop="20250816110000 +0000">
+    <title>CTV News: Across Canada</title>
+    <category>Movie</category>
+    <desc>CTV News: Across Canada</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816110000 +0000" stop="20250816120000 +0000">
+    <title>CTV News Toronto at Six</title>
+    <category>Movie</category>
+    <desc>CTV News Toronto at Six</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816120000 +0000" stop="20250816123000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816123000 +0000" stop="20250816130000 +0000">
+    <title>CTV News: Your Canada</title>
+    <category>Movie</category>
+    <desc>CTV News: Your Canada</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816130000 +0000" stop="20250816140000 +0000">
+    <title>CTV News Calgary at Six</title>
+    <category>Movie</category>
+    <desc>CTV News Calgary at Six</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816140000 +0000" stop="20250816143000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816143000 +0000" stop="20250816150000 +0000">
+    <title>CTV News: Across Canada</title>
+    <category>Movie</category>
+    <desc>CTV News: Across Canada</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816150000 +0000" stop="20250816160000 +0000">
+    <title>CTV News Vancouver at Six</title>
+    <category>Movie</category>
+    <desc>CTV News Vancouver at Six</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816160000 +0000" stop="20250816163000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816163000 +0000" stop="20250816170000 +0000">
+    <title>CTV News: Your Canada</title>
+    <category>Movie</category>
+    <desc>CTV News: Your Canada</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816170000 +0000" stop="20250816180000 +0000">
+    <title>CTV News Ottawa at Six</title>
+    <category>Movie</category>
+    <desc>CTV News Ottawa at Six</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816180000 +0000" stop="20250816183000 +0000">
+    <title>CTV National News</title>
+    <category>Movie</category>
+    <desc>CTV National News</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250815181218 +0000" stop="20250815183821 +0000">
     <title>Fun'Q with Spencer Watts</title>
@@ -19626,68 +19822,77 @@ Rated R</desc>
     <date>20250729</date>
     <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m55061_2024_2_28_f2919a27-22bb-4f04-a18a-d83df069e9bd_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250815140210 +0000" stop="20250815143213 +0000">
-    <title>Space: The New Frontier</title>
-    <sub-title>Living with Space</sub-title>
-    <episode-num system="onscreen">S03E01</episode-num>
-    <desc>With the wealth of experience behind Astronauts and Cosmonauts, what do they think when they return to Earth?</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KQRKNR0QG5E_16_9.jpeg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250816143417 +0000" stop="20250816150021 +0000">
+    <title>Comfort Food With Spencer Watts</title>
+    <sub-title>Hot Soup Comfort</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Spencer makes a spicy spinach and Taleggio cheese wonton soup in a chorizo broth.</desc>
+    <date>20250729</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m55061_2024_2_28_f2919a27-22bb-4f04-a18a-d83df069e9bd_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250815143213 +0000" stop="20250815150015 +0000">
-    <title>Space: The New Frontier</title>
-    <sub-title>Atmosphere</sub-title>
-    <episode-num system="onscreen">S03E02</episode-num>
-    <desc>The envelope of gas surrounding our planet is a complex machine that protects us from the vacuum of space.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KQRKNR0QG5E_16_9.jpeg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250816150021 +0000" stop="20250816152624 +0000">
+    <title>Comfort Food With Spencer Watts</title>
+    <sub-title>Pasta Pasta Pasta</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <desc>A pork bolognese stuffed tortellini with American cheese rose and soffrito.</desc>
+    <date>20250729</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m55061_2024_2_28_f2919a27-22bb-4f04-a18a-d83df069e9bd_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250815150015 +0000" stop="20250815152819 +0000">
-    <title>Space: The New Frontier</title>
-    <sub-title>Flight Status</sub-title>
-    <episode-num system="onscreen">S03E03</episode-num>
-    <desc>New projects are advancing slowly, moving hardware into the testing phase, new designs, new capabilities.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KQRKNR0QG5E_16_9.jpeg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250816152624 +0000" stop="20250816155228 +0000">
+    <title>Comfort Food With Spencer Watts</title>
+    <sub-title>Comfort Kissed by Fire</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>Montreal smoked meat potato rosti; campfire steaks with a nori butter; sweet and creamy fondue.</desc>
+    <date>20250729</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m55061_2024_2_28_f2919a27-22bb-4f04-a18a-d83df069e9bd_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250815152819 +0000" stop="20250815155822 +0000">
-    <title>Space: The New Frontier</title>
-    <sub-title>Invasion Mars</sub-title>
-    <episode-num system="onscreen">S03E04</episode-num>
-    <desc>For over 50 years we have bombarded Mars with our probes and landers.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KQRKNR0QG5E_16_9.jpeg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250816155228 +0000" stop="20250816161831 +0000">
+    <title>Comfort Food With Spencer Watts</title>
+    <sub-title>Comfort With a Kick</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>Cajun shrimp cakes with a creole etouffee; Brazilian moqueca with halibut and shrimp.</desc>
+    <date>20250729</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m55061_2024_2_28_f2919a27-22bb-4f04-a18a-d83df069e9bd_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250815155822 +0000" stop="20250815162626 +0000">
-    <title>Space: The New Frontier</title>
-    <sub-title>Juno, Cassini and Beyond</sub-title>
-    <episode-num system="onscreen">S03E05</episode-num>
-    <desc>The Amazing Cassini spacecraft have now concluded their scientific studies.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KQRKNR0QG5E_16_9.jpeg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250816161831 +0000" stop="20250816164435 +0000">
+    <title>Comfort Food With Spencer Watts</title>
+    <sub-title>Sweet Tooth Comfort</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Spencer has a sweet tooth and he shares three sweet treat recipes to help indulge a love of sugar.</desc>
+    <date>20250729</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m55061_2024_2_28_f2919a27-22bb-4f04-a18a-d83df069e9bd_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250815162626 +0000" stop="20250815165430 +0000">
-    <title>Space: The New Frontier</title>
-    <sub-title>Sling Shot</sub-title>
-    <episode-num system="onscreen">S03E06</episode-num>
-    <desc>The NASA Mariner 10 mission used the technique to swing by Venus to target Mercury.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KQRKNR0QG5E_16_9.jpeg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250816164435 +0000" stop="20250816171039 +0000">
+    <title>Comfort Food With Spencer Watts</title>
+    <sub-title>Magical Beans</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>Making black bean and kabocha squash soup with braised Swiss chard and chili pesto.</desc>
+    <date>20250729</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m55061_2024_2_28_f2919a27-22bb-4f04-a18a-d83df069e9bd_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250815165430 +0000" stop="20250815172234 +0000">
-    <title>Space: The New Frontier</title>
-    <sub-title>Living Planet</sub-title>
-    <episode-num system="onscreen">S03E07</episode-num>
-    <desc>We have been observing Earth for 40 years now, in the last 20 we have focus with intensity on the planet.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KQRKNR0QG5E_16_9.jpeg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250816171039 +0000" stop="20250816173641 +0000">
+    <title>Comfort Food With Spencer Watts</title>
+    <sub-title>Comforting Baked Goods</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>Spencer bakes cheddar chive biscuits with poached eggs and country gravy; Dutch apple-cranberry pie.</desc>
+    <date>20250729</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m55061_2024_2_28_f2919a27-22bb-4f04-a18a-d83df069e9bd_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250815172234 +0000" stop="20250815175037 +0000">
-    <title>Space: The New Frontier</title>
-    <sub-title>Cosmic Collisions</sub-title>
-    <episode-num system="onscreen">S03E08</episode-num>
-    <desc>Stars collide creating monsters of light and energy. Space is a rough place to be.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KQRKNR0QG5E_16_9.jpeg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250816173641 +0000" stop="20250816180243 +0000">
+    <title>Comfort Food With Spencer Watts</title>
+    <sub-title>TV Dinners</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>Spencer makes Salisbury steak with gravy, Vichy peas and a potato cauliflower mash with stilton.</desc>
+    <date>20250729</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m55061_2024_2_28_f2919a27-22bb-4f04-a18a-d83df069e9bd_JPG_2000x1125.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250815175037 +0000" stop="20250815181841 +0000">
-    <title>Space: The New Frontier</title>
-    <sub-title>Gravity</sub-title>
-    <episode-num system="onscreen">S03E09</episode-num>
-    <desc>In space we are merely cheating gravity. Now this fundamental universal force is slowly giving up its secrets.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KQRKNR0QG5E_16_9.jpeg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" start="20250816180243 +0000" stop="20250816182846 +0000">
+    <title>Comfort Food With Spencer Watts</title>
+    <sub-title>For the Love of Spuds</sub-title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <desc>Three recipes including a decadent potato pie with a camembert center and a parsley butter drizzle.</desc>
+    <date>20250729</date>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m55061_2024_2_28_f2919a27-22bb-4f04-a18a-d83df069e9bd_JPG_2000x1125.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250815181841 +0000" stop="20250815184644 +0000">
     <title>Space: The New Frontier</title>
@@ -19976,44 +20181,61 @@ Rated R</desc>
     <desc>We're looking hard, but the numbers aren't stacking up. Is life on other planets really that hard to find?</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KQRKNR0QG5E_16_9.jpeg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250815131621 +0000" stop="20250815142057 +0000">
-    <title>A Wolf's Journey</title>
-    <category>Movie</category>
-    <desc>Driven out of his pack, a young wolf has to face his fate alone and try to survive in a world ruled by man.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/TG8ESMXYU171APJ06QJU4O_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250816143220 +0000" stop="20250816150226 +0000">
+    <title>Space: The New Frontier</title>
+    <sub-title>Star Light Star Bright</sub-title>
+    <episode-num system="onscreen">S05E01</episode-num>
+    <desc>Two new space probes can now orbit closer to the Sun than ever before, enabling groundbreaking research.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KQRKNR0QG5E_16_9.jpeg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250815142057 +0000" stop="20250815145547 +0000">
-    <title>Planet E: Fixing Earth from your Backyard</title>
-    <sub-title>On Silent Paws: The Return of the Lynx</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>The lynx was tragically hunted to the brink of extinction.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRN2P7QT1A4W5XDU_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250816150226 +0000" stop="20250816153232 +0000">
+    <title>Space: The New Frontier</title>
+    <sub-title>Moon Shine</sub-title>
+    <episode-num system="onscreen">S05E02</episode-num>
+    <desc>Scientists are studying the benefits of a hybrid moon mission, one where humans and robots work in tandem.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KQRKNR0QG5E_16_9.jpeg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250815145547 +0000" stop="20250815153033 +0000">
-    <title>Planet E: Fixing Earth from your Backyard</title>
-    <sub-title>The Nuclear Threat: Europe's Accident-prone Reactors</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>Older nuclear power stations are still allowed to continue running. Are we sitting on a nuclear powder keg?</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRN2P7QT1A4W5XDU_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250816153232 +0000" stop="20250816160239 +0000">
+    <title>Space: The New Frontier</title>
+    <sub-title>Rising Tides</sub-title>
+    <episode-num system="onscreen">S05E03</episode-num>
+    <desc>Climate change is causing increasing havoc to our environment. How can science respond to this challenge?</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KQRKNR0QG5E_16_9.jpeg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250815153033 +0000" stop="20250815160510 +0000">
-    <title>Planet E: Fixing Earth from your Backyard</title>
-    <sub-title>Animal Testing on Trial</sub-title>
-    <episode-num system="onscreen">S01E15</episode-num>
-    <desc>More than 2 million animals are used for experiments in Germany annually. Is there no alternative to this?</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRN2P7QT1A4W5XDU_16_9.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250816160239 +0000" stop="20250816163245 +0000">
+    <title>Space: The New Frontier</title>
+    <sub-title>Earth's Evil Twin</sub-title>
+    <episode-num system="onscreen">S05E04</episode-num>
+    <desc>Venus may be considered Earth's evil twin. Hostile and unforgiving, Venus is the subject of intense scrutiny.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KQRKNR0QG5E_16_9.jpeg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250815160510 +0000" stop="20250815170332 +0000">
-    <title>Earth in 1000 years</title>
-    <category>Movie</category>
-    <desc>Earth's stores of ice on Greenland and Antarctica are melting, and sea levels rising. Where is Earth headed?</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QF8QRMHLGKBR8G610GS_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250816163245 +0000" stop="20250816170249 +0000">
+    <title>Space: The New Frontier</title>
+    <sub-title>Increasing Orbit</sub-title>
+    <episode-num system="onscreen">S05E05</episode-num>
+    <desc>The International Space Station is now the only manned station in space, but soon there may be more.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KQRKNR0QG5E_16_9.jpeg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250815170332 +0000" stop="20250815181144 +0000">
-    <title>Planet Rethink</title>
-    <category>Movie</category>
-    <desc>Pollution is everywhere. But all is not dire. We need to increase resource efficiency to preserve our planet.</desc>
-    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/3SKVQ99AX6YK1QWMN8RE1F_2_3.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250816170249 +0000" stop="20250816173256 +0000">
+    <title>Space: The New Frontier</title>
+    <sub-title>Mountains in the Dark</sub-title>
+    <episode-num system="onscreen">S05E06</episode-num>
+    <desc>Asteroids are everywhere in space. We count them, examine why they exist, and track them for Earth's safety.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KQRKNR0QG5E_16_9.jpeg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250816173256 +0000" stop="20250816180302 +0000">
+    <title>Space: The New Frontier</title>
+    <sub-title>Oceans in the Sky</sub-title>
+    <episode-num system="onscreen">S05E07</episode-num>
+    <desc>In our search for life beyond Earth, seeking water on other planetary bodies is an important first step.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KQRKNR0QG5E_16_9.jpeg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-635c61cc797a33fa4193cc93" start="20250816180302 +0000" stop="20250816183308 +0000">
+    <title>Space: The New Frontier</title>
+    <sub-title>Webb of Life</sub-title>
+    <episode-num system="onscreen">S05E08</episode-num>
+    <desc>The James Webb Space Telescope will be our key to understanding where we fit in our enormous universe.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/20QFAZ4SO2KQRKNR0QG5E_16_9.jpeg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250815181144 +0000" stop="20250815191355 +0000">
     <title>Atlas of a Changing Earth</title>
@@ -20184,29 +20406,52 @@ Rated R</desc>
     <desc>As Anchorage continues to expand into the wilderness, encounters between people and wild Lynx are on the rise.</desc>
     <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/Q1OI2LFD7SBH3LR57UPHG8_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250815140000 +0000" stop="20250815150000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250816144246 +0000" stop="20250816151152 +0000">
+    <title>World's Wildest City: Anchorage</title>
+    <sub-title>Bald Eagle Rescue</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <desc>In Anchorage, the bald eagle rules the roost, Adapted to tough arctic conditions, in town they live on trash.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/Q1OI2LFD7SBH3LR57UPHG8_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250815150000 +0000" stop="20250815160000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250816151152 +0000" stop="20250816154258 +0000">
+    <title>World's Wildest City: Anchorage</title>
+    <sub-title>Wolves on Main Street</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <desc>At least four wolf packs have hunted on the edge of Anchorage. They are getting bolder as the city spreads.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/Q1OI2LFD7SBH3LR57UPHG8_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250815160000 +0000" stop="20250815170000 +0000">
-    <title>Evolution Earth</title>
-    <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250816154258 +0000" stop="20250816161405 +0000">
+    <title>World's Wildest City: Anchorage</title>
+    <sub-title>Bears Behaving Badly</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Anchorage is home to hundreds of black bears. They have mastered life in this urban jungle.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/Q1OI2LFD7SBH3LR57UPHG8_16_9.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250815170000 +0000" stop="20250815180000 +0000">
-    <title>Evolution Earth</title>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250816161405 +0000" stop="20250816164311 +0000">
+    <title>World's Wildest City: Anchorage</title>
+    <sub-title>Beaver Lumberjacks</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>Anchorage has a unique resident: nature’s lumberjack, the beaver. But now they live in the urban jungle.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/Q1OI2LFD7SBH3LR57UPHG8_16_9.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250816164311 +0000" stop="20250816171417 +0000">
+    <title>World's Wildest City: Anchorage</title>
+    <sub-title>Downtown Porcupines</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>Anchorage has a large porcupine population, twice the species' average size, living in its parks and gardens.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/Q1OI2LFD7SBH3LR57UPHG8_16_9.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250816171417 +0000" stop="20250816181628 +0000">
+    <title>Wonderful Wetlands</title>
     <category>Movie</category>
-    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+    <desc>Wetlands serve as essential ecosystems as varied as nurseries, migration stopovers, and homes for life-forms.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/MHY11D9N2QJ9WAU3EF3ZAC_2_3.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-650b5ea1b2413c46bf584d84" start="20250816181628 +0000" stop="20250816191838 +0000">
+    <title>Coasts: Rolling with the Waves</title>
+    <category>Movie</category>
+    <desc>Learn about surf zones, where open ocean meets coastal habitats. Wildlife treasure these lively meeting spots.</desc>
+    <icon src="https://d326zal162nowe.cloudfront.net/Images/S3/MHY11D9N2QJ9W9WWZ68N5A_2_3.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250815180000 +0000" stop="20250815190000 +0000">
     <title>Evolution Earth</title>
@@ -20334,42 +20579,29 @@ Rated R</desc>
     <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
     <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250815131645 +0000" stop="20250815141533 +0000">
-    <title>The Moor</title>
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250816150000 +0000" stop="20250816160000 +0000">
+    <title>Evolution Earth</title>
     <category>Movie</category>
-    <desc>Moors and peatlands are oases in the cultivated landscape of Central Europe.</desc>
-    <date>20130101</date>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/16977-19025/34768955-Samsung-Thumbnail_v1.jpg" />
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250815141533 +0000" stop="20250815151653 +0000">
-    <title>Wild River Rhine</title>
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250816160000 +0000" stop="20250816170000 +0000">
+    <title>Evolution Earth</title>
     <category>Movie</category>
-    <desc>Alluvial forests, roaring waterfalls, steep canyons and sunny slopes flank the river Rhine. The variety of habitats is the reason for the large biodiversity along the stream.There is hardly any other river in Germany that is surrounded by as many myths and legends as the river Rhine. No other river has been the topic of songs, has been painted and travelled equally frequently. Despite this it still seems to be true today what the French poet Victor Hugo once said about this river – the Rhine is a river everybody talks about, nobody explores, everybody visits but no one really knows. The film follows the water against the stream. It starts at the river’s delta in the Netherlands, flows through six countries and ends in the Swiss Alps.</desc>
-    <date>20150920</date>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/30633-32681/62781615-Plex-Portrait_v1.jpg" />
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250815151653 +0000" stop="20250815160738 +0000">
-    <title>Wild Bavaria</title>
-    <sub-title>Wild Bavaria - Berchtesgaden</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>The moon disappears behind the horizon and the stage is set for a new day in the Alps of Berchtesgaden.</desc>
-    <date>20120103</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/Bavaria1.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250815160738 +0000" stop="20250815165815 +0000">
-    <title>Wild Bavaria</title>
-    <sub-title>Wild Bavaria - In The Shadow of the Watzmann.</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Mighty and mysterious, King Watzmann sits above Germany's only alpine national park.</desc>
-    <date>20120103</date>
-    <icon src="https://partner-upload-assets.wurl.com/autentic_gmbh/Bavaria2.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250815165815 +0000" stop="20250815174830 +0000">
-    <title>Bavarian Forest - Deep, Dark and Enchanted</title>
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250816170000 +0000" stop="20250816180000 +0000">
+    <title>Evolution Earth</title>
     <category>Movie</category>
-    <desc>After an unusual mass reproduction of bark beetles in the nineties, thousands hectares of old spruce forest were destroyed. Soon after, a new, healthier forest started to grow – a new primeval forest. Within a few years, in place of the former monoculture, a diverse forest developed, rich in spruces, ashes, beech and fir trees. Naturally, this diversity has in turn attracted new animal and plant species. Even lynx and otters returned and made Bavaria their home again.</desc>
-    <date>20160301</date>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/16977-19025/34768960-Plex-Portrait-1000x1500_v1.jpg" />
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" start="20250816180000 +0000" stop="20250816190000 +0000">
+    <title>Evolution Earth</title>
+    <category>Movie</category>
+    <desc>From the earth to the stars to the edge of the unknown, explore the mystery, majesty and power of the world we live in and beyond.</desc>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/720a3a2e-1112-4892-bbfc-d55bb5e691fe/Evolution_Earth_VERT.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250815174830 +0000" stop="20250815184603 +0000">
     <title>Wild Slovakia</title>
@@ -20537,37 +20769,40 @@ Rated R</desc>
     <date>20140220</date>
     <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/14441-16489/29576639-Plex-Portrait-1000x1500_v1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250815135551 +0000" stop="20250815145343 +0000">
-    <title>Germany's Underworld</title>
-    <sub-title>From the Alps to the River Rhine</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>In this episode, we meet powerful hunters like the pike and sinister meat-eating plants like the bladderwort.</desc>
-    <date>20150101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/ZD1AGUS001EP001.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250816144404 +0000" stop="20250816153433 +0000">
+    <title>mareTV: Capri and the Amalfi Coast - Italy's Ocean Legends</title>
+    <category>Movie</category>
+    <desc>Capri was already in ancient times a place for the rich and beautiful. Today Capri is one of the most famous islands in the world. Millions of tourists visit it. But there are in fact still unknown corners on the island in the Gulf of Naples. Thus, at the very top of Capri, there is a hermit monastery with a view to the Vesuvius.</desc>
+    <date>20160317</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/13159-15207/26951638-Plex-Portrait-1000x1500_v1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250815145343 +0000" stop="20250815155200 +0000">
-    <title>Germany's Underworld</title>
-    <sub-title>From the Harz Mountain to the North Sea</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>In this episode meet the ancient Atlantic sturgeon, the ground beetle, the sea eagle, and a family of beavers.</desc>
-    <date>20150101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/ZD1AGUS001EP002.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250816153433 +0000" stop="20250816162450 +0000">
+    <title>mareTV: Corsica - Fascinating Mountain World in the Mediterranean</title>
+    <category>Movie</category>
+    <desc>Corsica looks like an alpine landscape in the Mediterranean, an island with dramatic rock formations, romantic bays and proud inhabitants who see themselves first and foremost as Corsicans and only then as French. The Greeks in ancient times called the island Kalliste: the beautiful. We explore this fascinating mountain world in the Mediterranean.</desc>
+    <date>20190620</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/13159-15207/26951639-Plex-Portrait-1000x1500_v1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250815155200 +0000" stop="20250815165244 +0000">
-    <title>White Wolf</title>
-    <sub-title>Hayden Pack</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Filmed in Yellowstone National Park, this film follows the packs of two rare alpha female White Wolves.</desc>
-    <date>20170101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/HEWWWOS001EP001.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250816162450 +0000" stop="20250816171521 +0000">
+    <title>The Provence coast - Marseille and the Côte Bleue</title>
+    <category>Movie</category>
+    <desc>The Provence is famed for its endless fields of laven-der, but this lush landscape also has a beautifully mari-time touch: The Côte Bleue! Small, hidden beaches, charming harbour towns, imposing, craggy bays and a uniquely clear light that has attracted painters includ-ing Cézanne and Braque. The coast derives its name from the deep blue water and extends from Marseille to Martigues. This small town is also known as "The Ven-ice of the North", as it is shaped entirely by water: an inland lake, the sea itself, as well as a connecting canal. In the bays of the Calanques, the steeply-walled coastal inlets in the Mediterranean limestone, Lionel Franc is a cliff diver. His personal record is a hight of 36 metres! Ambi is a sculptress. This young artist's work, who moved to Marseille from Madagascar many years ago, is characterised by a dynamic momentum. As a pas-sionate pétanque player, she demonstrates this drive on the boules courts of the port city. John Pendray is Pein-tre officiel de la Marine, an official marine painter. The French state allows just 40 painters to its circle. There are no monetary rewards, but heaps of honour and a very smart uniform!</desc>
+    <date>20220603</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/24426-26474/50036989-Plex-Portrait-1000x1500_v1.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250815165244 +0000" stop="20250815175352 +0000">
-    <title>White Wolf</title>
-    <sub-title>Canyon Pack</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Filmed in Yellowstone National Park, this film follows the packs of two rare alpha female White Wolves.</desc>
-    <date>20170101</date>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/HEWWWOS001EP002.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250816171521 +0000" stop="20250816180543 +0000">
+    <title>mareTV: Majorca</title>
+    <category>Movie</category>
+    <desc>"Cleaning woman island", concrete castles, Ballermann: Mallorca's image is negatively affected in some respects. The documentary explores the charm of the largest Balearic island beyond the hustle and bustle of tourism and Rambazamba. The "real" Mallorca is best explored through real Majorcans: Manolo Barahona, TV fishing expert from the local island broadcaster IB3, faces the most difficult task of the year. The Raor is in season, the most expensive fish on the island. Manolo is supposed to get him first in front of the camera and then in the pan. There's only one catch, the little fish with the piranha teeth just doesn't want to be on TV. In the first months of the year Mallorca turns into a sea of almond blossoms. There are around seven million almond trees on the island, once planted to replace dead vines. But now also the almond trees are threatened. The fire bacterium continues to spread, especially on the large plantations. The farmer Biel Torrens wants to save Mallorca's almond trees and fruit with a small organic plantation and gentle harvesting methods. He shakes the almonds from the tree by hand instead of using a mechanical vibrator.</desc>
+    <date>20180405</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/19607-21655/40156371-Samsung-Thumbnail_v2.jpg" />
+  </programme>
+  <programme channel="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" start="20250816180543 +0000" stop="20250816185718 +0000">
+    <title>mareTV: Ibiza - Island of Light</title>
+    <category>Movie</category>
+    <desc>The light of the Balearic island of Ibiza is magical and its trademark: The "Island of Light" is tiny compared to its sister island Mallorca, but offers the most beautiful sunsets in the world. That's what they say. They attract sun worshippers and party people from near and far. To the sounds of the famous "Balearic Sound" they turn night into day. This documentary documents the island in the balancing act between luxury yachts and traditions. Hippie culture, celebrities, pine forests, bays with turquoise water and villages with bright white houses: Ibiza has many faces. Mora (80) and Djin (67) have been drawn to the island for 55 years. They are the uncrowned kings of the hippies. But only love, light, air and laziness, these times are also long gone on Ibiza. Mora knits sexy jerseys for young hippies from morning till night. Djin helps her sell at the famous Las Dalias hippie market and works as a construction worker: chilling and no pension in sight. The virgin Carmen is the patron saint of the sailors. On her day of honour, a mass is celebrated in the port city of Eivissa. Afterwards, fishermen carry the Virgin through the narrow streets of Ibiza City down to the quay. And then Carmen sets sail. Several places on Ibiza claim to offer the most beautiful sunset in the world: In front of Cala de Benirrás, the sun sinks right next to the iconic rock Cap Benat, which the locals awefully call "God's Finger". The typical soft beats over the sea sound from almost all the bays and provide deep relaxation worldwide under the term "Balearic Sound". Some of the famous DJs are jetting around the globe for huge fees. But in the small beach bars, the Chiringuitos, the island sound is celebrated further. On the beach of Cala Salada the Brit Joe Burnley has the command over a troop of mermaids. The ladies squeeze into the tight mermaid costume for the good cause. With great grace they swim towards yachts that are forbidden to anchor on sea grass meadows. Charming but unyielding, they point out the offence to the captain and crew; a creative environmental action to save the endangered Neptune gas, green lung of the sea and habitat for Ibiza's seahorses. The underwater photographer Manu San Felix is also committed to the endangered seahorses. Using a probe, he maps the coastal area around Ibiza and feeds the data into a GPS app. No skipper should be able to say that he didn't even know that his anchor was clawing into Neptune grass. On land, Manu is dedicated to breeding seahorses. His plan: He wants to expose the animals in the Mediterranean to Ibiza and Formentera in order to secure their population. Garages on the beach? Many bays on the island still have Casetas Varadero, boat garages threatened with decay. Fishermen once built them illegally. The picturesque sheds are therefore only tolerated, but may no longer be restored. The 83-year-old Toni Salvado still drives straight out to sea from his garage. He fishes for his own needs and a few friends, he is not allowed to sell his catch.</desc>
+    <date>20190516</date>
+    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/14441-16489/29576622-Samsung-Thumbnail_v1.jpg" />
   </programme>
   <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250815175352 +0000" stop="20250815185326 +0000">
     <title>Animal Armoury</title>
@@ -20725,190 +20960,36 @@ Rated R</desc>
     <date>20160101</date>
     <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/BMEAARS001EP003.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250815220000 +0000" stop="20250815223000 +0000">
-    <title>CTV National News with Sandie Rinaldo</title>
-    <sub-title>for Wednesday, August 13, 2025</sub-title>
-    <episode-num system="onscreen">S2025E156</episode-num>
-    <desc>Watch CTV National News with Sandie Rinaldo</desc>
-    <date>20250815</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55373_2024_2_22_4ed6902f-672f-4fc5-83f4-d013fa03684a_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250816150412 +0000" stop="20250816160304 +0000">
+    <title>Conversations With Dolphins</title>
+    <sub-title>Series 01 Episode 01</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Dolphins have fascinated humans for centuries, sparking curiosity about the bond between humans and dolphins.</desc>
+    <date>20160101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250815223000 +0000" stop="20250815230000 +0000">
-    <title>CTV News: Across Canada</title>
-    <sub-title>for Friday, August 15, 2025</sub-title>
-    <episode-num system="onscreen">S2025E169</episode-num>
-    <desc>Top stories from coast-to-coast as reported by CTV News local journalists across Canada.</desc>
-    <date>20250815</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55945_2024_8_9_9f6270cc-d7b3-48b4-a0cc-902adc5a6152_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250816160304 +0000" stop="20250816170156 +0000">
+    <title>Conversations With Dolphins</title>
+    <sub-title>Series 01 Episode 02</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>Scientists are shifting focus to ""how intelligent are dolphins?"" using research from top experts.</desc>
+    <date>20160101</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/Default_Thumbnail.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250815230000 +0000" stop="20250816000000 +0000">
-    <title>CTV News Montreal at Six</title>
-    <sub-title>for Wednesday, August 13, 2025</sub-title>
-    <episode-num system="onscreen">S2025E136</episode-num>
-    <desc>CTV News Montreal at Six</desc>
-    <date>20250814</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29873_2024_6_13_09cee8e5-1b7b-4f0e-ac21-c4395fbbb044_JPG_2000x1125.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250816170156 +0000" stop="20250816180320 +0000">
+    <title>Equator Specials</title>
+    <sub-title>Power of the Sun</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>The Equatorial sun burns deep into the lives of animals across three continents</desc>
+    <date>20060401</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/BL1EQSS001EP001.jpg" />
   </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816000000 +0000" stop="20250816003000 +0000">
-    <title>CTV National News with Sandie Rinaldo</title>
-    <sub-title>for Wednesday, August 13, 2025</sub-title>
-    <episode-num system="onscreen">S2025E156</episode-num>
-    <desc>Watch CTV National News with Sandie Rinaldo</desc>
-    <date>20250815</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55373_2024_2_22_4ed6902f-672f-4fc5-83f4-d013fa03684a_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816003000 +0000" stop="20250816010000 +0000">
-    <title>CTV News: Your Canada</title>
-    <sub-title>for Friday, August 15, 2025</sub-title>
-    <episode-num system="onscreen">S2025E191</episode-num>
-    <desc>Stories that showcase what makes Canada unique.</desc>
-    <date>20250815</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816010000 +0000" stop="20250816020000 +0000">
-    <title>CTV News Calgary at Six</title>
-    <sub-title>for Wednesday, August 13, 2025</sub-title>
-    <episode-num system="onscreen">S2025E98</episode-num>
-    <desc>CTV News Calgary at Six</desc>
-    <date>20250814</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29932_2025_8_12_bc23b33e-4457-42dd-847a-60e941dff61a_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816020000 +0000" stop="20250816023000 +0000">
-    <title>CTV National News with Sandie Rinaldo</title>
-    <sub-title>for Wednesday, August 13, 2025</sub-title>
-    <episode-num system="onscreen">S2025E156</episode-num>
-    <desc>Watch CTV National News with Sandie Rinaldo</desc>
-    <date>20250815</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55373_2024_2_22_4ed6902f-672f-4fc5-83f4-d013fa03684a_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816023000 +0000" stop="20250816030000 +0000">
-    <title>CTV News: Across Canada</title>
-    <sub-title>for Friday, August 15, 2025</sub-title>
-    <episode-num system="onscreen">S2025E169</episode-num>
-    <desc>Top stories from coast-to-coast as reported by CTV News local journalists across Canada.</desc>
-    <date>20250815</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55945_2024_8_9_9f6270cc-d7b3-48b4-a0cc-902adc5a6152_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816030000 +0000" stop="20250816040000 +0000">
-    <title>CTV News Vancouver at Six</title>
-    <sub-title>for Wednesday, August 13, 2025</sub-title>
-    <episode-num system="onscreen">S2025E98</episode-num>
-    <desc>CTV News Vancouver at Six</desc>
-    <date>20250814</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29940_2024_6_13_de70b883-f511-4ea7-8a64-751d764c2bfb_JPG_1920x1080.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816040000 +0000" stop="20250816043000 +0000">
-    <title>CTV National News with Sandie Rinaldo</title>
-    <sub-title>for Wednesday, August 13, 2025</sub-title>
-    <episode-num system="onscreen">S2025E156</episode-num>
-    <desc>Watch CTV National News with Sandie Rinaldo</desc>
-    <date>20250815</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55373_2024_2_22_4ed6902f-672f-4fc5-83f4-d013fa03684a_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816043000 +0000" stop="20250816050000 +0000">
-    <title>CTV News: Your Canada</title>
-    <sub-title>for Friday, August 15, 2025</sub-title>
-    <episode-num system="onscreen">S2025E191</episode-num>
-    <desc>Stories that showcase what makes Canada unique.</desc>
-    <date>20250815</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816050000 +0000" stop="20250816060000 +0000">
-    <title>CTV News Toronto at Six</title>
-    <sub-title>for Wednesday, August 13, 2025</sub-title>
-    <episode-num system="onscreen">S2025E136</episode-num>
-    <desc>CTV News Toronto at Six</desc>
-    <date>20250814</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29736_2024_6_13_80514d3f-90ee-4070-a6ba-398ec3f8081a_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816060000 +0000" stop="20250816063000 +0000">
-    <title>CTV National News with Sandie Rinaldo</title>
-    <sub-title>for Wednesday, August 13, 2025</sub-title>
-    <episode-num system="onscreen">S2025E156</episode-num>
-    <desc>Watch CTV National News with Sandie Rinaldo</desc>
-    <date>20250815</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55373_2024_2_22_4ed6902f-672f-4fc5-83f4-d013fa03684a_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816063000 +0000" stop="20250816070000 +0000">
-    <title>CTV News: Across Canada</title>
-    <sub-title>for Friday, August 15, 2025</sub-title>
-    <episode-num system="onscreen">S2025E169</episode-num>
-    <desc>Top stories from coast-to-coast as reported by CTV News local journalists across Canada.</desc>
-    <date>20250815</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55945_2024_8_9_9f6270cc-d7b3-48b4-a0cc-902adc5a6152_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816070000 +0000" stop="20250816080000 +0000">
-    <title>CTV News Edmonton at Six</title>
-    <sub-title>for Tuesday, August 12, 2025</sub-title>
-    <episode-num system="onscreen">S2025E227</episode-num>
-    <desc>CTV News Edmonton at Six</desc>
-    <date>20250813</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29921_2025_8_12_cb023c63-1aae-4286-a9bb-aed5806eab80_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816080000 +0000" stop="20250816083000 +0000">
-    <title>CTV National News with Sandie Rinaldo</title>
-    <sub-title>for Wednesday, August 13, 2025</sub-title>
-    <episode-num system="onscreen">S2025E156</episode-num>
-    <desc>Watch CTV National News with Sandie Rinaldo</desc>
-    <date>20250815</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55373_2024_2_22_4ed6902f-672f-4fc5-83f4-d013fa03684a_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816083000 +0000" stop="20250816090000 +0000">
-    <title>CTV News: Your Canada</title>
-    <sub-title>for Friday, August 15, 2025</sub-title>
-    <episode-num system="onscreen">S2025E191</episode-num>
-    <desc>Stories that showcase what makes Canada unique.</desc>
-    <date>20250815</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m55946_2024_3_5_a888514c-ae7d-4543-bbf7-3794fc62a041_JPG_2000x1125.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816090000 +0000" stop="20250816095959 +0000">
-    <title>CTV News Vancouver at Six</title>
-    <sub-title>for Wednesday, August 13, 2025</sub-title>
-    <episode-num system="onscreen">S2025E98</episode-num>
-    <desc>CTV News Vancouver at Six</desc>
-    <date>20250814</date>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctne/m29940_2024_6_13_de70b883-f511-4ea7-8a64-751d764c2bfb_JPG_1920x1080.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816095959 +0000" stop="20250816103000 +0000">
-    <title>CTV National News</title>
-    <category>Movie</category>
-    <desc>CTV National News</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816103000 +0000" stop="20250816110000 +0000">
-    <title>CTV News: Across Canada</title>
-    <category>Movie</category>
-    <desc>CTV News: Across Canada</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816110000 +0000" stop="20250816120000 +0000">
-    <title>CTV News Toronto at Six</title>
-    <category>Movie</category>
-    <desc>CTV News Toronto at Six</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816120000 +0000" stop="20250816123000 +0000">
-    <title>CTV National News</title>
-    <category>Movie</category>
-    <desc>CTV National News</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816123000 +0000" stop="20250816130000 +0000">
-    <title>CTV News: Your Canada</title>
-    <category>Movie</category>
-    <desc>CTV News: Your Canada</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816130000 +0000" stop="20250816140000 +0000">
-    <title>CTV News Calgary at Six</title>
-    <category>Movie</category>
-    <desc>CTV News Calgary at Six</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
-  </programme>
-  <programme channel="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" start="20250816140000 +0000" stop="20250816143000 +0000">
-    <title>CTV National News</title>
-    <category>Movie</category>
-    <desc>CTV National News</desc>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/e8db77e4-f7e5-41e2-b894-36c349fd0662/CTVNews_Plex_FAST_Vertical_CoverArt_2000x3000.jpg" />
+  <programme channel="647f8d22a2fc3fadb4721685-63584a0cf8e2be1350f802a4" start="20250816180320 +0000" stop="20250816190443 +0000">
+    <title>Equator Specials</title>
+    <sub-title>Challenge of the Cold</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <desc>In three vastly different equatorial zones life is a finely balanced between extremes of heat and cold.</desc>
+    <date>20060401</date>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/RWILD/BL1EQSS001EP002.jpg" />
   </programme>
   </tv>
